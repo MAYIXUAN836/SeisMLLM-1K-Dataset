@@ -17,10 +17,9 @@ The dataset follows the **ATC-20** (Applied Technology Council) standards and fo
 
 ## 📊 Dataset Statistics
 
-- **Total Cases**: ~1,000 unique building cases (implied by 1K naming).
-- **Format**: ShareGPT (List of `{messages, images}` objects).
-- **Domain**: Civil Engineering, Disaster Response, Structural Health Monitoring.
-- **Images**: High-resolution photos taken from real earthquake sites (e.g., Jiuzhaigou, etc.).
+- **Total Cases**: ~1,000 unique building cases.
+- **Domain**: Computer vision, Rapid post-earthquake assessment for buildings, Structural Health Monitoring, MLLM.
+- **Images**: Photos from real earthquake sites report (e.g., Jiuzhaigou, etc.).
 
 ## 📝 Data Format
 
