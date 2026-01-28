@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential balconies and windows visible.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick walls with visible concrete tie-columns and ring beams.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking observed below windows and in stairwell walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Minor/none",
+      "description": "No visible ground slope movement or significant cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of other damage types."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage observed does not compromise overall stability."
+  },
+  "9_image_descriptions": {
+    "E3_C094_I01.jpg": "Exterior view of a five-story residential building with visible cracking below windows and intact structural elements.",
+    "E3_C094_I02.jpg": "Interior view showing stairwell with cross-cracking and exposed brick beneath plaster, indicating moderate structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\094",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 00:46:49",
+  "case_index": 604,
+  "case_id": "094",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

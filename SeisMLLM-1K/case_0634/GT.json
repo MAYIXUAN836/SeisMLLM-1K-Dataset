@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story structure with office-like windows and air conditioning units, suggesting commercial or office use.",
+    "category": "Offices"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building is described as a confined masonry structure with visible concrete tie-columns and ring beams, consistent with the text description.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 7,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or foundation settlement in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment observed in the exterior images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "Interior images show superficial plaster damage on walls, with no significant structural cracks or racking damage visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached parapets or falling elements observed in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since all conditions are evaluated as Minor/none or Not visible from the provided images, the building is deemed safe for occupancy."
+  },
+  "9_image_descriptions": {
+    "E2_C090_I01.jpg": "Exterior view of a multi-story confined masonry building with visible air conditioning units. No apparent structural distress visible in this view.",
+    "E2_C090_I02.jpg": "Interior view showing a staircase and a wall with superficial plaster damage. No significant structural cracks or distress visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\090",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 22:01:10",
+  "case_index": 279,
+  "case_id": "090",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

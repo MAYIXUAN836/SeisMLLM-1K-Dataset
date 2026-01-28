@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as a commercial property with a visible sign indicating 'Asian Supermarket'.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building features a red-painted facade with visible brick walls on the side and a combination of glass windows and corrugated panels.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of the neighboring structure is visible, with debris near the side of the building."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is apparent in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Broken windows and cracks in the adjacent brick walls are visible, indicating structural stress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Falling hazards are evident from the debris on the ground and damage to the parapet of the adjacent structure."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other notable damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Severe but the structure appears stable, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E16_C002_I01.jpg": "The front facade of a two-story commercial building with broken windows and visible damage to the adjacent structure's parapet.",
+    "E16_C002_I02.jpg": "A closer view of the storefront showing broken glass and debris on the ground near the entrance.",
+    "E16_C002_I03.jpg": "The side of the building reveals unreinforced brick walls with visible cracks and partial collapse of the neighboring structure.",
+    "E16_C002_I04.jpg": "A side angle showing the damaged parapet of the adjacent building and debris scattered near the base of the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\002",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:02:12",
+  "case_index": 1156,
+  "case_id": "002",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

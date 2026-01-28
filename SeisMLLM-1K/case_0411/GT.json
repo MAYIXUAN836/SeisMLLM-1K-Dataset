@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage on ground floor, multiple stories above.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with glass facade and brick masonry elements.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 7,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Damage to brick masonry facade with partial collapse."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant detachment of masonry elements posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 4 (Falling Hazard) is evaluated as Severe, but the structure appears stable."
+  },
+  "9_image_descriptions": {
+    "E16_C022_I01.jpg": "View of a multi-story concrete frame building with glass facade. Adjacent brick masonry facade shows partial collapse and detachment, posing a falling hazard.",
+    "E16_C022_I02.jpg": "Close-up of the building's facade showing severe damage to brick masonry with visible detachment and collapse of elements."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\022",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:11:35",
+  "case_index": 1176,
+  "case_id": "022",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Aegean Sea Earthquake",
+    "date": "2020-10-30",
+    "magnitude": "Mw 7.0",
+    "location": "Izmir, Turkey & Néon Karlovásion, Greece"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Multi-story building visible during collapse.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Multi-story structure with visible concrete elements.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Building observed collapsing in the image."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess ground movement."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E7_C001_I01.jpg": "Image shows a multi-story building in the process of collapsing with dust clouds obscuring the lower structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\7-Aegean Sea Earthquake\\001",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:17:18",
+  "case_index": 802,
+  "case_id": "001",
+  "earthquake_folder": "7-Aegean Sea Earthquake",
+  "category": "7-Aegean Sea Earthquake"
+}

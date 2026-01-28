@@ -1,0 +1,1120 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a three-story structure with features indicative of a commercial or hospitality use, such as signage and large windows.; Category: Commercial\n[CT]: Evidence: Brick masonry walls with visible concrete tie-columns and ring beams, characteristic of confined masonry construction.; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No evidence of partial or complete collapse, nor signs of the building being off its foundation.); building: Not visible from the provided images (No visible signs of leaning or vertical misalignment in the provided images.); racking: Severe (Large cracks are visible on the exterior walls, indicating significant racking damage to the non-load-bearing walls.); chimney: Moderate (Potential hazards from detached or damaged exterior elements such as parapets and cladding.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E1_C016_I01.jpg: The exterior view shows significant cracking and damage to the masonry walls, particularly on the ground floor. The cracks are wide and extend horizontally and vertically, indicating severe structural distress in the non-load-bearing walls."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0016/E1_C016_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a single-story dwelling with residential features such as doors and windows.; Category: Dwelling\n[CT]: Evidence: Brick masonry walls with visible concrete tie-columns and ring beams, indicating a confined masonry structure.; Category: Confined masonry\n[SN]: Over ground: 1\n[CDD]: collapse: Minor/none (No evidence of collapse, partial collapse, or building off foundation visible in the images.); building: Minor/none (No visible signs of leaning or vertical misalignment in the structure.); racking: Severe (Diagonal X-cracks and vertical cracks are visible on external and internal walls, indicating significant racking damage.); chimney: Not visible from the provided images (No chimneys, parapets, or other potential falling hazards are visible in the images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible in the images.)\n[SID]:\n- E1_C022_I01.jpg: Exterior view of a single-story confined masonry structure with visible diagonal cracks and vertical fractures on the wall surface.\n- E1_C022_I02.jpg: Closer exterior view showing prominent diagonal X-cracks and vertical fractures on the masonry wall.\n- E1_C022_I03.jpg: Interior view showing cracks propagating from the corners of door openings and along the ceiling joints.\n- E1_C022_I04.jpg: Interior view showing large diagonal X-cracks on the wall, exposing brickwork beneath the plaster.\n- E1_C022_I05.jpg: Interior view showing vertical and diagonal cracks on the wall near a mounted television, with plaster damage visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0022/E1_C022_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0022/E1_C022_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0022/E1_C022_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0022/E1_C022_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0022/E1_C022_I05.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Signage indicating police canteen.; Category: Other\n[CT]: Evidence: Brick walls with visible concrete tie-columns and ring beams.; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No evidence of collapse or building off foundation.); building: Minor/none (No visible leaning or vertical misalignment.); racking: Severe (Cross diagonal cracks on ground floor walls and cracking around window and door openings.); chimney: Not visible from the provided images (No visible chimneys or parapets.); ground: Not visible from the provided images (No visible ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E1_C023_I01.jpg: Exterior view of a three-story building with visible cracking around windows and doors. No apparent collapse or leaning.\n- E1_C023_I02.jpg: Close-up of severe cross diagonal cracks on the ground floor wall between windows.\n- E1_C023_I03.jpg: Ground floor wall with severe cracking and a visible hole near the door, indicating structural distress."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0023/E1_C023_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0023/E1_C023_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0023/E1_C023_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Residential building with decorative elements indicating local cultural significance.; Category: Dwelling\n[CT]: Evidence: Brick masonry walls with no visible concrete tie-columns or ring beams; exterior plaster layer partially detached.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No evidence of collapse or foundation displacement visible in the images.); building: Not visible from the provided images (No clear signs of leaning or vertical misalignment observed.); racking: Severe (Diagonal and X-shaped cracks visible on interior and exterior walls; brick damage and shear failure evident.); chimney: Moderate (Plaster detachment and localized wall collapse present potential falling hazards.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible.); others: Not visible from the provided images (No additional hazards or damage observed.)\n[SID]:\n- E1_C056_I01.jpg: Exterior view of a three-story unreinforced masonry building with decorative elements. Minor plaster detachment and no collapse visible.\n- E1_C056_I02.jpg: Interior view showing diagonal and X-shaped cracks on walls, with evidence of shear damage and brick failure.\n- E1_C056_I03.jpg: Interior view showing extensive cracking along walls and plaster detachment. Severe structural distress visible.\n- E1_C056_I04.jpg: Exterior view showing localized wall collapse and plaster detachment. Surrounding debris visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Old office building with visible structural damage.; Category: Offices\n[CT]: Evidence: Brick walls with no visible concrete tie-columns or ring beams.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (Partial collapse at the corner of the building.); building: Not visible from the provided images (Insufficient evidence of global tilt or leaning.); racking: Severe (Extensive diagonal cracking and wall disintegration visible.); chimney: Not visible from the provided images (No visible chimneys or parapets.); ground: Not visible from the provided images (No evidence of ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E1_C058_I01.jpg: Severe damage to exterior walls with large areas of brick disintegration and partial collapse at the corner.\n- E1_C058_I02.jpg: Visible diagonal cracking and wall collapse, with extensive damage to the masonry structure.\n- E1_C058_I03.jpg: Severe structural damage with large sections of wall missing and extensive cracking.\n- E1_C058_I04.jpg: Significant structural failure with collapsed sections and visible wall disintegration.\n- E1_C058_I05.jpg: Front view showing severe wall damage and partial collapse, with debris at the base."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0058/E1_C058_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0058/E1_C058_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0058/E1_C058_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0058/E1_C058_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0058/E1_C058_I05.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential features with windows and a small yard.; Category: Dwelling\n[CT]: Evidence: Brick walls with visible concrete tie-columns and ring beams.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No evidence of collapse or building off foundation.); building: Minor/none (No visible leaning or misalignment of the structure.); racking: Severe (Significant cracking at the second floor and roof connection, with wall fractures.); chimney: Moderate (Cracks near the roofline may pose a falling hazard.); ground: Not visible from the provided images (No evidence of ground movement or cracking visible.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E1_C067_I01.jpg: The building shows severe cracking at the corners and roof connection with visible wall fractures. Debris is scattered on the ground, indicating structural distress."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0067/E1_C067_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a guesthouse under construction, with visible balconies and structural elements.; Category: Commercial\n[CT]: Evidence: The structure consists of a bottom concrete frame for the first two floors and confined masonry for the upper stories, with visible tie-columns and ring beams.; Category: Bottom-frame masonry\n[SN]: Over ground: 4\n[CDD]: collapse: Minor/none (No visible signs of partial collapse, complete collapse, or foundation settlement in the provided images.); building: Minor/none (No evidence of leaning or vertical misalignment observed in the structure.); racking: Moderate (Concrete spalling at the corner of a second-floor column with exposed rebar; minor cracks visible in masonry infill walls.); chimney: Not visible from the provided images (No chimneys, parapets, or other potential falling hazards are visible in the images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E1_C091_I01.jpg: Exterior view of a four-story building under construction with a concrete frame for the lower stories and confined masonry for the upper stories. Minor cracks are visible in the masonry walls.\n- E1_C091_I02.jpg: Close-up view of the upper stories showing confined masonry construction with tie-columns and ring beams. No significant structural distress visible.\n- E1_C091_I03.jpg: Detailed view of a corner column on the second floor with concrete spalling and exposed rebar. Minor damage to masonry infill walls nearby."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0091/E1_C091_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0091/E1_C091_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0091/E1_C091_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Large hotel lobby with glass facades and steel structures.; Category: Commercial\n[CT]: Evidence: Steel frame structure with glass curtain walls and membrane roof.; Category: Steel frame\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Partial collapse of masonry walls and steel supports visible.); building: Not visible from the provided images (No visible evidence of leaning or tilting.); racking: Severe (Extensive damage to glass walls and interior partitions.); chimney: Severe (Falling hazards from broken glass and debris.); ground: Not visible from the provided images (No visible ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E1_C101_I01.jpg: Exterior view of a large steel-framed structure with a membrane roof. Visible damage includes broken glass panels and fallen masonry.\n- E1_C101_I02.jpg: Interior view showing extensive debris and collapsed masonry near the entrance, with broken glass and steel supports.\n- E1_C101_I03.jpg: Close-up of a stone pillar with significant damage and debris scattered around the base.\n- E1_C101_I04.jpg: Interior view with collapsed masonry and broken glass, showing extensive structural damage.\n- E1_C101_I05.jpg: Interior view of shattered glass and collapsed partitions, with debris covering the floor.\n- E1_C101_I06.jpg: Interior view showing broken glass and debris, with visible damage to interior partitions and glass facades."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I06.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I07.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I08.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I09.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I10.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I11.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I12.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I13.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I14.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I15.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I16.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I17.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I18.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I19.jpg",
+      "Dataset/SeisMLLM-1K/case_0101/E1_C101_I20.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to house a commercial establishment on the ground floor, with signage indicating a supermarket.; Category: Commercial\n[CT]: Evidence: The structure is a four-story concrete frame building with infill masonry walls.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Minor/none (No evidence of partial or complete collapse or building off foundation is visible.); building: Minor/none (No visible signs of global tilt or inter-story drift in the structure.); racking: Moderate (Diagonal cracks and damage to infill masonry walls are visible, with some cracks extending through the walls.); chimney: Minor/none (No visible hazards from chimneys, parapets, or other falling elements.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E1_C108_I01.jpg: Exterior view of a four-story concrete frame building with visible diagonal cracks in the masonry infill walls on the lower levels.\n- E1_C108_I02.jpg: Another exterior view showing the building's facade, with no apparent structural leaning but visible cracks in the walls.\n- E1_C108_I03.jpg: Interior view of a room with cracks along the walls and ceiling junctions, exposing damaged infill masonry.\n- E1_C108_I04.jpg: Interior view showing cracks propagating through walls and corners, with some plaster spalling.\n- E1_C108_I05.jpg: Interior view of a window area with significant cracking around the frame and exposed masonry at the wall edges.\n- E1_C108_I06.jpg: Interior view showing severe cracking around a window and damage to the surrounding masonry infill walls."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0108/E1_C108_I06.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a hotel with signage indicating its name and function.; Category: Commercial\n[CT]: Evidence: The structure consists of confined masonry for the side sections and a concrete frame for the central section.; Category: Bottom-frame masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No evidence of partial or complete collapse of the main building structure is visible.); building: Minor/none (No visible signs of leaning or vertical misalignment in the building structure.); racking: Minor/none (Minor cracks are reported around door and window openings in the masonry sections, but no significant structural damage is visible.); chimney: Moderate (The central section has fallen decorative elements and detached interior finishes, posing a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Moderate (The boundary wall has collapsed, and some exterior elements are damaged.)\n[SID]:\n- E1_C133_I01.jpg: Exterior view of a three-story hotel building with confined masonry on the sides and a central concrete frame section. No visible structural collapse is observed.\n- E1_C133_I02.jpg: Interior view of the central section showing detached decorative elements and fallen finishes, with some debris scattered on the floor.\n- E1_C133_I03.jpg: Collapsed boundary wall with visible rubble and detached masonry sections. Vegetation and surrounding terrain are visible in the background."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0133/E1_C133_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0133/E1_C133_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0133/E1_C133_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>Earthquake Metadata: Name: Jiuzhaigou Earthquake, Date: 2017-08-08, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building is identified as an employee cafeteria based on the text description.; Category: Commercial\n[CT]: Evidence: The building features a concrete frame structure with infill walls and a partial steel roof structure.; Category: Concrete frame\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No evidence of partial or complete collapse, or displacement from the foundation is visible.); building: Minor/none (No visible leaning or vertical misalignment of the building or its stories.); racking: Moderate (Cracking and damage to infill walls, including stairwell walls, is visible. Some tiles have detached from the walls.); chimney: Moderate (Broken glass from windows and detached wall tiles pose falling hazards.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible.); others: Minor/none (No other significant damage or hazards are observed.)\n[SID]:\n- E1_C144_I01.jpg: Exterior view of a three-story concrete frame building with visible damage to infill walls and broken windows. No structural collapse is apparent.\n- E1_C144_I02.jpg: Interior view showing broken glass on the floor near a railing. No structural damage to the frame is visible.\n- E1_C144_I03.jpg: Interior view of a room with a fallen air conditioning unit and minor debris on the floor. No structural damage is apparent.\n- E1_C144_I04.jpg: Interior view of a large hall with a steel roof structure. Minor debris is scattered on the floor, but no structural damage is visible.\n- E1_C144_I05.jpg: Interior stairwell with visible X-pattern cracking on the infill walls. No structural damage to the concrete frame is apparent.\n- E1_C144_I06.jpg: Interior view of a tiled wall with detached tiles and debris on the floor. No structural damage is visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0144/E1_C144_I06.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Self-built residential house with visible wooden fencing.; Category: Dwelling\n[CT]: Evidence: Brick walls with wooden roof structure and floors.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 2\n[CDD]: collapse: Severe (Multiple walls have collapsed, and the structure shows significant damage.); building: Not visible from the provided images (Insufficient evidence to assess leaning.); racking: Severe (Significant structural damage with walls collapsed.); chimney: Not visible from the provided images (No visible chimneys or parapets.); ground: Not visible from the provided images (No visible ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E2_C019_I01.jpg: The image shows a severely damaged two-story unreinforced masonry building with collapsed walls and exposed wooden roof structure. Debris is scattered around, indicating significant structural failure."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0563/E2_C019_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The structure appears to be a self-built residential dwelling with visible living spaces.; Category: Dwelling\n[CT]: Evidence: The structure consists of a wood frame with brick infill walls, showing traditional construction techniques.; Category: Wood frame\n[SN]: Over ground: 1\n[CDD]: collapse: Moderate (The brick infill walls have partially collapsed outward, but the wooden frame remains intact.); building: Minor/none (No visible signs of global leaning or significant vertical misalignment.); racking: Moderate (The brick infill walls exhibit significant displacement and cracking, particularly along the edges.); chimney: Not visible from the provided images (No chimneys or parapets are visible in the images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible in the images.)\n[SID]:\n- E2_C024_I01.jpg: A single-story wood-framed structure with brick infill walls. The brick walls show partial outward collapse and cracking, while the wooden frame remains largely intact. The roof appears undamaged."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0568/E2_C024_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a self-constructed residential house with multiple stories and a gated boundary.; Category: Dwelling\n[CT]: Evidence: Reinforced concrete frame structure with hollow brick infill walls and cast-in-place concrete floors and roof.; Category: Concrete frame\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or building displacement from its foundation.); building: Minor/none (No visible signs of global tilt or inter-story drift in the building.); racking: Severe (Diagonal cracks and concrete spalling observed on the exterior walls; one column on the ground floor has shear failure with concrete spalling and cross-cracks.); chimney: Moderate (Some parapet walls and cladding show damage, posing a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No other specific damage or hazards observed in the images.)\n[SID]:\n- E2_C034_I01.jpg: Exterior view of a three-story reinforced concrete frame building with hollow brick walls. No visible collapse, but minor damage to the boundary wall is evident.\n- E2_C034_I02.jpg: Close-up of the exterior showing damage to the hollow brick infill walls, including cracks and spalling near the windows.\n- E2_C034_I03.jpg: Detailed view of a damaged section of the wall showing severe cracking and spalling of the infill brick material.\n- E2_C034_I04.jpg: Interior view showing cracks in the walls near the staircase and corners, with some infill bricks dislodged. No visible collapse of structural elements."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0578/E2_C034_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0578/E2_C034_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0578/E2_C034_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0578/E2_C034_I04.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: The building appears to be a self-built residential structure based on the description and interior layout.; Category: Dwelling\n[CT]: Evidence: The structure is described as a three-story bottom-frame masonry building with concrete framing on the ground floor and masonry walls above.; Category: Bottom-frame masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Moderate (The staircase connecting different levels has detached from the main structure, indicating partial collapse of non-structural elements.); building: Not visible from the provided images (No evidence of global tilting or leaning is visible in the provided images.); racking: Moderate (Damage is visible at the connection points between the staircase and the main structure, suggesting structural distress at these joints.); chimney: Not visible from the provided images (No chimneys, parapets, or other falling hazards are visible in the provided images.); ground: Not visible from the provided images (No evidence of ground movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional damage or hazards are visible in the provided images.)\n[SID]:\n- E2_C043_I01.jpg: Interior view showing a detached staircase that has separated from the main structure, with visible damage at the connection points. No other structural damage is apparent in this view."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0587/E2_C043_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a self-constructed residential structure under construction.; Category: Dwelling\n[CT]: Evidence: Brick masonry walls with visible reinforced concrete ring beams but no visible tie-columns.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Severe (The second floor shows significant structural damage, including broken ring beams and partially collapsed walls.); building: Not visible from the provided images (No evidence of global tilt or leaning is visible in the images.); racking: Severe (Severe cracks are visible in the load-bearing walls, especially on the second floor.); chimney: Moderate (Loose masonry and partially detached elements on the second floor pose a falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible in the images.)\n[SID]:\n- E2_C049_I01.jpg: A two-story brick masonry building under construction with visible severe damage to the second floor, including broken ring beams and partially collapsed walls.\n- E2_C049_I02.jpg: Close-up view of the second floor showing severe structural damage, including broken ring beams and significant cracks in the masonry walls.\n- E2_C049_I03.jpg: Another angle of the building showing extensive damage to the second floor, with loose masonry and partially detached elements visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0593/E2_C049_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0593/E2_C049_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0593/E2_C049_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Residential building with windows and curtains visible.; Category: Dwelling\n[CT]: Evidence: Brick walls with visible concrete tie-columns and ring beams.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible signs of collapse or foundation issues.); building: Minor/none (No visible leaning or misalignment observed.); racking: Minor/none (No significant structural damage or racking observed.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible in the images.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E2_C092_I01.jpg: Two-story residential building with brick walls and concrete tie-columns. No apparent structural distress visible in this view.\n- E2_C092_I02.jpg: Interior staircase with no visible damage. Walls and ceiling appear intact.\n- E2_C092_I03.jpg: Interior room with curtains and no visible structural damage. Walls appear undamaged."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0636/E2_C092_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0636/E2_C092_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0636/E2_C092_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to have commercial storefronts on the ground floor and residential units above.; Category: Bottom-frame masonry\n[CT]: Evidence: Brick masonry walls with tiled exterior finish, no visible concrete tie-columns, and wooden roof trusses.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (Roof structure has collapsed, and significant damage is visible on the upper walls.); building: Not visible from the provided images (No evidence of leaning or tilting visible in the images.); racking: Severe (Heavy damage to walls, including large fractures and dislodged sections near the roof level.); chimney: Moderate (Potential falling hazards from damaged roof components and fractured wall sections.); ground: Not visible from the provided images (No evidence of ground movement or cracking visible in the images.); others: Not visible from the provided images (No additional hazards or damage observed.)\n[SID]:\n- E2_C158_I01.jpg: Overview of a three-story masonry building with collapsed roof structure and heavy damage to the upper walls. Commercial storefronts are visible on the ground floor.\n- E2_C158_I02.jpg: Closer view of the building showing fractured masonry walls and missing roof components. Windows are broken, and wall sections are dislodged.\n- E2_C158_I03.jpg: Detailed view of the upper story showing large cracks in masonry walls and collapsed roof trusses. Police tape is visible, indicating restricted access."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0702/E2_C158_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0702/E2_C158_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0702/E2_C158_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Ground floor appears to have commercial shutters, upper floors have residential-style windows.; Category: Bottom-frame masonry\n[CT]: Evidence: Brick walls with visible concrete tie-columns and ring beams; ground floor has a frame structure with large openings.; Category: Bottom-frame masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse, or the building being off its foundation.); building: Minor/none (No visible leaning or vertical misalignment of the building.); racking: Severe (Diagonal through-cracks are visible on the side walls, and the corner column base shows shear failure.); chimney: Not visible from the provided images (No chimneys, parapets, or other falling hazards are visible in the images.); ground: Not visible from the provided images (No visible evidence of ground slope movement or cracking.); others: Not visible from the provided images (No other damage or hazards are visible in the images.)\n[SID]:\n- E2_C183_I01.jpg: Three-story bottom-frame masonry structure with visible diagonal cracks on the side wall and shear failure at the base of the corner column.\n- E2_C183_I02.jpg: Close-up of the ground floor corner showing severe shear damage at the base of the column and diagonal cracks extending along the wall."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0727/E2_C183_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0727/E2_C183_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential building with open ground floor and upper residential area.; Category: Dwelling\n[CT]: Evidence: Concrete frame with brick infill walls and visible concrete columns.; Category: Concrete frame\n[SN]: Over ground: 2\n[CDD]: collapse: Severe (Partial collapse of right side wall and structural columns.); building: Not visible from the provided images (Insufficient evidence of building or story leaning.); racking: Severe (Severe through-cracks along mortar joints and structural walls.); chimney: Not visible from the provided images (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No visible ground slope movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E2_C208_I01.jpg: Two-story concrete frame building with visible damage to walls and columns. Partial collapse of right side wall and structural columns evident.\n- E2_C208_I02.jpg: Close-up of ground floor showing severe cracking in walls and columns, with debris scattered at the base."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0751/E2_C208_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0751/E2_C208_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a self-constructed residential structure with large openings on the ground floor, possibly used for commercial purposes.; Category: Other\n[CT]: Evidence: Brick masonry walls with visible damage; absence of concrete tie-columns; large openings on the ground floor supported by unreinforced brick columns.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (Ground floor brick columns show severe damage, compromising structural integrity; localized collapse of masonry elements visible.); building: Not visible from the provided images (No evidence of leaning or vertical misalignment visible in the images.); racking: Severe (Extensive diagonal cracking and shear failure in interior walls; severe damage to load-bearing walls on the ground floor.); chimney: Moderate (Potential detachment of exterior cladding or parapet elements visible; no immediate falling hazards observed.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No additional damage or hazards observed beyond structural issues.)\n[SID]:\n- E2_C213_I01.jpg: Exterior view showing severe damage to brick columns on the ground floor, large openings, and visible cracks in masonry walls.\n- E2_C213_I02.jpg: Side view of the building showing debris near the base, damaged brick columns, and cracks in the masonry walls.\n- E2_C213_I03.jpg: Interior view showing extensive diagonal cracking in walls, shear failure, and compromised structural elements."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0756/E2_C213_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0756/E2_C213_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0756/E2_C213_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building is identified as a school, specifically Longmen Middle School, with features indicative of educational use.; Category: School\n[CT]: Evidence: Concrete frame structure with infill walls made of perforated bricks. Visible concrete columns and beams are part of the frame.; Category: Concrete frame\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible signs of partial or complete collapse, nor evidence of the building being off its foundation.); building: Minor/none (No visible signs of leaning or vertical misalignment in the structure.); racking: Moderate (Cracking observed in the infill walls, particularly on the first floor, indicating racking damage due to deformation incompatibility.); chimney: Moderate (Cracks noted at the junction between the chimney and the main structure, posing a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E2_C236_I01.jpg: Exterior view of a two-story concrete frame building with infill brick walls. No apparent collapse or leaning visible.\n- E2_C236_I02.jpg: Close-up of the exterior showing intact structural elements and minor cracking in the infill walls. No major structural distress visible.\n- E2_C236_I03.jpg: Interior view showing diagonal cracks in the infill walls and junctions. Damage appears localized to non-load-bearing elements."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0779/E2_C236_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0779/E2_C236_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0779/E2_C236_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Large public building with a distinctive roof structure.; Category: Public assembly\n[CT]: Evidence: Steel space frame roof with concrete frame base.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No visible signs of collapse or building off foundation.); building: Minor/none (No visible leaning or vertical misalignment.); racking: Moderate (Cracks visible in the infill walls and buckling in some roof members.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Insufficient evidence of ground slope movement or cracking.); others: Not visible from the provided images (No other damages observed.)\n[SID]:\n- E2_C272_I01.jpg: Overview of a large public building with a distinctive steel space frame roof and concrete base, no apparent structural distress visible.\n- E2_C272_I02.jpg: Closer view of the building's exterior showing intact facade with no visible structural damage.\n- E2_C272_I03.jpg: Visible cracks in the infill walls and minor damage to the plaster, indicating moderate structural distress.\n- E2_C272_I04.jpg: Close-up of cracked concrete and plaster near the base of the building, showing moderate damage.\n- E2_C272_I05.jpg: Interior view of the steel space frame roof with some buckling observed in the structural members."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0815/E2_C272_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0815/E2_C272_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0815/E2_C272_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0815/E2_C272_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0815/E2_C272_I05.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Classroom desks and chairs visible in interior images, suggesting educational use.; Category: School\n[CT]: Evidence: Reinforced concrete frame structure with hollow block infill walls.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No visible collapse or foundation displacement in the provided images.); building: Minor/none (No evidence of leaning or vertical misalignment visible in the provided images.); racking: Severe (Extensive cracking and detachment of infill walls, particularly hollow block walls, visible in both exterior and interior images.); chimney: Moderate (Detached wall fragments and debris present, posing a moderate falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the provided images.); others: Not visible from the provided images (No other damage or hazards observed in the provided images.)\n[SID]:\n- E2_C276_I01.jpg: Exterior view showing reinforced concrete columns and hollow block infill walls. Minor debris is visible near the base of the structure.\n- E2_C276_I02.jpg: Exterior view showing severe cracking and detachment of hollow block infill walls. Debris is scattered near the base.\n- E2_C276_I03.jpg: Interior view of a classroom with desks and chairs. The walls exhibit severe cracking and detachment of plaster and hollow blocks.\n- E2_C276_I04.jpg: Interior view showing a damaged classroom wall with collapsed hollow block infill and scattered debris near the base."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0819/E2_C276_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0819/E2_C276_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0819/E2_C276_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0819/E2_C276_I04.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Lushan Earthquake, Date: 2013-04-20, Magnitude: Mw 7.0, Location: Sichuan Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a self-constructed residential structure with multiple doors and windows, indicating residential use.; Category: Dwelling\n[CT]: Evidence: The structure features brick masonry walls with visible concrete tie-columns and ring beams, consistent with confined masonry construction.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible signs of collapse or displacement from the foundation.); building: Minor/none (The building appears upright with no visible leaning or tilting.); racking: Minor/none (No visible cracks or structural damage to the walls or other structural elements.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (The ground condition is not clearly visible in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E2_C296_I01.jpg: A two-story confined masonry building with brick walls and concrete tie-columns. The structure appears intact with no visible damage or distress."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0839/E2_C296_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Yushu Earthquake, Date: 2010-04-14, Magnitude: Mw 7.1, Location: Qinghai Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Building with official signage indicating government use.; Category: Government\n[CT]: Evidence: Block structure with visible concrete tie-columns and ring beams.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible signs of partial or complete collapse.); building: Minor/none (No visible leaning or vertical misalignment.); racking: Severe (Significant diagonal cracking and wall damage visible inside.); chimney: Moderate (Exterior tiles and wall coverings partially detached.); ground: Not visible from the provided images (Ground conditions not visible.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E3_C060_I01.jpg: Front view of a two-story government building with visible damage to exterior walls and tiles.\n- E3_C060_I02.jpg: Interior view showing severe diagonal cracking and wall damage, with exposed masonry blocks."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0924/E3_C060_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0924/E3_C060_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Yushu Earthquake, Date: 2010-04-14, Magnitude: Mw 7.1, Location: Qinghai Province, China.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a mixed-use structure with commercial storefronts on the ground floor and residential or office spaces above.; Category: Commercial\n[CT]: Evidence: The building is constructed with hollow concrete block masonry walls and features an L-shaped layout.; Category: Reinforced masonry\n[SN]: Over ground: 5\n[CDD]: collapse: Minor/none (The building remains upright with no visible signs of collapse or foundation settlement.); building: Minor/none (No visible tilting or leaning of the building or individual stories is observed.); racking: Severe (X-shaped shear cracks are visible on the second-floor window walls, indicating significant racking damage.); chimney: Moderate (Some window frames and cladding elements appear detached, posing a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No other specific damage is visible in the provided images.)\n[SID]:\n- E3_C083_I01.jpg: A five-story L-shaped building with visible X-shaped shear cracks on the second-floor window walls. Some window frames and cladding elements appear detached. The structure remains upright with no visible collapse or leaning."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0947/E3_C083_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Kahramanmaras, Türkiye, Mw 7.8 Earthquake, Date: 2023-02-06, Magnitude: Mw 7.8, Location: Kahramanmaras, Türkiye.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The image shows a residential area with multiple apartment buildings, some of which have collapsed.; Category: Dwelling\n[CT]: Evidence: The buildings appear to have reinforced concrete frames with masonry infill walls.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Two buildings have completely collapsed, leaving piles of rubble visible in the image.); building: Not visible from the provided images (No evidence of leaning structures is visible in the provided images.); racking: Severe (The collapsed buildings suggest significant structural failure, likely due to racking or other damage.); chimney: Moderate (Debris from collapsed buildings poses a potential falling hazard in the vicinity.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional hazards or damages are visible in the provided images.)\n[SID]:\n- E4_C020_I01.jpg: The image shows a residential area with multiple apartment buildings. Two buildings have completely collapsed in a pancake fashion, leaving piles of rubble. Adjacent buildings appear intact but show signs of roof damage.\n- E4_C020_I02.jpg: The image shows a residential area with multiple apartment buildings. Two buildings have completely collapsed in a pancake fashion, leaving piles of rubble. Adjacent buildings appear intact but show signs of roof damage."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1006/E4_C020_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Kahramanmaras, Türkiye, Mw 7.8 Earthquake, Date: 2023-02-06, Magnitude: Mw 7.8, Location: Kahramanmaras, Türkiye.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The ground floor appears to have been used as a market, as indicated by the soft-story mechanism and the text description.; Category: Commercial\n[CT]: Evidence: The structure shows characteristics of a concrete frame with infill walls, as seen in the collapsed sections.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Severe (The first and second floors have collapsed entirely, as evident from the rubble and missing structural elements.); building: Not visible from the provided images (No clear evidence of leaning or tilting is visible in the provided images.); racking: Severe (Extensive structural damage is visible, with collapsed walls and floors indicating severe racking and failure.); chimney: Not visible from the provided images (No chimneys, parapets, or similar falling hazards are visible in the provided images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional hazards or damage are visible in the provided images.)\n[SID]:\n- E4_C037_I01.jpg: Aerial view of a collapsed building with the first and second floors entirely destroyed. Rubble is visible around the site, and adjacent structures also show varying degrees of damage."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1023/E4_C037_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Kahramanmaras, Türkiye, Mw 7.8 Earthquake, Date: 2023-02-06, Magnitude: Mw 7.8, Location: Kahramanmaras, Türkiye.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a hotel, as indicated by the signage on the structure.; Category: Commercial\n[CT]: Evidence: The structure exhibits concrete framing with visible collapse and debris.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Severe (The building has experienced significant collapse, with large portions of the structure reduced to debris.); building: Not visible from the provided images (No evidence of leaning or tilting is visible in the provided images.); racking: Severe (Extensive structural damage is visible, with significant debris and failure of the lower levels.); chimney: Not visible from the provided images (No specific falling hazards such as chimneys or parapets are visible in the images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible in the provided images.)\n[SID]:\n- E4_C072_I01.jpg: The image shows a collapsed multi-story building with significant debris and structural failure, particularly in the lower levels. The signage indicates it is a hotel.\n- E4_C072_I02.jpg: The image shows a collapsed multi-story building with significant debris and structural failure, particularly in the lower levels. The signage indicates it is a hotel."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1058/E4_C072_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: 2023 Oukaïmedene Morocco Earthquake, Date: 2023-09-08, Magnitude: Mw 6.8, Location: Oukaïmedene, Morocco.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a dwelling with visible interior spaces such as a kitchen or living area exposed due to wall collapse.; Category: Dwelling\n[CT]: Evidence: The structure is constructed from unreinforced earthen bearing walls made of rammed earth blocks.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Extensive collapse of earthen walls is visible, with large sections of the structure destroyed and debris scattered.); building: Not visible from the provided images (No evidence of leaning or tilting is visible in the provided images.); racking: Severe (Complete failure of walls with significant structural damage to the earthen construction is evident.); chimney: Not visible from the provided images (No chimneys, parapets, or other potential falling hazards are visible in the provided images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional hazards or damage are visible in the provided images.)\n[SID]:\n- E5_C004_I01.jpg: The image shows a collapsed earthen structure with extensive damage to the walls. Large sections of rammed earth blocks have failed, exposing interior spaces and leaving debris scattered around the site.\n- E5_C004_I02.jpg: The image shows a collapsed earthen structure with extensive damage to the walls. Large sections of rammed earth blocks have failed, exposing interior spaces and leaving debris scattered around the site."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1089/E5_C004_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: Mw 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Commercial signage visible, including a Vodafone store.; Category: Commercial\n[CT]: Evidence: Brick masonry walls with visible plaster and structural framing elements.; Category: Confined masonry\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Partial collapse of walls and structural elements visible, with significant debris.); building: Not visible from the provided images (No clear evidence of leaning or tilting visible in the images.); racking: Severe (Extensive damage to walls with debris indicating structural failure.); chimney: Moderate (Potential falling hazards from detached structural components and debris.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible.); others: Not visible from the provided images (No additional damage or hazards observed.)\n[SID]:\n- E6_C012_I01.jpg: Interior view showing extensive structural damage with collapsed walls, scattered debris, and visible framing elements. Exterior view includes commercial signage and adjacent undamaged buildings."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1127/E6_C012_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: The interior design and layout suggest a religious building, likely a mosque, with decorative arches and prayer areas.; Category: Public assembly\n[CT]: Evidence: The structure features reinforced concrete columns and beams with infill walls, evident from the exposed concrete and decorative plaster.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No evidence of partial or complete collapse, nor signs of the building being off its foundation.); building: Minor/none (No visible leaning or tilting of the structure or stories.); racking: Moderate (Diagonal cracks are visible in the walls, along with spalling of plaster in multiple locations.); chimney: Minor/none (No apparent falling hazards such as detached parapets or other elements.); ground: Not visible from the provided images (Ground conditions are not visible in the provided interior images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E6_C020_I01.jpg: Interior view of a mosque showing diagonal cracks in walls and spalling of plaster on columns and walls. Debris is scattered on the floor, but no significant structural failure is visible.\n- E6_C020_I02.jpg: Interior view of a mosque showing diagonal cracks in walls and spalling of plaster on columns and walls. Debris is scattered on the floor, but no significant structural failure is visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1135/E6_C020_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: Mw 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Stacks of glass sheets in an industrial setting.; Category: Industrial\n[CT]: Evidence: Steel I-beams visible in the ceiling structure.; Category: Steel frame\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No visible collapse or foundation issues.); building: Minor/none (No visible leaning of the building structure.); racking: Minor/none (No visible racking damage to walls.); chimney: Minor/none (No visible falling hazards from chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible.); others: Severe (Severe damage to glass products with extensive breakage.)\n[SID]:\n- E6_C023_I01.jpg: Interior view showing collapsed stacks of glass sheets with extensive breakage across the floor.\n- E6_C023_I02.jpg: Interior view showing broken glass scattered extensively, with intact structural columns and beams."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1138/E6_C023_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1138/E6_C023_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: Mw 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Residential interior with living room and bathroom fixtures.; Category: Dwelling\n[CT]: Evidence: Infill walls with visible cracking and tile damage.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Not visible from the provided images (No evidence of collapse or building off foundation visible.); building: Not visible from the provided images (No visible signs of building or story leaning.); racking: Moderate (Cracking in infill walls and damage to tiles observed.); chimney: Not visible from the provided images (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E6_C028_I01.jpg: Interior wall with visible cracking and plaster damage, indicating moderate structural distress.\n- E6_C028_I02.jpg: Living room interior with cracking on the wall behind furniture, showing moderate damage.\n- E6_C028_I03.jpg: Bathroom interior with missing tiles and visible wall damage, indicating moderate distress."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1143/E6_C028_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1143/E6_C028_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1143/E6_C028_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building has commercial spaces on the ground floor and residential apartments on the upper floors.; Category: Bottom-frame masonry\n[CT]: Evidence: Reinforced concrete frame with masonry infill walls visible on the exterior and interior.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or the building being off its foundation.); building: Minor/none (No visible signs of global tilt or story misalignment.); racking: Moderate (Diagonal cracks visible on exterior walls and significant cracking on interior walls, indicating racking damage.); chimney: Severe (The roof structure appears damaged, and there is a risk of falling debris from the parapet or roof.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No other hazards are visible in the provided images.)\n[SID]:\n- E6_C033_I01.jpg: Front view of a four-story reinforced concrete apartment building with commercial spaces on the ground floor. Diagonal cracks are visible on the facade, and the roof structure appears damaged.\n- E6_C033_I02.jpg: Side view of the building showing diagonal cracks on the exterior masonry walls. No evidence of collapse or leaning is visible.\n- E6_C033_I03.jpg: Interior view of a room with green walls showing significant diagonal cracking and debris on the floor, indicating structural distress in the infill walls."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1148/E6_C033_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1148/E6_C033_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1148/E6_C033_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Mw 6.1 Duzce, Turkey Earthquake, Date: 2022-11-23, Magnitude: Mw 6.1, Location: Duzce, Turkey.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Classroom seating and lecture desks visible.; Category: School\n[CT]: Evidence: Concrete beams and columns with infill walls.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No evidence of collapse or building off foundation.); building: Minor/none (No visible leaning or misalignment.); racking: Moderate (Diagonal cracking observed on interior walls.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Insufficient evidence of ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E6_C035_I01.jpg: Interior view of a classroom with visible ceiling tiles and minor damage to walls. No apparent structural distress visible in this view.\n- E6_C035_I02.jpg: Close-up of a wall with diagonal cracking and some ceiling tiles displaced, indicating moderate structural damage.\n- E6_C035_I03.jpg: Stairwell with minor superficial damage to plaster on beams and columns. No significant structural distress visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1150/E6_C035_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1150/E6_C035_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1150/E6_C035_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: Aegean Sea Earthquake, Date: 2020-10-30, Magnitude: Mw 7.0, Location: Izmir, Turkey & Néon Karlovásion, Greece.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential balconies visible on multiple floors.; Category: Dwelling\n[CT]: Evidence: Concrete frame structure with infill walls.; Category: Concrete frame\n[SN]: Over ground: 8\n[CDD]: collapse: Severe (Partial collapse visible with significant debris at the base.); building: Not visible from the provided images (No clear evidence of leaning observed.); racking: Severe (Extensive structural damage with large sections of walls missing.); chimney: Not visible from the provided images (No chimneys or parapets visible.); ground: Not visible from the provided images (No ground movement or cracking visible.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E7_C004_I01.jpg: Aerial view of an eight-story building with partial collapse and debris at the base.\n- E7_C004_I02.jpg: Close-up of the collapsed section showing missing walls and floors.\n- E7_C004_I03.png: Side view of the building with significant structural damage and debris.\n- E7_C004_I04.png: Ground-level view of the collapsed building showing extensive debris and structural failure."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1159/E7_C004_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1159/E7_C004_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1159/E7_C004_I03.png",
+      "Dataset/SeisMLLM-1K/case_1159/E7_C004_I04.png"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Aegean Sea Earthquake, Date: 2020-10-30, Magnitude: Mw 7.0, Location: Izmir, Turkey & Néon Karlovásion, Greece.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential balconies and windows visible.; Category: Dwelling\n[CT]: Evidence: Concrete frame with infill walls showing diagonal cracks.; Category: Concrete frame\n[SN]: Over ground: 5\n[CDD]: collapse: Minor/none (No evidence of collapse or building off foundation.); building: Minor/none (No visible signs of leaning or vertical misalignment.); racking: Moderate (Diagonal cracks observed in exterior infill walls.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible in the images.); others: Not visible from the provided images (No other damage visible.)\n[SID]:\n- E7_C017_I01.jpg: Exterior view showing diagonal cracks in the infill walls of a multi-story residential building. No signs of collapse or leaning.\n- E7_C017_I02.jpg: Another exterior view of a residential building with visible diagonal cracks in the infill walls. No apparent structural distress beyond cracking."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1172/E7_C017_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1172/E7_C017_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: Aegean Sea Earthquake, Date: 2020-10-30, Magnitude: Mw 7.0, Location: Izmir, Turkey & Néon Karlovásion, Greece.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building shows a mix of residential and commercial features, with stone cladding and visible damage to walls.; Category: Commercial\n[CT]: Evidence: Confined masonry construction is evident, with brick infill walls constrained by concrete tie-columns and stone cladding on the exterior.; Category: Confined masonry\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Partial collapse of walls and significant debris accumulation at the base of the structure.); building: Not visible from the provided images (No evidence of global tilt or story leaning visible in the images.); racking: Severe (Extensive cracking and disintegration of masonry walls, with exposed reinforcement and loss of structural integrity.); chimney: Moderate (Potential falling hazards from detached wall cladding and exposed reinforcement.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No additional hazards or damage observed in the provided images.)\n[SID]:\n- E7_C019_I01.jpg: Severely damaged masonry wall with partial collapse and exposed reinforcement. Significant debris is visible at the base of the structure.\n- E7_C019_I02.jpg: Close-up view of a damaged wall showing exposed reinforcement and disintegration of the masonry cladding.\n- E7_C019_I03.jpg: Severely damaged masonry wall with partial collapse and exposed reinforcement. Significant debris is visible at the base of the structure.\n- E7_C019_I04.jpg: Close-up view of a damaged wall showing exposed reinforcement and disintegration of the masonry cladding."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1174/E7_C019_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1174/E7_C019_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1174/E7_C019_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_1174/E7_C019_I04.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: M6.4 Paratebueno Earthquake, Date: 2025-06-08, Magnitude: Mw 6.4, Location: Paratebueno, Colombia.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The images depict a school complex with multiple single-story buildings, including classrooms and other structures.; Category: School\n[CT]: Evidence: The buildings appear to have confined masonry construction with visible concrete tie-columns and masonry infill walls.; Category: Confined masonry\n[SN]: Over ground: 1\n[CDD]: collapse: Severe (One building is completely collapsed, as seen in the aerial view with extensive rubble.); building: Not visible from the provided images (No evidence of leaning structures is visible in the provided images.); racking: Moderate (Some walls show visible cracks and damage, particularly in the standing buildings, indicating structural stress.); chimney: Minor/none (No visible chimneys, parapets, or other falling hazards are observed in the images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are evident in the images.)\n[SID]:\n- E8_C008_I01.jpg: Aerial view of the school complex showing one completely collapsed building with extensive rubble and adjacent standing structures with minor visible damage.\n- E8_C008_I02.jpg: Closer view of a single-story building with a red roof and intact walls, showing no significant structural damage.\n- E8_C008_I03.jpg: Side view of a single-story building with visible masonry walls and minor cracks, but no major structural failure.\n- E8_C008_I04.jpg: Detailed view of a masonry wall with visible cracks and minor damage, but the structure appears to remain intact."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1183/E8_C008_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1183/E8_C008_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_1183/E8_C008_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_1183/E8_C008_I04.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The structure appears to be a residential building with visible damage and debris around the site.; Category: Dwelling\n[CT]: Evidence: The building shows brick nogging construction with visible timber framing and brick infill walls.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 2\n[CDD]: collapse: Severe (Partial collapse of the exterior walls and roof structure is evident, with significant debris on the ground.); building: Not visible from the provided images (No evidence of leaning or vertical misalignment is visible in the provided images.); racking: Severe (Extensive damage to the brick infill walls is visible, with large sections of the walls missing or collapsed.); chimney: Moderate (Debris and structural elements such as timber and bricks pose a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional hazards or damage are visible in the provided images.)\n[SID]:\n- E9_C010_I01.jpg: The image shows a partially collapsed two-story brick nogging house. The roof structure has failed, and large sections of the exterior walls are missing. Debris, including timber and bricks, is scattered around the site, with rescue personnel visible in the scene."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1198/E9_C010_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a high-rise under construction, as indicated by the structural elements and lack of finishing.; Category: Other\n[CT]: Evidence: The structure consists of reinforced concrete elements, including beams, columns, and slabs, visible in the collapsed debris.; Category: Concrete frame\n[SN]: Over ground: 30\n[CDD]: collapse: Severe (The building has completely collapsed, with extensive debris and no intact structural elements visible.); building: Not visible from the provided images (The images do not provide evidence of leaning as the structure is fully collapsed.); racking: Severe (The debris shows significant structural damage, with broken concrete elements and exposed reinforcement.); chimney: Not visible from the provided images (No evidence of detached chimneys, parapets, or other falling hazards is visible in the images.); ground: Not visible from the provided images (The images do not show evidence of ground slope movement or cracking.); others: Not visible from the provided images (No other specific damage or hazards are visible in the images.)\n[SID]:\n- E9_C013_I01.jpg: The image shows a completely collapsed high-rise building under construction, with extensive debris consisting of broken concrete slabs, beams, and exposed reinforcement. Rescue personnel are visible in the foreground.\n- E9_C013_I02.jpg: The image provides a closer view of the collapsed structure, showing significant structural failure with large piles of concrete debris and exposed steel reinforcement. No intact sections of the building are visible.\n- E9_C013_I03.jpg: A map illustrating the distance between the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, approximately 650 miles (1050 km) apart.\n- E9_C013_I04.jpg: A duplicate map showing the same information: the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, with a distance of approximately 650 miles (1050 km)."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1201/E9_C013_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1201/E9_C013_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential building with visible balconies and air conditioning units.; Category: Dwelling\n[CT]: Evidence: Concrete frame structure with visible concrete columns and beams.; Category: Concrete frame\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Complete collapse of the building with extensive debris visible.); building: Not visible from the provided images (Insufficient evidence to assess leaning.); racking: Severe (Extensive structural damage with collapsed walls and floors.); chimney: Not visible from the provided images (No specific falling hazards like chimneys or parapets visible.); ground: Not visible from the provided images (No visible evidence of ground movement or cracking.); others: Not visible from the provided images (No other specific damage observed.)\n[SID]:\n- E9_C024_I01.jpg: Complete collapse of a multi-story concrete frame building with extensive debris and rescue operations underway."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1212/E9_C024_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The buildings appear to be residential, with visible balconies and windows typical of dwellings.; Category: Dwelling\n[CT]: Evidence: The structures exhibit confined masonry construction with visible brick walls and concrete tie-columns.; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (Ground-level soft-story collapses are visible, with significant structural failure at the base of the buildings.); building: Severe (Both buildings exhibit noticeable tilting, indicating severe structural instability.); racking: Severe (Extensive damage to walls is evident, including large cracks and displaced structural elements.); chimney: Moderate (Potential falling hazards include detached façade elements and debris near the base of the buildings.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible in the images.)\n[SID]:\n- E9_C031_I01.jpg: The front façade of a three-story residential building shows severe soft-story collapse at the ground level, with visible tilting and debris accumulation.\n- E9_C031_I02.jpg: A three-story building with confined masonry construction exhibits severe tilting and partial collapse at the base, with significant debris and structural damage visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1219/E9_C031_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1219/E9_C031_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Signage indicates commercial use on lower floors.; Category: Commercial\n[CT]: Evidence: Concrete frame structure with large glass windows.; Category: Concrete frame\n[SN]: Over ground: 7\n[CDD]: collapse: Severe (Partial collapse of building with significant debris.); building: Severe (Noticeable tilt of the entire structure.); racking: Moderate (Visible structural damage with some wall deformation.); chimney: Not visible from the provided images (No chimneys or parapets visible.); ground: Not visible from the provided images (No ground movement or cracking visible.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E9_C044_I01.jpg: The building exhibits a significant tilt with partial collapse visible on the right side. Debris is scattered around the base, indicating severe structural failure."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1232/E9_C044_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a hotel, with signage indicating hospitality services.; Category: Commercial\n[CT]: Evidence: Reinforced concrete frame structure with infill walls and visible soft story design at the ground level.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Severe (Ground floor shows complete collapse, with debris and structural elements displaced.); building: Moderate (Visible leaning of the structure due to soft story failure at the ground level.); racking: Severe (Extensive damage to infill walls, with large sections missing and structural components exposed.); chimney: Moderate (Detached cladding and debris present potential falling hazards.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E9_C060_I01.jpg: Overview of a 4-story reinforced concrete hotel structure before the earthquake, showing intact exterior walls and soft story design at the ground level.\n- E9_C060_I02.jpg: Post-earthquake view of the hotel showing complete collapse of the ground floor, extensive debris, and exposed structural elements."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1248/E9_C060_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1248/E9_C060_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building has signage and structural features consistent with a private school.; Category: School\n[CT]: Evidence: Reinforced concrete columns and beams are visible, with infill walls showing damage.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Severe (The ground floor columns have failed, resulting in partial collapse and significant structural instability.); building: Moderate (The building shows signs of vertical misalignment, particularly at the ground floor.); racking: Severe (Extensive cracking and damage to the infill walls and structural elements are visible.); chimney: Moderate (Some detached or displaced elements, such as balcony railings and cladding, pose a falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E9_C074_I01.jpg: The exterior of a four-story reinforced concrete building shows significant damage, including collapsed ground floor columns and displaced structural elements. Cracks are visible on the facade and infill walls.\n- E9_C074_I02.jpg: A closer view of the building reveals severe cracking and partial collapse at the ground floor. Displaced infill walls and structural elements are evident, with debris scattered at the base."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1262/E9_C074_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_1262/E9_C074_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: M7.7 Myanmar Earthquake, Date: 2025-03-28, Magnitude: Mw 7.7, Location: Mandalay, Myanmar.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a commercial or office structure based on its design, large windows, and entrance canopy.; Category: Offices\n[CT]: Evidence: The structure shows a concrete frame with infill walls, visible cracks, and partial collapse of the walls.; Category: Concrete frame\n[SN]: Over ground: 2\n[CDD]: collapse: Severe (The foreground structure has collapsed, and parts of the infill walls on the main building have also failed.); building: Not visible from the provided images (No evidence of leaning or tilting is visible in the provided images.); racking: Severe (Significant cracking is visible along the infill walls, with some areas showing complete failure.); chimney: Moderate (Damaged wall sections and debris near the building pose a potential falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional damage or hazards are visible in the provided images.)\n[SID]:\n- E9_C084_I01.jpg: The image shows a two-story concrete frame structure with extensive damage. The infill walls exhibit severe cracking and partial collapse. The foreground structure has completely collapsed, and debris is scattered around the site. No visible leaning or ground movement is observed."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_1272/E9_C084_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: 26 May 2019 Laguna Peru Earthquake, Date: 2019-05-26, Magnitude: Mw 8.0, Location: Eastern Perú.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Interior view showing debris and damage consistent with a church.; Category: Public assembly\n[CT]: Evidence: Masonry wall with visible bricks and debris.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: None\n[CDD]: collapse: Severe (Out-of-plane collapse of a masonry wall visible.); building: Not visible from the provided images (Insufficient evidence of leaning.); racking: Not visible from the provided images (No visible racking damage in the images.); chimney: Not visible from the provided images (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No visible ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E11_C014_I01.jpg: Interior view showing significant debris from a collapsed masonry wall, with bricks and structural elements scattered on the floor."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0220/E11_C014_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: 26 May 2019 Laguna Peru Earthquake, Date: 2019-05-26, Magnitude: Mw 8.0, Location: Eastern Perú.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building has architectural features consistent with a church, including a religious emblem and pointed arched windows.; Category: Public assembly\n[CT]: Evidence: The structure has masonry walls with visible cracks and a corrugated metal roof.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or the building being off its foundation.); building: Minor/none (No visible signs of global tilt or leaning of the structure.); racking: Moderate (Diagonal cracks are visible on the facade of the building, particularly near the arched windows and upper sections.); chimney: Minor/none (No visible signs of detached or falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (The images do not show the ground or any evidence of slope movement or cracking.); others: Not visible from the provided images (No additional damage or hazards are visible in the provided images.)\n[SID]:\n- E11_C015_I01.jpg: The facade of a two-story unreinforced masonry church shows diagonal cracking near arched windows and upper sections. The corrugated metal roof appears intact, and no significant structural collapse is visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0221/E11_C015_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Ecuador Mw 6.8 Earthquake, Date: 2023-03-18, Magnitude: Mw 6.8, Location: Balao, Ecuador.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building is a church with prominent religious architectural features, including towers and arches.; Category: Public assembly\n[CT]: Evidence: The structure features masonry walls with visible arches and decorative elements, typical of historic construction.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or the building being off its foundation.); building: Minor/none (No visible signs of leaning or vertical misalignment in the structure.); racking: Moderate (Cracks are visible in the interior arches, indicating structural damage to load-bearing elements.); chimney: Minor/none (No visible evidence of detachment or falling hazards from parapets or other elements.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No other damage or hazards are apparent in the provided images.)\n[SID]:\n- E12_C022_I01.jpg: Exterior view of a two-story church with masonry construction, featuring two towers and decorative elements. No apparent structural distress visible in this view.\n- E12_C022_I02.jpg: Interior view showing cracks in the arch above a stained glass window, indicating moderate structural damage.\n- E12_C022_I03.jpg: Interior view showing cracks along multiple arches and the ceiling, suggesting moderate structural damage to load-bearing elements."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0254/E12_C022_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0254/E12_C022_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0254/E12_C022_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image>Earthquake Metadata: Name: Ecuador Mw 6.8 Earthquake, Date: 2023-03-18, Magnitude: Mw 6.8, Location: Balao, Ecuador.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Church tower and arches visible, indicating religious use.; Category: Public assembly\n[CT]: Evidence: Masonry structure with visible arches and tower.; Category: Unreinforced masonry (URM)\n[SN]: Over ground: 3\n[CDD]: collapse: Minor/none (No visible signs of collapse or building off foundation.); building: Minor/none (No visible leaning or misalignment of the structure.); racking: Moderate (Cracks visible on the tower and arches indicating structural damage.); chimney: Severe (Significant cracks in the tower may pose a falling hazard.); ground: Not visible from the provided images (Insufficient evidence of ground movement or cracking.); others: Not visible from the provided images (No other damages observed.)\n[SID]:\n- E12_C023_I01.jpg: Overview of the church with visible tower and exterior damage concentration.\n- E12_C023_I02.jpg: Close-up of the church tower showing significant cracking around windows.\n- E12_C023_I03.jpg: Front view of the church displaying cracks on the facade and tower.\n- E12_C023_I04.jpg: Interior view showing cracks and damage to the arch structure."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0255/E12_C023_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0255/E12_C023_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0255/E12_C023_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0255/E12_C023_I04.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential balconies visible on multiple floors.; Category: Dwelling\n[CT]: Evidence: Concrete frame structure with visible concrete columns and beams.; Category: Concrete frame\n[SN]: Over ground: 8\n[CDD]: collapse: Minor/none (No visible signs of collapse or building off foundation.); building: Minor/none (No visible signs of leaning or vertical misalignment.); racking: Minor/none (No visible racking damage or structural distress.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible in images.); others: Not visible from the provided images (No other damage visible from the images.)\n[SID]:\n- E13_C029_I01.jpg: Eight-story concrete frame building with residential balconies, no visible structural distress.\n- E13_C029_I02.jpg: Aerial view of the surrounding area, building layout visible, no apparent damage."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0293/E13_C029_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0293/E13_C029_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Residential balconies visible on the building facade.; Category: Dwelling\n[CT]: Evidence: Concrete frame with visible concrete columns and balconies.; Category: Concrete frame\n[SN]: Over ground: 6\n[CDD]: collapse: Minor/none (No visible signs of collapse or building off foundation.); building: Minor/none (No visible signs of leaning or misalignment.); racking: Minor/none (No visible racking damage or structural distress.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible in the images.); others: Not visible from the provided images (No other damage visible.)\n[SID]:\n- E13_C033_I01.jpg: Aerial view of a neighborhood with multiple buildings; no visible structural damage.\n- E13_C033_I02.jpg: Street view of a multi-story concrete frame building with balconies; no visible structural distress."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0297/E13_C033_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0297/E13_C033_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to have been a commercial establishment, as indicated by the signage and open ground floor for vehicle servicing.; Category: Commercial\n[CT]: Evidence: The building appears to have a bottom-frame masonry structure with an open ground floor and masonry upper stories.; Category: Bottom-frame masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (The building has completely collapsed, with extensive debris visible in the images.); building: Not visible from the provided images (No leaning structure is visible due to the complete collapse.); racking: Severe (The structure has suffered catastrophic damage, with walls and structural elements reduced to rubble.); chimney: Not visible from the provided images (No standing chimneys, parapets, or other potential falling hazards are visible.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No additional damage or hazards are visible in the provided images.)\n[SID]:\n- E13_C046_I01.jpg: Nighttime view of a collapsed building reduced to rubble, with heavy machinery and personnel visible in the foreground.\n- E13_C046_I02.jpg: Daytime view of a partially collapsed yellow building with visible debris and people inspecting the site.\n- E13_C046_I03.jpg: Pre-earthquake image showing a three-story yellow commercial building with an open ground floor used for vehicle servicing."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0310/E13_C046_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0310/E13_C046_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0310/E13_C046_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Residential balconies and ground floor storefronts visible.; Category: Commercial\n[CT]: Evidence: Brick walls with visible cracks and concrete frame structure.; Category: Concrete frame\n[SN]: Over ground: 5\n[CDD]: collapse: Minor/none (No visible collapse or building off foundation.); building: Minor/none (No visible leaning or misalignment.); racking: Moderate (Step-cracking and large holes in masonry walls.); chimney: Not visible from the provided images (No visible chimneys or parapets.); ground: Not visible from the provided images (No visible ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E13_C056_I01.jpg: Step-cracking visible on painted brick wall near window frame.\n- E13_C056_I02.jpg: Large hole in masonry wall exposing internal brickwork and plaster damage.\n- E13_C056_I03.jpg: Aerial view of urban area with dense building layout.\n- E13_C056_I04.jpg: Street view of multi-story building with balconies and ground floor commercial spaces.\n- E13_C056_I05.jpg: Horizontal cracking along the top of a painted brick wall.\n- E13_C056_I06.jpg: Diagonal crack running across a plain interior wall."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I06.jpg",
+      "Dataset/SeisMLLM-1K/case_0320/E13_C056_I07.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: The building appears to be a mixed-use structure with commercial spaces on the ground floor and other uses on upper floors.; Category: Commercial\n[CT]: Evidence: The building exhibits a concrete frame structure with infill walls and large window openings.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or the building being off its foundation.); building: Minor/none (No observable leaning or vertical misalignment of the structure.); racking: Severe (Diagonal cracking and significant structural damage are visible on interior walls, particularly near openings and corners.); chimney: Moderate (Some exterior elements, such as window panels, appear to be damaged and could pose a falling hazard.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No other specific damage or hazards are visible in the images.)\n[SID]:\n- E13_C086_I01.jpg: Interior view showing a stairwell with visible cracking and spalling at the junction of the stair and wall, indicating structural damage.\n- E13_C086_I02.jpg: Aerial view of the building and surrounding area, showing the general layout and no visible collapse.\n- E13_C086_I03.jpg: Close-up view of the building exterior showing intact concrete frame and window openings, with no visible collapse.\n- E13_C086_I04.jpg: Interior view showing diagonal cracks on a wall near a doorway with debris on the floor, indicating severe structural damage.\n- E13_C086_I05.jpg: Exterior view of the building showing intact concrete frame and windows, with caution tape indicating restricted access.\n- E13_C086_I06.jpg: Interior view showing cracking and spalling near a window frame, with debris scattered on the floor, indicating structural damage."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0350/E13_C086_I06.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Residential balconies and garage doors visible on the exterior.; Category: Dwelling\n[CT]: Evidence: Concrete frame structure with large glass windows and balconies.; Category: Concrete frame\n[SN]: Over ground: 4\n[CDD]: collapse: Minor/none (No visible signs of collapse or foundation settlement in the provided images.); building: Minor/none (No visible leaning or vertical misalignment observed in the exterior images.); racking: Moderate (Interior images show cracks on walls and plaster damage, indicating moderate racking damage.); chimney: Minor/none (No visible signs of detachment or falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible in the provided images.); others: Not visible from the provided images (No other specific damage or hazards observed in the provided images.)\n[SID]:\n- E13_C093_I01.jpg: Overview of the neighborhood showing multiple buildings with no apparent structural distress visible.\n- E13_C093_I02.jpg: Close-up view of a four-story residential building with balconies and garage doors; no visible exterior damage.\n- E13_C093_I03.jpg: Interior wall showing minor cracks and plaster damage marked with arrows.\n- E13_C093_I04.jpg: Interior corner with minor wall cracks near a window frame; no significant structural damage visible.\n- E13_C093_I05.jpg: Interior wall showing vertical cracks and superficial plaster damage; moderate racking damage visible.\n- E13_C093_I06.jpg: Close-up of a window frame with minor cracks in the surrounding plaster; no significant structural distress visible."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I06.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I07.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I08.jpg",
+      "Dataset/SeisMLLM-1K/case_0357/E13_C093_I09.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Earthquake Metadata: Name: Mexico City 19th September 2017 Earthquake, Date: 2017-09-19, Magnitude: Mw 7.1, Location: Mexico City, Mexico.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Residential balconies and commercial signage visible on the ground floor.; Category: Bottom-frame masonry\n[CT]: Evidence: Concrete frame structure on the ground floor with upper floors showing masonry walls.; Category: Bottom-frame masonry\n[SN]: Over ground: 5\n[CDD]: collapse: Not visible from the provided images (No evidence of collapse or building off foundation visible in the images.); building: Not visible from the provided images (No visible signs of leaning or vertical misalignment in the images.); racking: Moderate (Cracks visible on masonry walls and plaster, including diagonal and step-cracking patterns.); chimney: Moderate (Balcony railings and plaster detachment pose potential falling hazards.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking visible.); others: Not visible from the provided images (No other damage or hazards observed in the images.)\n[SID]:\n- E13_C097_I01.jpg: Close-up view showing cracks and plaster detachment on masonry walls near balconies.\n- E13_C097_I02.jpg: Diagonal cracks visible on exterior masonry walls near balconies; potential falling hazards from plaster detachment.\n- E13_C097_I03.jpg: Interior view showing exposed concrete columns and minor damage to plaster surfaces.\n- E13_C097_I04.jpg: Exterior view showing cracks on the facade near balconies and electrical wiring attached to walls.\n- E13_C097_I05.jpg: Wide-angle view of the building showing five stories, balconies, and commercial signage on the ground floor.\n- E13_C097_I06.jpg: Detailed view of severe cracking and plaster detachment on masonry walls, exposing underlying materials."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I06.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I07.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I08.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I09.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I10.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I11.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I12.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I13.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I14.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I15.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I16.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I17.jpg",
+      "Dataset/SeisMLLM-1K/case_0361/E13_C097_I18.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Earthquake Metadata: Name: Christchurch Earthquake, Date: 2011-02-22, Magnitude: Mw 6.3, Location: Christchurch, New Zealand.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: Commercial signage visible on the ground floor.; Category: Commercial\n[CT]: Evidence: Glass facade with a grid of concrete columns and beams.; Category: Concrete frame\n[SN]: Over ground: 10\n[CDD]: collapse: Minor/none (No visible signs of collapse or building off foundation.); building: Minor/none (No visible signs of building or story leaning.); racking: Minor/none (No visible racking damage or structural distress.); chimney: Minor/none (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (Ground conditions not visible in the images.); others: Not visible from the provided images (No other damage visible.)\n[SID]:\n- E16_C025_I01.jpg: The building shows a glass facade with no apparent structural distress visible. The structure appears intact with no visible signs of damage."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0414/E16_C025_I01.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Petrinja, Croatia December 29, 2020 Earthquake, Date: 2020-12-29, Magnitude: Mw 6.4, Location: Sisak-Moslavina County, Croatia.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior only\n[PO]: Evidence: The building appears to be a residential structure with visible windows, shutters, and a satellite dish.; Category: Dwelling\n[CT]: Evidence: The building features red brick masonry walls with visible concrete tie-beams but lacks RC tie-columns at wall intersections.; Category: Confined masonry\n[SN]: Over ground: 2\n[CDD]: collapse: Minor/none (No visible evidence of partial or complete collapse or the building being off its foundation.); building: Minor/none (No visible signs of global tilt or story misalignment.); racking: Severe (Wide vertical cracks at wall intersections and stepped shear cracks extending from the ground to the second floor slab.); chimney: Not visible from the provided images (No chimneys, parapets, or other falling hazards are visible in the provided images.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the provided images.); others: Not visible from the provided images (No other damage or hazards are visible in the provided images.)\n[SID]:\n- E17_C016_I01.jpg: Exterior view of a two-story masonry building with visible stepped shear cracks and vertical cracks at wall intersections. No collapse is observed.\n- E17_C016_I02.jpg: Close-up view of a vertical crack at a wall intersection extending through the brick masonry with debris scattered at the base.\n- E17_C016_I03.jpg: Detailed view of stepped shear cracks propagating diagonally across the brick masonry wall from the ground to the second floor."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0460/E17_C016_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0460/E17_C016_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0460/E17_C016_I03.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image>Earthquake Metadata: Name: Petrinja, Croatia December 29, 2020 Earthquake, Date: 2020-12-29, Magnitude: Mw 6.4, Location: Sisak-Moslavina County, Croatia.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Corridor and classroom setting indicating a school environment.; Category: School\n[CT]: Evidence: Interior walls with plaster finish and wooden flooring.; Category: Other\n[SN]: Over ground: None\n[CDD]: collapse: Not visible from the provided images (No evidence of collapse or building off foundation visible.); building: Not visible from the provided images (No visible signs of building or story leaning.); racking: Minor/none (No visible racking damage or structural damage to walls.); chimney: Not visible from the provided images (No visible falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No visible ground slope movement or cracking.); others: Moderate (Water leakage from broken pipe causing water on the floor.)\n[SID]:\n- E17_C045_I01.jpg: Water on the floor and debris scattered in a school corridor, indicating a leaking pipe.\n- E17_C045_I02.jpg: Broken water pipe with a bucket placed underneath to catch leaking water."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0489/E17_C045_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0489/E17_C045_I02.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>Earthquake Metadata: Name: Petrinja, Croatia December 29, 2020 Earthquake, Date: 2020-12-29, Magnitude: Mw 6.4, Location: Sisak-Moslavina County, Croatia.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Interior only\n[PO]: Evidence: Interior view of a building with visible ceiling and wall damage.; Category: Other\n[CT]: Evidence: Plastered interior walls and ceiling with no visible structural elements.; Category: Other\n[SN]: Over ground: None\n[CDD]: collapse: Not visible from the provided images (No evidence of collapse or displacement of the building foundation is visible.); building: Not visible from the provided images (No leaning or vertical misalignment is visible in the provided images.); racking: Moderate (Cracks are visible at the floor-wall connection, potentially due to beam sliding at the support.); chimney: Not visible from the provided images (No visible evidence of falling hazards such as chimneys or parapets.); ground: Not visible from the provided images (No evidence of ground slope movement or cracking is visible in the images.); others: Not visible from the provided images (No additional damage or hazards are visible.)\n[SID]:\n- E17_C066_I01.jpg: Close-up view of a crack at the floor-wall connection, with visible plaster damage and potential beam sliding at the support.\n- E17_C066_I02.jpg: A small, isolated spot on the wall with no apparent structural damage visible.\n- E17_C066_I03.jpg: A section of the ceiling with minor cracking along the edges, no significant structural distress visible.\n- E17_C066_I04.jpg: A vertical crack along the ceiling-wall junction with plaster damage, indicating moderate structural distress.\n- E17_C066_I05.jpg: A horizontal crack along the ceiling with visible plaster damage, suggesting moderate structural distress.\n- E17_C066_I06.jpg: Overview of the interior ceiling showing cracks and plaster damage along the edges, with no signs of severe structural instability."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I03.jpg",
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I04.jpg",
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I05.jpg",
+      "Dataset/SeisMLLM-1K/case_0510/E17_C066_I06.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>Earthquake Metadata: Name: Petrinja, Croatia December 29, 2020 Earthquake, Date: 2020-12-29, Magnitude: Mw 6.4, Location: Sisak-Moslavina County, Croatia.\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report including IS, PO, CT, SN, CDD, and SID."
+      },
+      {
+        "role": "assistant",
+        "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: Exterior view of a bell tower with visible cracks.; Category: Public assembly\n[CT]: Evidence: Brick walls with visible concrete tie-columns.; Category: Confined masonry\n[SN]: Over ground: None\n[CDD]: collapse: Minor/none (No evidence of collapse or building off foundation.); building: Not visible from the provided images (Insufficient evidence to assess leaning.); racking: Moderate (Thin cracks visible in the masonry walls.); chimney: Minor/none (No apparent falling hazards observed.); ground: Not visible from the provided images (No evidence of ground movement or cracking.); others: Not visible from the provided images (No other damage observed.)\n[SID]:\n- E17_C071_I01.jpg: Interior view showing brick walls with vertical cracks and visible concrete tie-columns.\n- E17_C071_I02.jpg: Close-up of brick wall with vertical cracking and concrete tie-columns.\n- E17_C071_I03.jpg: Exterior view of a bell tower with thin cracks visible on the facade."
+      }
+    ],
+    "images": [
+      "Dataset/SeisMLLM-1K/case_0515/E17_C071_I01.jpg",
+      "Dataset/SeisMLLM-1K/case_0515/E17_C071_I02.jpg",
+      "Dataset/SeisMLLM-1K/case_0515/E17_C071_I03.jpg"
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "House Location and Property": "天全县城老城区"
+}

@@ -1,0 +1,15 @@
+{
+  "House Location and Property": "芦山县太平镇，正规施工",
+  "Structural Type and Construction Age": "单跨钢筋混凝土框架结构，2008 年修建",
+  "Structural Characteristics": {
+    "Structure Size": {
+      "Structure Length": "18m",
+      "Width": "8m"
+    },
+    "Roof and Floor": "现浇楼板和屋面",
+    "Column Cross-Section": "400mm×400mm",
+    "Walls": "空心砖"
+  },
+  "Structural Damage Status": "底层 1 根角柱柱顶混凝土剥落，中部 1 根边柱中部被剪断，出现交叉裂缝，纵筋外露。",
+  "Summary of Damage Causes": "框架结构体系只有一道抗震防线，而单跨框架作为框架结构的特殊形式，其结构冗余度较小，因而在地震中很容易形成机构从而被破坏甚至倒塌。"
+}

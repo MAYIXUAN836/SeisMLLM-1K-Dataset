@@ -1,0 +1,12 @@
+{
+  "House Location and Property": "名山县万古乡新庙坪村, 自建房屋。",
+  "Structural Type and Construction Year": "砖混结构, 2006 年修建",
+  "Structural Features": {
+    "Structural Dimensions": "结构长 15m, 宽 12m",
+    "Roof and Floor Slab": "预制楼板, 现浇屋面",
+    "Wall": "底层部分横墙厚 240mm, 部分横墙厚为 120mm, 纵墙厚 120mm; 二层所有墙体厚 120mm。",
+    "Construction Measures": "无圈梁, 无构造柱"
+  },
+  "Structural Damage Condition": "底层多数墙体出现贯穿性通透斜裂缝, 底层外纵墙窗口附近墙体出现斜裂缝。",
+  "Brief Analysis of Damage Cause": "结构墙体较薄且无抗震措施, 结构整体抗震性能较差, 破坏较重。"
+}

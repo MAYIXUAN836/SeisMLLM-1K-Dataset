@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a self-constructed residential structure with multiple stories.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Confined masonry construction with brick walls and visible concrete tie beams, but no visible concrete tie-columns.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "The exterior shows partial collapse of walls, particularly on the ground floor."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Interior walls near the staircase show through-wall cracks and significant structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Exterior walls have visible damage that could pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C061_I01.png": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
+    "E2_C061_I01.png_duplicate": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
+    "E2_C061_I02.jpg": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor.",
+    "E2_C061_I02.jpg_duplicate": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\061",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:48:07",
+  "case_index": 250,
+  "case_id": "061",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

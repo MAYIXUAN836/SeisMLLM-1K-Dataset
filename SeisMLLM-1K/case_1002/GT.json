@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Kahramanmaras, Türkiye, Mw 7.8 Earthquake",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Kahramanmaras, Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Surrounding area appears to be commercial with parking lots.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Multi-story building with visible concrete frame structure.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 6,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Building shows signs of partial collapse with significant structural damage."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Visible severe damage to structural elements, possibly due to soft-story failure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E4_C016_I01.jpg": "Aerial view of a multi-story building with partial collapse and significant structural damage. The surrounding area includes commercial structures and parking lots."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake\\016",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:10:08",
+  "case_index": 648,
+  "case_id": "016",
+  "earthquake_folder": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake",
+  "category": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake"
+}

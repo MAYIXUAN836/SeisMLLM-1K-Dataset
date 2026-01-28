@@ -1,0 +1,12 @@
+{
+  "House location and attributes": "雨城区中里镇龙泉村 5 组 30 号，自建房屋。",
+  "Structure type and construction age": "砖混结构，建于 2006 年。",
+  "Structure characteristics": {
+    "Structural dimensions": "结构总长 14m，宽 6m，层高 3mm。",
+    "Roof and floor slab": "预制楼板，现浇屋面。",
+    "Wall body": "横墙厚 240mm，纵墙厚 120mm，山墙厚 240mm。",
+    "Construction measures": "有圈梁，无构造柱。"
+  },
+  "Structural damage condition": "结构底层纵横墙均出现严重裂缝。",
+  "Summary of damage cause": "纵墙较薄，且墙体未设置构造柱，导致墙体抗剪能力较差，墙体发生剪切破坏。"
+}

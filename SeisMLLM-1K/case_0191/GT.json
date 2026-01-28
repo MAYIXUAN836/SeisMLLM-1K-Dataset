@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage on ground floor, residential balconies above.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with visible columns and beams.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible collapse or displacement from foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or misalignment observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No significant racking or structural damage visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Minor/none",
+      "description": "No ground movement or significant cracking observed."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; all evaluations indicate minor or no damage."
+  },
+  "9_image_descriptions": {
+    "E10_C002_I01.jpg": "Concrete frame building with three stories visible, no apparent structural distress.",
+    "E10_C002_I02.jpg": "Row of multi-story buildings with concrete frames, no visible damage.",
+    "E10_C002_I03.jpg": "Commercial building with storefronts, no visible structural damage.",
+    "E10_C002_I04.jpg": "Close-up of rubble with exposed rebar, indicating poor concrete quality.",
+    "E10_C002_I05.jpg": "Street view of a multi-story building with commercial use, no visible damage.",
+    "E10_C002_I06.jpg": "Two adjacent buildings with no separation, no visible structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\002",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:26:19",
+  "case_index": 954,
+  "case_id": "002",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage and residential balconies visible.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with visible wooden roof structure and tiled roofing.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or vertical misalignment visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Roof damage visible with missing tiles and wooden components detached; no significant wall cracking observed."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Roof tiles and wooden components pose a falling hazard due to detachment."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Moderate, the building is posted Restricted Use according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E2_C249_I01.jpg": "Exterior view of a four-story brick masonry building with storefronts on the ground floor. Roof damage is visible with missing tiles and detached wooden components.",
+    "E2_C249_I02.jpg": "Overview of a residential building with visible roof damage, including missing tiles and detached wooden components. Balconies appear intact."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\249",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 23:21:26",
+  "case_index": 438,
+  "case_id": "249",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

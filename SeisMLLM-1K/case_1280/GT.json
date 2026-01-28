@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a firehouse with visible fire trucks and an ambulance in the collapsed garage area.",
+    "category": "Emergency services"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure includes concrete columns and beams, with infill walls and a soft-story garage design.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The soft-story garage has collapsed, crushing vehicles and causing significant structural failure."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The building is visibly leaning, with significant lateral displacement of the upper story."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracks and structural damage are visible on the walls, indicating racking failure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Falling hazards include detached structural elements and debris from the collapsed garage area."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 2 (Leaning) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E9_C092_I01.jpg": "The building shows significant structural damage with a collapsed soft-story garage crushing fire trucks and an ambulance. The upper story is leaning laterally, and diagonal cracks are visible on the walls."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\092",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:13:21",
+  "case_index": 926,
+  "case_id": "092",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

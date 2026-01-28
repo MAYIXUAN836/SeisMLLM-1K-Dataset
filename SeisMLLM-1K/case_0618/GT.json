@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Self-built residential house located in a rural area.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with no visible concrete tie-columns; prefabricated floor slabs and cast-in-place roof.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Roof structure is partially collapsed, with visible detachment of upper sections."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive shear cracks observed on exterior walls and severe cracking on interior walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached roof sections and parapet elements present significant falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of ground slope movement or cracking in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C074_I01.jpg": "Exterior view of a two-story masonry building with partial roof collapse and severe shear cracks visible on the walls. Detached roof sections pose a falling hazard.",
+    "E2_C074_I02.jpg": "Interior view showing extensive cracking on walls, including diagonal shear cracks and large fractures. Severe structural distress is evident."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\074",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:54:09",
+  "case_index": 263,
+  "case_id": "074",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

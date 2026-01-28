@@ -1,0 +1,69 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have a mix of residential and other uses, with interior corridors and exterior rooftop spaces visible.",
+    "category": "Other",
+    "primary_occupation_other": "Mixed-use (residential and other)"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete columns and beams are visible in the interior, with masonry walls and concrete slabs observed.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse, nor signs of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building or story leaning in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "Minor cracking in some walls is visible, but it appears repairable and not structurally significant."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Deficiencies in waterproofing, deteriorated hydraulic and sanitary installations, and peeling coatings due to lack of maintenance are noted."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Although structural damage is minor, the deficiencies in waterproofing, hydraulic systems, and coatings pose moderate risks that require attention, leading to a Restricted Use posting."
+  },
+  "9_image_descriptions": {
+    "E13_C073_I01.jpg": "Interior corridor with concrete columns and tiled walls. No structural damage is visible, but minor wall cracking is noted.",
+    "E13_C073_I02.jpg": "Aerial view of the building showing the rooftop and surrounding structures. No visible structural damage is observed.",
+    "E13_C073_I03.jpg": "Interior stairwell with visible concrete structural elements. No structural damage is observed in the stairs or ramps.",
+    "E13_C073_I04.jpg": "Close-up of deteriorated hydraulic and sanitary installations. Visible signs of aging and lack of maintenance are evident.",
+    "E13_C073_I05.jpg": "Rooftop view showing peeling coatings and deficient waterproofing. Signs of long-term maintenance issues are visible.",
+    "E13_C073_I06.jpg": "Official inspection report document summarizing the findings and recommendations for the building."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\073",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:36:40",
+  "case_index": 1102,
+  "case_id": "073",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

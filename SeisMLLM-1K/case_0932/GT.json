@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential dwelling with visible windows and roller shutters on the ground floor.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is composed of concrete masonry blocks, with some stone masonry visible on the gable wall. The floor slabs are cast-in-place concrete.",
+    "category": "Reinforced masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse, nor any signs of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the building or its stories."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Interior walls exhibit multiple fine diagonal cracks, indicating racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no conditions are evaluated as severe, the building is deemed safe for use according to Table 31 logic."
+  },
+  "9_image_descriptions": {
+    "E3_C068_I01.jpg": "Exterior view of a two-story concrete masonry structure with roller shutters on the ground floor and windows on the upper floor. No apparent structural distress visible in this view.",
+    "E3_C068_I02.jpg": "Interior view showing fine diagonal cracks on plastered walls. No signs of major structural damage or collapse visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\068",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 00:35:01",
+  "case_index": 578,
+  "case_id": "068",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

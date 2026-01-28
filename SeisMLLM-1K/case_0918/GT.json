@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is described as a Tibetan scripture hall under construction, located on a mountain top.",
+    "category": "Other",
+    "primary_occupation_other": "Religious structure under construction"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with visible columns and beams; stone masonry walls visible in some areas.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Foundation ring beams are fractured, and uneven ground deformation is visible due to mountain surface cracking."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or leaning visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Concrete columns exhibit cracking, exposed and buckled reinforcement, and localized damage to masonry walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Outdoor staircase beams and columns are heavily damaged, forming plastic hinges, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Ground surface cracking and uneven deformation due to mountain instability are visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damages or hazards are evident from the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse/Partial Collapse), Condition 4 (Falling Hazard), and Condition 5 (Ground Movement) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E3_C054_I01.jpg": "Exterior view of a two-story concrete frame structure under construction, located on a mountain top. Visible ground deformation and cracking near the foundation.",
+    "E3_C054_I02.jpg": "Interior view showing debris scattered on the floor and visible cracking in concrete columns. No apparent leaning or collapse visible.",
+    "E3_C054_I03.jpg": "Close-up of fractured foundation ring beams and cracked masonry walls. Ground deformation and debris are visible.",
+    "E3_C054_I04.jpg": "Detailed view of damaged concrete columns with exposed reinforcement and buckling. Severe damage to outdoor staircase beams and columns forming plastic hinges."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\054",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 00:27:59",
+  "case_index": 564,
+  "case_id": "054",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

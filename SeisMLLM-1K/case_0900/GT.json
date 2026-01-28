@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a street-facing pharmacy with signage and retail displays on the ground floor.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a three-story concrete frame building with infill block walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Second-floor columns show significant damage, including crushed concrete and exposed, buckled reinforcement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "The third floor appears to have experienced larger deformations, but no visible global tilt or story misalignment is evident."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Infill walls exhibit heavy damage, including large cracks and partial disintegration, particularly on the second floor."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible detachment or falling hazards such as parapets or balconies are observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are evident from the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E3_C036_I01.jpg": "Exterior view of a three-story concrete frame building with retail signage and displays on the ground floor. No visible collapse, but the structure shows signs of distress.",
+    "E3_C036_I02.jpg": "Interior views show heavy cracking and partial disintegration of infill walls, with visible damage to structural elements such as crushed concrete and exposed reinforcement on the second floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\036",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 00:19:18",
+  "case_index": 546,
+  "case_id": "036",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential interior with visible damage to partition walls.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick infill walls with visible damage and partial collapse.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of infill walls visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and damage to partition walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E6_C029_I01.jpg": "Interior view showing significant damage to brick infill walls with partial collapse and debris on the floor.",
+    "E6_C029_I02.jpg": "Severe cracking and partial collapse of internal partition walls, exposing brickwork and causing debris accumulation.",
+    "E6_C029_I03.jpg": "Extensive X-pattern cracking on plastered walls, indicating severe structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\029",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:12:31",
+  "case_index": 790,
+  "case_id": "029",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

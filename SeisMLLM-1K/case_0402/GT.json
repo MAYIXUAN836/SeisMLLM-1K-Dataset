@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building features Gothic-style architecture with arched windows and appears to be a historic or religious structure.",
+    "category": "Historic"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is made of unreinforced masonry with stone blocks and mortar, visible in the damaged sections.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of a corner tower is visible, with significant loss of masonry material."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to the masonry walls, including missing sections and exposed internal materials, is evident."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The damaged corner tower presents a significant falling hazard due to loose and unsupported masonry."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E16_C013_I01.jpg": "The image shows a historic masonry building with a partially collapsed corner tower. The damage includes missing masonry, exposed internal materials, and loose debris, posing a significant falling hazard."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\013",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:07:33",
+  "case_index": 1167,
+  "case_id": "013",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

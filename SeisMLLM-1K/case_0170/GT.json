@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential structure with visible domestic features such as windows and balconies.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a wood frame with infill walls made of rubble stone and fired bricks.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The roof structure has collapsed, and the infill walls have completely failed, with rubble scattered around the site."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some sections of the structure show signs of leaning, particularly the remaining walls."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to the walls is evident, with large portions of the stone and brick infill completely dislodged."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Remaining wall sections and debris pose a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E1_C170_I01.jpg": "A two-story wood-framed building with rubble stone and brick infill walls. The roof structure has collapsed, and the walls have suffered extensive damage, with large portions dislodged and rubble scattered around the site. Remaining wall sections appear unstable and pose a falling hazard.",
+    "E1_C170_I02.jpg": "The rear view of the same two-story building shows severe structural damage. The roof is missing, and the walls are extensively damaged, with large voids where infill materials have collapsed. Debris is scattered, and remaining wall sections appear unstable."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\170",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:10:50",
+  "case_index": 170,
+  "case_id": "170",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

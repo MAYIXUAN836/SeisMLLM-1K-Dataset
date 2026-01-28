@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Decorative wall patterns and railing suggest a public or religious assembly space.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Plastered masonry walls with visible damage exposing brick infill.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and spalling of plaster are visible on the walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, the building is likely stable but requires restricted use for safety."
+  },
+  "9_image_descriptions": {
+    "E6_C019_I01.jpg": "Interior view showing plastered masonry walls with decorative patterns. Diagonal cracks and spalling of plaster are visible, exposing underlying brick infill. No evidence of collapse or falling hazards is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\019",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:07:34",
+  "case_index": 780,
+  "case_id": "019",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

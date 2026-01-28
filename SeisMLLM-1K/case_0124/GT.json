@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Signage indicates a commercial building.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with visible infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of gable wall visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Severe cracking in infill walls and broken concrete columns."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Potential falling hazard from damaged parapet."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C124_I01.jpg": "Exterior view showing severe cracking and partial collapse of the gable wall.",
+    "E1_C124_I02.jpg": "Close-up of the building's side with visible severe cracking and damage to the roof structure.",
+    "E1_C124_I03.jpg": "Interior view showing exposed and damaged concrete column with severe cracking.",
+    "E1_C124_I04.jpg": "Interior view with severe vertical cracking along infill walls.",
+    "E1_C124_I05.jpg": "View of the roof area showing partial collapse and debris."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\124",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:47:03",
+  "case_index": 124,
+  "case_id": "124",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

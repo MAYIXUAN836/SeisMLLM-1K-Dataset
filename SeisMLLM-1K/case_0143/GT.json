@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be part of a villa complex, likely used for residential or lodging purposes.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a three-story concrete frame building with stone veneer exterior walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or foundation displacement is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building tilt or story misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "Minor cracking is reported in infill walls, but no significant structural damage is visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Stone veneer on exterior walls has partially detached, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Moderate due to the detachment of stone veneer, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E1_C143_I01.jpg": "Interior view of a room with no visible structural damage. Walls, furniture, and curtains appear intact.",
+    "E1_C143_I02.jpg": "Exterior view showing partial detachment of stone veneer on the wall. Surrounding vegetation is visible, with no apparent ground damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\143",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 20:56:52",
+  "case_index": 143,
+  "case_id": "143",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

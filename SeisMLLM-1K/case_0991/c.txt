@@ -1,0 +1,1 @@
+RC moment frame building with infill walls with observable damage to the external walls seemingly caused by effects of vertical component of the motion on the cantilever portion of the building

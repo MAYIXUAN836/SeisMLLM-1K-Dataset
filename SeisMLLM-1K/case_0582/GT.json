@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has a multi-story layout with classrooms visible, suggesting it is a school.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with hollow brick infill walls, as described in the text and visible in the images.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation settlement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift in the building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal cracks at the connection between window walls and beams, and diagonal cracks in infill walls near door and window openings."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible signs of detached parapets, chimneys, or other falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, localized damage may affect the safety of the structure, requiring restricted use."
+  },
+  "9_image_descriptions": {
+    "E2_C038_I01.jpg": "Exterior view of a four-story reinforced concrete frame building with hollow brick infill walls. No visible collapse or leaning, but minor cracks are present near the base of the structure.",
+    "E2_C038_I02.jpg": "Interior view of a classroom with visible horizontal cracks along the walls near the ceiling. No apparent structural collapse or severe damage to beams.",
+    "E2_C038_I03.jpg": "Close-up of the exterior ground floor showing diagonal cracks in infill walls near windows and doors. No visible severe structural damage to columns or beams."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\038",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:38:18",
+  "case_index": 227,
+  "case_id": "038",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

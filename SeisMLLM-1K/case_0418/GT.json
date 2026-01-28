@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Commercial signage visible on ground floor.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Glass facade with visible concrete frame structure.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 18,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible racking damage or structural distress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible falling hazards such as parapets or cladding."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Ground conditions are not visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages visible."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; all evaluations indicate minor or no damage."
+  },
+  "9_image_descriptions": {
+    "E16_C029_I01.jpg": "Tall commercial building with a glass facade and concrete frame. No apparent structural distress visible in this view."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\029",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:14:59",
+  "case_index": 1183,
+  "case_id": "029",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

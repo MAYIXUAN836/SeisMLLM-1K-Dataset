@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential features with visible living spaces.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden frame structure with earth walls.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of the roof and walls visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Collapsed infill walls and debris present."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage observed."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C154_I01.jpg": "Partial collapse of the roof structure with visible wooden beams and earth walls. Debris is scattered around the area.",
+    "E1_C154_I02.jpg": "Collapsed brick infill walls with scattered debris. Wooden structural elements are visible.",
+    "E1_C154_I03.jpg": "Overview of a collapsed structure with roof and wall debris. Adjacent buildings show less damage.",
+    "E1_C154_I04.jpg": "Wooden frame structure with visible damage to the upper walls and roof. Debris is present around the building."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\154",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:02:06",
+  "case_index": 154,
+  "case_id": "154",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

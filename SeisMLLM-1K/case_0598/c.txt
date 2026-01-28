@@ -1,0 +1,15 @@
+{
+  "Location_and_Property_Attributes": "芦山县宝盛乡杨子组, 两栋自建房屋",
+  "Structural_Type_and_Construction_Year": "砖混结构, 图 4-5 (a) 中左侧结构汉川地震前修建, 图 4-5 (a) 中右侧结构汉川地震后修建",
+  "Structural_Characteristics": {
+    "Structural_Dimensions": "左侧结构长 12m, 宽 6.5m; 右侧结构长 13m, 宽 8m",
+    "Roof_and_Floor_Slab": "左侧结构预制楼板, 现浇屋面; 右侧结构现浇楼板和屋面",
+    "Walls": "左侧结构墙体厚度均为 180mm; 右侧结构墙体厚度均为 240mm",
+    "Construction_Measures": "左侧结构有圈梁, 无构造柱; 右侧结构有圈梁, 有构造柱"
+  },
+  "Structural_Damage_Status": "图 4-5 (a) 中左侧结构底层山墙严重开裂, 结构濒临倒塌; 图 4-5 (a) 中右侧结构基本完好。",
+  "Simplified_Reason_for_Damage_Analysis": {
+    "Left_Structure_Analysis": "图 4-5 (a) 中左侧结构结构承重墙体厚度为 180mm, 墙体较薄; 墙体中只设置了圈梁, 没有设置构造柱; 且砂浆强度较差, 综合以上因素, 结构的整体抗震能力较差, 在地震中发生剪切破坏。",
+    "Right_Structure_Analysis": "图 4-5 (a) 中右侧结构开间较小, 所有墙体厚度为 240mm; 层层设置圈梁, 在四角和楼梯间设置了构造柱; 砂浆强度较高, 结构整体抗震能力较好, 因此在地震中基本完好。"
+  }
+}

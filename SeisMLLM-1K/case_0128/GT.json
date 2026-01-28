@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Four-story building with signage indicating a school dormitory.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Four-story concrete frame structure with a sloped roof.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible collapse or foundation displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal cracks between frame beams and infill walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Roof tiles displaced and decorative elements fallen."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "No other significant damage observed."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; damage is minor to moderate."
+  },
+  "9_image_descriptions": {
+    "E1_C128_I01.jpg": "Exterior view of a four-story concrete frame building with a sloped roof. Roof tiles are displaced, and there is debris around the building.",
+    "E1_C128_I02.jpg": "Interior hallway with visible debris on the floor and superficial damage to walls. Some horizontal cracking is observed."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\128",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 20:50:03",
+  "case_index": 128,
+  "case_id": "128",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

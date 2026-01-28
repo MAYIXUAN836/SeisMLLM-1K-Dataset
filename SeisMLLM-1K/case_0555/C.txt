@@ -1,0 +1,12 @@
+{
+  "House Location and Attributes": "芦山县太平镇胜利村上场口组，自建房屋",
+  "Structural Type and Construction Age": "木结构",
+  "Structural Features": {
+    "Structural Size": "结构长 16m，宽 11m",
+    "Roof and Floor": "木楼板",
+    "Wall Body": "木围护墙",
+    "Construction Measures": "围护墙与木柱用钉子拉结"
+  },
+  "Structural Damage Status": "左侧砖柱侧顶部出现竖向裂缝，轻微漏瓦，结构基本完好。",
+  "Brief Analysis of Damage Cause": "围护墙与木柱材料不同，在地震中变形不协调，发生错动，产生竖向裂缝。"
+}

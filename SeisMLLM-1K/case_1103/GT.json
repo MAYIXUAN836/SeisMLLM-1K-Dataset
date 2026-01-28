@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "2023 Oukaïmedene Morocco Earthquake",
+    "date": "2023-09-08",
+    "magnitude": "Mw 6.8",
+    "location": "Oukaïmedene, Morocco"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Hotel structure with visible balconies and multiple stories.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with infill walls, visible damage to upper stories.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Total crushing of the 3rd story with significant collapse visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Visible misalignment and leaning of upper stories."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Severe structural damage with intermediate story failure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Potential falling hazards from damaged parapets and balconies."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E5_C018_I01.jpg": "Severe collapse of the third story with extensive structural damage visible. Upper stories show significant misalignment and partial collapse.",
+    "E5_C018_I02.jpg": "View of the hotel showing severe damage to the third story and visible leaning of the structure. Potential falling hazards from damaged elements."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\5-2023 Oukaïmedene Morocco Earthquake\\018",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:53:41",
+  "case_index": 749,
+  "case_id": "018",
+  "earthquake_folder": "5-2023 Oukaïmedene Morocco Earthquake",
+  "category": "5-2023 Oukaïmedene Morocco Earthquake"
+}

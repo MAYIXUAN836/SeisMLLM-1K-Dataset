@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as a family planning service station based on signage and its layout.",
+    "category": "Emergency services"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Two-story concrete frame structure with infill walls made of perforated bricks.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or complete collapse or building displacement from its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and damage to infill walls on the first floor are visible, with some plaster and brick exposure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Ceiling panels on the second floor have partially detached, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Moderate and involves ceiling panels, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E2_C233_I01.jpg": "Exterior view of a two-story concrete frame building with perforated brick infill walls. No visible structural damage is observed on the exterior.",
+    "E2_C233_I02.jpg": "Interior view of a hallway with visible cracks in the plaster and exposed brick infill walls on the first floor. Debris from plaster and tiles is scattered on the floor.",
+    "E2_C233_I03.jpg": "Interior hallway view with intact walls and ceiling panels. No visible structural damage is observed in this area.",
+    "E2_C233_I04.jpg": "Interior view of a room with partially detached ceiling panels and visible cracks in the walls. Some ceiling tiles are missing, exposing the underlying structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\233",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:13:33",
+  "case_index": 422,
+  "case_id": "233",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

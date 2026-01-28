@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+    "date": "2019-07-04",
+    "magnitude": "Mw 6.4 / Mw 7.1",
+    "location": "Mojave Desert region, eastern California, USA"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Cafeteria with scattered contents and dining items.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Interior view with no visible structural elements.",
+    "category": "Other",
+    "construction_type_other": "Not visible from the provided images"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or building off foundation visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or misalignment visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No structural damage visible in the interior view."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No falling hazards such as chimneys or parapets visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Contents scattered on the floor, indicating minor interior damage."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; only minor interior content damage observed."
+  },
+  "9_image_descriptions": {
+    "E15_C015_I01.jpg": "Interior view of a cafeteria with scattered dining items and decorations on the floor, indicating minor content damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\15-M6.4 and M7.1 Ridgecrest, CA Earthquakes\\015",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:59:47",
+  "case_index": 1152,
+  "case_id": "015",
+  "earthquake_folder": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+  "category": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes"
+}

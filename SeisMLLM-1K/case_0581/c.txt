@@ -1,0 +1,16 @@
+[
+  {
+    "Location_and_Properties": "芦山县太平镇，正规施工",
+    "Structural_Type_and_Construction_Year": "钢筋混凝土框架结构，2009 年修建",
+    "Structural_Features": {
+      "Structural_Dimensions": {
+        "Structure_Length": "结构长度为 45m，宽度为 9m"
+      },
+      "Roof_and_Floor_Slab": "现浇楼板和屋面",
+      "Column_Section": "500mm×500mm",
+      "Wall": "空心砖"
+    },
+    "Structural_Damage_Status": "底层多数填充墙体出现贯穿性通透交叉裂缝",
+    "Brief_Analysis_of_Damage_Cause": "结构竖向刚度均匀，底层承受的水平地震剪力最大，在水平地震剪力作用下，由于空心砖的抗剪能力较差，同时填充墙超过 5 米，并没有设置构造柱，造成填充墙破坏严重。"
+  }
+]

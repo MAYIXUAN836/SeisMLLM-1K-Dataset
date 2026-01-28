@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Guesthouse with multiple stories and balconies.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Bottom two floors are concrete frame, upper floors are masonry.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": 1
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Concrete damage and cracking at base, but no complete collapse."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant diagonal cracking in infill walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible falling hazards such as parapets or chimneys."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "Visible ground cracking and settlement near foundation."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C093_I01.jpg": "Exterior view showing a four-story building with visible concrete column damage and cracking at the base.",
+    "E1_C093_I02.jpg": "Interior room with debris on the floor and visible wall cracks.",
+    "E1_C093_I03.jpg": "Close-up of interior wall showing significant diagonal cracking at the corner.",
+    "E1_C093_I04.jpg": "Interior floor showing cracking and settlement near the walls.",
+    "E1_C093_I05.jpg": "Exterior ground near foundation showing signs of settlement and cracking."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\093",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:26:55",
+  "case_index": 93,
+  "case_id": "093",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Kahramanmaras, Türkiye, Mw 7.8 Earthquake",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Kahramanmaras, Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential balconies visible on upper floors.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Complete collapse of the ground floor, indicative of soft story failure."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Visible misalignment and leaning of the upper stories."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant structural damage with large cracks and displacement in walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E4_C045_I01.jpg": "The image shows a multi-story building with a collapsed ground floor, indicating a soft story failure. Upper floors are leaning with visible cracks and structural displacement. Debris is scattered around the base."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake\\045",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:22:29",
+  "case_index": 677,
+  "case_id": "045",
+  "earthquake_folder": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake",
+  "category": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake"
+}

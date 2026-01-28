@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential features with balconies and domestic layout.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden frame structure with brick infill walls.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of the wooden frame structure is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant structural damage with collapsed walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Ground movement and debris accumulation are evident."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific hazards observed."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1, 3, and 5 are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C013_I01.jpg": "The image shows a partially collapsed wooden frame structure with significant debris and damaged walls.",
+    "E2_C013_I02.jpg": "A two-story wooden frame building with visible structural damage and debris at the base.",
+    "E2_C013_I03.jpg": "Severe structural failure with collapsed walls and exposed interior, indicating a complete collapse of part of the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\013",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:27:32",
+  "case_index": 202,
+  "case_id": "013",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

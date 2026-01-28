@@ -1,0 +1,12 @@
+{
+  "Location and Property": "雨城区中里镇龙泉村 5 组朝猛，正规施工。",
+  "Structural Type and Construction Age": "砖混结构，2008 年汶川地震后援建。",
+  "Structural Characteristics": {
+    "Structural Dimensions": "结构总长 20m，宽 10m。",
+    "Roof and Floor Slab": "现浇楼板，现浇屋面。",
+    "Wall": "纵墙厚 120mm，横墙厚 240mm；山墙厚 240mm。",
+    "Construction Measures": "有圈梁，有构造柱，筏型基础。"
+  },
+  "Structural Damage Status": "基础发生破坏。",
+  "Brief Analysis of Damage Causes": "地基软弱。"
+}

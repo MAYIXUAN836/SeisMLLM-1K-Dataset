@@ -1,0 +1,12 @@
+{
+  "House_Location_and_Property": "芦山县太平镇胜利村上场口组, 自建房屋",
+  "Structure_Type_and_Year_Built": "3层砖混结构, 建于 2000 年",
+  "Structural_Features": {
+    "Structural_Dimensions": "结构长 15m, 宽 12m",
+    "Roof_and_Floor_Slabs": "预制楼板, 现浇屋面",
+    "Walls": "横墙厚度为 240mm, 纵墙厚度为 120mm",
+    "Construction_Measures": "结构设置圈梁和构造柱"
+  },
+  "Structural_Damage_Status": "底层内纵墙出现沿灰缝的严重贯穿性透交叉裂缝",
+  "Summary_of_Damage_Cause": "由于功能使用的要求，底层较空旷，其刚度小于其它层的刚度，底层成为薄弱层，破坏较重，结构前部设置卷帘门，纵墙偏少，且结构在平面内纵向刚度不均匀，刚心质心不重合，有扭转效应，加重了纵墙的破坏；且内纵墙较薄、砂浆强度较差，导致墙体出现沿灰缝的严重贯穿性透交叉裂缝。"
+}

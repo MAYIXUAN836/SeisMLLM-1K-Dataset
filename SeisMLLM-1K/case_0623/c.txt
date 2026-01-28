@@ -1,0 +1,12 @@
+{
+  "Location and Property": "雨城区碧峰镇七老村村委会，正规施工。",
+  "Structural Type and Construction Age": "砖混结构，建于 2012 年。",
+  "Structural Characteristics": {
+    "Structural Dimensions": "结构总长 17.5m，宽 12m。",
+    "Roof and Floor Slab": "现浇楼板，现浇屋面。",
+    "Wall": "墙厚均为 240mm。",
+    "Construction Measures": "有圈梁，有构造柱。"
+  },
+  "Structural Damage Status": "基本完好。",
+  "Brief Analysis of Damage Causes": "结构共设置 24 根构造柱，构造措施完善合理，整体性较好。"
+}

@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Classroom setting with desks and educational materials visible.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Plaster fallen off the wall exposing masonry infill.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Plaster fell off exposing masonry infill, indicating possible wall damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions were found, the building is posted as Inspected."
+  },
+  "9_image_descriptions": {
+    "E17_C049_I01.jpg": "Interior view of a classroom with plaster fallen off the wall, exposing masonry infill. Desks and educational materials are present, indicating a school setting."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\049",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:47:23",
+  "case_index": 1258,
+  "case_id": "049",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

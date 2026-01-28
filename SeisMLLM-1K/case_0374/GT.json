@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+    "date": "2019-07-04",
+    "magnitude": "Mw 6.4 / Mw 7.1",
+    "location": "Mojave Desert region, eastern California, USA"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Bookshelves and scattered books indicate the interior of a library.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Interior walls appear to be constructed of masonry blocks, with no visible structural framing elements.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse or building displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide sufficient evidence to assess global tilt or leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No visible structural damage to walls or racking effects are evident in the provided images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "Books and shelving contents have fallen, but no structural falling hazards are visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the interior images."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Books and shelving contents have fallen, but no other significant damage is visible."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions were observed in the provided images, and the damage is limited to non-structural elements."
+  },
+  "9_image_descriptions": {
+    "E15_C002_I01.jpg": "Interior view of a library with books scattered across the floor. Bookshelves remain upright, and no structural damage to walls or ceilings is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\15-M6.4 and M7.1 Ridgecrest, CA Earthquakes\\002",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:54:31",
+  "case_index": 1139,
+  "case_id": "002",
+  "earthquake_folder": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+  "category": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes"
+}

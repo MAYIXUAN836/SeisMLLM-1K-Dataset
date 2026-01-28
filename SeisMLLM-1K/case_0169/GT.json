@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential structure with visible windows, doors, and decorative elements typical of a dwelling.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a wooden frame with infill walls made of fired brick and plastered surfaces.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of brick infill walls is visible, with debris scattered on the ground."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or story misalignment is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible along the walls, particularly at the corners and around openings, indicating structural distress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Some elements of the facade, such as decorative features, appear to be at risk of detachment."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Moderate, the building is deemed to have localized damage but retains overall stability."
+  },
+  "9_image_descriptions": {
+    "E1_C169_I01.jpg": "The image shows the front facade of a two-story building with visible cracks and partial collapse of brick infill walls. Debris is scattered on the ground near the entrance.",
+    "E1_C169_I02.jpg": "The side view of the building reveals significant cracks along the plastered walls, particularly at the corners and near the roofline. Some decorative elements appear damaged or detached."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\169",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:10:09",
+  "case_index": 169,
+  "case_id": "169",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

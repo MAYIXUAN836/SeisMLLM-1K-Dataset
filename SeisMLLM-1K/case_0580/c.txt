@@ -1,0 +1,14 @@
+[
+  {
+    "Location_and_Properties": "芦山县双石镇中心小学逸夫楼，正规施工。",
+    "Structural_Type_and_Construction_Year": "单跨框架结构，建于 2004 年。",
+    "Structural_Features": {
+      "Structural_Dimensions": "柱尺寸为：与横墙连接的柱 400mm×400mm，其余柱：400mm×350mm；结构长 46.6m，宽 6m。",
+      "Roof_and_Floor_Slab": "现浇楼板，现浇屋面。",
+      "Non_Load_Bearing_Components": "空心砖填充。",
+      "Construction_Measures": "填充墙无构造柱。"
+    },
+    "Structural_Damage_Status": "底层整排后柱顶端出现塑性铰，填充墙出现裂缝，局部瓷砖脱落，结构严重破坏。",
+    "Brief_Analysis_of_Damage_Cause": "框架结构体系只有一道抗震防线，而单跨框架作为框架结构的特殊形式，其结构冗余度较小，因而在地震中很容易形成机构从而破坏甚至倒塌。"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Shelves with glassware and ceramic products indicate a commercial store.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The construction type is not visible in the provided images.",
+    "category": "Not visible from the provided images"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or foundation issues is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of leaning or vertical misalignment are apparent in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No structural damage to walls or racking is visible in the provided images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of falling hazards such as chimneys or parapets is present in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "The interior shows significant damage to products and glassware, with items overturned and broken on the floor."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe structural damage or hazards are visible in the provided images. The damage is limited to interior contents."
+  },
+  "9_image_descriptions": {
+    "E6_C006_I01.jpg": "Interior view of a commercial store with shelves of glassware and ceramics. Numerous items are overturned and broken on the floor, indicating moderate damage to contents but no visible structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\006",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:02:00",
+  "case_index": 767,
+  "case_id": "006",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

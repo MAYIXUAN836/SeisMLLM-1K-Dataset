@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a three-story structure used as a guesthouse or hotel, as indicated by the layout and furniture visible in the interior images.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a confined masonry building with brick walls constrained by visible concrete tie-columns and ring beams.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse, or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or story misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible on the exterior walls, including through the top-floor infill walls, and significant cracking is present on interior walls and around door frames."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets are visible in the images provided."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground fissures, heaving, or slope movement is visible."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Ceiling panels in the interior hallway have detached, and debris is scattered on the floor."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate racking damage to walls and detachment of ceiling panels indicate localized hazards, but the overall structure appears stable."
+  },
+  "9_image_descriptions": {
+    "E1_C013_I01.jpg": "Exterior view of a three-story confined masonry building with visible cracks on the upper floor walls and intact roof structure.",
+    "E1_C013_I02.jpg": "Close-up of the upper floor showing diagonal cracks on the exterior infill walls near the balcony.",
+    "E1_C013_I03.jpg": "Interior room with vertical cracks running through the walls and minor damage around door frames.",
+    "E1_C013_I04.jpg": "Interior view showing a vertical crack extending from the ceiling to the floor on a plastered wall.",
+    "E1_C013_I05.jpg": "Interior room with visible cracking around door frames and minor damage to the ceiling.",
+    "E1_C013_I06.jpg": "Interior hallway with severe cracking on walls and detached ceiling panels, with debris scattered on the floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\013",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 19:45:11",
+  "case_index": 13,
+  "case_id": "013",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

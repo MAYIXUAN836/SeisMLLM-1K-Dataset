@@ -1,0 +1,14 @@
+[
+  {
+    "Location_and_Properties": "芦山县宝盛乡河边上组，正规施工",
+    "Structural_Type_and_Construction_Year": "钢筋混凝土框架结构，2005 年修建",
+    "Structural_Features": {
+      "Structural_Dimensions": "结构长度为 45m，宽度为 9m",
+      "Roof_and_Floor_Slab": "现浇楼板和屋面",
+      "Column_Section": "400mm×400mm",
+      "Wall": "空心砖"
+    },
+    "Structural_Damage_Status": "底层窗间墙与梁连接处出现水平裂缝，底层门窗洞口间墙体出现交叉裂缝。",
+    "Brief_Analysis_of_Damage_Cause": "结构竖向刚度均匀，底层承受的水平地震剪力最大，在水平地震剪力作用下，填充墙受剪破坏，窗间墙未设置构造柱，造成窗间墙与梁连接处出现水平裂缝。"
+  }
+]

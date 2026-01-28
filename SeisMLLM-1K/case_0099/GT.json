@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is described as a single-story wooden structure with stone and earth walls, used for storing miscellaneous items.",
+    "category": "Other",
+    "primary_occupation_other": "Storage"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden frame structure with stone and earth infill walls, partially collapsed.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of stone and earth infill walls is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Damage to infill walls includes partial collapse and loss of structural integrity."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys, parapets, or other falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate damage to infill walls and partial collapse indicate localized structural instability, but the wooden frame appears intact."
+  },
+  "9_image_descriptions": {
+    "E1_C099_I01.jpg": "View of a single-story wooden structure with stone and earth infill walls. Partial collapse of the walls is visible, with scattered debris around the building. The wooden frame appears intact."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\099",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 20:29:43",
+  "case_index": 99,
+  "case_id": "099",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

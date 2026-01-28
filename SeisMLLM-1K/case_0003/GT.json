@@ -1,0 +1,69 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Balconies and doors indicative of a guesthouse or hotel.",
+    "category": "Other",
+    "primary_occupation_other": "Guesthouse"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick walls with visible concrete tie-columns and ring beams.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive horizontal and diagonal cracking through walls and around door frames."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of falling hazards like chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C003_I01.jpg": "Exterior view of a three-story building with confined masonry structure. No apparent structural distress visible in this view.",
+    "E1_C003_I02.jpg": "Interior view showing severe horizontal cracking through a yellow-painted wall near the ceiling.",
+    "E1_C003_I03.jpg": "Interior staircase wall with significant diagonal cracking extending from door frame.",
+    "E1_C003_I04.jpg": "Interior view with extensive cracking around door frames and walls, indicating severe structural damage.",
+    "E1_C003_I05.jpg": "Top floor interior showing severe wall cracking and dislodged roof elements, with exposed wiring.",
+    "E1_C003_I06.jpg": "Interior room with severe wall and ceiling cracking, indicating significant structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\003",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 19:39:46",
+  "case_index": 3,
+  "case_id": "003",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

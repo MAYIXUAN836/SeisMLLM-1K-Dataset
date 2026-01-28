@@ -1,0 +1,10 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村谭家山组，自建房屋。",
+  "structure_type_and_year": "砖木结构",
+  "structural_features": {
+    "roof_and_slab": "木楼板，硬山搁檩式木屋架。",
+    "structural_measures": "无圈梁，无构造柱。"
+  },
+  "damage_condition": "外纵墙外闪倒塌。",
+  "damage_cause_analysis": "纵横墙之间无拉结措施，导致外纵墙在地震中出平面外闪，外纵墙局部倒塌。"
+}

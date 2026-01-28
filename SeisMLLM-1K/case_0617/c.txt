@@ -1,0 +1,12 @@
+{
+  "House location and attributes": "雨城区上里镇七家村张永强，自建房屋。",
+  "Structure type and construction age": "砖混结构，建于 2012 年。",
+  "Structure characteristics": {
+    "Structural dimensions": "砖柱尺寸为 400 mm×400mm，柱距 3.6m，结构总长 11m，宽 9.5m。",
+    "Roof and floor slab": "现浇楼板，现浇屋面。",
+    "Wall body": "纵墙厚 120mm，横墙厚 240mm；山墙厚 240mm。",
+    "Construction measures": "有圈梁，无构造柱。"
+  },
+  "Structural damage condition": "一侧山墙出现严重裂缝，纵横墙交接处出现交叉裂缝。",
+  "Summary of damage cause": "房屋基础差异造成一侧山墙严重破坏；纵横墙交接处未设置构造柱且纵墙较薄，导致纵墙破坏较重。"
+}

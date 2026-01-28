@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Kahramanmaras, Türkiye, Mw 7.8 Earthquake",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Kahramanmaras, Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has commercial units on the ground floor and residential units above.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete moment frame with infill walls, visible cantilever portions, and external wall cracking.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "No complete collapse observed, but significant cracking and damage to cantilever portions suggest partial structural compromise."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or leaning visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and damage to infill walls, especially in cantilevered sections, indicating severe racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Cracked and detached portions of the external walls pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards observed in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E4_C005_I01.jpg": "The exterior of a multi-story reinforced concrete frame building with visible severe cracking on infill walls, particularly in cantilevered sections. Ground floor appears to house commercial units.",
+    "E4_C005_I02.jpg": "A street view showing the damaged building with severe cracking on external walls and cantilevered portions. Adjacent buildings appear intact with no visible damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake\\005",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:04:08",
+  "case_index": 637,
+  "case_id": "005",
+  "earthquake_folder": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake",
+  "category": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake"
+}

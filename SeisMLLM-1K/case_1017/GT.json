@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Kahramanmaras, Türkiye, Mw 7.8 Earthquake",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Kahramanmaras, Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story residential structure with no visible commercial or public usage.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building shows a concrete frame structure with infill walls, typical of reinforced concrete construction.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The first and second floors of the building have collapsed, leaving the upper stories partially intact but heavily compromised."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "The building shows a slight tilt, possibly due to torsional effects and uneven collapse of the lower floors."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant structural damage is visible, including the collapse of walls and deformation of the structural frame."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of detached chimneys, parapets, or other falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific hazards or damage are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E4_C031_I01.jpg": "A multi-story concrete frame building with the first and second floors collapsed, leaving the upper stories partially intact but heavily damaged. Surrounding debris and adjacent collapsed structures are visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake\\031",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:16:45",
+  "case_index": 663,
+  "case_id": "031",
+  "earthquake_folder": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake",
+  "category": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake"
+}

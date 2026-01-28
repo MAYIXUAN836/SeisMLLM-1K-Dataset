@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Bookshelves, desks, and cabinets suggest an office or library setting.",
+    "category": "Offices"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Interior walls with plaster finish and standard office furniture; no visible structural elements.",
+    "category": "Not visible from the provided images"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or foundation displacement visible in the interior views."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible in the interior views."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible structural damage to walls; items displaced from shelves and cabinets."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or external falling hazards visible in the interior views."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible in the interior views."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Displacement of items from shelves and cabinets is observed, but no other hazards are evident."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "All conditions are evaluated as Minor/none or Not visible from the provided images, indicating no severe structural damage or hazards."
+  },
+  "9_image_descriptions": {
+    "E17_C051_I01.jpg": "Interior view of a room with bookshelves and desks. Books and items have fallen from shelves, and cabinets are open with contents displaced. No visible structural damage to walls or ceilings."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\051",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:48:07",
+  "case_index": 1260,
+  "case_id": "051",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

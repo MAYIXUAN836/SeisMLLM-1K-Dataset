@@ -1,0 +1,1 @@
+Building with floor 1 and 2 collapsed apparently in a mixed modes of soft-story and torsional effects.

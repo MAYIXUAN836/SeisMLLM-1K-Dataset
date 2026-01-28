@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building includes a parking area on the exterior and numbered rooms on the interior, suggesting a mixed-use high-rise structure.",
+    "category": "Other",
+    "primary_occupation_other": "Mixed-use high-rise (parking and residential/commercial)"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure shows concrete walls with visible plaster finishes and modern design elements.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 28,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of collapse or foundation displacement in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking and plaster damage are visible on exterior and interior walls, indicating moderate racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible evidence of falling hazards such as detached parapets or cladding."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions were observed in any of the evaluation categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E9_C070_I01.jpg": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
+    "E9_C070_I01.jpg_duplicate": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
+    "E9_C070_I02.jpg": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised.",
+    "E9_C070_I02.jpg_duplicate": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\070",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:02:50",
+  "case_index": 904,
+  "case_id": "070",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

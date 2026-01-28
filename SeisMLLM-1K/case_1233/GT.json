@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a large commercial or public assembly structure based on its size and design.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure shows large concrete panels and a modern design, likely indicative of a concrete shear wall system.",
+    "category": "Concrete shear wall"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or displacement of the building from its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No evidence of leaning or vertical misalignment is visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible cracks or structural damage to the walls can be observed from the provided images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions were observed in any of the evaluated categories, indicating the building is safe for use."
+  },
+  "9_image_descriptions": {
+    "E9_C045_I01.jpg": "A large concrete building is visible in the background with no apparent structural damage. Collapsed roofs and debris from nearby smaller structures are in the foreground.",
+    "E9_C045_I02.jpg": "A large modern concrete building with no visible structural damage. The surrounding area shows no signs of significant ground deformation or structural hazards."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\045",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:51:15",
+  "case_index": 879,
+  "case_id": "045",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

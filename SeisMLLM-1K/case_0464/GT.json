@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a five-story apartment complex with residential units visible through windows.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a concrete frame with visible infill walls and balconies.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse, nor evidence of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or significant misalignment of the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and damage to plaster and infill walls are visible, particularly around openings and corners."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Some sections of exterior cladding and plaster show detachment, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 3 (Racking damage) and Condition 4 (Falling hazard) are evaluated as Moderate. While the structure appears stable, localized damage and falling hazards warrant restricted use."
+  },
+  "9_image_descriptions": {
+    "E17_C020_I01.jpg": "A five-story concrete-framed apartment building with visible cracks and damage to exterior plaster. No signs of collapse or leaning are apparent.",
+    "E17_C020_I02.jpg": "Rear view of the building showing weathered exterior walls, cracks near windows, and peeling plaster. No structural collapse is visible.",
+    "E17_C020_I03.jpg": "Ground-level view of the building's passageway with damaged plaster and minor debris on the floor. No significant structural damage is visible.",
+    "E17_C020_I04.jpg": "Close-up of a wall showing peeling plaster and rust stains near an air conditioning unit. No major structural damage is visible.",
+    "E17_C020_I05.jpg": "Side view of the building showing cracks and damage to the plaster near the base of the wall. Vegetation is present nearby.",
+    "E17_C020_I06.jpg": "Close-up of the lower portion of the wall showing localized plaster damage and exposed materials. No structural collapse is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\020",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:36:13",
+  "case_index": 1229,
+  "case_id": "020",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

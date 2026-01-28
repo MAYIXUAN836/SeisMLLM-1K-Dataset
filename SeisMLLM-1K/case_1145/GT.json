@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Interior residential features such as windows and furniture visible.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete walls with visible cracks and damage.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or building off foundation visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Shear and flexural cracks visible in concrete beams and walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage observed."
+  },
+  "9_image_descriptions": {
+    "E6_C030_I01.jpg": "Shear and flexural cracks visible near a window frame, indicating moderate structural distress.",
+    "E6_C030_I02.jpg": "Cracks visible on the wall above a doorway, suggesting moderate damage to the concrete frame.",
+    "E6_C030_I03.jpg": "Exposed concrete with visible cracks above a doorway, indicating moderate structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\030",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:12:56",
+  "case_index": 791,
+  "case_id": "030",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

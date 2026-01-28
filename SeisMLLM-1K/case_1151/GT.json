@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential features such as windows, curtains, and a front entrance are visible.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Timber-masonry load-bearing walls with visible plaster and wooden flooring.",
+    "category": "Other",
+    "construction_type_other": "Timber-masonry"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation settlement visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and damage to plaster and masonry walls are visible, including localized material loss."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no conditions are evaluated as severe, the building is safe for inspection according to Table 31 logic."
+  },
+  "9_image_descriptions": {
+    "E6_C036_I01.jpg": "Exterior view of a single-story residential building with timber-masonry construction. Minor cracks are visible on the plastered walls, but no significant structural distress is apparent.",
+    "E6_C036_I02.jpg": "Interior view showing a timber-masonry wall with plaster damage and localized material loss. Cracks are visible but do not indicate severe structural failure.",
+    "E6_C036_I03.jpg": "Interior view of a plastered wall with extensive cracking and exposed timber elements. Localized material loss is evident, but the structural integrity of the wall appears intact."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\036",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:15:16",
+  "case_index": 797,
+  "case_id": "036",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The buildings appear to be residential, with visible balconies, doors, and windows typical of dwellings.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The images show various masonry construction types, including unconfined adobe masonry, unconfined brick masonry, and confined brick masonry with visible concrete tie-columns.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or buildings off their foundation is visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment are observed in the buildings."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible racking damage, diagonal cracks, or other structural damage is apparent in the walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other potential falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement, fissures, or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions were found in any of the evaluated criteria, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E12_C026_I01.jpg": "Exterior view of a single-story adobe masonry building with a tiled roof and a two-story adjacent structure. No visible structural damage.",
+    "E12_C026_I02.jpg": "Exterior view of a two-story unconfined brick masonry building with balconies. No visible structural damage.",
+    "E12_C026_I03.jpg": "Exterior view of a two-story brick masonry building with tie beams and balconies. No visible structural damage.",
+    "E12_C026_I04.jpg": "Exterior view of a two-story confined brick masonry building with visible concrete tie-columns. No visible structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\026",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:53:47",
+  "case_index": 1021,
+  "case_id": "026",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

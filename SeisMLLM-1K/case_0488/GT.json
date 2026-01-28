@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Classroom with desks and chairs, indicating a school environment.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Interior partition wall with hollow clay tile construction.",
+    "category": "Other",
+    "construction_type_other": "Hollow clay tile partition"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Partial collapse of an interior partition wall is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Shear crack propagating from the corner of the window opening."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of falling hazards like chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "General damage to interior walls without significant hazards."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Localized moderate damage to interior walls and partitions suggests restricted use."
+  },
+  "9_image_descriptions": {
+    "E17_C044_I01.jpg": "Partial collapse of an interior partition wall with visible hollow clay tiles.",
+    "E17_C044_I02.jpg": "Interior view showing damage to walls and ceiling with debris on the floor.",
+    "E17_C044_I03.jpg": "Classroom with shear crack near window and minor ceiling damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\044",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:45:20",
+  "case_index": 1253,
+  "case_id": "044",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

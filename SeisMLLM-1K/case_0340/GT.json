@@ -1,0 +1,69 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have multiple floors with a mix of residential and commercial usage, as indicated by storefronts and balconies.",
+    "category": "Other",
+    "primary_occupation_other": "Mixed-use (Residential and Commercial)"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with visible columns and beams, and masonry infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 10,
+    "under_ground": 1
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or total collapse, or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking and damage observed in masonry walls and facade elements."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant damage to parapet walls and facade elements, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Severe, but the structure appears stable overall, the building must be posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E13_C076_I01.jpg": "Interior view showing reinforced concrete columns and beams with no visible structural distress.",
+    "E13_C076_I02.jpg": "Another interior view showing reinforced concrete columns and beams; no significant damage visible.",
+    "E13_C076_I03.jpg": "Exterior view of the building entrance with visible damage to parapet walls and facade elements.",
+    "E13_C076_I04.jpg": "Post-inspection form indicating the building's mixed-use function and structural assessment details.",
+    "E13_C076_I05.jpg": "Elevated view of the building's exterior showing no visible leaning but some facade damage.",
+    "E13_C076_I06.jpg": "Close-up of the building's facade showing damaged parapet and facade elements, posing a falling hazard."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\076",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:38:44",
+  "case_index": 1105,
+  "case_id": "076",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

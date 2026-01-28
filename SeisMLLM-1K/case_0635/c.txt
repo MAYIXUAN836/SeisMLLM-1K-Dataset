@@ -1,0 +1,10 @@
+{
+  "House Location and Property": "邛崃市高何镇靖口村 5 组, 自建房屋。",
+  "Structural Type and Construction Year": "砖混结构, 建于 2006 年。",
+  "Structural Features": {
+    "Roof and Floor Slab": "现浇楼板, 现浇屋面。",
+    "Wall": "纵墙厚 240mm, 横墙厚 240mm; 山墙厚 240mm。",
+    "Construction Measures": "有圈梁, 有构造柱。"
+  },
+  "Structural Damage Condition": "结构顶层中间女儿墙根部与主体结构之间产生裂缝, 且二者相连的构造柱发生受压破坏。"
+}

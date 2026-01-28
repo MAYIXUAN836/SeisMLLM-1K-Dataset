@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "26 May 2019 Laguna Peru Earthquake",
+    "date": "2019-05-26",
+    "magnitude": "Mw 8.0",
+    "location": "Eastern Perú"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Healthcare facility with visible signage and entrance ramp.",
+    "category": "Emergency services"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with visible metal roofing and infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of roof structure and visible damage to supporting columns."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to determine leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Visible damage to walls and structural elements supporting the roof."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached roofing and structural elements pose falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E11_C016_I01.jpg": "Partial collapse of the roof structure with visible damage to supporting columns and detached metal roofing. Structural elements are visibly compromised, posing a significant falling hazard."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\11-26 May 2019 Laguna Peru Earthquake\\016",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:38:50",
+  "case_index": 985,
+  "case_id": "016",
+  "earthquake_folder": "11-26 May 2019 Laguna Peru Earthquake",
+  "category": "11-26 May 2019 Laguna Peru Earthquake"
+}

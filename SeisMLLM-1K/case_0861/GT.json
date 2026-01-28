@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential buildings with visible balconies and decorative elements.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with decorative stone elements and tiled roofs.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse or foundation displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to walls with large holes, broken masonry, and displaced elements."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Detached decorative elements and broken parapets visible in some areas."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Significant rockfall debris on roads and near buildings, indicating slope instability."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage observed in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 5 (Ground slope movement) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C318_I01.jpg": "Overview of residential buildings with rockfall debris scattered on the road and minor damage to walls.",
+    "E2_C318_I02.jpg": "Close-up of a residential building showing large holes in masonry walls and displaced elements.",
+    "E2_C318_I03.jpg": "Damaged brick wall with large holes and rockfall debris impacting the structure.",
+    "E2_C318_I04.jpg": "Severe damage to masonry walls with broken sections and visible rockfall debris nearby."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\318",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:59:51",
+  "case_index": 507,
+  "case_id": "318",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

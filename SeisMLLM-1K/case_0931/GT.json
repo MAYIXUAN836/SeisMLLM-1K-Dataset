@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential structure with a commercial facade on the ground floor, as indicated by the street-facing windows and signage.",
+    "category": "Other residential"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of concrete masonry blocks with visible tie-columns and ring beams, indicating a confined masonry construction type.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "The first-floor facade shows outward displacement, and there is significant cracking in walls, but no complete collapse is observed."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or story misalignment is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking is visible on the second-floor walls and interior walls, including diagonal and X-pattern cracks, indicating significant structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "The facade shows areas with detached masonry cladding, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground cracking or slope movement is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damage are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E3_C067_I01.jpg": "Interior view showing diagonal and X-pattern cracks on plastered walls, with debris scattered on the floor.",
+    "E3_C067_I02.jpg": "Exterior view of a four-story building with visible cracking along the facade and displaced masonry cladding on the ground floor.",
+    "E3_C067_I03.jpg": "Close-up of the ground floor showing severe cracking in masonry walls and partial detachment of cladding.",
+    "E3_C067_I04.jpg": "Interior view showing extensive damage to walls, including large cracks and exposed masonry, with visible deformation around structural joints."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\067",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 00:34:23",
+  "case_index": 577,
+  "case_id": "067",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

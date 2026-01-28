@@ -1,0 +1,7 @@
+{
+  "Location_and_Attribute": "芦山县双石镇双河村新街组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "构筑物 (门垛), 建造年代不详。",
+  "Structural_Features": "砖砌柱。",
+  "Structural_Damage_Status": "左侧门垛未破坏, 右侧门垛由于与相邻建筑物碰撞而顶部发生破坏。",
+  "Simple_Analysis_of_Damage_Cause": "右侧门垛由于与相邻建筑物碰撞, 接触部分发生扭转, 故而顶部发生破坏。"
+}

@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as a police station with signage indicating its function.",
+    "category": "Government"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a three-story concrete frame building with visible infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "The building's primary structure appears intact with no visible signs of collapse or foundation displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the structure is observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking is visible in the interior infill walls, indicating racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached parapets or other falling elements are observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "Uneven ground settlement near the entrance has caused visible cracks in the ground surface."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluation categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E1_C149_I01.jpg": "Exterior view of a three-story concrete frame building with infill walls. No visible structural damage is observed on the exterior.",
+    "E1_C149_I02.jpg": "Interior view showing a wall with visible cracking near the ceiling, indicating moderate racking damage to the infill walls.",
+    "E1_C149_I03.jpg": "Close-up of ground settlement near the entrance, showing cracks and uneven surfaces in the flooring."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\149",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:59:45",
+  "case_index": 149,
+  "case_id": "149",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

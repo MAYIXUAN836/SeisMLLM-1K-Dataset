@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Interior hallway with painted walls, possibly a public or institutional building.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Painted masonry walls with visible cracks.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or building off foundation visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks visible on interior walls indicating in-plane loading."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of falling hazards like chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages visible."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage observed but does not compromise overall structural stability."
+  },
+  "9_image_descriptions": {
+    "E17_C061_I01.jpg": "Diagonal cracks on interior masonry wall, indicative of in-plane loading damage.",
+    "E17_C061_I02.jpg": "View of a hallway with visible out-of-plane infill failure, suggesting interaction with in-plane forces."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\061",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:52:11",
+  "case_index": 1270,
+  "case_id": "061",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

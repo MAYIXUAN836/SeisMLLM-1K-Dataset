@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have a residential or mixed-use function with visible windows and a sloped roof.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features masonry walls and a sloped roof with visible damage to chimneys.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation settlement is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide sufficient evidence to assess building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No visible racking or structural damage to walls is observed in the provided images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant damage to chimneys is visible, with partial collapse and potential for falling debris."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Chimney, parapet, or other falling hazard) is evaluated as Severe, the building is posted as Restricted Use according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E17_C095_I01.jpg": "Two damaged chimneys on a sloped roof, with significant portions of the masonry missing, indicating potential falling hazards.",
+    "E17_C095_I02.jpg": "The exterior wall of a two-story building with no visible structural damage to the wall surface.",
+    "E17_C095_I03.jpg": "An aerial view of a two-story building with a sloped roof showing multiple roof penetrations and damaged chimneys, marked with annotations."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\095",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 06:05:28",
+  "case_index": 1304,
+  "case_id": "095",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

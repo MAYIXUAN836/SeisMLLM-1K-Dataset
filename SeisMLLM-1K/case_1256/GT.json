@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a hotel with multiple stories and visible scaffolding, indicating ongoing interior renovation.",
+    "category": "Other",
+    "primary_occupation_other": "Hotel under renovation"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with visible columns and infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The building shows partial collapse with significant structural damage to the lower floors and visible debris."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The entire structure is visibly leaning, indicating a soft-story failure and loss of vertical alignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive structural damage is visible, including deformation of walls and loss of integrity in the lower stories."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Scaffolding and parts of the façade appear to be at risk of detachment, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1 (Collapse), 2 (Leaning), and 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C068_I01.jpg": "A five-story reinforced concrete frame building is leaning significantly to one side, with visible partial collapse of the lower floors. Scaffolding and debris are present around the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\068",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:01:58",
+  "case_index": 902,
+  "case_id": "068",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

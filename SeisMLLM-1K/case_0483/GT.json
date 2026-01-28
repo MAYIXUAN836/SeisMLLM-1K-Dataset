@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building contains office furniture and shelving, indicating it is used for administrative or office purposes.",
+    "category": "Offices"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building features masonry infill walls and concrete structural elements visible in the exterior and interior views.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse, nor any signs of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of leaning or vertical misalignment in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks in masonry infills and horizontal cracks along masonry-concrete joints are visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible signs of detachment or falling hazards related to chimneys, parapets, or other exterior elements."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are apparent in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate racking damage to walls (Condition 3) suggests localized structural instability, warranting restricted use."
+  },
+  "9_image_descriptions": {
+    "E17_C039_I01.jpg": "Exterior view of a three-story building with masonry infill walls and concrete structural elements. No apparent collapse or leaning is visible.",
+    "E17_C039_I02.jpg": "Interior view of a staircase showing diagonal cracks in masonry walls and ceiling joints, indicating moderate structural damage.",
+    "E17_C039_I03.jpg": "Interior view near an elevator shaft showing vertical cracks in the wall adjacent to the elevator, suggesting localized damage.",
+    "E17_C039_I04.jpg": "Interior view of an office space with furniture and shelving. No visible structural damage is apparent in this image."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\039",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:43:16",
+  "case_index": 1248,
+  "case_id": "039",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

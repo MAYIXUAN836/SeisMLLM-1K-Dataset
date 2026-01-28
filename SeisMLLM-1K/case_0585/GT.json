@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Factory setting with visible machinery and open spaces for processing activities.",
+    "category": "Industrial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry columns with wooden roof trusses and cement tiles. Walls include thick brick infill at the base and thinner brick infill above.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of the roof trusses and failure of the 13th wooden roof truss observed."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or leaning visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracks in the gable wall and fractures in the columns are visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Roof tiles and structural debris are at risk of falling."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other hazards or damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E2_C041_I01.jpg": "Exterior view of a single-story industrial building with brick masonry columns and wooden roof trusses. Visible damage includes partial collapse of roof trusses and cracks in columns.",
+    "E2_C041_I02.jpg": "Interior view showing wooden roof trusses, some of which have collapsed or are severely damaged. Brick masonry walls exhibit diagonal cracks and fractures."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\041",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:39:35",
+  "case_index": 230,
+  "case_id": "041",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

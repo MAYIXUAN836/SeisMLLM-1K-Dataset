@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage on ground floor.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete columns with masonry infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Deformed and broken beams visible, but structure remains standing."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No significant leaning observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant cracks in masonry walls and deformed beams."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Emergency shoring indicates potential falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E12_C030_I01.jpg": "Cracks and deformed beam visible on the exterior, indicating structural distress.",
+    "E12_C030_I02.jpg": "Emergency shoring and broken beam visible, with significant debris around the building."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\030",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:55:24",
+  "case_index": 1025,
+  "case_id": "030",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

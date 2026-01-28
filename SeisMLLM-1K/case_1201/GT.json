@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a high-rise under construction, as indicated by the structural elements and lack of finishing.",
+    "category": "Other",
+    "primary_occupation_other": "Under construction"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of reinforced concrete elements, including beams, columns, and slabs, visible in the collapsed debris.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 30,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The building has completely collapsed, with extensive debris and no intact structural elements visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide evidence of leaning as the structure is fully collapsed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "The debris shows significant structural damage, with broken concrete elements and exposed reinforcement."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of detached chimneys, parapets, or other falling hazards is visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not show evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E9_C013_I01.jpg": "The image shows a completely collapsed high-rise building under construction, with extensive debris consisting of broken concrete slabs, beams, and exposed reinforcement. Rescue personnel are visible in the foreground.",
+    "E9_C013_I02.jpg": "The image provides a closer view of the collapsed structure, showing significant structural failure with large piles of concrete debris and exposed steel reinforcement. No intact sections of the building are visible.",
+    "E9_C013_I03.jpg": "A map illustrating the distance between the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, approximately 650 miles (1050 km) apart.",
+    "E9_C013_I04.jpg": "A duplicate map showing the same information: the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, with a distance of approximately 650 miles (1050 km)."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\013",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:37:40",
+  "case_index": 847,
+  "case_id": "013",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

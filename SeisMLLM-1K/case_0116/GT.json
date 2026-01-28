@@ -1,0 +1,69 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story hotel with visible guest rooms and corridors.",
+    "category": "Other",
+    "primary_occupation_other": "Hotel"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a concrete frame with infill walls and large glass windows.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "No complete collapse observed, but the top floor shows significant damage with walls nearing partial collapse."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible evidence of global tilting or story misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking observed around window and door openings, with some walls showing near-complete failure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Damaged parapets and wall sections pose a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damages are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C116_I01.jpg": "Exterior view of a four-story concrete frame building with infill walls. Cracks are visible around window frames, and some sections of the walls show significant damage.",
+    "E1_C116_I02.jpg": "Interior corridor with visible diagonal and vertical cracks on walls. Some plaster has fallen, exposing the underlying masonry.",
+    "E1_C116_I03.jpg": "Interior view of a guest room with severe wall cracking near the window. Plaster has detached, revealing underlying structural damage.",
+    "E1_C116_I04.jpg": "Interior corridor with extensive damage to walls. Large sections of plaster have fallen, exposing masonry, and debris is scattered on the floor.",
+    "E1_C116_I05.jpg": "Interior view of a room with cracks radiating from the corner of a window. The damage exposes the underlying masonry.",
+    "E1_C116_I06.jpg": "Close-up of a damaged wall section near a window. Cracks have spread extensively, and masonry is exposed in several areas."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\116",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:43:38",
+  "case_index": 116,
+  "case_id": "116",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

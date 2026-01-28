@@ -1,0 +1,7 @@
+{
+  "Location_and_Attribute": "宝兴县灵关镇。",
+  "Structure_Type_and_Construction_Age": "砖混结构, 2010 年建造",
+  "Structural_Characteristics": "六层砖混结构, 现浇楼板, 有构造柱",
+  "Structural_Damage_Condition": "倒毁, 三层局部倒塌, 造成上部各层整体塌落。",
+  "Brief_Analysis_of_Destruction_Cause": ""
+}

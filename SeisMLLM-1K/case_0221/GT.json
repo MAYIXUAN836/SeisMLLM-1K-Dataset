@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "26 May 2019 Laguna Peru Earthquake",
+    "date": "2019-05-26",
+    "magnitude": "Mw 8.0",
+    "location": "Eastern Perú"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has architectural features consistent with a church, including a religious emblem and pointed arched windows.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure has masonry walls with visible cracks and a corrugated metal roof.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or complete collapse or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or leaning of the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks are visible on the facade of the building, particularly near the arched windows and upper sections."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible signs of detached or falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not show the ground or any evidence of slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, the building is structurally compromised but not severely unsafe."
+  },
+  "9_image_descriptions": {
+    "E11_C015_I01.jpg": "The facade of a two-story unreinforced masonry church shows diagonal cracking near arched windows and upper sections. The corrugated metal roof appears intact, and no significant structural collapse is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\11-26 May 2019 Laguna Peru Earthquake\\015",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:38:26",
+  "case_index": 984,
+  "case_id": "015",
+  "earthquake_folder": "11-26 May 2019 Laguna Peru Earthquake",
+  "category": "11-26 May 2019 Laguna Peru Earthquake"
+}

@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The first building appears to be residential with shuttered windows and a central entrance, while the second building shows balconies and a ground-floor commercial area.",
+    "category": "Other residential"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The first building is constructed with unreinforced masonry (URM) featuring plastered walls, while the second building has a concrete frame structure with visible balconies and infill walls.",
+    "category": "Other"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or foundation settlement visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment observed in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of racking or structural damage visible in the images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible falling hazards such as detached chimneys or parapets observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "None",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluation criteria, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E17_C004_I01.jpg": "Exterior view of a two-story unreinforced masonry building with plastered walls, shuttered windows, and a central entrance. No apparent structural distress visible.",
+    "E17_C004_I02.jpg": "Exterior view of a multi-story concrete frame building with balconies and a ground-floor commercial area. No visible structural damage or distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\004",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:29:32",
+  "case_index": 1213,
+  "case_id": "004",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

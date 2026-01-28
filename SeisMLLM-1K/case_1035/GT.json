@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Kahramanmaras, Türkiye, Mw 7.8 Earthquake",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Kahramanmaras, Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building exhibits features of a residential structure with visible balconies and windows typical of apartments.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building is constructed with confined masonry, evident from the brick infill walls constrained by visible concrete tie-columns and beams.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 6,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse is visible in the lower floors, with significant structural failure and missing sections of walls."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide clear evidence of global tilting or leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive diagonal and X-pattern cracks are visible across the facade, indicating severe racking damage to the walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached facade elements and broken balconies pose a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Severe",
+      "description": "The stairwell collapse, as described in the text, has trapped occupants inside the building."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse), Condition 3 (Racking Damage), Condition 4 (Falling Hazard), and Condition 6 (Stairwell Collapse) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E4_C049_I01.jpg": "A six-story residential building with significant partial collapse on the lower floors. Extensive damage to walls is visible, including large sections of missing masonry and severe cracking.",
+    "E4_C049_I02.jpg": "A six-story residential building with widespread diagonal cracks and X-pattern damage on the facade. Balconies and facade elements are detached, posing falling hazards."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake\\049",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:24:16",
+  "case_index": 681,
+  "case_id": "049",
+  "earthquake_folder": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake",
+  "category": "4-Kahramanmaraş, Türkiye, Mw 7.8 Earthquake"
+}

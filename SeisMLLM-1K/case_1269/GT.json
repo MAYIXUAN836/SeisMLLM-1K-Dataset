@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a hospital, as indicated by signage and the layout of the structure.",
+    "category": "Emergency services"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of reinforced concrete walls and frames with large glass windows.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse is visible on one side of the building, with significant structural damage to the ground floor."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and structural damage are visible on the exterior walls, including large fractures and displaced sections."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached wall sections and debris pose a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E9_C081_I01.jpg": "Overview of the hospital's exterior before the earthquake, showing an intact structure with no visible damage.",
+    "E9_C081_I02.jpg": "Aerial view of the hospital complex, showing the layout of the buildings and surrounding area before the earthquake.",
+    "E9_C081_I03.jpg": "Close-up of the hospital's exterior after the earthquake, showing significant structural damage, including collapsed sections and large cracks in the walls.",
+    "E9_C081_I04.jpg": "Wide view of the hospital's exterior after the earthquake, showing extensive damage to the facade, including partial collapse and debris on the ground."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\081",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:08:31",
+  "case_index": 915,
+  "case_id": "081",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

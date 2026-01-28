@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story residential structure with balconies and windows typical of apartments.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building has reinforced concrete frames with infill walls, visible cracks on the facade, and balconies with decorative cladding.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or the building being off its foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible on the facade, particularly horizontal and diagonal cracks near the balconies and along the walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Balconies with decorative cladding show potential detachment risks due to visible cracks."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Moderate and the structure appears stable, the building is classified as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E13_C096_I01.jpg": "Close-up view of the building facade showing cracks near the base of the wall and around the window frames.",
+    "E13_C096_I02.jpg": "Wide-angle view of the building entrance with visible cracks along the facade and balconies.",
+    "E13_C096_I03.jpg": "Aerial view of the surrounding area showing dense urban development but no visible ground damage.",
+    "E13_C096_I04.jpg": "Side view of the building showing horizontal cracks along the facade and near balconies.",
+    "E13_C096_I05.jpg": "Detailed view of the building facade showing cracks near the balconies and decorative cladding.",
+    "E13_C096_I06.jpg": "Close-up view of the side wall with visible diagonal cracks near the balconies and windows."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\096",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:48:47",
+  "case_index": 1125,
+  "case_id": "096",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

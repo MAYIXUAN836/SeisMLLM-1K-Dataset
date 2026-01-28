@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The buildings appear to be residential, with visible windows and typical residential architecture.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The first building is a confined masonry structure with visible concrete tie-columns and brick infill walls. The adjacent older building is unreinforced masonry with exposed brick and plaster.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or foundation displacement is visible in the confined masonry building."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No leaning or vertical misalignment is visible in the confined masonry building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "The adjacent unreinforced masonry building shows severe damage, including exposed brick and significant plaster loss."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since the confined masonry building shows no severe damage in any condition, it is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E17_C013_I01.jpg": "A two-story confined masonry building with intact walls and windows is visible. Adjacent to it is an older unreinforced masonry building with severe plaster damage and exposed brick.",
+    "E17_C013_I02.jpg": "A single-story confined masonry building with intact brick infill walls and no visible damage. The surrounding area shows no apparent structural distress or hazards."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\013",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:33:12",
+  "case_index": 1222,
+  "case_id": "013",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

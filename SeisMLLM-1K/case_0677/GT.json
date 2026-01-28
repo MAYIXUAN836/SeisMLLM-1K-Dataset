@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Industrial machinery and materials visible inside the structure.",
+    "category": "Industrial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick columns with a metal roof supported by wooden trusses.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal cracks visible on column tops and mid-sections."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage does not compromise overall stability."
+  },
+  "9_image_descriptions": {
+    "E2_C133_I01.jpg": "Industrial structure with metal roof and brick columns. Debris scattered around, but no major structural collapse visible.",
+    "E2_C133_I02.jpg": "Close-up of column showing horizontal cracking near the top, indicating moderate structural distress.",
+    "E2_C133_I03.jpg": "Interior view with industrial equipment; columns show signs of cracking but remain upright.",
+    "E2_C133_I04.jpg": "Column with visible horizontal crack and minor spalling, surrounded by vegetation."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\133",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 22:24:07",
+  "case_index": 322,
+  "case_id": "133",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

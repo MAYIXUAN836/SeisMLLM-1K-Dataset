@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Traditional wooden structure with decorative elements and lanterns, suggesting a cultural or residential use.",
+    "category": "Other",
+    "primary_occupation_other": "Cultural/Residential"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden frame structure with brick infill walls at the base and wooden walls above.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or building displacement from its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible at the base of the brick infill walls and at the connections between wooden columns and brick walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible evidence of falling hazards such as detached chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage is visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluated categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E2_C251_I01.jpg": "Frontal view of a two-story wooden structure with decorative elements and lanterns. The structure appears intact with no visible signs of collapse or leaning.",
+    "E2_C251_I02.jpg": "Frontal view of the building, showing the tiled roof and wooden facade. No major structural damage is visible.",
+    "E2_C251_I03.jpg": "Side view of the building, showing wooden columns and brick infill walls. Cracks are visible at the base of the brick walls.",
+    "E2_C251_I04.jpg": "Close-up of the brick infill wall at the base, showing horizontal and diagonal cracks near the wooden column connections.",
+    "E2_C251_I05.jpg": "Detailed view of the wooden column and brick wall interface, showing cracks and minor separation between materials."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\251",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:22:46",
+  "case_index": 440,
+  "case_id": "251",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

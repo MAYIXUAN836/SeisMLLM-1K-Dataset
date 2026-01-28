@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential balconies and windows visible across multiple stories.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete short-limb shear walls with block infill visible in damaged areas.",
+    "category": "Concrete shear wall"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or foundation settlement visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Extensive damage to ground-floor infill walls, including exposed bricks and plaster detachment."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards related to parapets, chimneys, or balconies."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground fissures, heaving, or slope movement visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards observed in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions were observed, and structural stability is maintained despite moderate infill wall damage, the building is posted as Inspected."
+  },
+  "9_image_descriptions": {
+    "E2_C255_I01.jpg": "Overview of a five-story reinforced concrete building with intact structural elements and no visible collapse or leaning.",
+    "E2_C255_I02.jpg": "Closer view of the building showing significant damage to ground-floor infill walls, including exposed bricks and plaster detachment.",
+    "E2_C255_I03.jpg": "Detailed view of ground-floor infill wall damage, with large areas of plaster missing and bricks exposed.",
+    "E2_C255_I04.jpg": "Perspective showing multiple buildings with consistent ground-floor infill wall damage and intact upper stories.",
+    "E2_C255_I05.jpg": "View of the rear side of the building complex, showing intact structural elements and minor debris scattered on the ground."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\255",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:24:45",
+  "case_index": 444,
+  "case_id": "255",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

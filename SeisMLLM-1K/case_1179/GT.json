@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 Paratebueno Earthquake",
+    "date": "2025-06-08",
+    "magnitude": "Mw 6.4",
+    "location": "Paratebueno, Colombia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The structure appears to be an outdoor kitchen with visible cooking and storage areas.",
+    "category": "Other",
+    "primary_occupation_other": "Outdoor kitchen"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Unreinforced masonry piers supporting a corrugated metal roof and brick walls.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of masonry piers and significant damage to structural elements supporting the roof."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Roof structure appears to be leaning due to failure of supporting piers."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and disintegration of unreinforced masonry walls and piers."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Damaged masonry elements and roof components pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse), Condition 3 (Racking), and Condition 4 (Falling Hazard) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E8_C004_I01.jpg": "Close-up view of a severely damaged outdoor kitchen structure. Unreinforced masonry piers are partially collapsed, with visible disintegration of bricks. The roof structure is leaning, and debris is scattered around the area."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\8-M6.4 Paratebueno Earthquake\\004",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:27:46",
+  "case_index": 825,
+  "case_id": "004",
+  "earthquake_folder": "8-M6.4 Paratebueno Earthquake",
+  "category": "8-M6.4 Paratebueno Earthquake"
+}

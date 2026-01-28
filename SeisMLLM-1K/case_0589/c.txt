@@ -1,0 +1,6 @@
+{
+  "Location_and_Attribute": "芦山县宝盛乡河边上组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "砖混结构",
+  "Structural_Damage_Status": "两栋结构发生碰撞",
+  "Simple_Analysis_of_Damage_Cause": "两栋相邻结构层高不同导致动力性能不同, 地震中变形不协调, 发生碰撞。"
+}

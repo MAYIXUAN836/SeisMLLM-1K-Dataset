@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "26 May 2019 Laguna Peru Earthquake",
+    "date": "2019-05-26",
+    "magnitude": "Mw 8.0",
+    "location": "Eastern Perú"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The collapsed structure appears to be part of a heritage church bell tower.",
+    "category": "Historic"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is composed of unreinforced masonry with visible brick and mortar debris.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Complete collapse of the bell tower with extensive debris visible on the ground."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "The walls of the structure have completely failed, with rubble scattered across the area."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of remaining parapets or other falling hazards is visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking damage) are evaluated as Severe, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E11_C012_I01.jpg": "Collapsed remains of a heritage church bell tower with extensive unreinforced masonry debris scattered across the ground. No standing structural elements are visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\11-26 May 2019 Laguna Peru Earthquake\\012",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:37:07",
+  "case_index": 981,
+  "case_id": "012",
+  "earthquake_folder": "11-26 May 2019 Laguna Peru Earthquake",
+  "category": "11-26 May 2019 Laguna Peru Earthquake"
+}

@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a self-constructed residential house with visible windows and a rooftop structure.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is composed of confined masonry with brick walls and visible concrete tie-columns.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The rooftop structure has partially collapsed, with significant damage to the upper walls."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and wall damage are visible, particularly at the rooftop structure and external walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The rooftop structure and parapet show severe damage, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage is visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E2_C064_I01.jpg": "The rooftop structure shows partial collapse with visible cracks and damage to the upper walls.",
+    "E2_C064_I02.jpg": "Close-up view of the rooftop structure with severe cracking and partial wall collapse.",
+    "E2_C064_I03.jpg": "Side view of the building showing extensive damage to the rooftop structure and external walls.",
+    "E2_C064_I04.jpg": "The building is surrounded by temporary shelters, with visible damage to the rooftop structure and walls.",
+    "E2_C064_I05.jpg": "Distant view of the building showing the collapsed rooftop structure and surrounding area.",
+    "E2_C064_I06.jpg": "Rear view of the building showing collapsed brick walls and scattered debris."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\064",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:49:18",
+  "case_index": 253,
+  "case_id": "064",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

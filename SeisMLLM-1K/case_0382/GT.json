@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+    "date": "2019-07-04",
+    "magnitude": "Mw 6.4 / Mw 7.1",
+    "location": "Mojave Desert region, eastern California, USA"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The structure appears to be a masonry house with visible residential features.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building consists of masonry walls with visible concrete blocks and mortar joints.",
+    "category": "Reinforced masonry"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of a masonry wall is visible, with dislodged concrete blocks scattered on the ground."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "A masonry wall is visibly leaning, indicating significant structural instability."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and step-cracking patterns are visible on the walls, suggesting racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The leaning masonry wall poses a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "Cracks are visible in the ground and pavement near the structure."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 2 (Leaning) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E15_C010_I01.jpg": "A leaning masonry wall with significant damage, including dislodged concrete blocks and a large void in the structure.",
+    "E15_C010_I02.jpg": "A garage with visible cracks in the masonry walls and structural distress near the entrance.",
+    "E15_C010_I03.jpg": "Close-up of step-cracking patterns in a masonry wall, indicating structural damage.",
+    "E15_C010_I04.jpg": "Cracks visible in the pavement and ground near the building, suggesting ground movement."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\15-M6.4 and M7.1 Ridgecrest, CA Earthquakes\\010",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:57:37",
+  "case_index": 1147,
+  "case_id": "010",
+  "earthquake_folder": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+  "category": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes"
+}

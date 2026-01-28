@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Church tower and arches visible, indicating religious use.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Masonry structure with visible arches and tower.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment of the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks visible on the tower and arches indicating structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant cracks in the tower may pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 4 (Falling Hazard) is evaluated as Severe, but structure appears stable."
+  },
+  "9_image_descriptions": {
+    "E12_C023_I01.jpg": "Overview of the church with visible tower and exterior damage concentration.",
+    "E12_C023_I02.jpg": "Close-up of the church tower showing significant cracking around windows.",
+    "E12_C023_I03.jpg": "Front view of the church displaying cracks on the facade and tower.",
+    "E12_C023_I04.jpg": "Interior view showing cracks and damage to the arch structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\023",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:52:34",
+  "case_index": 1018,
+  "case_id": "023",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

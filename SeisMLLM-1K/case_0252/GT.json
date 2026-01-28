@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Large spherical storage tanks with supporting structures.",
+    "category": "Industrial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Steel frame supporting large spherical tanks.",
+    "category": "Steel frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Foundation settlements visible with gaps around base."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No apparent leaning of the structure visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks visible on supporting columns."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Significant soil fractures visible around the site."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 5 (Ground slope movement) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E12_C020_I01.jpg": "Large spherical storage tanks with visible cracks on supporting elements and gaps at the base.",
+    "E12_C020_I02.jpg": "Close-up of soil fractures indicating significant ground movement.",
+    "E12_C020_I03.jpg": "Cracks visible on vertical support columns beneath the storage tanks.",
+    "E12_C020_I04.jpg": "Multiple cracks observed on supporting columns, indicating structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\020",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:51:09",
+  "case_index": 1015,
+  "case_id": "020",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The structure appears to be a pagoda with traditional architectural elements, indicating religious use.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure includes masonry walls and traditional decorative elements, with evidence of large masonry components.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The pagoda structure has partially collapsed, with significant portions of the masonry dome missing."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Severe damage to the walls is visible, with large sections of masonry missing and structural integrity compromised."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The remaining sections of the structure, including decorative elements, appear to be at risk of falling."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C103_I01.jpg": "The image shows a partially collapsed pagoda structure with significant masonry damage. The dome is largely missing, and debris is visible around the base. Decorative elements appear damaged, and the structure is severely compromised.",
+    "E9_C103_I02.jpg": "The image shows a partially collapsed pagoda structure with significant masonry damage. The dome is largely missing, and debris is visible around the base. Decorative elements appear damaged, and the structure is severely compromised."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\103",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:18:26",
+  "case_index": 937,
+  "case_id": "103",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

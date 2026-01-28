@@ -1,0 +1,12 @@
+{
+  "Location_and_Property_Attributes": "芦山县宝盛乡杨子组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "砖混结构",
+  "Structural_Characteristics": {
+    "Structural_Dimensions": "结构长度为 8m, 宽度为 7m",
+    "Roof_and_Floor_Slab": "预制楼板, 现浇屋面",
+    "Walls": "所有墙体厚度均为 180mm",
+    "Construction_Measures": "有圈梁, 无构造柱"
+  },
+  "Structural_Damage_Status": "左侧山墙外闪, 右侧山墙出现贯穿性通透斜裂缝",
+  "Simplified_Reason_for_Damage_Analysis": "结构承重墙体厚度为 180mm, 墙体刚度较差较薄; 墙体中只设置了圈梁, 没有设置构造柱; 且砂浆强度较差, 综合以上因素, 结构的整体抗震能力较差, 在地震中发生剪切破坏。"
+}

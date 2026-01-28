@@ -1,0 +1,12 @@
+{
+  "House Location & Attributes": "芦山县双石镇双河村新街组，自建房屋。",
+  "Structural Type & Construction Age": "穿斗结构",
+  "Structural Characteristics": {
+    "Load-bearing System": "主体结构为穿斗木结构，结构前端为砖混结构。",
+    "Roof and Floor": "水泥青瓦屋面，木楼板。",
+    "Enclosing Wall": "砖围护墙。",
+    "Structural Measures": "砖混结构与木结构无有效拉结措施"
+  },
+  "Structural Damage Status": "附属的砖混结构向前倾斜，与主体结构发生分离。",
+  "Brief Analysis of Damage Cause": "该结构体系复杂，前部为砖混结构，后部为穿斗木结构，砖混部分为非封闭基础，地震中前后两部分变形不协调。"
+}

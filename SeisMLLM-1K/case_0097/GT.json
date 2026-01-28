@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a public assembly venue with signage indicating it is a theater.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The main structure includes a large-span space frame structure, while the annex (entrance hall) is a concrete frame structure.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or the building being off its foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Visible misalignment and leaning of one section of the annex structure are observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant cracking is visible in the infill walls, with horizontal cracks and damage to wall tiles."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Large sections of ceiling material have fallen, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C097_I01.jpg": "Exterior view of the theater entrance showing intact signage and structural elements. No visible collapse, but minor cracking is observed on the facade.",
+    "E1_C097_I02.jpg": "Exterior view of the annex structure showing misalignment and leaning of the building. Horizontal cracks are visible on the walls.",
+    "E1_C097_I03.jpg": "Interior view showing significant debris from fallen ceiling tiles and cracked wall tiles. Large sections of material are scattered on the floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\097",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:28:50",
+  "case_index": 97,
+  "case_id": "097",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

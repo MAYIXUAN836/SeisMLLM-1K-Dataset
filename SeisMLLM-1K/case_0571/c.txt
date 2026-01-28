@@ -1,0 +1,11 @@
+{
+  "House Location & Attributes": "芦山县双石镇石凤村黑水堰组，自建房屋。",
+  "Structural Type & Construction Age": "穿斗木结构",
+  "Structural Characteristics": {
+    "Load-bearing System": "二层穿斗木结构。",
+    "Roof and Floor": "水泥青瓦屋面，木楼板。",
+    "Enclosing Wall": "砖围护墙"
+  },
+  "Structural Damage Status": "第二层围护墙倒塌。",
+  "Brief Analysis of Damage Cause": "围护墙与木柱之间没有可靠连接，地震中砖围护墙外闪倒塌。"
+}

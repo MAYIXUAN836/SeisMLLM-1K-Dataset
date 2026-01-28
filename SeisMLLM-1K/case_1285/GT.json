@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be part of a monastery complex, with signage and decorative elements indicating religious use.",
+    "category": "Other",
+    "primary_occupation_other": "Monastery monks' quarters"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The collapsed structure shows reinforced concrete elements such as columns and beams, with infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The taller building has completely collapsed, with debris visible, and the shorter building has also collapsed due to impact."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The taller building tilted and fell onto the shorter building, causing its collapse."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive structural damage is visible, including collapsed walls and beams."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Debris from the collapse poses a falling hazard, but no specific chimneys or parapets are visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 2 (Leaning) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C097_I01.jpg": "Overview of a collapsed four-story concrete frame building with visible debris. The taller building has fallen onto a shorter structure, causing its collapse. Decorative elements of the monastery complex are visible in the foreground."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\097",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:15:45",
+  "case_index": 931,
+  "case_id": "097",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

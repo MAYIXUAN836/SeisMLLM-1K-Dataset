@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Construction site with scaffolding and adjacent educational building.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with scaffolding and brick infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible collapse or foundation settlement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks visible on interior walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No apparent falling hazards observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Ground conditions not clearly visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage observed but overall stability maintained."
+  },
+  "9_image_descriptions": {
+    "E2_C283_I01.jpg": "Exterior view of a four-story building under construction with scaffolding and adjacent school building.",
+    "E2_C283_I02.jpg": "Exterior view of a school building with visible balconies and scaffolding on adjacent structure.",
+    "E2_C283_I03.jpg": "Interior corridor with minor plaster cracking on walls, indicating moderate damage.",
+    "E2_C283_I04.jpg": "Interior wall showing diagonal cracking, suggesting moderate structural distress.",
+    "E2_C283_I05.jpg": "Wooden structure with brick infill walls, appears intact with no visible damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\283",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:42:22",
+  "case_index": 472,
+  "case_id": "283",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

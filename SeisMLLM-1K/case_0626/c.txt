@@ -1,0 +1,12 @@
+{
+  "House Location and Property": "名山县蒙顶山镇槐溪村七组，自建房屋。",
+  "Structural Type and Construction Year": "砖混结构, 1999 年修建",
+  "Structural Features": {
+    "Structural Dimensions": "结构长 10.5m, 宽 6.5m",
+    "Roof and Floor Slab": "预制楼板, 现浇屋面",
+    "Wall": "横墙厚 240mm, 纵墙厚 120mm",
+    "Construction Measures": "有圈梁, 无构造柱"
+  },
+  "Structural Damage Condition": "底层山墙与外纵墙出现贯穿性通透交叉裂缝",
+  "Brief Analysis of Damage Cause": "砂浆标号过低导致砖块黏结较差; 无构造柱及加强措施, 墙体发生剪切破坏"
+}

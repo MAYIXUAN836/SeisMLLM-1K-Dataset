@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Building under construction with visible scaffolding and incomplete structure.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with visible columns and floors under construction.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 30,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Progressive collapse initiated at upper stories with visible structural failure."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of leaning or vertical misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant structural damage visible at upper levels with collapsed sections."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets posing falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C015_I01.jpg": "Close-up view of a concrete structure under construction with visible damage and collapse at upper levels.",
+    "E9_C015_I02.jpg": "Concrete structure showing significant damage at upper stories with visible collapse.",
+    "E9_C015_I03.jpg": "Partial view of a damaged concrete building under construction with structural failure.",
+    "E9_C015_I04.jpg": "Overview of the upper section of a building under construction with visible collapse and structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\015",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:38:31",
+  "case_index": 849,
+  "case_id": "015",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

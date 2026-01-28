@@ -1,0 +1,6 @@
+{
+  "house_location_and_attributes": "芦山县太平镇正街，自建房屋",
+  "structure_type_and_construction_year": "三层底框架结构，建于 2002 年",
+  "structural_damage_situation": "连梯与主体结构发生碰撞",
+  "brief_analysis_of_damage_cause": "连梯与主体的结构体系不同导致动力性能不同，导致连接处发生碰撞破坏"
+}

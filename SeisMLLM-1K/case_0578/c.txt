@@ -1,0 +1,14 @@
+{
+  "House Location and Property": "芦山县太平镇，自建房屋",
+  "Structural Type and Construction Age": "钢筋混凝土框架结构，2012 年修建",
+  "Structural Characteristics": {
+    "Structure Size": {
+      "Structure Length": "15m",
+      "Width": "10m"
+    },
+    "Roof and Floor": "现浇楼板和屋面",
+    "Column Cross-Section": "450mm×450mm",
+    "Walls": "空心砖"
+  },
+  "Structural Damage Status": "底层 1 根边柱柱顶被剪断，混凝土剥落出现交叉裂缝。"
+}

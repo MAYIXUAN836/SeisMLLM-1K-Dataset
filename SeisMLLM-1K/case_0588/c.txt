@@ -1,0 +1,6 @@
+{
+  "Location_and_Attribute": "芦山县太平镇胜利村上场口组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "3层砖混结构",
+  "Structural_Damage_Status": "右侧结构顶层墙体由于碰撞造成局部倒塌",
+  "Simple_Analysis_of_Damage_Cause": "相邻两栋建筑高度不一致导致动力性能不同, 地震中变形不协调, 发生碰撞, 造成连接处墙体发生碰撞破坏"
+}

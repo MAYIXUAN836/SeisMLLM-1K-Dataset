@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "School buildings with visible classrooms and associated facilities.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with infill walls and large column dimensions.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of collapse or foundation settlement in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear signs of leaning or vertical misalignment observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal cracks at column heads, shear damage to some frame columns, and cracks in infill walls are visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of detached chimneys, parapets, or other falling hazards observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No signs of ground slope movement or cracking are visible."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Localized beam damage due to collision between adjacent buildings is observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate racking damage to walls and localized beam damage indicate restricted use is necessary for safety."
+  },
+  "9_image_descriptions": {
+    "E2_C127_I01.jpg": "Exterior view of a school building with visible windows and structural elements; no apparent signs of collapse.",
+    "E2_C127_I02.jpg": "Exterior view of a school building with banners and fencing; no visible structural distress.",
+    "E2_C127_I03.jpg": "Interior courtyard of the school showing peeling plaster and minor superficial damage to walls.",
+    "E2_C127_I04.jpg": "Close-up of infill wall damage near a window, showing cracks and exposed masonry.",
+    "E2_C127_I05.jpg": "Side view of a multi-story school building; no visible collapse or leaning observed.",
+    "E2_C127_I06.jpg": "Interior stairwell with cracks visible on the wall near the landing."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\127",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 22:21:00",
+  "case_index": 316,
+  "case_id": "127",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

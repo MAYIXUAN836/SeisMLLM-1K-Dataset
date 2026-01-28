@@ -1,0 +1,1 @@
+Partially collapsed hospital building in a soft-story style might be caused by the presence of an open lobby with higher height in the first floor of the building with substantially lower stiffness relative to upper stories.

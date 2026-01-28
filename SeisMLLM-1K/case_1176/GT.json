@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 Paratebueno Earthquake",
+    "date": "2025-06-08",
+    "magnitude": "Mw 6.4",
+    "location": "Paratebueno, Colombia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Single-family residential structures with visible living spaces and domestic features.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Unreinforced masonry walls with visible brick and mortar construction; no concrete tie-columns or reinforcement observed.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Complete collapse of sections of the unreinforced masonry walls and roof structures is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting is discernible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive structural damage with collapsed walls and debris scattered around the site."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant debris and structural elements, such as roof sections and wall fragments, pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1 (Collapse) and 3 (Racking) are evaluated as Severe, and Condition 4 (Falling Hazard) is also Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E8_C001_I01.jpg": "A collapsed single-story unreinforced masonry house with extensive debris, including fallen walls and roof sections. Yellow caution tape surrounds the site.",
+    "E8_C001_I02.jpg": "A single-story unreinforced masonry house with severe structural damage. Large sections of walls and roof have collapsed, and debris is scattered around the area."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\8-M6.4 Paratebueno Earthquake\\001",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:26:27",
+  "case_index": 822,
+  "case_id": "001",
+  "earthquake_folder": "8-M6.4 Paratebueno Earthquake",
+  "category": "8-M6.4 Paratebueno Earthquake"
+}

@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story residential structure with large windows and balconies.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The exterior shows masonry walls painted red, with large window openings. Interior images show plastered walls with visible cracks.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of partial or complete collapse or foundation displacement is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of leaning or vertical misalignment are observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and plaster damage are visible on interior walls, indicating moderate racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of detached chimneys, parapets, or other falling hazards are observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damage are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluation categories, the building is deemed safe for inspection according to Table 31 logic."
+  },
+  "9_image_descriptions": {
+    "E13_C025_I01.jpg": "A satellite view of a neighborhood showing multiple buildings. No structural damage is visible from this perspective.",
+    "E13_C025_I02.jpg": "A close-up of an interior wall with a diagonal crack running across the plaster surface. No structural collapse is visible.",
+    "E13_C025_I03.jpg": "An interior wall with exposed brick and plaster damage, showing a diagonal crack. No signs of severe structural damage are visible.",
+    "E13_C025_I04.jpg": "The exterior of a four-story masonry building painted red, with large windows. No visible signs of collapse or leaning.",
+    "E13_C025_I05.jpg": "An interior wall with a diagonal crack running across the plaster surface. No signs of severe structural damage are visible.",
+    "E13_C025_I06.jpg": "An interior wall with a diagonal crack and peeling plaster. No visible signs of severe structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\025",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:10:38",
+  "case_index": 1054,
+  "case_id": "025",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

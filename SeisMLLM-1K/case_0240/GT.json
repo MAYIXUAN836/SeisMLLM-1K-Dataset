@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is under construction, with scaffolding and incomplete structural elements visible.",
+    "category": "Other",
+    "primary_occupation_other": "Under construction"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with visible reinforced concrete columns and beams; masonry infill walls showing cracking.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 7,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking observed in masonry infill walls, indicating shear deformation."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Ground slope movement or cracking is not visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no conditions are evaluated as Severe, the building is safe for inspection according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E12_C008_I01.jpg": "Exterior view of a seven-story concrete frame building under construction. Masonry infill walls show cracking, but no signs of collapse or leaning are visible.",
+    "E12_C008_I02.jpg": "Another exterior view of the same building, showing cracking in masonry infill walls. No evidence of collapse, leaning, or other hazards visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\008",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:46:09",
+  "case_index": 1003,
+  "case_id": "008",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

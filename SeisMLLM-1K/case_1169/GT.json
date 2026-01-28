@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Aegean Sea Earthquake",
+    "date": "2020-10-30",
+    "magnitude": "Mw 7.0",
+    "location": "Izmir, Turkey & Néon Karlovásion, Greece"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be an educational center with classrooms and desks visible in interior images.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure includes red brick masonry walls with concrete framing visible around windows.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or the building being off its foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of leaning or vertical misalignment in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant damage to interior and exterior walls, including large breaches and dislodged bricks, is visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Debris from wall damage is scattered on the ground, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking damage) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E7_C014_I01.jpg": "Exterior view showing a pile of dislodged bricks and debris scattered on the ground near the building facade.",
+    "E7_C014_I02.jpg": "Interior view of a classroom with a large breach in the wall, exposing bricks and rubble on the floor.",
+    "E7_C014_I03.jpg": "Interior view of a classroom with significant wall damage, including a large opening and scattered debris across the floor.",
+    "E7_C014_I04.jpg": "Exterior view showing damage to the brick masonry wall near windows, with debris accumulated on the ground."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\7-Aegean Sea Earthquake\\014",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:23:24",
+  "case_index": 815,
+  "case_id": "014",
+  "earthquake_folder": "7-Aegean Sea Earthquake",
+  "category": "7-Aegean Sea Earthquake"
+}

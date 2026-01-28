@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential balconies visible on exterior, interior living spaces shown.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with infill walls showing significant cracking.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 7,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence to assess building leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Severe cracking and damage to infill walls visible on multiple floors."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E13_C010_I01.jpg": "Severe diagonal cracking at the corner of a wall, exposing internal materials and suggesting significant structural distress.",
+    "E13_C010_I02.jpg": "Aerial view of the neighborhood, no specific structural damage visible from this perspective.",
+    "E13_C010_I03.jpg": "Interior view showing severe cracking around a window frame, with infill wall damage.",
+    "E13_C010_I04.jpg": "Exterior view of a multi-story building with extensive cracking and damage to the facade.",
+    "E13_C010_I05.jpg": "Street view of a multi-story residential building with no apparent structural distress visible.",
+    "E13_C010_I06.jpg": "Close-up of the building facade showing severe cracking and damage to the exterior walls."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\010",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:02:51",
+  "case_index": 1039,
+  "case_id": "010",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

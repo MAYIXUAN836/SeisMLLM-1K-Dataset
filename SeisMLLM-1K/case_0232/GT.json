@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "26 May 2019 Laguna Peru Earthquake",
+    "date": "2019-05-26",
+    "magnitude": "Mw 8.0",
+    "location": "Eastern Perú"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show a room with shelves and cabinets containing medicines, indicating it is a medical storage or pharmacy.",
+    "category": "Emergency services"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The walls appear to be tiled and plastered, with no visible structural elements such as beams or columns.",
+    "category": "Other",
+    "construction_type_other": "Interior room with tiled walls, construction type not visible"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or foundation settlement is visible in the interior images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide evidence of leaning or vertical misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible cracks or structural damage to the walls are observed in the images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No falling hazards such as detached chimneys or parapets are visible in the interior images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The interior images do not show any evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Medicines and other contents have fallen from shelves, indicating moderate non-structural damage caused by ground shaking."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe structural damage or hazards are observed, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E11_C026_I01.jpg": "Interior view of a medical storage room with medicines scattered on the floor, indicating non-structural damage. Shelves and cabinets remain intact.",
+    "E11_C026_I02.jpg": "Closer view of the same medical storage room showing a large number of medicines and supplies displaced onto the floor. No visible structural damage to walls or fixtures."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\11-26 May 2019 Laguna Peru Earthquake\\026",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:42:37",
+  "case_index": 995,
+  "case_id": "026",
+  "earthquake_folder": "11-26 May 2019 Laguna Peru Earthquake",
+  "category": "11-26 May 2019 Laguna Peru Earthquake"
+}

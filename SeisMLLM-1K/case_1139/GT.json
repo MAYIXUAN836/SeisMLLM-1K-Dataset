@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Images show retail stores with shelves containing various goods, including ceramics, food items, and hardware supplies.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "No structural elements such as walls, columns, or beams are visible in the images, as they focus on interior retail spaces.",
+    "category": "Not visible from the provided images"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of partial or complete collapse is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No indication of leaning or vertical misalignment is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No visible structural damage such as cracks or racking in walls is evident in the images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other exterior falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Nonstructural damage is observed, including fallen and broken merchandise such as ceramics, food items, and hardware supplies."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since all structural conditions are evaluated as 'Not visible from the provided images' or 'Minor/none,' the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E6_C024_I01.jpg": "Interior view of a retail store showing broken ceramic items scattered on the floor, with shelves still intact.",
+    "E6_C024_I02.jpg": "Interior view of a warehouse-like retail store with collapsed shelves and scattered packaged goods on the floor.",
+    "E6_C024_I03.jpg": "Interior view of a hardware store with fallen merchandise, including small items and containers, scattered across the floor.",
+    "E6_C024_I04.jpg": "Interior view of a grocery store with displaced and fallen packaged goods visible on the floor near intact shelves."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\024",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:09:54",
+  "case_index": 785,
+  "case_id": "024",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

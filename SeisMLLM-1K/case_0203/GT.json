@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The buildings are identified as schools based on signage and layout.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Masonry walls with visible plaster finish and traditional tiled roofs; reinforced concrete elements are visible in some structures.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or foundation displacement in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and wall separation are visible in interior images, indicating racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached parapet sections and roof elements are visible, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Minor/none",
+      "description": "No significant ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are apparent in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling hazard) is evaluated as Severe but the structure appears stable overall, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E10_C014_I01.jpg": "Overview of a school building with intact walls and minor visible damage to external features. No apparent structural distress visible.",
+    "E10_C014_I02.jpg": "Closer view of the school entrance showing intact walls and minor cracking in the pavement. No significant structural damage visible.",
+    "E10_C014_I03.jpg": "Interior view showing diagonal cracks on plastered walls near stairs, indicating moderate racking damage.",
+    "E10_C014_I04.jpg": "Exterior view of a school building with detached parapet sections and roof elements, posing a falling hazard.",
+    "E10_C014_I05.jpg": "Wide view of a school building with intact masonry walls and traditional tiled roof. No visible signs of collapse or leaning."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\014",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:30:50",
+  "case_index": 966,
+  "case_id": "014",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

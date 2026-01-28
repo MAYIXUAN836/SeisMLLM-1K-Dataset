@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have a mixed-use layout with residential features and commercial storefronts visible on the ground floor.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure exhibits a bottom-frame masonry design with a concrete frame on the ground floor and masonry walls on the upper floors.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of partial or complete collapse or foundation settlement is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of global tilt or inter-story drift are observed in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks are visible on interior walls, indicating racking damage likely caused by seismic forces."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground fissures, heaving, or slope movement is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed, the building is deemed safe for inspection according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E13_C040_I01.jpg": "Interior wall showing diagonal cracks extending from the floor to the upper portion, indicating racking damage. Electrical outlet and wiring are visible but unaffected.",
+    "E13_C040_I02.jpg": "Interior wall with diagonal cracking near a light switch, suggesting moderate structural distress. No signs of severe damage or detachment.",
+    "E13_C040_I03.jpg": "Exterior view of a five-story building with a bottom-frame masonry design. No visible signs of collapse or leaning are observed.",
+    "E13_C040_I04.jpg": "Aerial view of the building's location within a dense urban area. No visible ground cracking or slope movement is apparent."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\040",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:17:51",
+  "case_index": 1069,
+  "case_id": "040",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

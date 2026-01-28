@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a public assembly venue with decorative features and signage indicating its use as a theater.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a large-span space frame roof supported by reinforced concrete walls and columns.",
+    "category": "Other",
+    "construction_type_other": "Space frame structure with reinforced concrete components"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation displacement is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or story misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible at the connections between walls and the space frame roof, and some internal wall sections show cracking and damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Portions of the upper wall have collapsed, and there is visible debris near the building."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damage are observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is deemed to have localized damage and potential falling hazards, warranting restricted use."
+  },
+  "9_image_descriptions": {
+    "E1_C096_I01.jpg": "Front view of a two-story public assembly building with decorative features. No major structural damage is visible on the exterior.",
+    "E1_C096_I02.jpg": "Close-up of the roof and wall connection showing visible cracks and minor damage to the wall surface.",
+    "E1_C096_I03.jpg": "Side view of the building showing collapsed sections of the upper wall and scattered debris on the ground.",
+    "E1_C096_I04.jpg": "Interior view showing cracks along the ceiling and walls, with some plaster detachment visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\096",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:28:22",
+  "case_index": 96,
+  "case_id": "096",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

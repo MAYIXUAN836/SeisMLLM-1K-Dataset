@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县清仁乡主街，自建房屋",
+  "structure_type_and_year": "二层砖木结构",
+  "structural_features": {
+    "roof_and_slab": "预制楼板，硬山搁檩式木屋架",
+    "walls": "所有墙体厚度均为 120mm",
+    "structural_measures": "无圈梁，无构造柱"
+  },
+  "damage_condition": "顶层山墙倒塌，木屋架塌落。",
+  "damage_cause_analysis": "屋盖采用硬山搁檩的方式布置在山墙上，山墙墙体太薄抗剪能力差，且无圈梁和构造柱，地震中顶层位移最大，屋架错动导致山尖处墙体倒塌。"
+}

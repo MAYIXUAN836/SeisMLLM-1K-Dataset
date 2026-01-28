@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as an office building with signage indicating it is part of the Jiuzhaigou National Park management.",
+    "category": "Offices"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure has a concrete frame with visible infill walls and decorative exterior finishes.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or displacement from the foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilting or story misalignment are observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal cracks are visible between infill walls and frame beams, along with diagonal cracks in the infill walls on lower floors."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No significant falling hazards such as detached parapets or chimneys are observed."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 3 (Racking damage) is evaluated as Moderate, and while the structure remains stable, the damage warrants restricted use for safety."
+  },
+  "9_image_descriptions": {
+    "E1_C119_I01.jpg": "Front view of a three-story concrete frame office building with visible horizontal cracks between infill walls and beams. No major structural collapse is observed.",
+    "E1_C119_I02.jpg": "Side view of the building showing diagonal cracks in the infill walls and some localized plaster damage. The structural frame appears intact."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\119",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 20:44:56",
+  "case_index": 119,
+  "case_id": "119",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

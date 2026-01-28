@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as a school, with visible signage and classroom interiors.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a concrete frame with infill walls, typical of a three-story frame structure.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of collapse or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or global tilt in the building structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Significant cracking is visible on interior infill walls, particularly in classrooms, indicating racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached parapets or chimneys."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "The ground around the building shows signs of settlement and cracking, particularly near the foundation."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "The classroom doors are visibly deformed, likely due to structural distortion."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate damage to infill walls and ground settlement suggest localized instability, warranting restricted use for safety."
+  },
+  "9_image_descriptions": {
+    "E1_C126_I01.jpg": "Exterior view of a three-story school building with intact primary structure but some signs of minor distress.",
+    "E1_C126_I02.jpg": "Interior classroom showing significant cracking on the infill walls, with materials stored in the room.",
+    "E1_C126_I03.jpg": "Concrete floor showing settlement and cracking, with uneven surfaces visible.",
+    "E1_C126_I04.jpg": "A deformed metal door frame indicating structural distortion in the surrounding walls.",
+    "E1_C126_I05.jpg": "Exterior view of the building foundation showing settlement and cracking along the perimeter."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\126",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:48:54",
+  "case_index": 126,
+  "case_id": "126",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

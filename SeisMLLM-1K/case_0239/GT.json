@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a dwelling, with features such as a pitched roof and residential layout.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Masonry walls combined with slender and poorly reinforced concrete columns and beams.",
+    "category": "Other",
+    "construction_type_other": "Non-engineered masonry with slender concrete columns"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The building has experienced partial collapse, particularly on the side with mass concentration."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The structure shows significant leaning and deformation, particularly at the heavy side."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to masonry walls, including collapse and severe cracking."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of detached chimneys, parapets, or other falling hazards is visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse), Condition 2 (Leaning), and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E12_C007_I01.jpg": "The building shows partial collapse on the heavy side, with slender concrete columns failing and masonry walls severely damaged.",
+    "E12_C007_I02.jpg": "The structure is leaning significantly, with visible deformation of the masonry walls and roof displacement.",
+    "E12_C007_I03.jpg": "Close-up view of collapsed masonry walls and poorly reinforced columns, highlighting structural inadequacies.",
+    "E12_C007_I04.jpg": "Overview of the collapsed masonry structure, with debris scattered and significant damage to walls and roof."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\007",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:45:48",
+  "case_index": 1002,
+  "case_id": "007",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

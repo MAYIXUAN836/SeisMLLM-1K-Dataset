@@ -1,0 +1,12 @@
+{
+  "Location_and_Attributes": "芦山县太平镇正街, 自建房屋",
+  "Structure_Type_and_Construction_Year": "三层砖砼结构, 在建房屋",
+  "Structural_Features": {
+    "Structural_Dimensions": "结构长8m, 宽7.5m, 框架柱的骨料为鹅卵石, 结构采用条形基础。",
+    "Roof_and_Floor_Slab": "现浇楼板和屋面",
+    "Wall_Body": "纵墙墙厚为120mm, 横墙墙厚为240mm,",
+    "Construction_Measures": "有圈梁, 有构造柱"
+  },
+  "Structural_Damage_Status": "底层框架柱顶出现环形水平裂缝, 左侧构造柱底部劈裂, 钢筋外露。",
+  "Brief_Analysis_of_Damage_Cause": "为施工方便在框架柱接近柱顶位置分段浇筑, 柱顶位置先天存在缺陷, 地震中错动, 出现环形裂缝; 角部构造柱纵筋较细导致抗剪能力较弱。"
+}

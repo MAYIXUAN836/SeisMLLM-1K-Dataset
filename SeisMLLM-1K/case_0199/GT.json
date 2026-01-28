@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have a commercial usage with open spaces and modern architectural design.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features steel columns and beams, indicating a steel frame construction.",
+    "category": "Steel frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse, partial collapse, or displacement off the foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No apparent damage to walls or structural elements such as racking or shear failure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached chimneys, parapets, or other falling elements."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since none of the conditions are evaluated as Severe, the building is deemed safe for occupancy."
+  },
+  "9_image_descriptions": {
+    "E10_C010_I01.jpg": "Overview of a modern steel-framed building with no visible structural damage or distress.",
+    "E10_C010_I02.jpg": "Close-up view of steel columns and beams showing intact connections and no apparent damage.",
+    "E10_C010_I03.jpg": "Detailed view of the beam-column joint, showing no visible signs of distress or failure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\010",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:29:24",
+  "case_index": 962,
+  "case_id": "010",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

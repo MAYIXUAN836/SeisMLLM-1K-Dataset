@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating it is a KBZ Bank branch.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with visible columns and beams.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The building has experienced a partial collapse with significant structural failure, particularly at the lower levels."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The structure is visibly leaning with significant deformation and misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to walls and structural elements, with large sections of the building displaced or destroyed."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Potential falling hazards from detached structural elements and debris."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1, 2, and 3 are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C034_I01.jpg": "The KBZ Bank building is partially collapsed, with the upper floors tilted and the lower levels severely damaged. Debris is scattered around the site.",
+    "E9_C034_I02.jpg": "Closer view of the collapsed KBZ Bank building showing extensive structural failure at the lower levels and significant leaning of the structure.",
+    "E9_C034_I03.jpg": "Side view of the collapsed KBZ Bank building, showing the pancaked floors and severe deformation of the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\034",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:46:41",
+  "case_index": 868,
+  "case_id": "034",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

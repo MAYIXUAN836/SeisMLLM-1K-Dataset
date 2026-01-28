@@ -1,0 +1,7 @@
+{
+  "Location_and_Attribute": "宝兴县灵关镇, 自建房屋。",
+  "Structure_Type_and_Construction_Age": "砖混结构。",
+  "Structural_Characteristics": "外纵墙与横墙无构造柱, 未设置拉结措施。",
+  "Structural_Damage_Condition": "严重破坏, 外纵墙外闪倒塌破坏",
+  "Brief_Analysis_of_Destruction_Cause": "纵墙与横墙交接处无构造柱, 未设置拉结措施。"
+}

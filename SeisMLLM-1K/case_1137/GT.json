@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show a large industrial facility with rows of stored glass sheets, indicating a glass factory.",
+    "category": "Industrial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a steel frame with visible trusses and a high ceiling, typical of industrial buildings.",
+    "category": "Steel frame"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of structural collapse or displacement from the foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible racking or structural damage to walls or primary structural elements."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or similar features are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Significant damage to the stored glass sheets, with many broken and scattered on the floor."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe structural damage or hazards are observed, the building is safe for use."
+  },
+  "9_image_descriptions": {
+    "E6_C022_I01.jpg": "Interior view of a large industrial facility with extensive damage to stored glass sheets, which are broken and scattered on the floor. The steel frame structure appears intact.",
+    "E6_C022_I02.jpg": "Another interior view of the industrial facility showing broken glass sheets scattered on the floor. The steel frame and ceiling trusses appear undamaged."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\022",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:08:58",
+  "case_index": 783,
+  "case_id": "022",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Buildings appear to be residential based on visible balconies and brick construction.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick walls with concrete frames visible; some walls have popped out or fallen.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Collapsed brick walls and structural debris visible in multiple images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting observed in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Brick walls exhibit significant cracking and displacement; some walls are completely detached."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Fallen debris and detached wall sections pose a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking observed in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E10_C006_I01.jpg": "Exterior view showing two buildings under construction with visible brick walls and concrete frames. No apparent structural distress visible in this view.",
+    "E10_C006_I02.jpg": "Close-up of a typical brick being measured. No structural damage visible in this image.",
+    "E10_C006_I03.jpg": "Interior view showing cracked and detached brick walls near windows. Significant structural damage to non-load-bearing walls visible.",
+    "E10_C006_I04.jpg": "Exterior view of a two-story building with fallen brick walls and visible structural debris. Concrete frame appears intact, but brick walls are severely damaged.",
+    "E10_C006_I05.jpg": "Pile of masonry debris including bricks and concrete fragments near a building. Evidence of fallen walls and structural damage visible.",
+    "E10_C006_I06.jpg": "Exterior view of a partially collapsed building with exposed concrete frames and displaced brick walls. Severe structural damage visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\006",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:28:10",
+  "case_index": 958,
+  "case_id": "006",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

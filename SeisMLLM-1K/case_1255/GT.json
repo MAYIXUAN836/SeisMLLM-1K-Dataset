@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has a hotel sign ('Ritz Grand Hotel') and appears to be a high-rise hospitality structure.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with visible infill walls showing diagonal cracks.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 12,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse; the building remains upright and intact."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible evidence of tilting or leaning in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal shear cracks are visible in the infill walls, particularly in the lower third of the structure."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, the building is structurally stable but exhibits damage requiring restricted use."
+  },
+  "9_image_descriptions": {
+    "E9_C067_I01.jpg": "The high-rise building shows diagonal shear cracks in the infill walls, concentrated in the lower third of the structure. The glazing of windows appears intact, and no signs of collapse or leaning are visible.",
+    "E9_C067_I02.jpg": "Close-up view of the building's facade reveals diagonal cracks in the infill walls, with some loss of material. The structural frame appears intact, and no other significant damage is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\067",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:01:36",
+  "case_index": 901,
+  "case_id": "067",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

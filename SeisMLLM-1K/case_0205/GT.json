@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The buildings are identified as churches based on architectural features such as crosses, arched windows, and religious interior elements.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Stone masonry walls with visible mortar joints and wooden roof structures.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Significant portions of the structures have collapsed, with large sections of walls and roofs missing."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of leaning or tilting is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and disintegration of stone masonry walls are visible, with large sections of structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached and unstable masonry elements, including parapets and wall sections, pose a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other hazards or damage are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E10_C016_I01.jpg": "Exterior view of a stone masonry church with visible intact sections but showing some minor cracks and no apparent collapse.",
+    "E10_C016_I02.jpg": "Side view of a stone masonry church showing vertical cracks along the walls and minor damage to the structure.",
+    "E10_C016_I03.jpg": "Interior view of a church showing severe damage to the stone masonry arch, with large sections of the arch disintegrated and debris visible.",
+    "E10_C016_I04.jpg": "Exterior view of a church with severe structural collapse, including missing roof sections and rubble scattered around the site.",
+    "E10_C016_I05.jpg": "Exterior view of a collapsed church showing extensive rubble from disintegrated walls and roof, with large sections of the structure missing.",
+    "E10_C016_I06.jpg": "Close-up view of a collapsed church showing rubble piles and remnants of stone masonry walls, with significant structural loss."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\016",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:31:43",
+  "case_index": 968,
+  "case_id": "016",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

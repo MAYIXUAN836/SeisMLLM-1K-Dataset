@@ -1,0 +1,1 @@
+ Gapping in head joints of infill walls (source: Nenad Bijelić).

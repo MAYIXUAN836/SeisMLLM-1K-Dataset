@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县双石镇双河村新街组，自建房屋。",
+  "structure_type_and_year": "二层砖混结构",
+  "structural_features": {
+    "roof_and_slab": "现浇楼板，现浇屋面。",
+    "walls": "墙厚均为 180mm。",
+    "structural_measures": "无圈梁, 无构造柱。"
+  },
+  "damage_condition": "底层承重墙均发生严重破坏，纵横墙出现贯穿性通透又斜裂缝，底层山墙局部倒塌，底层柱发生倾斜。",
+  "damage_cause_analysis": "由于功能使用的要求，底层较空旷，其刚度小于二层刚度，底层成为薄弱层，破坏较重；同时由于承重墙厚度较薄且砂浆强度较差，导致底层墙体出现沿灰缝的严重贯穿性通透交叉裂缝，墙体局部倒塌。"
+}

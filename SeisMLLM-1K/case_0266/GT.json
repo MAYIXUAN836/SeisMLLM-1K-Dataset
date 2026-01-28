@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Ecuador Mw 6.8 Earthquake",
+    "date": "2023-03-18",
+    "magnitude": "Mw 6.8",
+    "location": "Balao, Ecuador"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a single-family residential structure with a commercial storefront on the ground floor.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a concrete frame with infill walls and an open ground story, which is typical of bottom-frame masonry construction.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Complete collapse of the two-story building is visible, with debris scattered and structural elements destroyed."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning is discernible from the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "The collapse appears to have been exacerbated by stiffness irregularities, including an open ground story and brittle infill walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The collapse of the neighboring building's fifth-story wall posed a significant falling hazard, contributing to the failure of this structure."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damage are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E12_C034_I01.jpg": "Pre-collapse view of a two-story structure with an open ground story used as a commercial space and residential upper floor. No seismic gap is visible between the neighboring building.",
+    "E12_C034_I02.jpg": "Post-collapse view showing complete destruction of the two-story structure, with debris including flimsy columns and wooden elements scattered.",
+    "E12_C034_I03.jpg": "View of the neighboring building's fifth story, where a wall fell, contributing to the collapse of the adjacent structure.",
+    "E12_C034_I04.jpg": "Schematic representation of torsional effects caused by stiffness irregularities, illustrating the collapse mechanism of the two-story building."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\12-Ecuador Mw 6.8 Earthquake\\034",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:57:11",
+  "case_index": 1029,
+  "case_id": "034",
+  "earthquake_folder": "12-Ecuador Mw 6.8 Earthquake",
+  "category": "12-Ecuador Mw 6.8 Earthquake"
+}

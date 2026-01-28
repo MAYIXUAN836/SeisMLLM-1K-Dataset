@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "2023 Oukaïmedene Morocco Earthquake",
+    "date": "2023-09-08",
+    "magnitude": "Mw 6.8",
+    "location": "Oukaïmedene, Morocco"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The image shows a village layout with densely packed residential buildings and some larger structures, likely community or commercial buildings.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Buildings appear to be constructed primarily of masonry, with visible flat roofs and dense urban clustering.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Multiple structures appear to have collapsed entirely, with visible rubble and voids where buildings once stood."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Satellite imagery does not provide sufficient detail to assess leaning or vertical misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Some buildings show signs of structural distress, with irregularities in rooflines and potential damage to walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "Satellite imagery does not provide sufficient detail to assess falling hazards like chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the satellite imagery."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are apparent from the satellite imagery."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E5_C011_I01.jpg": "Satellite overview of a village showing widespread building collapse and rubble in multiple areas, with arrows indicating locations of major structural failures.",
+    "E5_C011_I02.jpg": "Satellite overview of a village showing widespread building collapse and rubble in multiple areas, with arrows indicating locations of major structural failures."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\5-2023 Oukaïmedene Morocco Earthquake\\011",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:51:01",
+  "case_index": 742,
+  "case_id": "011",
+  "earthquake_folder": "5-2023 Oukaïmedene Morocco Earthquake",
+  "category": "5-2023 Oukaïmedene Morocco Earthquake"
+}

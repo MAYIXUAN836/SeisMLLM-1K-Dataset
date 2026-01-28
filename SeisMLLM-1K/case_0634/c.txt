@@ -1,0 +1,7 @@
+{
+  "House Location and Property": "天全县城, 正规施工",
+  "Structural Type and Construction Year": "砖混结构, 建于 1992 年",
+  "Structural Features": "7 层砖混结构, 承重墙厚度 370mm, 有构造柱, 有圈梁。",
+  "Structural Damage Condition": "轻微破坏",
+  "Brief Analysis of Damage Cause": "墙体较厚, 构造措施合理, 震害较轻。"
+}

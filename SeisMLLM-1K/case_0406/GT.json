@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a commercial structure with large glass windows and signage indicating office or retail use.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building has a concrete frame structure with visible concrete columns and beams supporting the facade.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of collapse, partial collapse, or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the building or its stories."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Moderate damage is visible, including debris on the ground and potential cracking or displacement of facade elements."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Debris on the ground suggests falling hazards from facade elements or other external components."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is deemed suitable for restricted use according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E16_C017_I01.jpg": "Exterior view of a three-story concrete frame building. Debris is visible on the ground near the facade, and caution tape surrounds the area. No apparent collapse or leaning is observed."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\017",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:09:11",
+  "case_index": 1171,
+  "case_id": "017",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

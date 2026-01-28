@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "26 May 2019 Laguna Peru Earthquake",
+    "date": "2019-05-26",
+    "magnitude": "Mw 8.0",
+    "location": "Eastern Perú"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Interior of a classroom with educational materials visible, indicating use as a junior high school building.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Masonry walls with visible cracking and damage.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or foundation settlement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of leaning or vertical misalignment in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Large vertical crack visible in the masonry wall, indicating significant structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of detached or falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking damage) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E11_C021_I01.jpg": "Interior view of a classroom with a large vertical crack in the masonry wall near a window, indicating severe structural damage. Educational materials are visible on a table."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\11-26 May 2019 Laguna Peru Earthquake\\021",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 03:40:36",
+  "case_index": 990,
+  "case_id": "021",
+  "earthquake_folder": "11-26 May 2019 Laguna Peru Earthquake",
+  "category": "11-26 May 2019 Laguna Peru Earthquake"
+}

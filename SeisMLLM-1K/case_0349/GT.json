@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show a dense urban area with residential and commercial buildings.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The area appears to consist of low-rise masonry or concrete buildings based on the aerial view.",
+    "category": "Other"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "The aerial view does not provide sufficient detail to assess collapse or foundation issues."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The aerial view does not provide sufficient detail to assess leaning or tilting."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "The aerial view does not provide sufficient detail to assess racking or structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "The aerial view does not provide sufficient detail to assess falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The aerial view does not provide sufficient detail to assess ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the aerial view."
+    }
+  },
+  "7_estimated_building_damage": "None",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions are visible in the provided images, and the aerial view does not indicate any apparent structural damage."
+  },
+  "9_image_descriptions": {
+    "E13_C085_I01.jpg": "Aerial view of a dense urban area with a grid layout of streets and a mix of low-rise buildings. No apparent structural damage is visible from this perspective."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\085",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:43:18",
+  "case_index": 1114,
+  "case_id": "085",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

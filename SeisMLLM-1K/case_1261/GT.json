@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have architectural features consistent with a public or government building, such as columns and decorative facades.",
+    "category": "Government"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure includes masonry walls with visible damage and reinforced concrete columns supporting the interior.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Significant roof collapse and partial wall collapse visible in both interior and exterior views."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of global tilting or leaning is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Cracks and partial collapse of walls are visible, indicating severe structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Debris and structural elements, such as parapet fragments, appear to pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Severe",
+      "description": "Fire damage is evident, with charred debris and structural elements visible throughout the interior."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E9_C073_I01.jpg": "Interior view showing extensive roof collapse, charred debris, and damaged columns. The walls exhibit partial collapse and severe cracking.",
+    "E9_C073_I02.jpg": "Close-up of interior debris, including burned structural elements and collapsed masonry fragments. Evidence of fire damage is prominent.",
+    "E9_C073_I03.jpg": "Exterior view of the building showing partial roof collapse and cracked masonry walls. The facade remains standing but is visibly damaged."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\073",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:04:16",
+  "case_index": 907,
+  "case_id": "073",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

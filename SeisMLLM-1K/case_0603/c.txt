@@ -1,0 +1,12 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村黑水堰组",
+  "structure_type_and_year": "砖混结构，建于 1992 年。",
+  "structural_features": {
+    "structural_dimensions": "结构总长 16.5m, 宽 4.2m, 层高 3.3m。",
+    "roof_and_slab": "现浇楼板，现浇屋面。",
+    "walls": "底层纵墙厚 240mm, 横墙厚 240mm; 二层纵墙厚 180mm, 横墙厚 120mm。纵墙承重。",
+    "structural_measures": "无圈梁, 无构造柱, 柱均为砖柱。"
+  },
+  "damage_condition": "二层左侧外纵墙于 4 月 20 日下午余震时倒塌, 二层多数墙体出现贯穿性通透裂缝; 底层柱端发生破坏。",
+  "damage_cause_analysis": "二层墙体相较底层墙体变薄, 造成二层的刚度小于底层的刚度, 二层形成薄弱层, 致使二层破坏较重; 且楼梯间布置不合理造成结构约平面刚心与质心不重合, 扭转效应加重了结构的破坏。"
+}

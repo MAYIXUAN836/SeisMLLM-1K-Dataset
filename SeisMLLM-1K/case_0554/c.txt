@@ -1,0 +1,27 @@
+{
+  "house_location_and_attributes": {
+    "location": "芦山县太平镇上和村",
+    "type": "自建房屋"
+  },
+  "structural_type_and_construction_age": {
+    "structure_type": "穿斗木结构",
+    "construction_year": "1990年修建"
+  },
+  "structural_features": {
+    "structure_size": {
+      "length": "22m",
+      "width": "12m"
+    },
+    "roof_and_floor": "木楼板",
+    "wall_body": {
+      "wall_thickness": "180mm"
+    },
+    "construction_measures": "围护墙与木柱用钉子拉结"
+  },
+  "structural_damage_status": {
+    "damage_description": "底层局部围护墙倒塌"
+  },
+  "brief_analysis_of_damage_cause": {
+    "cause_analysis": "围护墙与木柱之间仅用钉子拉结，拉结强度不够，在地震中导致围护墙塌出平面失稳。"
+  }
+}

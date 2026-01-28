@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as a residential dormitory based on its design and balconies.",
+    "category": "Other residential"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with visible concrete tie-columns and decorative elements.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "Foundation settlement visible with cracks around the building perimeter."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks in walls and detachment of decorative bricks observed."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Brick masonry debris scattered near the building, indicating falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "Ground cracking observed near the building perimeter."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Interior damage includes cracked tiles, displaced furniture, and deformed doors."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate structural damage and falling hazards are present, but the building's overall stability appears intact."
+  },
+  "9_image_descriptions": {
+    "E1_C059_I01.jpg": "Exterior view of a three-story confined masonry building with visible decorative brick detachment and intact structural frame.",
+    "E1_C059_I02.jpg": "Ground cracks observed along the perimeter of the building, with scattered debris visible.",
+    "E1_C059_I03.jpg": "Close-up view of the base of the building showing detached decorative bricks and minor debris.",
+    "E1_C059_I04.jpg": "Interior view showing scattered bricks, cracked tiles, and displaced furniture.",
+    "E1_C059_I05.jpg": "Close-up of a door frame showing deformation, preventing proper closure.",
+    "E1_C059_I06.jpg": "Detail of a door bottom showing misalignment with the floor due to deformation."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\059",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:09:36",
+  "case_index": 59,
+  "case_id": "059",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

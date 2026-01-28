@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential structure with visible walls and windows typical of dwellings.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a mixed construction of brick walls and wooden columns with cast-in-place concrete slabs.",
+    "category": "Other",
+    "construction_type_other": "Brick and wood mixed structure"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Severe cracking observed at the interface between the building and the ground, indicating significant settlement or separation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or tilting is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking is visible on interior walls and exterior surfaces, with signs of shear failure in brick columns."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Cracks in exterior wall finishes and potential detachment of decorative elements pose a moderate falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Large ground fissures and displacement are visible near the building, indicating significant ground movement."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse or foundation separation), Condition 3 (Racking damage), and Condition 5 (Ground movement) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E1_C185_I01.jpg": "Severe cracking and separation at the interface between the building and the ground, with visible displacement of concrete elements.",
+    "E1_C185_I02.jpg": "Wide and deep ground fissure running parallel to the building, with visible displacement of the concrete pavement.",
+    "E1_C185_I03.jpg": "Interior view showing significant cracking in a brick column and adjacent concrete elements, with evidence of shear damage.",
+    "E1_C185_I04.jpg": "Exterior wall with long diagonal cracks running across the surface, indicating structural distress in the wall system."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\185",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:19:13",
+  "case_index": 185,
+  "case_id": "185",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

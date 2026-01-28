@@ -1,0 +1,12 @@
+{
+  "Location_and_Attributes": "芦山县双石镇双河村新街组, 自建房",
+  "Structure_Type_and_Construction_Year": "砖混结构, 建于 2013 年 (在建)。",
+  "Structural_Features": {
+    "Roof_and_Floor_Slab": "现浇楼板。",
+    "Wall_Body": "纵墙厚 120mm, 横墙厚 240mm。",
+    "Other": "二楼圈梁处模板还没有拆除",
+    "Construction_Measures": "有圈梁, 无构造柱。"
+  },
+  "Structural_Damage_Status": "结构承重横墙均发生严重裂缝, 二层圈梁断裂。",
+  "Brief_Analysis_of_Damage_Cause": "由于结构为在建建筑, 圈梁与砂浆还没有完全硬化, 导致材料强度不足而发生破坏。"
+}

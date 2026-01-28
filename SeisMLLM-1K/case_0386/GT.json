@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+    "date": "2019-07-04",
+    "magnitude": "Mw 6.4 / Mw 7.1",
+    "location": "Mojave Desert region, eastern California, USA"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a single-story residential structure with visible windows and a front porch.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of masonry walls with visible cracks and a damaged masonry chimney.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or the building being off its foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks are visible on the masonry walls, indicating racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The masonry chimney is visibly broken and poses a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Severe, but the structure appears stable, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E15_C014_I01.jpg": "A single-story unreinforced masonry building with visible diagonal cracks on the walls and a broken masonry chimney. No signs of collapse or leaning are observed. The chimney poses a significant falling hazard."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\15-M6.4 and M7.1 Ridgecrest, CA Earthquakes\\014",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:59:17",
+  "case_index": 1151,
+  "case_id": "014",
+  "earthquake_folder": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+  "category": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes"
+}

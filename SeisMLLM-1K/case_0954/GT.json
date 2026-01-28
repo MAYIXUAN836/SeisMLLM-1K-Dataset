@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show a village with rows of low-rise residential buildings and tents, indicating a dwelling area.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The buildings consist of hollow concrete masonry walls, and some are constructed with earth and timber materials.",
+    "category": "Reinforced masonry"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Numerous buildings have completely collapsed, with visible piles of debris and structural rubble."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning structures visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive diagonal and through-wall cracking is visible in the hollow concrete masonry walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or similar falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "A visible ground rupture runs along the southern side of the village, with significant displacement and cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, and Condition 5 (Ground Cracking) is Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E3_C090_I01.jpg": "Overview of the village showing widespread collapse of single-story masonry buildings and tents set up for displaced residents.",
+    "E3_C090_I02.jpg": "Closer view of collapsed masonry buildings with piles of rubble and visible structural damage to walls.",
+    "E3_C090_I03.jpg": "Detailed view of collapsed structures with broken masonry walls and scattered debris, indicating severe structural failure.",
+    "E3_C090_I04.jpg": "Image showing a large ground rupture near the village with visible displacement and cracking in the terrain."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\090",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 00:45:01",
+  "case_index": 600,
+  "case_id": "090",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

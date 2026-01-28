@@ -1,0 +1,11 @@
+{
+  "House Location & Attributes": "芦山县宝盛乡杨扁子组，自建房屋",
+  "Structural Type & Construction Age": "穿斗木结构",
+  "Structural Characteristics": {
+    "Structure Dimensions": "结构长度为15m，宽度为9m",
+    "Roof and Floor": "木楼板",
+    "Wall Body": "底层砖墙厚度120mm，二层围护墙为木板"
+  },
+  "Structural Damage Status": "屋面大量堆瓦，主体结构基本完好",
+  "Brief Analysis of Damage Cause": "结构合理设置了围护墙，底层采用平砖砌体，二层采用木板作为围护墙。地震中屋面晃动，造成大量的堆瓦"
+}

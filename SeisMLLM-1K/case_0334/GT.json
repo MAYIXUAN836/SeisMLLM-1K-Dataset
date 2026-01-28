@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have residential balconies and a gated entrance, suggesting it is a residential structure.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure shows a concrete frame with visible columns and beams, and infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse, nor evidence of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of racking damage or structural wall damage from the exterior view."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of falling hazards such as detached chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of ground slope movement or cracking in the surrounding area."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other observable damage or hazards from the provided images."
+    }
+  },
+  "7_estimated_building_damage": "None",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions were observed in any of the evaluation categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E13_C070_I01.jpg": "Satellite view of a densely built urban area. No visible structural damage or ground deformation can be observed from this perspective.",
+    "E13_C070_I02.jpg": "Street-level view of a five-story concrete frame building with residential balconies and a gated entrance. No apparent structural distress is visible in this view."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\070",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:34:45",
+  "case_index": 1099,
+  "case_id": "070",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

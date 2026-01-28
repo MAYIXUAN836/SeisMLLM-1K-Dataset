@@ -1,0 +1,12 @@
+{
+  "House_Location_and_Properties": "芦双石镇双河村新街组大理石加工厂, 未设防厂房。",
+  "Structural_Type_and_Construction_Era": "砖木屋架排架厂房, 建于 1985 年。",
+  "Structural_Features": {
+    "Structure_Dimensions": "砖柱尺寸为 500×500, 柱距 4.5m, 共 18 跨, 厂房宽 12m。",
+    "Roof_and_Floor_Slabs": "木屋架, 水泥青瓦",
+    "Walls": "纵向底部 1.1m 为 240mm 厚填充墙, 其上 2.5m 为 120mm 厚填充墙; 山墙厚 240mm。",
+    "Construction_Measures": "柱间有连系梁; 屋架间有纵向支撑。"
+  },
+  "Structural_Damage_Status": "边部一条连系梁发生断裂; 山墙与第一个木屋架的剪刀撑断裂; 第 14 轴线处的屋架的下弦杆中部发生断裂, 第 13 个木屋架垮塌, 第 14 根柱中部出现裂缝, 一片山墙出现斜裂缝。",
+  "Brief_Summary_of_Damage_Cause": "厂房第 14 轴线处的屋架受强烈地震作用时下弦杆断裂, 导致屋架失稳倒塌, 屋架变形的过程中, 支座处拉动柱子变形, 从而导致附近柱子出现裂缝; 端部连系梁毁坏是由于该梁下无填充墙, 但梁上有填充墙, 致使梁承载力不足而断裂。"
+}

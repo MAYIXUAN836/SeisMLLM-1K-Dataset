@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The structure appears to be a self-built rural dwelling with wooden walls and tiled roofing.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building is a traditional wood-frame structure with visible wooden posts, beams, and tiled roofing.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Evidence of wooden column base slippage and partial structural collapse of the wooden framework."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some misalignment of structural elements is visible, suggesting leaning or displacement."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant damage to wooden joints and connections, with visible deformation and failure of mortise-and-tenon joints."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are evident from the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E2_C112_I01.jpg": "Exterior view of a two-story wood-frame dwelling with tiled roofing. Visible damage includes slippage of wooden columns and partial collapse of structural elements.",
+    "E2_C112_I02.jpg": "Close-up of a wall showing displaced bricks and wooden posts. Evidence of structural instability and material dislodgement is visible.",
+    "E2_C112_I03.jpg": "Interior view of the wooden roof structure. Visible damage includes deformation and separation of mortise-and-tenon joints, with some roof tiles displaced."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\112",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 22:12:49",
+  "case_index": 301,
+  "case_id": "112",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

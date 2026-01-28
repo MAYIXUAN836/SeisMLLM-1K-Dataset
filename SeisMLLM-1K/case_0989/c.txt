@@ -1,0 +1,1 @@
+Failure of building in foreground may be result of pounding from adjacent building. The building on right hand side collapsed while the building on the left hand side partially collapses.

@@ -1,0 +1,1 @@
+7-story reinforced concrete building with variation in story heights between upper and lower levels. The lower three floors of the building collapsed.

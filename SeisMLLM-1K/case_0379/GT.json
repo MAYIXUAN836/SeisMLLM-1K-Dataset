@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+    "date": "2019-07-04",
+    "magnitude": "Mw 6.4 / Mw 7.1",
+    "location": "Mojave Desert region, eastern California, USA"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show a single-story residential house with visible fire damage.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure appears to be a wood-frame house with visible fire damage to the roof and exterior walls.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The roof structure is partially collapsed, and significant fire damage is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "The walls exhibit significant fire damage, with portions of the structure visibly charred or destroyed."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The roof structure and charred debris pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Severe",
+      "description": "The fire damage has rendered the structure unsafe, with potential hazards from debris and structural instability."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1, 3, 4, and 6 are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E15_C007_I01.jpg": "A single-story wood-frame house with extensive fire damage. The roof structure is partially collapsed, and charred debris is scattered in the foreground. The walls are visibly damaged and boarded up.",
+    "E15_C007_I02.jpg": "A single-story house engulfed in flames, with firefighters attempting to extinguish the fire. Heavy smoke and fire damage are evident, with flames visible on the roof and exterior walls."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\15-M6.4 and M7.1 Ridgecrest, CA Earthquakes\\007",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:56:26",
+  "case_index": 1144,
+  "case_id": "007",
+  "earthquake_folder": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes",
+  "category": "15-M6.4 and M7.1 Ridgecrest, CA Earthquakes"
+}

@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a guesthouse with decorative elements and balconies, consistent with a hospitality establishment.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a bottom-frame masonry building with a ground floor frame and upper masonry walls, featuring decorative elements and concrete columns.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation displacement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift in the building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Visible cracking and damage to masonry walls, particularly at corners and around openings, as well as detachment of wall finishes."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Damage to decorative parapets and wall finishes poses a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are apparent from the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking damage) and Condition 4 (Falling hazard) are evaluated as Moderate, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E1_C078_I01.jpg": "Exterior view of a three-story bottom-frame masonry building with decorative elements. No apparent collapse but visible wall cracking and detachment of finishes.",
+    "E1_C078_I02.jpg": "Close-up of the upper corner of the building showing masonry wall cracking and detachment of finishes near windows and roof edges.",
+    "E1_C078_I03.jpg": "Interior view showing diagonal cracks along walls and ceiling joints near a window, with visible structural distress.",
+    "E1_C078_I04.jpg": "Interior view showing cracks in masonry walls and debris on the floor, indicating moderate structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\078",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:19:49",
+  "case_index": 78,
+  "case_id": "078",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

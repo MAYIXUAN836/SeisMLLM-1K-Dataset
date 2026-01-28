@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a self-constructed residential house with multiple stories and a gated boundary.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with hollow brick infill walls and cast-in-place concrete floors and roof.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or complete collapse or building displacement from its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or inter-story drift in the building."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracks and concrete spalling observed on the exterior walls; one column on the ground floor has shear failure with concrete spalling and cross-cracks."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Some parapet walls and cladding show damage, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards observed in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C034_I01.jpg": "Exterior view of a three-story reinforced concrete frame building with hollow brick walls. No visible collapse, but minor damage to the boundary wall is evident.",
+    "E2_C034_I02.jpg": "Close-up of the exterior showing damage to the hollow brick infill walls, including cracks and spalling near the windows.",
+    "E2_C034_I03.jpg": "Detailed view of a damaged section of the wall showing severe cracking and spalling of the infill brick material.",
+    "E2_C034_I04.jpg": "Interior view showing cracks in the walls near the staircase and corners, with some infill bricks dislodged. No visible collapse of structural elements."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\034",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:36:32",
+  "case_index": 223,
+  "case_id": "034",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

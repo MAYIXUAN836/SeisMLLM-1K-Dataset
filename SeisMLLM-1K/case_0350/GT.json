@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and other uses on upper floors.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building exhibits a concrete frame structure with infill walls and large window openings.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or complete collapse or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No observable leaning or vertical misalignment of the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracking and significant structural damage are visible on interior walls, particularly near openings and corners."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Some exterior elements, such as window panels, appear to be damaged and could pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E13_C086_I01.jpg": "Interior view showing a stairwell with visible cracking and spalling at the junction of the stair and wall, indicating structural damage.",
+    "E13_C086_I02.jpg": "Aerial view of the building and surrounding area, showing the general layout and no visible collapse.",
+    "E13_C086_I03.jpg": "Close-up view of the building exterior showing intact concrete frame and window openings, with no visible collapse.",
+    "E13_C086_I04.jpg": "Interior view showing diagonal cracks on a wall near a doorway with debris on the floor, indicating severe structural damage.",
+    "E13_C086_I05.jpg": "Exterior view of the building showing intact concrete frame and windows, with caution tape indicating restricted access.",
+    "E13_C086_I06.jpg": "Interior view showing cracking and spalling near a window frame, with debris scattered on the floor, indicating structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\086",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:43:51",
+  "case_index": 1115,
+  "case_id": "086",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

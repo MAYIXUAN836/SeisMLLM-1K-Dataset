@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is a Buddhist temple complex with a prominent stupa and associated monastery structures.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The stupa is constructed with a reinforced concrete frame, while other structures include masonry walls with no visible reinforcement.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of collapse or foundation displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or global instability of the structures."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and plaster detachment visible on masonry walls, particularly at corners and between floors."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Plaster detachment and cracks present on external walls, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking observed in the images."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Interior items are displaced or toppled, but no structural damage is evident inside the stupa."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking damage) and Condition 4 (Falling hazard) are evaluated as Moderate, the building is deemed suitable for restricted use."
+  },
+  "9_image_descriptions": {
+    "E1_C100_I01.jpg": "Exterior view of a large stupa with reinforced concrete construction and decorative elements. No apparent structural damage visible.",
+    "E1_C100_I02.jpg": "Interior view of the temple showing displaced and toppled decorative items, but no visible structural damage.",
+    "E1_C100_I03.jpg": "Exterior view of a monastery building with masonry walls. Cracks and plaster detachment are visible at wall corners.",
+    "E1_C100_I04.jpg": "Close-up of a monastery building showing cracks at the corners and between floors, with plaster detachment.",
+    "E1_C100_I05.jpg": "Detailed view of masonry walls showing horizontal and diagonal cracks, particularly at the corners.",
+    "E1_C100_I06.jpg": "Wide view of the temple complex showing multiple structures. Cracks are visible on some masonry walls, but no collapse is observed."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\100",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:30:16",
+  "case_index": 100,
+  "case_id": "100",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

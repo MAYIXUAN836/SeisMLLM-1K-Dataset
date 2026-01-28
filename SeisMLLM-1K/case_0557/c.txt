@@ -1,0 +1,11 @@
+{
+  "House Location and Attributes": "芦山县太平镇，自建房屋",
+  "Structural Type and Construction Age": "2 穿斗木结构",
+  "Structural Features": {
+    "Roof and Floor": "木楼板",
+    "Wall Body": "木围护墙，砖墙厚度 120mm",
+    "Construction Measures": "围护墙与砖柱无拉结"
+  },
+  "Structural Damage Status": "1 桁架结构局部倒塌，1 栋结构底层围护墙局部倒塌",
+  "Brief Analysis of Damage Cause": "地震中挡土墙发生破坏，导致穿斗木结构失稳，发生倒塌"
+}

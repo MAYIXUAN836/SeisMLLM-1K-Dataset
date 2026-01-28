@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "M7.7 Myanmar Earthquake",
+    "date": "2025-03-28",
+    "magnitude": "Mw 7.7",
+    "location": "Mandalay, Myanmar"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Roadway with visible damage and lateral displacement.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete roadway with visible lateral displacement and cracking.",
+    "category": "Other"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No building structures visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No building structures visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No building structures visible in the images."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No building structures visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "Apparent left lateral displacements and cracking on the roadway."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "None",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 5 (Ground Slope Movement or Cracking) is evaluated as Severe, according to Table 31, the area must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E9_C003_I01.jpg": "Concrete roadway with significant lateral displacement and visible cracking. Debris and soil disruption are evident, indicating severe ground movement."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\003",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:33:16",
+  "case_index": 837,
+  "case_id": "003",
+  "earthquake_folder": "9-M7.7 Myanmar Earthquake",
+  "category": "9-M7.7 Myanmar Earthquake"
+}

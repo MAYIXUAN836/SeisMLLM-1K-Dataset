@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be an industrial facility with large open spaces and precast concrete structural elements.",
+    "category": "Industrial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is composed of precast concrete elements, including columns, beams, and slabs.",
+    "category": "Tilt-up concrete"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Significant portions of the precast concrete slabs have collapsed, and structural elements are visibly displaced."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some columns show signs of plastic hinging and misalignment, indicating localized leaning or instability."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Corbel damage and plastic hinging are evident at column ends, indicating severe structural distress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E10_C011_I01.jpg": "Overview of the precast building showing undamaged portions of the structure with intact slabs and columns.",
+    "E10_C011_I02.jpg": "Detailed view of corbel damage and plastic hinging at column ends, with visible displacement and structural distress.",
+    "E10_C011_I03.jpg": "Close-up of a damaged corbel at a column joint, showing fractured concrete and localized failure.",
+    "E10_C011_I04.jpg": "Base of a column showing spalling and damage to concrete near the foundation, with exposed reinforcement.",
+    "E10_C011_I05.jpg": "Collapsed precast concrete slabs and structural elements scattered on the ground, indicating severe structural failure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\011",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:29:44",
+  "case_index": 963,
+  "case_id": "011",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

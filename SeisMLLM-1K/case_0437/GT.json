@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The first building appears to be a commercial structure with signage indicating a business address, and the second building is a residential structure with individual mailboxes visible.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The first building shows a concrete frame structure with glass windows, while the second building appears to have a bottom-frame masonry construction with an open ground floor and masonry walls above.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The first building shows partial collapse of an adjacent structure, and the second building has visible tilting, indicating potential foundation issues."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The second building exhibits a noticeable tilt, suggesting significant structural instability."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "The first building shows damage to the entrance area, and the second building has visible cracks and misalignment in its walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "The first building has debris near the entrance and potential hazards from the damaged structure adjacent to it."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "Ground deformation and cracking are visible near the first building, with soil displacement evident."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage is visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 2 (Leaning) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E16_C048_I01.jpg": "The image shows a multi-story commercial building with visible damage to the entrance area and partial collapse of an adjacent structure. Ground deformation and debris are evident near the building.",
+    "E16_C048_I02.jpg": "The image shows a residential building with an open ground floor and masonry walls above. The building is visibly tilted, and cracks are present in the walls, indicating structural instability."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\048",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:24:55",
+  "case_index": 1202,
+  "case_id": "048",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

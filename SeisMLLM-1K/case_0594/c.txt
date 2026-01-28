@@ -1,0 +1,12 @@
+{
+  "House_Location_and_Property": "庐山县太平镇正街, 自建房屋",
+  "Structure_Type_and_Year_Built": "3层底层框架结构, 建于2002年",
+  "Structural_Features": {
+    "Structural_Dimensions": "结构长 13m, 宽 9m",
+    "Roof_and_Floor_Slabs": "预制楼板, 现浇屋面",
+    "Walls": "墙体厚度均为 240mm",
+    "Construction_Measures": "层间设置圈梁, 四角设置构造柱"
+  },
+  "Structural_Damage_Status": "结构右后侧一根框架柱出现轻微裂缝, 底层填充墙出现贯穿性透斜裂缝",
+  "Summary_of_Damage_Cause": "该结构底层为框架结构，二至三层为砖混结构，二层为刚度转换层。由于底层隔墙较少，造成该层刚度小于二层刚度，在底层形成软弱层，底层破坏较重。"
+}

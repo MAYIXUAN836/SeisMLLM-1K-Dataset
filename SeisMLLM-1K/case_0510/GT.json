@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Interior view of a building with visible ceiling and wall damage.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Plastered interior walls and ceiling with no visible structural elements.",
+    "category": "Other"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of collapse or displacement of the building foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No leaning or vertical misalignment is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible at the floor-wall connection, potentially due to beam sliding at the support."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no conditions are evaluated as Severe, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E17_C066_I01.jpg": "Close-up view of a crack at the floor-wall connection, with visible plaster damage and potential beam sliding at the support.",
+    "E17_C066_I02.jpg": "A small, isolated spot on the wall with no apparent structural damage visible.",
+    "E17_C066_I03.jpg": "A section of the ceiling with minor cracking along the edges, no significant structural distress visible.",
+    "E17_C066_I04.jpg": "A vertical crack along the ceiling-wall junction with plaster damage, indicating moderate structural distress.",
+    "E17_C066_I05.jpg": "A horizontal crack along the ceiling with visible plaster damage, suggesting moderate structural distress.",
+    "E17_C066_I06.jpg": "Overview of the interior ceiling showing cracks and plaster damage along the edges, with no signs of severe structural instability."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\066",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:54:05",
+  "case_index": 1275,
+  "case_id": "066",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a school, with classrooms visible in the interior images and temporary classrooms in modular structures outside.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with hollow block infill walls, as described in the text and visible in the images.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 5,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation settlement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building or story leaning in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Damage to infill walls is visible, including cracks and detachment in the bottom floor walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys, parapets, or other falling hazards in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluation categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E2_C132_I01.jpg": "Exterior view of a five-story reinforced concrete frame building with intact structural elements and minor visible damage to infill walls.",
+    "E2_C132_I02.jpg": "Close-up of the building's exterior showing cracks and detachment in the bottom floor infill walls.",
+    "E2_C132_I03.jpg": "Interior corridor with visible damage to wall tiles and plaster, indicating moderate damage to non-structural elements.",
+    "E2_C132_I04.jpg": "Interior classroom view showing debris on the floor and workers repairing wall damage. Structural elements appear intact.",
+    "E2_C132_I05.jpg": "Temporary modular classrooms outside the main building, likely used as a precaution or for displaced activities."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\132",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 22:23:33",
+  "case_index": 321,
+  "case_id": "132",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

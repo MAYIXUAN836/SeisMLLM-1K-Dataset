@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "2023 Oukaïmedene Morocco Earthquake",
+    "date": "2023-09-08",
+    "magnitude": "Mw 6.8",
+    "location": "Oukaïmedene, Morocco"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a school, as indicated by the text referencing 'The Lycée Collegial Le Grand Atlas' and the visible classroom furniture in the interior images.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a concrete frame with unreinforced masonry infill walls, as seen in the images and described in the text.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Out-of-plane (OOP) failure of masonry infill walls is evident in the interior images, with significant wall collapse visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilting or leaning is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracking in masonry infill walls is visible in exterior images, indicating significant racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the provided images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Pounding damage is visible at the interface of adjacent columns, as shown in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E5_C023_I01.jpg": "Exterior view showing diagonal cracking in masonry infill walls, indicating significant racking damage.",
+    "E5_C023_I02.jpg": "Interior view showing extensive out-of-plane (OOP) failure of masonry infill walls, with collapsed debris visible.",
+    "E5_C023_I03.jpg": "Interior view showing pounding damage at the interface of adjacent columns, with visible cracks at the joints.",
+    "E5_C023_I04.jpg": "Interior view showing severe out-of-plane (OOP) failure of masonry infill walls, with significant debris scattered on the floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\5-2023 Oukaïmedene Morocco Earthquake\\023",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 01:56:11",
+  "case_index": 754,
+  "case_id": "023",
+  "earthquake_folder": "5-2023 Oukaïmedene Morocco Earthquake",
+  "category": "5-2023 Oukaïmedene Morocco Earthquake"
+}

@@ -1,0 +1,7 @@
+{
+  "Location_and_Attribute": "宝兴县灵关镇钟街, 正规施工。",
+  "Structure_Type_and_Construction_Age": "底框架结构, 建于 1998 年。",
+  "Structural_Characteristics": "墙体: 墙体厚度均为 240mm, 砂浆强度较差; 楼板和屋面: 各层均为预制楼板, 构造措施: 有圈梁, 无构造柱。",
+  "Structural_Damage_Condition": "二层部分承重墙体产生贯穿性通透斜裂缝和交叉裂缝。",
+  "Brief_Analysis_of_Destruction_Cause": "该结构底层为框架结构, 二至六层为砖混结构, 二层为刚度转换层。由于底层作为商铺隔墙较多, 造成该层刚度大于二层刚度, 在二层处发生刚度突变, 二层形成软弱层, 破坏严重。"
+}

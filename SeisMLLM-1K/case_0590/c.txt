@@ -1,0 +1,11 @@
+{
+  "Location_and_Attribute": "芦山县双石镇双河村新街组, 自建房屋。",
+  "Structural_Type_and_Construction_Year": "砖混结构",
+  "Structural_Features": {
+    "Roof_and_Floor_Slab": "现浇楼板, 现浇屋面。",
+    "Wall": "墙厚均为 120mm。",
+    "Structural_Measures": "底部大开间, 底层前侧有柱; 有圈梁, 无构造柱。"
+  },
+  "Structural_Damage_Status": "左侧建筑底层承重构件均发生严重破坏, 底层承重构件朝一个方向倾斜。",
+  "Simple_Analysis_of_Damage_Cause": "两栋相邻结构动力性能不同, 地震中变形不协调, 发生碰撞"
+}

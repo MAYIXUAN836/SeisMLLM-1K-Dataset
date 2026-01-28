@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a guesthouse with visible residential features and external stairs.",
+    "category": "Other",
+    "primary_occupation_other": "Guesthouse"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a three-story bottom-frame masonry building with visible masonry walls and a concrete frame on the ground floor.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse, partial collapse, or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or story misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Vertical cracks are visible on the exterior walls, and cracks are observed near door and window openings inside."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys, parapets, or other falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluation categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E1_C164_I01.jpg": "The exterior view shows a three-story bottom-frame masonry building with vertical cracks on the walls and some debris near the base. No collapse is observed.",
+    "E1_C164_I02.jpg": "An interior hallway with minor cracks visible on the walls and some disorganized furniture and items. No significant structural damage is evident.",
+    "E1_C164_I03.jpg": "An interior room with cracks visible near a window and along the adjacent walls. Some plaster has fallen, but the damage appears localized."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\164",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:07:47",
+  "case_index": 164,
+  "case_id": "164",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

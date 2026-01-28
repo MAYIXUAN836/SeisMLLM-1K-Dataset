@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "Noto Japan Earthquake",
+    "date": "2024-01-01",
+    "magnitude": "Mw 7.5",
+    "location": "Noto, Japan"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Commercial signage and entrance visible on ground floor.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Visible steel frame with cladding falling off.",
+    "category": "Steel frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No signs of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cladding falling and rusted connections indicate structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant cladding detachment poses a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 4 (Falling Hazard) is Severe, but structure appears stable."
+  },
+  "9_image_descriptions": {
+    "E14_C005_I01.jpg": "Steel-framed building with cladding falling off. Rusted connections visible, indicating potential structural compromise. No apparent collapse or leaning observed."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\14-Noto Japan Earthquake\\005",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 04:51:42",
+  "case_index": 1132,
+  "case_id": "005",
+  "earthquake_folder": "14-Noto Japan Earthquake",
+  "category": "14-Noto Japan Earthquake"
+}

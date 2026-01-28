@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Christchurch Earthquake",
+    "date": "2011-02-22",
+    "magnitude": "Mw 6.3",
+    "location": "Christchurch, New Zealand"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage on ground floor with commercial branding.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with large glass windows and visible damage.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse observed on the left side of the building."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No significant leaning or vertical misalignment visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking and damage to window frames and walls visible."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Broken glass and potential falling hazards from windows."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E16_C044_I01.jpg": "Partial collapse of the building's left side with debris on the ground and broken windows.",
+    "E16_C044_I02.jpg": "Close-up of upper floors showing broken windows and wall damage.",
+    "E16_C044_I03.jpg": "Front view showing extensive window damage and partial collapse on the left.",
+    "E16_C044_I04.jpg": "Front view of the building with broken windows and visible structural damage.",
+    "E16_C044_I05.jpg": "Side view of the building showing intact sections and commercial signage.",
+    "E16_C044_I06.jpg": "Close-up of the roof area showing intact structural elements and curtains."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\16-Christchurch Earthquake\\044",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 05:22:40",
+  "case_index": 1198,
+  "case_id": "044",
+  "earthquake_folder": "16-Christchurch Earthquake",
+  "category": "16-Christchurch Earthquake"
+}

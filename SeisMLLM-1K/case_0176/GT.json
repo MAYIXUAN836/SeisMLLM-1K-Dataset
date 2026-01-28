@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential features including traditional wooden construction and decorative elements, indicating self-occupied dwelling.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Two-story wooden frame construction with brick infill walls showing cracks.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or foundation displacement in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Horizontal and vertical cracks observed in brick infill walls, indicating poor connection to the wooden frame."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards observed in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since all conditions are evaluated as Minor/none or Moderate, and no Severe conditions are present, the building is deemed safe for occupancy."
+  },
+  "9_image_descriptions": {
+    "E1_C176_I01.jpg": "Exterior view of a two-story wooden frame dwelling with decorative elements. No visible structural distress or collapse.",
+    "E1_C176_I02.jpg": "Close-up of exterior brick infill walls showing vertical cracks near windows and corners. No signs of severe structural damage.",
+    "E1_C176_I03.jpg": "Detailed view of exterior walls showing horizontal and vertical cracks in brick infill. Wooden frame appears intact.",
+    "E1_C176_I04.jpg": "Interior view showing cracks along walls and corners, indicating moderate damage to infill walls. No visible distress to wooden frame."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\176",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:13:33",
+  "case_index": 176,
+  "case_id": "176",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

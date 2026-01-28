@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Yushu Earthquake",
+    "date": "2010-04-14",
+    "magnitude": "Mw 7.1",
+    "location": "Qinghai Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is part of a school campus, with signage and structural features indicating its use as a teaching facility.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with visible concrete tie-columns and ring beams, typical of confined masonry construction.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or the building being off its foundation is visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of global tilt or story misalignment is visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and surface damage are visible on walls, particularly near windows and corners."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Significant cracking and detachment of wall sections near the roofline and parapets pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 4 (Falling Hazard) is evaluated as Severe but the structure appears stable overall, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E3_C117_I01.jpg": "Exterior view of a three-story school building with confined masonry construction. No apparent collapse, but minor surface cracks are visible near windows.",
+    "E3_C117_I02.jpg": "Close-up of a school building wall showing diagonal cracks and damage near windows. Some glass panes are broken.",
+    "E3_C117_I03.jpg": "Detailed view of a connection between two buildings, showing significant cracking and detachment of wall sections near the roofline."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\117",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 00:59:00",
+  "case_index": 627,
+  "case_id": "117",
+  "earthquake_folder": "3-Yushu Earthquake",
+  "category": "3-Yushu Earthquake"
+}

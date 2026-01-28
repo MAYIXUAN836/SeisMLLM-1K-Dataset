@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 Paratebueno Earthquake",
+    "date": "2025-06-08",
+    "magnitude": "Mw 6.4",
+    "location": "Paratebueno, Colombia"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images depict a school complex with multiple single-story buildings, including classrooms and other structures.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The buildings appear to have confined masonry construction with visible concrete tie-columns and masonry infill walls.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "One building is completely collapsed, as seen in the aerial view with extensive rubble."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning structures is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Some walls show visible cracks and damage, particularly in the standing buildings, indicating structural stress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible chimneys, parapets, or other falling hazards are observed in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are evident in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E8_C008_I01.jpg": "Aerial view of the school complex showing one completely collapsed building with extensive rubble and adjacent standing structures with minor visible damage.",
+    "E8_C008_I02.jpg": "Closer view of a single-story building with a red roof and intact walls, showing no significant structural damage.",
+    "E8_C008_I03.jpg": "Side view of a single-story building with visible masonry walls and minor cracks, but no major structural failure.",
+    "E8_C008_I04.jpg": "Detailed view of a masonry wall with visible cracks and minor damage, but the structure appears to remain intact."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\8-M6.4 Paratebueno Earthquake\\008",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:29:36",
+  "case_index": 829,
+  "case_id": "008",
+  "earthquake_folder": "8-M6.4 Paratebueno Earthquake",
+  "category": "8-M6.4 Paratebueno Earthquake"
+}

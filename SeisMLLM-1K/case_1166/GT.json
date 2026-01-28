@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Aegean Sea Earthquake",
+    "date": "2020-10-30",
+    "magnitude": "Mw 7.0",
+    "location": "Izmir, Turkey & Néon Karlovásion, Greece"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a religious structure with a large dome and bell towers, likely a church.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is composed of masonry walls with decorative stonework and a large dome supported by internal columns.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Significant portions of the front facade and dome have collapsed, exposing the interior."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of global tilt or leaning is visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to masonry walls with large sections missing, particularly around the dome and facade."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached masonry and debris present significant falling hazards, particularly from the dome and upper walls."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E7_C011_I01.jpg": "Frontal view of a masonry church showing severe damage, including partial collapse of the facade and dome, with large sections of masonry missing.",
+    "E7_C011_I02.jpg": "Aerial view of the church highlighting the extensive collapse of the central dome and surrounding masonry walls, exposing the interior structure.",
+    "E7_C011_I03.jpg": "Interior view of the church showing significant debris accumulation, collapsed masonry, and damaged interior columns and decorative elements.",
+    "E7_C011_I04.jpg": "Frontal view of the church prior to the earthquake, showing an intact masonry structure with no visible damage.",
+    "E7_C011_I05.jpg": "Frontal view of a masonry church showing severe damage, including partial collapse of the facade and dome, with large sections of masonry missing.",
+    "E7_C011_I06.jpg": "Aerial view of the church highlighting the extensive collapse of the central dome and surrounding masonry walls, exposing the interior structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\7-Aegean Sea Earthquake\\011",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:21:56",
+  "case_index": 812,
+  "case_id": "011",
+  "earthquake_folder": "7-Aegean Sea Earthquake",
+  "category": "7-Aegean Sea Earthquake"
+}

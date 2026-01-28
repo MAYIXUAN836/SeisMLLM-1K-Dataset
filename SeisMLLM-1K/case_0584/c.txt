@@ -1,0 +1,13 @@
+{
+  "House_Location_and_Properties": "庐山县双石镇中心小学少年宫, 正规施工。",
+  "Structural_Type_and_Construction_Era": "框架结构, 建于 2008 年之后。",
+  "Structural_Features": {
+    "Column_Dimensions": "500mm×500mm; 结构长 47m, 宽 11m。",
+    "Roof_and_Floor_Slabs": "现浇楼板, 现浇屋面。"
+  },
+  "Structural_Damage_Status": {
+    "Non_Load_Bearing_Components": "空心砖填充墙。",
+    "Details": "局部填充墙出现轻微裂缝, 局部墙体保温层开裂。"
+  },
+  "Brief_Summary_of_Damage_Cause": "填充墙属于非承重构件, 即使发生破坏也不影响使用, 而且遭遇强烈地震作用时框架结构填充墙会先于承重体系而出现裂缝。"
+}

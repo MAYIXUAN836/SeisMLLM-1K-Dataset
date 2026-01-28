@@ -1,0 +1,4 @@
+Damage of a partially confined masonry building in the Graberje village due to the 
+absence of RC tie-columns at wall intersections. The damage is in the form of wide vertical 
+cracks along the wall intersection and stepped shear cracks expanding from the ground to the 
+second floor slab (source: Hrvoje Ljubojević, Tenzor d.o.o).

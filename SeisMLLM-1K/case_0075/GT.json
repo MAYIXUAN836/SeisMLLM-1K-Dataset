@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating commercial usage, with visible storefronts and interior storage areas.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a bottom-frame masonry system with a concrete frame on the ground floor and masonry infill walls above.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or the building being off its foundation is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible signs of global tilt or story misalignment are evident."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracks and spalling are visible on the walls, particularly around the corners and openings. Severe damage to the bottom-floor columns is evident."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Some exterior wall sections and cladding show detachment, posing a potential falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are evident in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C075_I01.jpg": "Exterior view of a three-story commercial building with visible signage. No apparent structural collapse is visible.",
+    "E1_C075_I02.jpg": "Interior view showing a column with spalled concrete and exposed reinforcement, indicating severe damage.",
+    "E1_C075_I03.jpg": "Interior storage area with visible wall cracks and debris scattered on the floor, indicating structural distress.",
+    "E1_C075_I04.jpg": "Exterior wall with significant cracks and spalling near the base, exposing underlying materials.",
+    "E1_C075_I05.jpg": "Side view of the building showing cracked masonry walls and detached cladding, with visible damage to structural elements.",
+    "E1_C075_I06.jpg": "Close-up of a corner wall with severe cracking and spalling, exposing reinforcement and indicating structural failure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\075",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:18:22",
+  "case_index": 75,
+  "case_id": "075",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

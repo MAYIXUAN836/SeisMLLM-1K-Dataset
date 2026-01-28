@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is part of a school, with visible classrooms, hallways, and a playground.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame structure with hollow brick infill walls, as described in the metadata.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "The primary structure appears intact with no visible signs of collapse or displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or misalignment of the building or its stories."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Minor/none",
+      "description": "No visible diagonal cracks or significant structural damage to walls or beams."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached parapets or falling debris."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other significant damage or hazards are evident."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "All evaluated conditions are either 'Minor/none' or 'Not visible from the provided images', indicating no significant structural or safety concerns."
+  },
+  "9_image_descriptions": {
+    "E2_C314_I01.jpg": "The entrance gate of the school is intact, with no visible damage to the structure or surrounding walls.",
+    "E2_C314_I02.jpg": "The main school building is a four-story concrete frame structure with no visible structural damage or cracks.",
+    "E2_C314_I03.jpg": "A small utility building with brick walls and a flat roof is intact, showing no visible damage.",
+    "E2_C314_I04.jpg": "A hallway inside the school building shows no visible cracks or damage to the walls or ceiling.",
+    "E2_C314_I05.jpg": "A classroom interior is intact, with no visible structural damage to walls, ceiling, or windows."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\314",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:57:54",
+  "case_index": 503,
+  "case_id": "314",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

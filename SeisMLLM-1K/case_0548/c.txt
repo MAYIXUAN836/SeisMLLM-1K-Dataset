@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县宝盛乡杨扁子组，自建房屋",
+  "structure_type_and_year": "砖木结构",
+  "structural_features": {
+    "structural_dimensions": "结构长度为 15m, 宽度为 8m",
+    "roof_and_slab": "预制楼板, 硬山搁檩式木屋架",
+    "walls": "横墙厚度 240mm, 纵墙厚度 180mm"
+  },
+  "damage_condition": "二层纵墙墙塌塌损，屋架局部落顶。",
+  "damage_cause_analysis": "屋盖采用硬山搁檩的方式布置在山墙上，山墙没有设置构造柱，地震中顶层位移最大，屋架错动导致图中左侧山尖处墙体外闪，进而屋架落顶。"
+}

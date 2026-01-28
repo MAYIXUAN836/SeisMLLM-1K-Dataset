@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and residential units above.",
+    "category": "Other",
+    "primary_occupation_other": "Mixed-use (commercial and residential)"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building features confined masonry construction with brick walls and concrete tie-columns. The roof and floors are cast-in-place concrete slabs.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse or foundation settlement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or vertical misalignment of the building structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks are visible on interior walls, and there are through-wall cracks in the stairwell and rear longitudinal wall."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards from parapets, cladding, or other falling elements."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are evident from the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, localized structural damage is present. The building is stable but requires restricted use for safety."
+  },
+  "9_image_descriptions": {
+    "E2_C290_I01.jpg": "Exterior view of a three-story mixed-use building with confined masonry construction. No visible collapse or leaning is observed.",
+    "E2_C290_I02.jpg": "Interior view of a ground-floor room showing diagonal cracks on walls and minor debris on the floor.",
+    "E2_C290_I03.jpg": "Close-up of an interior wall with visible X-pattern cracking and through-wall fractures near a doorway.",
+    "E2_C290_I04.jpg": "Exterior side view of the building showing minor vertical cracks near window openings and no significant structural deformation."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\290",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:46:56",
+  "case_index": 479,
+  "case_id": "290",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

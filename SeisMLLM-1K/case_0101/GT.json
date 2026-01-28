@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Large hotel lobby with glass facades and steel structures.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Steel frame structure with glass curtain walls and membrane roof.",
+    "category": "Steel frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of masonry walls and steel supports visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No visible evidence of leaning or tilting."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to glass walls and interior partitions."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Falling hazards from broken glass and debris."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C101_I01.jpg": "Exterior view of a large steel-framed structure with a membrane roof. Visible damage includes broken glass panels and fallen masonry.",
+    "E1_C101_I02.jpg": "Interior view showing extensive debris and collapsed masonry near the entrance, with broken glass and steel supports.",
+    "E1_C101_I03.jpg": "Close-up of a stone pillar with significant damage and debris scattered around the base.",
+    "E1_C101_I04.jpg": "Interior view with collapsed masonry and broken glass, showing extensive structural damage.",
+    "E1_C101_I05.jpg": "Interior view of shattered glass and collapsed partitions, with debris covering the floor.",
+    "E1_C101_I06.jpg": "Interior view showing broken glass and debris, with visible damage to interior partitions and glass facades."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\101",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:31:07",
+  "case_index": 101,
+  "case_id": "101",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

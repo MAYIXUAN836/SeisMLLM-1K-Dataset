@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "2023 Oukaïmedene Morocco Earthquake",
+    "date": "2023-09-08",
+    "magnitude": "Mw 6.8",
+    "location": "Oukaïmedene, Morocco"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have a commercial ground floor with signage visible and residential features above.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure shows masonry walls with a bottom frame supporting the upper floors, which are primarily masonry.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The building has overturned and is partially collapsed, with the ground floor completely compromised."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Severe",
+      "description": "The entire structure is tilted significantly, indicating a failure to resist seismic forces."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Severe damage to walls is visible, with large sections of masonry displaced and debris scattered."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Potential falling hazards from detached masonry and structural elements are present."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damages or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1, 2, and 3 are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E5_C010_I01.jpg": "The image shows a two-story masonry building that has overturned and partially collapsed. The ground floor is entirely compromised, with debris scattered around. Rescue personnel are visible near the structure.",
+    "E5_C010_I02.jpg": "The image shows a two-story masonry building that has overturned and partially collapsed. The ground floor is entirely compromised, with debris scattered around. Rescue personnel are visible near the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\5-2023 Oukaïmedene Morocco Earthquake\\010",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:50:30",
+  "case_index": 741,
+  "case_id": "010",
+  "earthquake_folder": "5-2023 Oukaïmedene Morocco Earthquake",
+  "category": "5-2023 Oukaïmedene Morocco Earthquake"
+}

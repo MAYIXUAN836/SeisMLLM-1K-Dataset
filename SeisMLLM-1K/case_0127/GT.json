@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating it is a school, with classrooms visible inside.",
+    "category": "School"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building is a three-story concrete frame structure with infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial collapse or foundation settlement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of leaning or vertical misalignment in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks are visible on infill walls, and horizontal cracks are observed between the infill walls and beams."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible signs of detachment or falling hazards from chimneys, parapets, or other elements."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Moderate",
+      "description": "The steps leading to the entrance show signs of settlement and cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since all conditions are evaluated as Minor/none or Moderate, the building is safe for use according to Table 31 logic."
+  },
+  "9_image_descriptions": {
+    "E1_C127_I01.jpg": "Exterior view of a three-story concrete frame school building with no visible signs of collapse or leaning. The structure appears intact, with minor damage visible on the facade.",
+    "E1_C127_I02.jpg": "Close-up view of the building entrance showing settlement and cracking of the concrete steps.",
+    "E1_C127_I03.jpg": "Interior view of a corridor with visible diagonal cracks on the infill walls and horizontal cracks between the walls and beams."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\127",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:49:29",
+  "case_index": 127,
+  "case_id": "127",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

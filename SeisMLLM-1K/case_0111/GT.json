@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating commercial usage on the ground floor and appears to have multiple stories, likely used for mixed purposes.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a four-story concrete frame building with visible infill walls and decorative elements on the facade.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or global tilt observed in the structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and step-cracking are visible in infill walls, especially around window openings and corners."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Cracks near parapets and decorative elements suggest potential falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are apparent from the images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is deemed to have localized damage and potential hazards, warranting restricted use."
+  },
+  "9_image_descriptions": {
+    "E1_C111_I01.jpg": "Front view of a four-story concrete frame building with commercial signage on the ground floor. No major structural damage is visible in this view.",
+    "E1_C111_I02.jpg": "Side view of the building showing diagonal cracks in the infill walls and damage to decorative wall elements.",
+    "E1_C111_I03.jpg": "Close-up of a wall with visible diagonal cracks and damage to painted decorative elements. Cracks extend through the plaster and infill material.",
+    "E1_C111_I04.jpg": "Upper portion of the building showing cracks in the infill walls near the roofline. No significant structural deformation is visible.",
+    "E1_C111_I05.jpg": "Corner view of the building showing cracks at the junction of two walls and damage to the decorative facade.",
+    "E1_C111_I06.jpg": "Rear view of the building showing extensive cracking in the infill walls around window openings and at wall corners."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\111",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:40:41",
+  "case_index": 111,
+  "case_id": "111",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

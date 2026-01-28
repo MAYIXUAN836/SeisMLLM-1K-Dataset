@@ -1,0 +1,11 @@
+{
+  "House Location & Attributes": "芦山县宝盛乡杨扁子组，自建房屋",
+  "Structural Type & Construction Age": "穿斗结构",
+  "Structural Characteristics": {
+    "Structure Dimensions": "结构长度为9m，宽度为6m",
+    "Roof and Floor": "木楼板",
+    "Wall Body": "砖墙"
+  },
+  "Structural Damage Status": "二层脱榫，多数围护墙体塌落",
+  "Brief Analysis of Damage Cause": "榫卯连接而成的框架节点可以称之为弹性连接，当遭遇较大的外力作用时，这种连接会发生较大的变形，致使节点区域变成几何可变体系，进而造成整个结构体系产生应力重分布"
+}

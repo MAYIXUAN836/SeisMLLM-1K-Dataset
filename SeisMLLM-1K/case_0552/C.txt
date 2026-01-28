@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村谭家山组，自建房屋。",
+  "structure_type_and_year": "砖木结构",
+  "structural_features": {
+    "structural_dimensions": "结构总长 20m, 宽 8m, 层高 3m。",
+    "roof_and_slab": "预制楼板, 硬山搁檩木屋架。",
+    "structural_measures": "无圈梁，无构造柱。"
+  },
+  "damage_condition": "第一层、第二层山墙出现交叉裂缝，第三层端柱根部破坏。",
+  "damage_cause_analysis": "结构的承重墙体砂浆强度较差，且墙体中无圈梁和构造柱，结构的整体抗震能力较差，地震中底层和二层发生剪切破坏。"
+}

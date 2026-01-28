@@ -1,0 +1,6 @@
+{
+  "Location_and_Property_Attributes": "芦山县宝盛乡河边上组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "砖混结构",
+  "Structural_Damage_Status": "出屋面的楼梯间墙体出现严重的贯穿性通透斜裂缝",
+  "Simplified_Reason_for_Damage_Analysis": "建筑物受地震作用时, 顶部突出部分由于鞭梢效应, 振幅剧烈增大, 且四角没有设置构造柱, 造成墙体破坏严重。"
+}

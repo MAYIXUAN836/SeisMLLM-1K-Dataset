@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Building under construction with multiple floors visible.",
+    "category": "Other"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete frame with masonry infill walls; visible wooden roof trusses.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of collapse or foundation settlement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent leaning or vertical misalignment observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks visible in infill walls and interior partition walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys or parapets visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "No severe conditions found; moderate racking damage observed but overall stability maintained."
+  },
+  "9_image_descriptions": {
+    "E1_C090_I01.jpg": "Exterior view of a four-story building under construction with concrete frame and masonry infill walls. No apparent structural distress visible in this view.",
+    "E1_C090_I02.jpg": "Close-up of cracked masonry infill wall near window frame, indicating moderate damage.",
+    "E1_C090_I03.jpg": "Interior corridor with visible cracks in masonry walls and scattered debris on the floor.",
+    "E1_C090_I04.jpg": "Interior ceiling showing minor cracking along the joint between the wall and ceiling.",
+    "E1_C090_I05.jpg": "Interior view with diagonal cracking in partition wall, indicating structural distress.",
+    "E1_C090_I06.jpg": "View of wooden roof trusses with minor damage and scattered debris on the floor."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\090",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:25:31",
+  "case_index": 90,
+  "case_id": "090",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a three-story hotel with decorative elements and interior spaces such as bedrooms, bathrooms, and a kitchen.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a three-story confined masonry building with brick walls and visible concrete tie-columns.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible evidence of partial or complete collapse or foundation displacement."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of global tilt or inter-story drift observable in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Interior damage includes fallen decorative stone wall panels, scattered debris, and displaced structural elements."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Fallen decorative stone pieces and scattered debris pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Displaced furniture, a shifted toilet, and scattered kitchen items indicate non-structural damage."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking Damage) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is posted as Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E1_C015_I01.jpg": "Exterior view of a three-story hotel with decorative elements, intact walls, and visible roof damage.",
+    "E1_C015_I02.jpg": "Interior view of a bedroom showing collapsed ceiling elements, scattered debris, and damaged furniture.",
+    "E1_C015_I03.jpg": "Bathroom view with a visibly displaced toilet and minor water damage on the floor.",
+    "E1_C015_I04.jpg": "Kitchen view showing scattered utensils, broken items, and minor damage to shelves and furniture.",
+    "E1_C015_I05.jpg": "Close-up of a corridor with fallen decorative stone wall panels and scattered debris along the walkway."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\015",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 19:46:22",
+  "case_index": 15,
+  "case_id": "015",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

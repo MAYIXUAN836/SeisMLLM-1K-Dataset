@@ -1,0 +1,2 @@
+Damage at a floor-wall connection at the 2nd story. The crack at the connection is 
+potentially a result of beam sliding at support

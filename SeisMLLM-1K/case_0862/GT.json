@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Ground floor appears to have commercial signage, while upper floors show residential features such as curtains and windows.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with visible concrete tie-columns and beams, typical of confined masonry construction.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of the upper floors and significant damage to the ground floor due to a large boulder impact."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No clear evidence of leaning or tilting visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive structural damage, including large sections of walls missing and severe cracking around the impact area."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Debris and partially collapsed upper floors pose a significant falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Severe",
+      "description": "A large boulder has penetrated the ground floor, causing extensive localized damage."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1 (Collapse), 3 (Racking), 4 (Falling Hazard), and 6 (Others) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E2_C319_I01.jpg": "The building shows severe damage, with a large boulder embedded in the ground floor and partial collapse of the upper floors. Debris is scattered around the site.",
+    "E2_C319_I02.jpg": "A frontal view of the building reveals extensive structural damage, including missing wall sections and a large boulder lodged in the ground floor.",
+    "E2_C319_I03.jpg": "Close-up of the damaged structure highlights the boulder impact on the ground floor and the collapse of upper-floor walls and roof elements."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\319",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 00:00:16",
+  "case_index": 508,
+  "case_id": "319",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

@@ -1,0 +1,1 @@
+Teófilo Dávila Hospital only shows non structural damage to infill walls.

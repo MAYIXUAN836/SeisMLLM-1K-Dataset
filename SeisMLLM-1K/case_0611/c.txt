@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县清仁乡主街，自建房屋",
+  "structure_type_and_year": "二层砖砼结构，建于 2013 年",
+  "structural_features": {
+    "roof_and_slab": "现浇楼板和屋面",
+    "walls": "一层横墙墙厚为 240mm，纵墙墙厚为 240mm；二层横墙墙厚为 180mm，纵墙墙厚为 240mm",
+    "structural_measures": "有圈梁，无构造柱"
+  },
+  "damage_condition": "底层承重墙体出现严重贯穿性通透裂缝，部分墙体酥散濒临倒塌，底层圈梁掉落",
+  "damage_cause_analysis": "由于功能使用的要求，底层较空旷，且仅有的墙体开洞过大，导致底层的刚度小于二层的刚度，底层成为薄弱层，且承重墙体中未设置构造柱，导致底层的破坏严重。"
+}

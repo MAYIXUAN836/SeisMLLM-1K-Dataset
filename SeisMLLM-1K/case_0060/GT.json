@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is identified as the Ganhaizi Forest Police Office with signage indicating its use as a government office.",
+    "category": "Government"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building exhibits brick masonry walls with visible concrete tie-columns and ring beams, indicating a confined masonry structure.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "The kitchen extension at the rear exhibits severe settlement and detachment from the main structure, but the main building remains intact."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "The main building shows slight backward tilt due to uneven foundation settlement."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Cracks are visible in the plastered walls and window frames, with significant damage to the kitchen's infill walls and floor tiles."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible detachment or falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Severe",
+      "description": "The kitchen area shows severe ground settlement with visible subsidence and cracked tiles."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) and Condition 5 (Ground slope movement) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E1_C060_I01.jpg": "Exterior view of a three-story confined masonry building with signage indicating its use as a forest police office. No apparent collapse, but slight backward tilt is visible.",
+    "E1_C060_I02.jpg": "Interior view showing cracks in the plaster near windows and ceiling. No visible structural collapse but signs of distress in the finishes.",
+    "E1_C060_I03.jpg": "Interior view of the kitchen area showing severe ground settlement, cracked tiles, and debris scattered on the floor.",
+    "E1_C060_I04.jpg": "Interior view showing diagonal cracks in walls and deformation around door frames, indicating significant structural distress in the kitchen area."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\060",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:10:15",
+  "case_index": 60,
+  "case_id": "060",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

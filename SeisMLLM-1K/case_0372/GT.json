@@ -1,0 +1,69 @@
+{
+  "1_earthquake_id": {
+    "name": "Noto Japan Earthquake",
+    "date": "2024-01-01",
+    "magnitude": "Mw 7.5",
+    "location": "Noto, Japan"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images depict bridges with visible piers, supports, and roadways.",
+    "category": "Other",
+    "primary_occupation_other": "Bridge infrastructure"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete construction is evident in the piers, supports, and bridge decks.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Significant damage to bridge supports and piers, including visible cracking and displacement of structural elements."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some misalignment and deformation of bridge decks and supports are visible."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and spalling of concrete on piers and supports, with visible damage to structural integrity."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached and displaced structural components pose a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards are observed in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Conditions 1 (Collapse), 3 (Racking), and 4 (Falling Hazard) are evaluated as Severe, the structure must be posted Unsafe according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E14_C010_I01.jpg": "Overview of a bridge with visible concrete piers and supports. Damage to the side blocks and supports is evident.",
+    "E14_C010_I02.jpg": "A bridge underpass with reinforced concrete supports. No apparent structural distress visible in this view.",
+    "E14_C010_I03.jpg": "Close-up of a bridge support showing significant cracking and spalling of concrete.",
+    "E14_C010_I04.jpg": "A bridge bearing with visible deformation and displacement, indicating severe damage.",
+    "E14_C010_I05.jpg": "Concrete pier with extensive spalling and exposed reinforcement, with debris scattered at the base.",
+    "E14_C010_I06.jpg": "Collage showing various bridge damages, including spalling, cracking, and deformation of supports and piers."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\14-Noto Japan Earthquake\\010",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:53:49",
+  "case_index": 1137,
+  "case_id": "010",
+  "earthquake_folder": "14-Noto Japan Earthquake",
+  "category": "14-Noto Japan Earthquake"
+}

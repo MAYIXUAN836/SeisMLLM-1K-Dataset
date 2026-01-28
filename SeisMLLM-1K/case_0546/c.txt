@@ -1,0 +1,12 @@
+{
+  "location_and_attributes": "芦山县太平镇，自建房屋",
+  "structure_type_and_year": "砖木结构，2010 年修建",
+  "structural_features": {
+    "structural_dimensions": "结构长 12m, 宽 10m。",
+    "roof_and_slab": "现浇楼板, 硬山搁檩式木屋架",
+    "walls": "墙体厚度为 240mm",
+    "structural_measures": "有圈梁, 有构造柱"
+  },
+  "damage_condition": "顶层山墙倒塌, 木屋架落顶。",
+  "damage_cause_analysis": "屋盖采用硬山搁檩的方式布置在山墙上, 山尖没有设置构造柱, 地震中顶层位移最大, 屋架错动导致山尖处墙体外闪, 进而屋架落顶。"
+}

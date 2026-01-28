@@ -1,0 +1,11 @@
+{
+  "House Location and Attributes": "芦山县宝盛乡杨扁子组，自建房屋",
+  "Structural Type and Construction Age": "穿斗木结构",
+  "Structural Features": {
+    "Structural Size": "结构长度为 12m，宽度为 6m",
+    "Roof and Floor": "木楼板",
+    "Wall Body": "砖围护墙，空心砖"
+  },
+  "Structural Damage Status": "屋架局部塌落",
+  "Brief Analysis of Damage Cause": "该结构体系复杂，前部为砖混结构，后部为穿斗木结构，砖混部分为非封闭基础，地震中前后两部分变形不协调，导致砖混部分局部倒塌，进而屋架局部塌落。"
+}

@@ -1,0 +1,63 @@
+{
+  "1_earthquake_id": {
+    "name": "2023 Oukaïmedene Morocco Earthquake",
+    "date": "2023-09-08",
+    "magnitude": "Mw 6.8",
+    "location": "Oukaïmedene, Morocco"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Religious structure with a minaret.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Masonry minaret with visible collapse.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Collapse of the masonry minaret is evident."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracking visible on adjacent walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Debris from collapsed minaret poses a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage visible."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E5_C024_I01.jpg": "Collapsed masonry minaret with significant debris. Adjacent walls show moderate cracking. No visible ground movement or leaning of the structure."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\5-2023 Oukaïmedene Morocco Earthquake\\024",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 01:56:35",
+  "case_index": 755,
+  "case_id": "024",
+  "earthquake_folder": "5-2023 Oukaïmedene Morocco Earthquake",
+  "category": "5-2023 Oukaïmedene Morocco Earthquake"
+}

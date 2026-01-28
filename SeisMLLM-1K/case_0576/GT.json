@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a self-constructed residential structure with multiple stories.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The building consists of a mixed construction system: brick masonry walls in the front and a wooden frame structure in the rear.",
+    "category": "Other",
+    "construction_type_other": "Mixed construction with brick masonry and wooden frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Moderate",
+      "description": "The attached brick masonry structure is leaning forward and has partially separated from the wooden frame structure."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "The front brick masonry structure shows visible forward tilt."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks and separations are visible at the interface between the brick masonry and wooden frame structures."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as chimneys or parapets are observed in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not show evidence of ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other specific damage is visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 2 (Leaning) are evaluated as Moderate, the building is deemed to have localized instability, warranting Restricted Use."
+  },
+  "9_image_descriptions": {
+    "E2_C032_I01.jpg": "The image shows a three-story building with a mixed construction system. The front brick masonry section is visibly leaning forward and separating from the wooden frame structure at the rear. No apparent ground damage is visible."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\032",
+  "image_count": 2,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-19 21:35:39",
+  "case_index": 221,
+  "case_id": "032",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}

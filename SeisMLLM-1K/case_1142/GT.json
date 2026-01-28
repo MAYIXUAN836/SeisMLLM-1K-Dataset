@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Mw 6.1 Duzce, Turkey Earthquake",
+    "date": "2022-11-23",
+    "magnitude": "Mw 6.1",
+    "location": "Duzce, Turkey"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The structure appears to be a parking shelter with vehicles visible underneath the collapsed roof.",
+    "category": "Other",
+    "primary_occupation_other": "Parking structure"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden framing is visible in the collapsed structure, suggesting a non-engineered wood frame construction.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 1,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The parking structure has completely collapsed, with the roof framing resting on the vehicles below."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of leaning or vertical misalignment is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "No walls are visible in the structure; damage is limited to the roof collapse."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "The collapsed wooden roof poses a falling hazard due to loose debris and framing elements."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 4 (Falling hazard) are evaluated as Severe, according to Table 31, the structure must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E6_C027_I01.jpg": "Collapsed wooden roof structure resting on parked vehicles. Visible wooden framing and debris scattered around the site.",
+    "E6_C027_I02.jpg": "Closer view of the collapsed wooden roof structure with vehicles underneath. Wooden beams and debris obstruct the area."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\6-Mw 6.1 Duzce, Turkey Earthquake\\027",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 02:11:41",
+  "case_index": 788,
+  "case_id": "027",
+  "earthquake_folder": "6-Mw 6.1 Duzce, Turkey Earthquake",
+  "category": "6-Mw 6.1 Duzce, Turkey Earthquake"
+}

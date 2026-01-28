@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Dining area with tables and chairs visible inside.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Concrete columns and beams visible with infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "One side of the ground floor wall has collapsed entirely."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of global tilt or leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Diagonal cracks and severe damage to multiple columns with concrete crushing and rebar bending."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No visible chimneys or parapets posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No visible ground fissures or slope movement."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damages observed."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E1_C151_I01.jpg": "Exterior view showing extensive debris and collapsed wall sections with scattered bricks and rubble.",
+    "E1_C151_I02.jpg": "Interior view of a dining area with tables and chairs, showing no apparent structural distress.",
+    "E1_C151_I03.jpg": "Interior column with exposed concrete and rebar, showing severe cracking and damage.",
+    "E1_C151_I04.jpg": "Interior hallway with collapsed brick wall sections and debris obstructing passage.",
+    "E1_C151_I05.jpg": "Interior column with significant cracking and concrete spalling, exposing rebar.",
+    "E1_C151_I06.jpg": "Interior wall with severe cracking around a pipe penetration, indicating structural distress."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\151",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:00:46",
+  "case_index": 151,
+  "case_id": "151",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

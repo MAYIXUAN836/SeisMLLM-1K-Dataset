@@ -1,0 +1,4 @@
+Performance of gable walls: (a) collapsed gable wall in a partially confined masonry 
+building (with discontinuous RC tie column) and without a RC ring beam along the wall-to-roof 
+interface (source: Sanjin Strukic/Pixel) and (b) good performance of a gable wall in a form of 
+light-weight wooden panel (source: Nenad Bijelić).

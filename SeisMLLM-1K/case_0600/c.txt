@@ -1,0 +1,12 @@
+{
+  "Location_and_Property_Attributes": "芦山县宝盛乡河边上组, 自建房屋",
+  "Structural_Type_and_Construction_Year": "砖混结构",
+  "Structural_Characteristics": {
+    "Structural_Dimensions": "结构长 15m, 宽 9m。",
+    "Roof_and_Floor_Slab": "预制楼板, 现浇屋面",
+    "Walls": "所有墙体厚度均为 180mm",
+    "Construction_Measures": "无圈梁, 无构造柱"
+  },
+  "Structural_Damage_Status": "底层和二层多数承重墙体出现贯穿性通透斜裂缝",
+  "Simplified_Reason_for_Damage_Analysis": "结构的承重墙体厚度为 180mm, 墙体较薄; 且墙体中无圈梁和构造柱, 结构的整体抗震能力较差, 在地震中底层和二层发生剪切破坏。"
+}

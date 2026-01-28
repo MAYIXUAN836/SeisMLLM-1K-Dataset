@@ -1,0 +1,11 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村黑水堰组，自建房屋",
+  "structure_type_and_year": "砖木结构",
+  "structural_features": {
+    "roof_and_slab": "硬山搁檩屋面。",
+    "walls": "底层横墙厚 240mm, 纵墙 180mm, 第二层横墙厚 240mm, 纵墙厚 120mm。",
+    "structural_measures": "无圈梁，无构造柱。"
+  },
+  "damage_condition": "山墙发生贯穿性通透斜裂缝。",
+  "damage_cause_analysis": "结构平面布置呈“L”型，角部扭转效应明显，且墙体无有效抗震构造措施。"
+}

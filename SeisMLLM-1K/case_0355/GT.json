@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Mexico City 19th September 2017 Earthquake",
+    "date": "2017-09-19",
+    "magnitude": "Mw 7.1",
+    "location": "Mexico City, Mexico"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Storefront signage indicates a furniture store on the ground floor, with residential balconies above.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick masonry walls with concrete tie-columns visible in some areas, indicating confined masonry construction.",
+    "category": "Confined masonry"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No visible signs of partial or complete collapse, nor evidence of the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No apparent tilting or leaning of the building or individual stories visible in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and damage to masonry walls are visible, indicating racking or shear stress."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible signs of detached parapets, chimneys, or other falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards, such as toxic spills or broken gas lines, are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 3 (Racking damage) is evaluated as Moderate, localized damage may require restricted use for safety."
+  },
+  "9_image_descriptions": {
+    "E13_C091_I01.jpg": "Aerial view of the neighborhood showing multiple buildings, with no visible structural damage from this perspective.",
+    "E13_C091_I02.jpg": "Interior view showing cracked masonry walls and plaster damage, with debris scattered on the floor.",
+    "E13_C091_I03.jpg": "Close-up of a masonry wall with diagonal cracks and exposed brick, indicating structural stress.",
+    "E13_C091_I04.jpg": "Another close-up of a wall showing vertical and diagonal cracking, with plaster peeling off.",
+    "E13_C091_I05.jpg": "Exterior view of a three-story building with a furniture store on the ground floor, showing no obvious signs of collapse.",
+    "E13_C091_I06.jpg": "Detail of a column with superficial damage to the plaster, exposing underlying concrete."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\13-Mexico City 19th September 2017 Earthquake\\091",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 04:46:21",
+  "case_index": 1120,
+  "case_id": "091",
+  "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
+  "category": "13-Mexico City 19th September 2017 Earthquake"
+}

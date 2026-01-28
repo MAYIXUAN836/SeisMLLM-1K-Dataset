@@ -1,0 +1,11 @@
+{
+  "Location and Property": "雨城区碧峰峡镇八家村, 自建房屋。",
+  "Structure Type and Construction Age": "砖混结构",
+  "Structural Features": {
+    "Roof and Floor Slab": "预制楼板, 现浇屋面。",
+    "Wall": "横墙厚 240mm, 纵墙厚 120mm。",
+    "Construction Measures": "有圈梁, 无构造柱。"
+  },
+  "Structural Damage Status": "出屋面楼梯间发生破坏。",
+  "Brief Analysis of Damage Cause": "建筑物受地震作用时, 顶部突出部分由于鞭梢效应, 振幅剧烈增大, 且四角没有设置构造柱, 造成墙体破坏严重。"
+}

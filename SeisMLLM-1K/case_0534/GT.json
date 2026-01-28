@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The images show interior spaces of a commercial store and a residential house, with furniture and household items visible.",
+    "category": "Other",
+    "primary_occupation_other": "Commercial store and residential house"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The construction type is not clearly visible in the images, as they focus on interior contents rather than structural elements.",
+    "category": "Not visible from the provided images"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not show any evidence of partial or complete collapse or the building being off its foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not provide evidence of building or story leaning."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Not visible from the provided images",
+      "description": "The images focus on interior contents and do not show structural walls or evidence of racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "The images do not show any ground slope movement or cracking."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Unanchored slender furniture has fallen, blocking emergency exits and doors, posing a hazard to occupants."
+    }
+  },
+  "7_estimated_building_damage": "0–1%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Since Condition 6 (Others) is evaluated as Moderate due to blocked emergency exits, the building is posted as Restricted Use to ensure safety."
+  },
+  "9_image_descriptions": {
+    "E17_C090_I01.jpg": "Interior view of a commercial store with a large piece of unanchored furniture blocking a doorway, posing a hazard to emergency egress.",
+    "E17_C090_I02.jpg": "Interior view of a residential house with fallen furniture, including a large cabinet and scattered items, obstructing movement and creating potential hazards."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\090",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 06:03:21",
+  "case_index": 1299,
+  "case_id": "090",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

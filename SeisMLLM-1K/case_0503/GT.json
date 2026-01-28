@@ -1,0 +1,64 @@
+{
+  "1_earthquake_id": {
+    "name": "Petrinja, Croatia December 29, 2020 Earthquake",
+    "date": "2020-12-29",
+    "magnitude": "Mw 6.4",
+    "location": "Sisak-Moslavina County, Croatia"
+  },
+  "2_view_type": "Interior only",
+  "3_primary_occupation": {
+    "visual_evidence": "Office furniture, desks, and chairs visible in the interior.",
+    "category": "Offices"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Brick infill walls with visible plaster damage and exposed brickwork.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": null,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of partial or complete collapse or foundation settlement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Not visible from the provided images",
+      "description": "No signs of global tilt or vertical misalignment visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks observed in the infill walls and plaster damage exposing brickwork."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of detached or falling hazards such as chimneys or parapets visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground fissures, heaving, or slope movement visible."
+    },
+    "6_others": {
+      "status": "Minor/none",
+      "description": "Overturned furniture and scattered office items, but no hazardous conditions observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no conditions are evaluated as Severe, the building is deemed safe for inspection according to Table 31."
+  },
+  "9_image_descriptions": {
+    "E17_C059_I01.jpg": "Interior view of an office space with overturned furniture, scattered items, and diagonal cracks in the plaster exposing brickwork.",
+    "E17_C059_I02.jpg": "Interior view showing exposed brick infill walls, overturned furniture, scattered debris, and plaster damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\17-Petrinja, Croatia December 29, 2020 Earthquake\\059",
+  "image_count": 4,
+  "processing_strategy": "高清模式",
+  "processing_timestamp": "2025-12-20 05:51:32",
+  "case_index": 1268,
+  "case_id": "059",
+  "earthquake_folder": "17-Petrinja, Croatia December 29, 2020 Earthquake",
+  "category": "17-Petrinja, Croatia December 29, 2020 Earthquake"
+}

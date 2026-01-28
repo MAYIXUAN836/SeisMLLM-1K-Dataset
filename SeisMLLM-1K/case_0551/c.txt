@@ -1,0 +1,10 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村黑水堰组，自建房屋。",
+  "structure_type_and_year": "砖木结构",
+  "structural_features": {
+    "roof_and_slab": "硬山搁檩木屋架。",
+    "structural_measures": "无圈梁，无构造柱。"
+  },
+  "damage_condition": "屋架倒塌，第二层部分纵墙倒塌。",
+  "damage_cause_analysis": "屋盖采用硬山搁檩的方式布置在山墙上，山墙没有设置构造柱，地震中顶层位移最大，屋架错动导致山尖处墙体外闪，进而屋架落顶。"
+}

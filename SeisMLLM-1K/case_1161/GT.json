@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Aegean Sea Earthquake",
+    "date": "2020-10-30",
+    "magnitude": "Mw 7.0",
+    "location": "Izmir, Turkey & Néon Karlovásion, Greece"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a multi-story residential structure with balconies and windows typical of apartments.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with infill walls and visible balconies.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 8,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "The first three floors of the building have collapsed, with visible debris and structural failure at the base."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some tilting of the building is visible, particularly in the upper stories, indicating potential structural instability."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive damage to walls and structural elements, with visible cracks and displacement in the infill walls."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Moderate",
+      "description": "Potential falling hazards from detached balconies and loose debris are visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional hazards or damage are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E7_C006_I01.jpg": "A partially collapsed multi-story residential building with significant damage to the lower floors and visible debris at the base. The upper stories show signs of misalignment.",
+    "E7_C006_I02.jpg": "A view of two adjacent residential buildings, one of which shows partial collapse and leaning. The other building appears intact but is in close proximity to the damaged structure.",
+    "E7_C006_I03.jpg": "An aerial view of the affected area, showing multiple buildings. One building has collapsed floors, with visible debris and heavy machinery on-site for rescue operations.",
+    "E7_C006_I04.jpg": "A close-up of a severely damaged building with collapsed lower floors and visible structural debris. The upper floors appear misaligned and unstable.",
+    "E7_C006_I05.jpg": "An overhead view of the damaged building and surrounding area, showing collapsed sections, debris, and emergency response vehicles on-site."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\7-Aegean Sea Earthquake\\006",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:19:32",
+  "case_index": 807,
+  "case_id": "006",
+  "earthquake_folder": "7-Aegean Sea Earthquake",
+  "category": "7-Aegean Sea Earthquake"
+}

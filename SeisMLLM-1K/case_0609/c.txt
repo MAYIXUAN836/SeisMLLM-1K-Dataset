@@ -1,0 +1,9 @@
+{
+  "location_and_attributes": "芦山县双石镇石凤村黑水堰组，自建房屋。",
+  "structure_type_and_year": "砖混结构",
+  "structural_features": {
+    "roof_and_slab": "现浇楼板。"
+  },
+  "damage_condition": "出屋面楼梯间倒塌。",
+  "damage_cause_analysis": "建筑物受地震作用时，顶部突出部分由于鞭梢效应，振幅剧烈增大，且四角没有设置构造柱，造成墙体破坏严重。"
+}

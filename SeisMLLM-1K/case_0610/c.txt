@@ -1,0 +1,12 @@
+{
+  "location_and_attributes": "芦山县龙门乡古城村，自建房屋",
+  "structure_type_and_year": "二层砖砼结构。建于 2013 年",
+  "structural_features": {
+    "structural_dimensions": "结构为 L 型。",
+    "roof_and_slab": "现浇楼板和屋面",
+    "walls": "横墙墙厚为 240mm，纵墙墙厚为 180mm",
+    "structural_measures": "有圈梁，主体有构造柱，右后墙无构造柱"
+  },
+  "damage_condition": "左侧底层墙体出现约 50mm 的贯穿性通透交叉裂缝，左侧山墙前构造柱底部断裂，左侧后构造柱上部劈裂。",
+  "damage_cause_analysis": "结构平面不规则为 L 型，结构刚心与质心不重合，结构在地震中产生扭转效应，导致左侧破坏严重。"
+}

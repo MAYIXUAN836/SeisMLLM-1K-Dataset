@@ -1,0 +1,7 @@
+{
+  "House Location and Property": "思经乡, 自建房屋",
+  "Structural Type and Construction Year": "砖混结构, 建于 2005 年",
+  "Structural Features": "现浇楼盖, 纵墙厚 120mm, 横墙厚 240mm。有圈梁, 无构造柱。",
+  "Structural Damage Condition": "一层纵墙破损严重。",
+  "Brief Analysis of Damage Cause": "由于功能使用的要求, 底层较空旷, 其刚度小于其它层的刚度, 底层成为薄弱层, 破坏较重; 结构前部设置卷帘门, 纵墙偏少, 且结构在平面内纵向刚度不均匀, 刚心质心不重合, 有扭转效应, 加重了纵墙的破坏; 且内纵墙较薄、砂浆强度较差, 导致墙体出现沿灰缝的严重贯穿性通透交叉裂缝。"
+}

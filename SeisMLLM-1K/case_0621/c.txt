@@ -1,0 +1,11 @@
+{
+  "Location and Property": "雨城区中里镇龙泉村 5 组 62 号，自建房屋。",
+  "Structural Type and Construction Age": "砖混结构，建于 1998 年。",
+  "Structural Characteristics": {
+    "Roof and Floor Slab": "预制楼板，现浇屋面。",
+    "Wall": "纵墙厚 120mm，横墙厚 240mm；山墙厚 240mm。",
+    "Construction Measures": "有圈梁，无构造柱。"
+  },
+  "Structural Damage Status": "底层纵横墙均发生严重破坏。",
+  "Brief Analysis of Damage Causes": "墙体的砂浆标号较低，且未设置构造柱，楼板采用预制楼板，导致结构整体抗震能力较低。"
+}

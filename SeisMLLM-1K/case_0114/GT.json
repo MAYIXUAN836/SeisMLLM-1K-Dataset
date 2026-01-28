@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating it is a branch of the Sichuan Rural Credit Union, suggesting commercial use.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure features a concrete frame with infill walls, visible cracks near windows and between beams and walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 3,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation displacement visible in the images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of building or story leaning in the provided images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible around window openings and between beams and infill walls, indicating moderate structural damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible hazards such as detached parapets or falling debris in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other significant damage or hazards are visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "1–10%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since no severe conditions are observed in any of the evaluated categories, the building is deemed safe for use."
+  },
+  "9_image_descriptions": {
+    "E1_C114_I01.jpg": "A three-story concrete frame building with commercial signage. Minor cracks are visible near windows and along the walls.",
+    "E1_C114_I02.jpg": "Close-up of the upper facade showing cracks near window openings and along the beam-wall junctions.",
+    "E1_C114_I03.jpg": "Side view of the building showing cracks along the walls and near the air conditioning units.",
+    "E1_C114_I04.jpg": "Detailed view of the corner of the building, showing cracks near the window and along the beam-wall interface.",
+    "E1_C114_I05.jpg": "Close-up of the upper story facade showing minor spalling and cracks near the windows.",
+    "E1_C114_I06.jpg": "View of the ground floor wall showing cracks near window openings and minor damage to the plaster."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\114",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:42:15",
+  "case_index": 114,
+  "case_id": "114",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

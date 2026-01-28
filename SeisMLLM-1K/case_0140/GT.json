@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building is a hotel with visible balconies and a central lobby area.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure consists of a concrete frame with stone veneer exterior walls and visible infill walls.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 8,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "The main structure remains intact with no visible signs of collapse or foundation failure."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No evidence of leaning or vertical misalignment is visible in the images."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks are visible on the exterior walls, and significant damage is observed in the interior infill walls, including cross-cracking and dislodged masonry."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Large sections of the stone veneer have detached from the exterior walls, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Interior damage includes broken decorative wooden beams, displaced furniture, and fallen chandeliers."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Condition 4 (falling hazard) is evaluated as Severe, but the main structural frame is intact, warranting a Restricted Use posting."
+  },
+  "9_image_descriptions": {
+    "E1_C140_I01.jpg": "Overview of an eight-story hotel with visible balconies and stone veneer exterior walls. No apparent structural collapse is visible.",
+    "E1_C140_I02.jpg": "Closer view of the hotel entrance and surrounding landscaping. The stone veneer on the walls shows signs of detachment.",
+    "E1_C140_I03.jpg": "Interior view of the hotel lobby showing extensive damage to infill walls, broken decorative beams, and fallen chandeliers.",
+    "E1_C140_I04.jpg": "Detailed view of the hotel lobby with collapsed infill walls, dislodged masonry, and displaced furniture.",
+    "E1_C140_I05.jpg": "Close-up of the hotel’s exterior balconies, showing cracks in the walls and minor damage to the plaster and finishes."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\140",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:55:30",
+  "case_index": 140,
+  "case_id": "140",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

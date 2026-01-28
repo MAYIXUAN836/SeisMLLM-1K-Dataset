@@ -1,0 +1,67 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Residential structure with traditional wooden elements.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Wooden frame structure with mud walls.",
+    "category": "Wood frame"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of collapse or building off foundation."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some walls are severely leaning as noted in the text."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Cracks visible in mud walls and some structural misalignment."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No visible falling hazards such as chimneys or parapets."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "Insufficient evidence of ground movement or cracking."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other significant damage observed."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(2) Restricted Use (Yellow)",
+    "reasoning": "Moderate leaning and structural damage warrant restricted use."
+  },
+  "9_image_descriptions": {
+    "E1_C181_I01.jpg": "Overview of a traditional wooden residential structure with no apparent structural distress visible.",
+    "E1_C181_I02.jpg": "Interior view showing wooden beams and mud walls, with no significant damage visible.",
+    "E1_C181_I03.jpg": "Close-up of decorative wooden elements with minor superficial damage.",
+    "E1_C181_I04.jpg": "Mud wall with visible cracks and wooden frame, indicating some structural misalignment.",
+    "E1_C181_I05.jpg": "Severely leaning mud wall section, supported by wooden beams, indicating moderate structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\181",
+  "image_count": 10,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 21:17:26",
+  "case_index": 181,
+  "case_id": "181",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

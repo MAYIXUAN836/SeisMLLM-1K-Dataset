@@ -1,0 +1,66 @@
+{
+  "1_earthquake_id": {
+    "name": "M6.4 Paratebueno Earthquake",
+    "date": "2025-06-08",
+    "magnitude": "Mw 6.4",
+    "location": "Paratebueno, Colombia"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "Church with a prominent front façade and interior seating.",
+    "category": "Public assembly"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "White painted masonry walls with red trim and arched windows.",
+    "category": "Unreinforced masonry (URM)"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of side walls with significant debris visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Visible leaning of the front tower structure."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Large cracks and wall sections missing, especially on the side and rear."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Detached sections of parapet and façade elements pose falling hazards."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No ground movement or cracking visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage types visible in the images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E8_C012_I01.jpg": "Front façade of the church showing cracks and leaning tower. Damage to the upper sections and missing plaster is visible.",
+    "E8_C012_I02.jpg": "Side view of the church with a large section of wall missing, exposing the interior. Debris scattered on the ground.",
+    "E8_C012_I03.jpg": "Rear view of the church showing significant structural damage with missing wall sections and exposed interior.",
+    "E8_C012_I04.jpg": "Interior view with fallen debris and damaged seating area. Structural elements are visibly compromised."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\8-M6.4 Paratebueno Earthquake\\012",
+  "image_count": 8,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 02:31:33",
+  "case_index": 833,
+  "case_id": "012",
+  "earthquake_folder": "8-M6.4 Paratebueno Earthquake",
+  "category": "8-M6.4 Paratebueno Earthquake"
+}

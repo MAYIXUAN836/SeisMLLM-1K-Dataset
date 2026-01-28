@@ -1,0 +1,11 @@
+{
+  "Location_and_Attribute": "宝兴县灵关镇, 自建房屋。",
+  "Structure_Type_and_Construction_Age": "砖混结构。",
+  "Structural_Characteristics": {
+    "Roof_and_Floor_Slabs": "现浇楼板, 现浇屋面。",
+    "Wall": "横墙厚度为 180mm。",
+    "Structural_Measures": "有圈梁, 无构造柱。"
+  },
+  "Structural_Damage_Condition": "倒塌, 死亡四人。",
+  "Brief_Analysis_of_Destruction_Cause": "倒塌破坏承重墙体较薄, 缺少构造措施, 墙体抗剪能力较弱, 导致结构倒塌。"
+}

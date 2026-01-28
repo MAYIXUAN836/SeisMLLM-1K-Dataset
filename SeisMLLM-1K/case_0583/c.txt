@@ -1,0 +1,9 @@
+[
+  {
+    "Location_and_Properties": "清仁乡，正规施工",
+    "Structural_Type_and_Construction_Year": "框架结构，08 年后援建",
+    "Structural_Features": "3 层钢筋混凝土框架结构，空心砌块填充",
+    "Structural_Damage_Status": "轻微破坏，框架结构基本完好，填充墙明显受损",
+    "Brief_Analysis_of_Damage_Cause": "结构竖向刚度均匀，底层承受的水平地震剪力最大，在水平地震剪力作用下，填充墙受剪破坏，窗间墙未设置构造柱，造成窗间墙与梁连接处出现水平裂缝。"
+  }
+]

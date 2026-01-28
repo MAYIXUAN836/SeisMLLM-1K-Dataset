@@ -1,0 +1,12 @@
+{
+  "House Location and Property": "芦山县双石镇中心小学求知阁，正规施工。",
+  "Structural Type and Construction Age": "单跨框架结构，建于 2006。",
+  "Structural Characteristics": {
+    "Structure Size": "柱尺寸为 450mm×450mm, 结构长 30.6m, 宽 6m。",
+    "Roof and Floor": "现浇楼板，现浇屋面。",
+    "Non-structural Components": "空心砖填充墙，两柱中间有假柱。",
+    "Construction Measures": "填充墙无构造柱。"
+  },
+  "Structural Damage Status": "底层柱顶端破坏，填充墙出现裂缝，局部瓷砖脱落，结构严重破坏。",
+  "Summary of Damage Causes": "框架结构体系只有一道抗震防线，而单跨框架作为框架结构的特殊形式，其结构冗余度较小，因而在地震中很容易形成机构从而被破坏甚至倒塌。"
+}

@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Jiuzhaigou Earthquake",
+    "date": "2017-08-08",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building has signage indicating it is a hotel, with a commercial entrance and multiple floors of rooms.",
+    "category": "Commercial"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure is a bottom-frame masonry building with a reinforced concrete frame on the ground floor and masonry walls on the upper floors.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 4,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or the building being off its foundation is visible."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible leaning or vertical misalignment of the building or its stories is observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Moderate",
+      "description": "Diagonal cracks and damage are visible on interior and exterior walls, particularly at wall intersections and corners."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Minor/none",
+      "description": "No apparent hazards from chimneys, parapets, or other falling elements are visible."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No additional damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "10–30%",
+  "8_final_status": {
+    "status": "(1) Inspected (Green)",
+    "reasoning": "Since none of the conditions are evaluated as Severe, the building is deemed safe for use with minor repairs required."
+  },
+  "9_image_descriptions": {
+    "E1_C071_I01.jpg": "Exterior view of a four-story hotel with visible minor cracking on the facade and intact structural elements.",
+    "E1_C071_I02.jpg": "Interior view showing diagonal cracks on a white plastered wall near a door frame.",
+    "E1_C071_I03.jpg": "Close-up of an exterior corner showing cracking and minor damage to the masonry wall.",
+    "E1_C071_I04.jpg": "Ground floor entrance with visible cracks near the door frame and minor damage to the surrounding wall.",
+    "E1_C071_I05.jpg": "Interior wall with significant diagonal cracks and some plaster detachment near a staircase.",
+    "E1_C071_I06.jpg": "Interior staircase wall with a long diagonal crack extending across the surface."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\1-Jiuzhaigou Earthquake\\071",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 20:15:50",
+  "case_index": 71,
+  "case_id": "071",
+  "earthquake_folder": "1-Jiuzhaigou Earthquake",
+  "category": "1-Jiuzhaigou Earthquake"
+}

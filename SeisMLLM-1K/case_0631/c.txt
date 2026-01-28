@@ -1,0 +1,7 @@
+{
+  "House Location and Property": "思经乡, 自建房屋",
+  "Structural Type and Construction Year": "砖混结构, 建于 2005",
+  "Structural Features": "二层砖混结构, 无构造柱, 纵墙厚 120mm, 横墙厚 240mm, 现浇楼板。",
+  "Structural Damage Condition": "严重破坏, 底层纵墙开裂严重。",
+  "Brief Analysis of Damage Cause": "结构墙体较薄且无抗震措施, 结构整体抗震性能较差,"
+}

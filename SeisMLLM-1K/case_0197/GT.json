@@ -1,0 +1,65 @@
+{
+  "1_earthquake_id": {
+    "name": "Türkiye Earthquake Sequence on February 6, 2023",
+    "date": "2023-02-06",
+    "magnitude": "Mw 7.8",
+    "location": "Southern Türkiye"
+  },
+  "2_view_type": "Exterior only",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to be a residential structure with balconies and ground-floor commercial spaces.",
+    "category": "Dwelling"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "Reinforced concrete frame structure with infill walls and visible damage to structural and non-structural elements.",
+    "category": "Concrete frame"
+  },
+  "5_stories": {
+    "over_ground": 7,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Severe",
+      "description": "Partial collapse of the ground floor is visible, with significant structural damage and debris around the base of the building."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Moderate",
+      "description": "Some vertical misalignment is visible, but the building does not appear to be leaning significantly."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Extensive cracking and damage to infill walls and structural elements, including X-pattern cracking and spalling of concrete."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Severe",
+      "description": "Balconies and overhangs show significant damage, posing a falling hazard."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Not visible from the provided images",
+      "description": "No other damage or hazards are visible in the provided images."
+    }
+  },
+  "7_estimated_building_damage": "60–100%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E10_C008_I01.jpg": "A multi-story residential building with visible damage to the ground floor, including partial collapse and debris. Overhangs and balconies show significant distress.",
+    "E10_C008_I02.jpg": "A wider view of a damaged residential building, showing extensive structural damage to the ground floor and infill walls. Debris is scattered around the base.",
+    "E10_C008_I03.jpg": "Close-up view of severe cracking and spalling in a concrete column and infill wall. Reinforcement bars are exposed, indicating significant structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\10-Türkiye Earthquake Sequence on February 6, 2023\\008",
+  "image_count": 6,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-20 03:28:46",
+  "case_index": 960,
+  "case_id": "008",
+  "earthquake_folder": "10-Türkiye Earthquake Sequence on February 6, 2023",
+  "category": "10-Türkiye Earthquake Sequence on February 6, 2023"
+}

@@ -1,0 +1,68 @@
+{
+  "1_earthquake_id": {
+    "name": "Lushan Earthquake",
+    "date": "2013-04-20",
+    "magnitude": "Mw 7.0",
+    "location": "Sichuan Province, China"
+  },
+  "2_view_type": "Exterior and interior",
+  "3_primary_occupation": {
+    "visual_evidence": "The building appears to have commercial shutters on the ground floor and residential windows on the upper floor.",
+    "category": "Bottom-frame masonry"
+  },
+  "4_type_of_construction": {
+    "visual_evidence": "The structure has a concrete frame on the ground floor with brick infill walls, and the upper floor is primarily brick masonry.",
+    "category": "Bottom-frame masonry"
+  },
+  "5_stories": {
+    "over_ground": 2,
+    "under_ground": null
+  },
+  "6_evaluation": {
+    "1_collapse_partial_collapse_or_building_off_foundation": {
+      "status": "Minor/none",
+      "description": "No evidence of partial or complete collapse or foundation settlement is visible in the provided images."
+    },
+    "2_building_or_story_leaning": {
+      "status": "Minor/none",
+      "description": "No visible signs of global tilt or story misalignment are observed."
+    },
+    "3_racking_damage_to_walls_other_structural_damage": {
+      "status": "Severe",
+      "description": "Significant diagonal cracking and X-pattern cracks are visible on interior walls and stairwell areas, indicating severe racking damage."
+    },
+    "4_chimney_parapet_or_other_falling_hazard": {
+      "status": "Not visible from the provided images",
+      "description": "No chimneys, parapets, or other falling hazards are visible in the images."
+    },
+    "5_ground_slope_movement_or_cracking": {
+      "status": "Not visible from the provided images",
+      "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+    },
+    "6_others": {
+      "status": "Moderate",
+      "description": "Peeling plaster and debris are present, indicating moderate non-structural damage."
+    }
+  },
+  "7_estimated_building_damage": "30–60%",
+  "8_final_status": {
+    "status": "(3) Unsafe (Red)",
+    "reasoning": "Since Condition 3 (Racking) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
+  },
+  "9_image_descriptions": {
+    "E2_C221_I01.jpg": "Exterior view of a two-story building with commercial shutters on the ground floor and residential windows on the upper floor. No apparent structural collapse is visible.",
+    "E2_C221_I02.jpg": "Side view of the building showing peeling plaster on the exterior wall and minor debris along the foundation. No structural cracks are visible in this view.",
+    "E2_C221_I03.jpg": "Interior view of a room with significant diagonal cracking on the walls and exposed brickwork. Severe racking damage is evident.",
+    "E2_C221_I04.jpg": "Interior view of a large open space on the ground floor with visible concrete columns. Some cracks are visible on the walls, and the space is cluttered with debris.",
+    "E2_C221_I05.jpg": "Another interior view of the ground floor showing striped tarps and scattered debris. Cracks are visible on the walls, and the structural columns appear intact.",
+    "E2_C221_I06.jpg": "Stairwell view with severe X-pattern cracking on the walls, exposing brick masonry. This indicates significant structural damage."
+  },
+  "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\221",
+  "image_count": 12,
+  "processing_strategy": "均衡模式",
+  "processing_timestamp": "2025-12-19 23:06:08",
+  "case_index": 410,
+  "case_id": "221",
+  "earthquake_folder": "2-Lushan Earthquake",
+  "category": "2-Lushan Earthquake"
+}
