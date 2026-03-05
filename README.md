@@ -2,7 +2,7 @@
 
 **SeisMLLM-1K** is a specialized multimodal dataset designed for training Large Vision-Language Models (LVLMs) to perform professional structural safety assessments of buildings damaged by earthquakes. 
 
-The dataset follows the **ATC-20** (Applied Technology Council) standards and focuses on the "Stage 1: Understanding" phase of rapid visual screening. It pairs multi-view images of damaged buildings with detailed, structured engineering reports.
+The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council) standards. It pairs multi-view images of damaged buildings with detailed, structured engineering assessmemts.
 
 ## 📂 Repository Structure
 
@@ -23,9 +23,11 @@ The dataset follows the **ATC-20** (Applied Technology Council) standards and fo
 - **Domain**: Computer vision, Rapid post-earthquake assessment for buildings, Structural Health Monitoring, MLLM.
 - **Images**: Photos from real earthquake sites report (e.g., Jiuzhaigou, etc.).
 
+The dataset comprises 3,856 images across 1,306 core building cases (organized as "multi-view images, metadata, assessment annotation" triplets), meticulously curated from 17 major global earthquake events (Mw 6.1--8.0) between 2010 and 2024. Spanning the Pacific Ring of Fire and the Alpine-Himalayan Belt, it captures a diverse range of architectural styles across Asia, the Americas, Europe, and Oceania.
+
 ## 📝 Data Format
 
-The dataset uses the standard JSON format compatible with training frameworks like **LLaVA**, **Qwen-VL**, or **Swift**.
+The dataset uses the standard JSON format compatible with training frameworks like **LLaVA**, **Qwen-VL**, etc.
 
 ### Example Entry
 
@@ -82,7 +84,7 @@ This dataset is ready for **Supervised Fine-Tuning (SFT)** of Multimodal LLMs.
    ```
 
 3. **Training**:
-   Ensure your training framework supports Multi-image inputs if you plan to use all images per case. The `images` field contains relative paths to the `SeisMLLM-1K/` directory.
+   Ensure your training framework supports Multi-image inputs if you plan to use all images per case. The `images` field contains relative paths to the `SeisMLLM-1K` directory.
 
 ## ⚠️ License & Disclaimer
 
