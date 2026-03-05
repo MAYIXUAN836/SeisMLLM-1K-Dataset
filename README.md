@@ -157,7 +157,7 @@ The dataset follows the **ATC-20** (Applied Technology Council) standards and fo
 
 ## 📊 Dataset Statistics
 
-![Dataset statistics](dataset_statistics.pdf)
+![Dataset statistics](dataset_statistics.png)
 
 - **Total Cases**: ~1,000 unique building cases (implied by 1K naming).
 - **Format**: ShareGPT (List of `{messages, images}` objects).
