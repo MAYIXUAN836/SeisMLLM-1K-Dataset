@@ -52,7 +52,7 @@ The dataset uses the standard JSON format compatible with training frameworks li
 
 ## 🏷️ Annotation Schema
 
-The model is trained to output a structured report containing the following fields:
+The model is trained to output a structured report containing the following fields according to **ATC-20-1**:
 
 | Field | Full Name | Description |
 | :--- | :--- | :--- |
