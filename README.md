@@ -9,8 +9,8 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 ```
 ├── SeisMLLM-1K/            # Image directory containing case folders (e.g., case_0001/)
 ├── train.json              # Training set in ShareGPT format
-├── test.json               # Test/Validation set
-├── Full_GT.json            # Complete ground truth data
+├── test.json               # Test set
+├── Full_GT.json            # Complete ground truth annotation
 ├── dataset_info.json       # Dataset metadata and format configuration
 └── README.md
 ```
