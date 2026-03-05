@@ -19,7 +19,7 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 
 ![Dataset statistics](dataset_statistics.png)
 
-- **Total Cases**: ~1,000 unique building cases.
+- **Total Cases**: `1,306` unique building cases with `3,856` images.
 - **Domain**: Computer vision, Rapid post-earthquake assessment for buildings, Structural Health Monitoring, MLLM.
 - **Images**: Photos from real earthquake sites report (e.g., Jiuzhaigou, etc.).
 
