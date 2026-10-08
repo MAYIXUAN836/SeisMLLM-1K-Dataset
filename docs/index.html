@@ -22,7 +22,7 @@
   <header class="site-header">
     <nav class="nav container" aria-label="Main navigation">
       <a class="wordmark" href="#top"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 28 28"><path d="M5 23V9l9-5 9 5v14M3 23h22M10 10v3m8-3v3m-8 4v3m8-3v3M14 8v13"/></svg></span>SeisMLLM</a>
-      <div class="nav-links"><a href="#overview">Overview</a><a href="#method">Method</a><a href="#dataset">Dataset</a><a href="#citation">Citation</a></div>
+      <div class="nav-links"><a href="#overview">Overview</a><a href="#method">Method</a><a href="#dataset">Dataset</a><a href="#results">Results</a><a href="#citation">Citation</a></div>
     </nav>
   </header>
 
@@ -85,9 +85,98 @@
     </section>
 
     <section class="section container" id="results" aria-labelledby="results-title">
-      <div class="section-heading"><p class="eyebrow">Reported in the paper</p><h2 id="results-title">Safety-posting evaluation</h2></div>
+      <div class="section-heading"><p class="eyebrow">Reported in the paper</p><h2 id="results-title">Experimental results</h2><p>Model comparisons, report quality, retrieval ablations and inference efficiency.</p></div>
       <div class="results-grid"><div class="result"><span class="result-value">66.13<span>%</span></span><h3>Safety-posting accuracy</h3><p>Reported accuracy of SeisMLLM on the paper’s evaluation.</p></div><div class="result"><span class="result-value">+38.5<span>pp</span></span><h3>Average accuracy gain</h3><p>Over representative open-source multimodal baselines, as reported in the paper.</p></div></div>
-      <p class="results-note">See the <a href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">paper</a> for the evaluation protocol, baselines, and detailed results.</p>
+      <p class="results-note">Values transcribed from the accompanying paper. <strong>Bold</strong> marks the best value within each displayed table. Blue rows identify SeisMLLM variants. On small screens, swipe a table horizontally to see all columns.</p>
+      <article class="result-table-block" id="safety-comparison">
+        <div class="result-table-heading"><h3>Safety judgment: full comparison</h3><a class="table-source" href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">Paper · Table 5 ↗</a></div>
+        <p class="table-intro">The full framework combines domain fine-tuning with historical-case and ATC-20-1 retrieval.</p>
+        <div class="table-scroll" role="region" aria-label="Safety judgment: full comparison, horizontally scrollable" tabindex="0">
+          <table class="comparison-table"><caption>Safety judgment: full comparison — results reported in Table 5 of the accompanying paper.</caption>
+            <thead><tr><th scope="col">Method</th><th scope="col">Params</th><th scope="col">DC accuracy (%) ↑</th><th scope="col">BLEU-4 ↑</th><th scope="col">METEOR ↑</th><th scope="col">ROUGE-L ↑</th><th scope="col">SP accuracy (%) ↑</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">LLaVa-Next-8B</th><td>8B</td><td>31.78</td><td>5.56</td><td>12.32</td><td>12.42</td><td>9.30</td></tr>
+              <tr><th scope="row">Deepseek-VL-7b-chat</th><td>7B</td><td>12.02</td><td>4.33</td><td>14.91</td><td>14.97</td><td>14.32</td></tr>
+              <tr><th scope="row">InternVL-3.5</th><td>8B</td><td>26.98</td><td><strong>7.73</strong></td><td>23.53</td><td>24.83</td><td>23.81</td></tr>
+              <tr><th scope="row">QwenVL-7B</th><td>7B</td><td>38.10</td><td>6.42</td><td>20.26</td><td>21.77</td><td>63.25</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM w/o retrieval</th><td>7B</td><td>55.65</td><td>6.16</td><td>16.68</td><td>15.94</td><td>58.60</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM (Ours)</th><td>7B</td><td><strong>56.45</strong></td><td>6.29</td><td><strong>32.92</strong></td><td><strong>37.95</strong></td><td><strong>66.13</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">DC = Damage Conditions; SP = Safety Posting. BLEU-4, METEOR and ROUGE-L evaluate generated judgment text and retain the paper’s reported scale. Higher is better in all metric columns.</p>
+      </article>
+      <article class="result-table-block" id="perception-comparison">
+        <div class="result-table-heading"><h3>Structural perception: selected metrics</h3><a class="table-source" href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">Paper · Table 4 ↗</a></div>
+        <p class="table-intro">Case-level understanding spans inspection scope, building attributes and visual descriptions.</p>
+        <div class="table-scroll" role="region" aria-label="Structural perception: selected metrics, horizontally scrollable" tabindex="0">
+          <table class="comparison-table"><caption>Structural perception: selected metrics — results reported in Table 4 of the accompanying paper.</caption>
+            <thead><tr><th scope="col">Method</th><th scope="col">IS accuracy (%) ↑</th><th scope="col">PO accuracy (%) ↑</th><th scope="col">CT accuracy (%) ↑</th><th scope="col">SN accuracy (%) ↑</th><th scope="col">SID ROUGE-L ↑</th><th scope="col">CDD ROUGE-L ↑</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">LLaVa-Next-8B</th><td>39.52</td><td>53.49</td><td>30.23</td><td>60.48</td><td>28.93</td><td>26.10</td></tr>
+              <tr><th scope="row">Deepseek-VL-7b-chat</th><td>52.42</td><td>32.80</td><td>8.20</td><td>9.95</td><td>23.72</td><td>17.26</td></tr>
+              <tr><th scope="row">InternVL-3.5</th><td>55.65</td><td>17.47</td><td>34.92</td><td>61.29</td><td>22.34</td><td>27.75</td></tr>
+              <tr><th scope="row">QwenVL-7B</th><td>83.87</td><td>52.42</td><td>41.27</td><td>69.89</td><td>31.55</td><td>32.72</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM (Ours)</th><td><strong>84.14</strong></td><td><strong>57.26</strong></td><td><strong>47.58</strong></td><td><strong>70.70</strong></td><td><strong>34.44</strong></td><td><strong>45.75</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">Selected columns from Table 4; the paper includes the full descriptive metrics. IS = Inspection Scope; PO = Primary Occupation; CT = Construction Type; SN = Story Numbers; SID = Single Image Description; CDD = Case Damage Description, using the paper’s terminology.</p>
+      </article>
+      <article class="result-table-block" id="report-comparison">
+        <div class="result-table-heading"><h3>Report-level semantic evaluation</h3><a class="table-source" href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">Paper · Table 6 ↗</a></div>
+        <p class="table-intro">A GPT-guided rubric evaluates damage correctness, alignment with ATC criteria and reasoning faithfulness.</p>
+        <div class="table-scroll" role="region" aria-label="Report-level semantic evaluation, horizontally scrollable" tabindex="0">
+          <table class="comparison-table"><caption>Report-level semantic evaluation — results reported in Table 6 of the accompanying paper.</caption>
+            <thead><tr><th scope="col">Method</th><th scope="col">Damage correctness ↑</th><th scope="col">ATC consistency ↑</th><th scope="col">Reasoning faithfulness ↑</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">LLaVa-Next-8B</th><td>0.383</td><td>0.449</td><td>0.338</td></tr>
+              <tr><th scope="row">Deepseek-VL-7b-chat</th><td>0.340</td><td>0.368</td><td>0.287</td></tr>
+              <tr><th scope="row">InternVL-3.5</th><td>0.453</td><td>0.521</td><td>0.417</td></tr>
+              <tr><th scope="row">QwenVL-7B</th><td>0.556</td><td>0.641</td><td>0.544</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM (Ours)</th><td><strong>0.568</strong></td><td><strong>0.653</strong></td><td><strong>0.569</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">Scores are normalized to [0, 1] under the paper’s evaluation rubric. These are GPT-guided report scores, with higher values indicating better rubric alignment.</p>
+      </article>
+      <article class="result-table-block" id="retrieval-ablation">
+        <div class="result-table-heading"><h3>What each retrieval path contributes</h3><a class="table-source" href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">Paper · Table 7 ↗</a></div>
+        <p class="table-intro">Both retrieval paths improve safety-posting accuracy over the fine-tuned backbone without retrieval.</p>
+        <div class="table-scroll" role="region" aria-label="What each retrieval path contributes, horizontally scrollable" tabindex="0">
+          <table class="comparison-table"><caption>What each retrieval path contributes — results reported in Table 7 of the accompanying paper.</caption>
+            <thead><tr><th scope="col">Configuration</th><th scope="col">Similar cases</th><th scope="col">ATC-20-1</th><th scope="col">DC accuracy (%) ↑</th><th scope="col">BLEU-4 ↑</th><th scope="col">METEOR ↑</th><th scope="col">ROUGE-L ↑</th><th scope="col">SP accuracy (%) ↑</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">Base model</th><td>—</td><td>—</td><td>55.65</td><td>6.16</td><td>16.68</td><td>15.94</td><td>58.60</td></tr>
+              <tr><th scope="row">Similar-case retrieval</th><td>✓</td><td>—</td><td>56.18</td><td>5.56</td><td>32.10</td><td>37.57</td><td>63.98</td></tr>
+              <tr><th scope="row">ATC-only retrieval</th><td>—</td><td>✓</td><td>55.91</td><td>5.78</td><td>30.54</td><td>33.43</td><td>61.29</td></tr>
+              <tr class="ours-row"><th scope="row">Full model</th><td>✓</td><td>✓</td><td><strong>56.45</strong></td><td><strong>6.29</strong></td><td><strong>32.92</strong></td><td><strong>37.95</strong></td><td><strong>66.13</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">Base model = domain-finetuned backbone with both retrieval paths disabled. ✓ indicates an enabled component; — indicates a disabled component. Full model combines both paths.</p>
+      </article>
+      <article class="result-table-block" id="inference-efficiency">
+        <div class="result-table-heading"><h3>Inference efficiency</h3><a class="table-source" href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">Paper · Table 8 ↗</a></div>
+        <p class="table-intro">End-to-end structured report generation, measured per building case on a single NVIDIA RTX PRO 6000 (96 GB).</p>
+        <div class="table-scroll" role="region" aria-label="Inference efficiency, horizontally scrollable" tabindex="0">
+          <table class="comparison-table"><caption>Inference efficiency — results reported in Table 8 of the accompanying paper.</caption>
+            <thead><tr><th scope="col">Method</th><th scope="col">Params</th><th scope="col">Latency (s / case) ↓</th><th scope="col">Throughput (tokens / s) ↑</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">Deepseek-VL-7b-chat</th><td>7B</td><td>10.85</td><td>156.42</td></tr>
+              <tr><th scope="row">LLaVa-Next-8B</th><td>8B</td><td>11.95</td><td>132.18</td></tr>
+              <tr><th scope="row">InternVL-3.5</th><td>8B</td><td>12.53</td><td>125.77</td></tr>
+              <tr><th scope="row">QwenVL-7B</th><td>7B</td><td><strong>10.31</strong></td><td><strong>168.29</strong></td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM w/o retrieval</th><td>7B</td><td>10.42</td><td>164.50</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM · similar cases</th><td>7B</td><td>12.77</td><td>124.40</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM · ATC only</th><td>7B</td><td>14.31</td><td>110.82</td></tr>
+              <tr class="ours-row"><th scope="row">SeisMLLM · full model</th><td>7B</td><td>14.40</td><td>110.15</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">Latency includes end-to-end generation of a comprehensive structured JSON report. Lower latency and higher throughput are better. The full model includes the overhead of both retrieval paths and multi-stage reasoning.</p>
+      </article>
+
     </section>
 
     <section class="section section-tinted" id="resources" aria-labelledby="resources-title">
@@ -119,6 +208,6 @@
     </section>
   </main>
 
-  <footer class="site-footer"><div class="container"><p class="footer-brand">SeisMLLM</p><p>Research on multimodal reasoning for post-earthquake building safety evaluation.</p><p class="footer-note">Research outputs support engineering review and do not replace on-site evaluation by qualified professionals.</p><p class="footer-attribution">Figures from the accompanying <a href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">article</a> by Ma et al. (2026), published under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 4.0</a>. Dataset and code permissions are governed separately by their repositories.</p></div></footer>
+  <footer class="site-footer"><div class="container"><p class="footer-brand">SeisMLLM</p><p>Research on multimodal reasoning for post-earthquake building safety evaluation.</p><p class="footer-note">Research outputs support engineering review and do not replace on-site evaluation by qualified professionals.</p><p class="footer-attribution">Figures and result tables from the accompanying <a href="https://doi.org/10.1016/j.aei.2026.105126" target="_blank" rel="noopener noreferrer">article</a> by Ma et al. (2026), published under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 4.0</a>. Dataset and code permissions are governed separately by their repositories.</p></div></footer>
 </body>
 </html>
