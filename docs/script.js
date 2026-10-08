@@ -31,7 +31,7 @@ if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches && 'Intersect
     });
   }, { threshold: 0.14 });
 
-  document.querySelectorAll('#overview .reading-width, #method .section-heading, .method-step, .method-figure, .dataset-layout, #results .section-heading, .result, .result-table-block, #resources .container, .citation-section').forEach((block) => {
+  document.querySelectorAll('#overview .reading-width, #method .section-heading, .method-step, .dataset-layout, #results .section-heading, .result, .result-table-block, #resources .container, .citation-section').forEach((block) => {
     if (block.getBoundingClientRect().top >= window.innerHeight) {
       block.classList.add('reveal');
       revealObserver.observe(block);
