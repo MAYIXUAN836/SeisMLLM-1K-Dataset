@@ -1,5 +1,7 @@
 # SeisMLLM-1K: A Multimodal Dataset for Post-Earthquake Building Safety Evaluation
 
+**[Project Page](https://mayixuan836.github.io/SeisMLLM-1K-Dataset/)** · **[Paper](https://doi.org/10.1016/j.aei.2026.105126)**
+
 **SeisMLLM-1K** is a specialized multimodal dataset designed for training Large Vision-Language Models (LVLMs) to perform professional structural safety assessments of buildings damaged by earthquakes. 
 
 The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council) standards. It pairs multi-view images of damaged buildings with detailed, structured engineering assessmemts.
