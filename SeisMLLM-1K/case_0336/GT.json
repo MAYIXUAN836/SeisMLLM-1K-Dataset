@@ -62,6 +62,5 @@
   "case_index": 1101,
   "case_id": "072",
   "earthquake_folder": "13-Mexico City 19th September 2017 Earthquake",
-  "category": "13-Mexico City 19th September 2017 Earthquake",
-  "CDD": "Building is at high risk of collapse due to structural instability. Insufficient evidence of leaning or misalignment. Severe damage to load-bearing walls and floor systems. No visible chimneys or parapets posing a falling hazard. No visible ground movement or cracking. No other damage observed."
+  "category": "13-Mexico City 19th September 2017 Earthquake"
 }

@@ -24,11 +24,10 @@ All 1,306 records contain the following top-level fields.
 | `3_primary_occupation` | Object: `visual_evidence`, `category` | Building-use category and supporting description. This is the released spelling of the field. |
 | `4_type_of_construction` | Object: `visual_evidence`, `category` | Structural construction category and supporting description. |
 | `5_stories` | Object: `over_ground`, `under_ground` | Reported story counts; values may be `null`. A missing count is not a count of zero. |
-| `6_evaluation` | Object with six condition objects listed below | Damage Conditions (DC): each condition has a `status` and `description`. |
+| `6_evaluation` | Object with six condition objects listed below | Six conditions: each `status` is a DC rating and each `description` is CDD text. |
 | `7_estimated_building_damage` | String | Recorded estimated damage range. It is an annotation estimate, not a calibrated confidence score. |
 | `8_final_status` | Object: `status`, `reasoning` | Safety posting and its recorded rationale. |
 | `9_image_descriptions` | Object mapping image-reference strings to descriptions | Available single-image descriptions. Coverage is incomplete; see the caption limitations below. |
-| `CDD` | String | Case Damage Description: the six existing `6_evaluation` descriptions joined in condition order, separated by spaces. |
 | `case_index` | Integer | Legacy annotation-record index. |
 | `case_id` | String | Legacy annotation-record identifier, such as `case_0001`. It is not a reliable join key for the current image-folder names. |
 | `category` | String | Source event-group label. |
@@ -68,13 +67,20 @@ Each record contains:
 - `messages`: a user task and an assistant report, each with `role` and `content` strings.
 - `images`: an ordered array of image paths. The user content uses `<image>` placeholders.
 
-The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[CDD]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. `[CDD]` contains the same case-level text stored in `Full_GT.json.CDD`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
+The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six condition statuses and their supporting descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for postings and reasoning.
 
-### Case Damage Description (CDD)
+### Paper terminology and released fields
 
-CDD means Case Damage Description; DC means Damage Conditions. The original annotations already contain a `status` and `description` for each of six conditions. The field mapping retains those objects unchanged under `6_evaluation` and joins their existing `description` values into `CDD`, without including the `status` values. This is a change of representation; no additional description text is generated or annotated.
+**DC** (Damage Conditions) denotes the six condition ratings; **CDD** (Case Damage Description) denotes the descriptive damage evidence. They are stored together in `6_evaluation`: each condition has a `status` (DC) and a `description` (CDD). No separate concatenated `CDD` field is required.
 
-The mapping is applied to the core annotations, per-case `GT.json` files, conversation reports and case-study annotations. The public retrieval and inference code reads `CDD` directly and supports older records by applying the same mapping when that field is absent. Answer-free case-study inputs remain input-only.
+| Paper term | Released JSON | Evaluation |
+| --- | --- | --- |
+| DC | `6_evaluation.<condition>.status` | Exact-match accuracy, averaged across conditions and then cases. |
+| CDD | `6_evaluation.<condition>.description` | BLEU-4, METEOR and ROUGE-L, computed per condition and then averaged across conditions and cases. |
+| SID | `9_image_descriptions` | Image-level descriptive text. |
+| SP | `8_final_status.status` and `.reasoning` | Safety posting and its supporting reasoning. |
+
+The `[DC]` section in `train.json` and `test.json` groups the ratings and supporting descriptions from the same six condition objects. There is no separate `[CDD]` section. Similar-case retrieval joins the existing condition descriptions temporarily to form retrieval text; evaluation scores the descriptions per condition. These field definitions do not change the inference stages.
 
 ## Image paths and caption coverage
 

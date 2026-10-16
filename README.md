@@ -49,7 +49,7 @@ These counts describe the files in this repository. Differences from the paper's
     },
     {
       "role": "assistant",
-      "content": "### Structured Building Annotation\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: Existing condition descriptions combined into case-level text...\n[DC]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
+      "content": "### Structured Building Annotation\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[DC]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
     }
   ],
   "images": [
@@ -69,11 +69,10 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
 | **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
-| **[CDD]** | Case Damage Description | Case-level text combining the existing descriptions of the six damage conditions. |
 | **[DC]** | Damage Conditions | Severity ratings and supporting descriptions for six damage conditions. |
 | **[SID]** | Single Image Description | Descriptions of individual images, where available. |
 
-CDD and DC share the existing condition descriptions: CDD combines their text, while DC retains the individual condition ratings and descriptions. See the [field mapping](DATA_DICTIONARY.md#case-damage-description-cdd).
+In the paper, **DC** refers to the six condition ratings and **CDD** to the damage descriptions. Both are retained in `Full_GT.json` under `6_evaluation`: each condition has a `status` (DC) and a `description` (CDD). The conversation export groups both under `[DC]`; it has no separate `[CDD]` section. See the [field correspondence and scoring definitions](DATA_DICTIONARY.md#paper-terminology-and-released-fields).
 
 ### Data Files
 
