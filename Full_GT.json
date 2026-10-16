@@ -3669,9 +3669,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_0056/E1_C056_I01.jpg": "Exterior view of a three-story unreinforced masonry building with decorative elements. Minor plaster detachment and no collapse visible.",
-      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I02.jpg": "Interior view showing diagonal and X-shaped cracks on walls, with evidence of shear damage and brick failure.",
-      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I03.jpg": "Interior view showing extensive cracking along walls and plaster detachment. Severe structural distress visible.",
-      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I04.jpg": "Exterior view showing localized wall collapse and plaster detachment. Surrounding debris visible."
+      "Dataset/SeisMLLM-1K/case_0056/E1_C056_I02.jpg": "Interior view showing diagonal and X-shaped cracks on walls, with evidence of shear damage and brick failure."
     },
     "case_index": 56,
     "case_id": "case_0056",
@@ -9074,8 +9072,7 @@
       "reasoning": "Since all conditions are evaluated as Minor/none or Moderate, and there is no severe damage, the building is safe for use."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0136/E1_C136_I01.jpg": "Exterior view of a three-story residential building with intact structure and decorative elements. Horizontal cracks are visible on the first-floor infill walls. No signs of collapse or leaning are observed.",
-      "Dataset/SeisMLLM-1K/case_0136/E1_C136_I02.jpg": "Interior view of a room with exposed concrete beams and infill walls. Minor superficial damage is visible on the walls, but no significant structural distress is observed."
+      "Dataset/SeisMLLM-1K/case_0136/E1_C136_I01.jpg": "Exterior view of a three-story residential building with intact structure and decorative elements. Horizontal cracks are visible on the first-floor infill walls. No signs of collapse or leaning are observed."
     },
     "case_index": 136,
     "case_id": "case_0136",
@@ -9197,8 +9194,7 @@
       "reasoning": "Since no severe conditions are observed and the structural damage is limited to moderate racking, the building is safe for use."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0138/E1_C138_I01.jpg": "Exterior view of a single-story commercial building with decorative storefronts and intact structural elements; no visible signs of collapse or severe damage.",
-      "Dataset/SeisMLLM-1K/case_0138/E1_C138_I02.jpg": "Interior view showing horizontal cracks in the infill walls; no signs of severe structural distress or collapse."
+      "Dataset/SeisMLLM-1K/case_0138/E1_C138_I01.jpg": "Exterior view of a single-story commercial building with decorative storefronts and intact structural elements; no visible signs of collapse or severe damage."
     },
     "case_index": 138,
     "case_id": "case_0138",
@@ -11273,8 +11269,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0170/E1_C170_I01.jpg": "A two-story wood-framed building with rubble stone and brick infill walls. The roof structure has collapsed, and the walls have suffered extensive damage, with large portions dislodged and rubble scattered around the site. Remaining wall sections appear unstable and pose a falling hazard.",
-      "Dataset/SeisMLLM-1K/case_0170/E1_C170_I02.jpg": "The rear view of the same two-story building shows severe structural damage. The roof is missing, and the walls are extensively damaged, with large voids where infill materials have collapsed. Debris is scattered, and remaining wall sections appear unstable."
+      "Dataset/SeisMLLM-1K/case_0170/E1_C170_I01.jpg": "A two-story wood-framed building with rubble stone and brick infill walls. The roof structure has collapsed, and the walls have suffered extensive damage, with large portions dislodged and rubble scattered around the site. Remaining wall sections appear unstable and pose a falling hazard."
     },
     "case_index": 170,
     "case_id": "case_0170",
@@ -12553,8 +12548,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0545/E2_C001_I01.jpg": "The image shows a two-story unreinforced masonry building with extensive collapse of the top floor and gable wall. Debris from the roof and walls is scattered around the structure. The remaining walls exhibit severe damage and instability.",
-      "Dataset/SeisMLLM-1K/case_0190/E2_C001_I02.jpg": "The image shows a two-story unreinforced masonry building with extensive collapse of the top floor and gable wall. Debris from the roof and walls is scattered around the structure. The remaining walls exhibit severe damage and instability."
+      "Dataset/SeisMLLM-1K/case_0545/E2_C001_I01.jpg": "The image shows a two-story unreinforced masonry building with extensive collapse of the top floor and gable wall. Debris from the roof and walls is scattered around the structure. The remaining walls exhibit severe damage and instability."
     },
     "case_index": 190,
     "case_id": "case_0190",
@@ -14981,9 +14975,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_0584/E2_C040_I01.jpg": "Exterior view of a four-story concrete frame building with signage indicating it is a youth center. No apparent structural distress visible.",
-      "Dataset/SeisMLLM-1K/case_0229/E2_C040_I01.jpg_duplicate": "Exterior view of a four-story concrete frame building with signage indicating it is a youth center. No apparent structural distress visible.",
-      "Dataset/SeisMLLM-1K/case_0584/E2_C040_I02.jpg": "Interior view showing localized cracking in hollow brick infill walls and insulation layers near a window and fire equipment box.",
-      "Dataset/SeisMLLM-1K/case_0229/E2_C040_I02.jpg_duplicate": "Interior view showing localized cracking in hollow brick infill walls and insulation layers near a window and fire equipment box."
+      "Dataset/SeisMLLM-1K/case_0584/E2_C040_I02.jpg": "Interior view showing localized cracking in hollow brick infill walls and insulation layers near a window and fire equipment box."
     },
     "case_index": 229,
     "case_id": "case_0229",
@@ -16304,9 +16296,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_0605/E2_C061_I01.png": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
-      "Dataset/SeisMLLM-1K/case_0250/E2_C061_I01.png_duplicate": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
-      "Dataset/SeisMLLM-1K/case_0605/E2_C061_I02.jpg": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor.",
-      "Dataset/SeisMLLM-1K/case_0250/E2_C061_I02.jpg_duplicate": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor."
+      "Dataset/SeisMLLM-1K/case_0605/E2_C061_I02.jpg": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor."
     },
     "case_index": 250,
     "case_id": "case_0250",
@@ -26315,8 +26305,7 @@
       "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0763/E2_C220_I01.jpg": "The image shows a three-story confined masonry building with severe damage to the upper walls, including visible cracks and dislodged masonry. Exposed rebar near the roofline indicates structural damage and potential falling hazards.",
-      "Dataset/SeisMLLM-1K/case_0409/E2_C220_I02.jpg": "The image shows a three-story confined masonry building with severe damage to the upper walls, including visible cracks and dislodged masonry. Exposed rebar near the roofline indicates structural damage and potential falling hazards."
+      "Dataset/SeisMLLM-1K/case_0763/E2_C220_I01.jpg": "The image shows a three-story confined masonry building with severe damage to the upper walls, including visible cracks and dislodged masonry. Exposed rebar near the roofline indicates structural damage and potential falling hazards."
     },
     "case_index": 409,
     "case_id": "case_0409",
@@ -32999,8 +32988,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0866/E3_C002_I01.jpg": "The image shows a complete collapse of single-story earthen and wooden structures, with debris scattered across the site. Wooden beams and remnants of walls are visible among the rubble.",
-      "Dataset/SeisMLLM-1K/case_0512/E3_C002_I02.jpg": "The image shows a complete collapse of single-story earthen and wooden structures, with debris scattered across the site. Wooden beams and remnants of walls are visible among the rubble."
+      "Dataset/SeisMLLM-1K/case_0866/E3_C002_I01.jpg": "The image shows a complete collapse of single-story earthen and wooden structures, with debris scattered across the site. Wooden beams and remnants of walls are visible among the rubble."
     },
     "case_index": 512,
     "case_id": "case_0512",
@@ -33494,8 +33482,7 @@
       "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0874/E3_C010_I01.jpg": "The image shows a single-story earth and wood structure with extensive wall damage, including large cracks and partial collapse. Debris is scattered around the base of the structure, and portions of the walls are missing.",
-      "Dataset/SeisMLLM-1K/case_0520/E3_C010_I02.jpg": "The image shows the same single-story structure with visible partial wall collapse and significant material loss. The damage includes exposed internal framing and scattered debris around the building."
+      "Dataset/SeisMLLM-1K/case_0874/E3_C010_I01.jpg": "The image shows a single-story earth and wood structure with extensive wall damage, including large cracks and partial collapse. Debris is scattered around the base of the structure, and portions of the walls are missing."
     },
     "case_index": 520,
     "case_id": "case_0520",
@@ -34995,8 +34982,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are both evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0898/E3_C034_I01.jpg": "The image shows a completely collapsed four-story concrete frame structure. Large fractured concrete elements and rubble are scattered across the site, with no intact portions of the building visible.",
-      "Dataset/SeisMLLM-1K/case_0544/E3_C034_I02.jpg": "The image depicts close-up rubble from the collapsed structure, including large concrete slabs and fractured columns. The debris appears unstable, posing significant falling hazards."
+      "Dataset/SeisMLLM-1K/case_0898/E3_C034_I01.jpg": "The image shows a completely collapsed four-story concrete frame structure. Large fractured concrete elements and rubble are scattered across the site, with no intact portions of the building visible."
     },
     "case_index": 544,
     "case_id": "case_0544",
@@ -36530,9 +36516,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_0922/E3_C058_I01.jpg": "Exterior view of a multi-story government building with visible diagonal cracks and damage to infill walls. External staircase appears intact.",
-      "Dataset/SeisMLLM-1K/case_0568/E3_C058_I01.jpg_duplicate": "Exterior view of a multi-story government building with visible diagonal cracks and damage to infill walls. External staircase appears intact.",
-      "Dataset/SeisMLLM-1K/case_0922/E3_C058_I02.jpg": "Close-up views of severe structural damage, including spalling concrete, buckled reinforcement, and shattered infill walls with diagonal cracks.",
-      "Dataset/SeisMLLM-1K/case_0568/E3_C058_I02.jpg_duplicate": "Close-up views of severe structural damage, including spalling concrete, buckled reinforcement, and shattered infill walls with diagonal cracks."
+      "Dataset/SeisMLLM-1K/case_0922/E3_C058_I02.jpg": "Close-up views of severe structural damage, including spalling concrete, buckled reinforcement, and shattered infill walls with diagonal cracks."
     },
     "case_index": 568,
     "case_id": "case_0568",
@@ -37787,8 +37771,7 @@
       "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0942/E3_C078_I01.jpg": "The four-story building shows severe damage, with partial collapse of the fourth floor on the right. The ground floor walls are heavily cracked, with debris scattered around the base. The storefronts on the ground floor are severely damaged, and some columns are exposed with visible failure.",
-      "Dataset/SeisMLLM-1K/case_0588/E3_C078_I02.jpg": "Close-up of the ground floor showing significant cracking in the load-bearing walls and debris from collapsed sections. Hollow concrete blocks are visible among the rubble, and the structural integrity of the ground floor appears heavily compromised."
+      "Dataset/SeisMLLM-1K/case_0942/E3_C078_I01.jpg": "The four-story building shows severe damage, with partial collapse of the fourth floor on the right. The ground floor walls are heavily cracked, with debris scattered around the base. The storefronts on the ground floor are severely damaged, and some columns are exposed with visible failure."
     },
     "case_index": 588,
     "case_id": "case_0588",
@@ -38343,9 +38326,7 @@
       "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is deemed to have localized damage and potential hazards, warranting Restricted Use."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0951/E3_C087_I01.jpg": "Exterior view of a reinforced masonry structure with visible cracks on parapet walls and scattered debris along the perimeter. No apparent collapse is visible.",
-      "Dataset/SeisMLLM-1K/case_0597/E3_C087_I02.jpg": "Interior wall showing intersecting diagonal cracks and localized plaster damage, indicating moderate structural distress.",
-      "Dataset/SeisMLLM-1K/case_0597/E3_C087_I03.jpg": "Interior wall with visible cracks and minor plaster damage. No evidence of severe structural failure is visible."
+      "Dataset/SeisMLLM-1K/case_0951/E3_C087_I01.jpg": "Exterior view of a reinforced masonry structure with visible cracks on parapet walls and scattered debris along the perimeter. No apparent collapse is visible."
     },
     "case_index": 597,
     "case_id": "case_0597",
@@ -40763,8 +40744,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0989/E4_C003_I01.jpg": "Aerial view showing extensive structural damage. The building on the right-hand side has completely collapsed, while the building on the left-hand side has partially collapsed. Debris is scattered across the site, with visible damage to upper floors and structural elements.",
-      "Dataset/SeisMLLM-1K/case_0635/E4_C003_I02.jpg": "Aerial view showing extensive structural damage. The building on the right-hand side has completely collapsed, while the building on the left-hand side has partially collapsed. Debris is scattered across the site, with visible damage to upper floors and structural elements."
+      "Dataset/SeisMLLM-1K/case_0989/E4_C003_I01.jpg": "Aerial view showing extensive structural damage. The building on the right-hand side has completely collapsed, while the building on the left-hand side has partially collapsed. Debris is scattered across the site, with visible damage to upper floors and structural elements."
     },
     "case_index": 635,
     "case_id": "case_0635",
@@ -40951,8 +40931,7 @@
       "reasoning": "Since Conditions 1 (Collapse), 2 (Leaning), and 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0992/E4_C006_I01.jpg": "Aerial view of a residential area with multiple mid-rise concrete buildings. Several buildings have completely collapsed, while others show partial collapse. Structural debris is scattered across the area.",
-      "Dataset/SeisMLLM-1K/case_0638/E4_C006_I02.jpg": "Aerial view of a residential area with multiple mid-rise concrete buildings. Several buildings have completely collapsed, while others show partial collapse. Structural debris is scattered across the area."
+      "Dataset/SeisMLLM-1K/case_0992/E4_C006_I01.jpg": "Aerial view of a residential area with multiple mid-rise concrete buildings. Several buildings have completely collapsed, while others show partial collapse. Structural debris is scattered across the area."
     },
     "case_index": 638,
     "case_id": "case_0638",
@@ -41074,8 +41053,7 @@
       "reasoning": "Since Condition 1 (Partial Collapse), Condition 3 (Racking Damage), and Condition 4 (Falling Hazard) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0994/E4_C008_I01.jpg": "A partially collapsed multi-story concrete frame building with severe structural damage. Diagonal cracks are visible on the remaining sections, and debris is scattered at the base. The structure shows significant misalignment in the upper stories.",
-      "Dataset/SeisMLLM-1K/case_0640/E4_C008_I02.jpg": "A partially collapsed multi-story concrete frame building with severe structural damage. Diagonal cracks are visible on the remaining sections, and debris is scattered at the base. The structure shows significant misalignment in the upper stories."
+      "Dataset/SeisMLLM-1K/case_0994/E4_C008_I01.jpg": "A partially collapsed multi-story concrete frame building with severe structural damage. Diagonal cracks are visible on the remaining sections, and debris is scattered at the base. The structure shows significant misalignment in the upper stories."
     },
     "case_index": 640,
     "case_id": "case_0640",
@@ -41808,8 +41786,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1006/E4_C020_I01.jpg": "The image shows a residential area with multiple apartment buildings. Two buildings have completely collapsed in a pancake fashion, leaving piles of rubble. Adjacent buildings appear intact but show signs of roof damage.",
-      "Dataset/SeisMLLM-1K/case_0652/E4_C020_I02.jpg": "The image shows a residential area with multiple apartment buildings. Two buildings have completely collapsed in a pancake fashion, leaving piles of rubble. Adjacent buildings appear intact but show signs of roof damage."
+      "Dataset/SeisMLLM-1K/case_1006/E4_C020_I01.jpg": "The image shows a residential area with multiple apartment buildings. Two buildings have completely collapsed in a pancake fashion, leaving piles of rubble. Adjacent buildings appear intact but show signs of roof damage."
     },
     "case_index": 652,
     "case_id": "case_0652",
@@ -41931,8 +41908,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1008/E4_C022_I01.jpg": "A collapsed multi-story concrete frame building with debris spread across the adjacent road. The structure appears to have failed completely, blocking access and showing no intact elements.",
-      "Dataset/SeisMLLM-1K/case_0654/E4_C022_I02.jpg": "A collapsed multi-story concrete frame building with debris spread across the adjacent road. The structure appears to have failed completely, blocking access and showing no intact elements."
+      "Dataset/SeisMLLM-1K/case_1008/E4_C022_I01.jpg": "A collapsed multi-story concrete frame building with debris spread across the adjacent road. The structure appears to have failed completely, blocking access and showing no intact elements."
     },
     "case_index": 654,
     "case_id": "case_0654",
@@ -42115,8 +42091,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1011/E4_C025_I01.jpg": "A multi-story residential building with severe structural damage. The first and second floors have collapsed, and debris is scattered around. Adjacent buildings are also heavily damaged.",
-      "Dataset/SeisMLLM-1K/case_0657/E4_C025_I02.jpg": "A multi-story residential building with severe structural damage. The first and second floors have collapsed, and debris is scattered around. Adjacent buildings are also heavily damaged."
+      "Dataset/SeisMLLM-1K/case_1011/E4_C025_I01.jpg": "A multi-story residential building with severe structural damage. The first and second floors have collapsed, and debris is scattered around. Adjacent buildings are also heavily damaged."
     },
     "case_index": 657,
     "case_id": "case_0657",
@@ -42238,8 +42213,7 @@
       "reasoning": "Since Conditions 1 (Collapse), 2 (Leaning), and 3 (Racking damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1013/E4_C027_I01.jpg": "Aerial view of a residential area with multiple collapsed buildings. Significant structural failure is evident, with one building leaning and others completely reduced to rubble.",
-      "Dataset/SeisMLLM-1K/case_0659/E4_C027_I02.jpg": "Aerial view of a residential area with multiple collapsed buildings. Significant structural failure is evident, with one building leaning and others completely reduced to rubble."
+      "Dataset/SeisMLLM-1K/case_1013/E4_C027_I01.jpg": "Aerial view of a residential area with multiple collapsed buildings. Significant structural failure is evident, with one building leaning and others completely reduced to rubble."
     },
     "case_index": 659,
     "case_id": "case_0659",
@@ -42727,8 +42701,7 @@
       "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1021/E4_C035_I01.jpg": "Aerial view of a multi-story residential building with the first and second floors collapsed in a soft-story failure. Surrounding debris from other collapsed structures is visible.",
-      "Dataset/SeisMLLM-1K/case_0667/E4_C035_I02.jpg": "Aerial view of a multi-story residential building with the first and second floors collapsed in a soft-story failure. Surrounding debris from other collapsed structures is visible."
+      "Dataset/SeisMLLM-1K/case_1021/E4_C035_I01.jpg": "Aerial view of a multi-story residential building with the first and second floors collapsed in a soft-story failure. Surrounding debris from other collapsed structures is visible."
     },
     "case_index": 667,
     "case_id": "case_0667",
@@ -43216,8 +43189,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1029/E4_C043_I01.jpg": "Aerial view of a block where five out of six buildings have completely collapsed, leaving large piles of rubble and debris. One building remains standing but is surrounded by destruction.",
-      "Dataset/SeisMLLM-1K/case_0675/E4_C043_I02.jpg": "Aerial view of the same block showing extensive structural collapse of five buildings, with only one building still standing amidst widespread debris."
+      "Dataset/SeisMLLM-1K/case_1029/E4_C043_I01.jpg": "Aerial view of a block where five out of six buildings have completely collapsed, leaving large piles of rubble and debris. One building remains standing but is surrounded by destruction."
     },
     "case_index": 675,
     "case_id": "case_0675",
@@ -43837,8 +43809,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1039/E4_C053_I01.jpg": "The image shows two completely collapsed multistory buildings with debris scattered across the area. Adjacent buildings, including a modern hotel, appear intact. Rescue equipment and personnel are visible in the foreground.",
-      "Dataset/SeisMLLM-1K/case_0685/E4_C053_I02.jpg": "The image shows two completely collapsed multistory buildings with debris scattered across the area. Adjacent buildings, including a modern hotel, appear intact. Rescue equipment and personnel are visible in the foreground."
+      "Dataset/SeisMLLM-1K/case_1039/E4_C053_I01.jpg": "The image shows two completely collapsed multistory buildings with debris scattered across the area. Adjacent buildings, including a modern hotel, appear intact. Rescue equipment and personnel are visible in the foreground."
     },
     "case_index": 685,
     "case_id": "case_0685",
@@ -44021,8 +43992,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building block must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1042/E4_C056_I01.jpg": "Aerial view of a residential block with three buildings completely collapsed, leaving extensive debris. One building remains standing with no visible external damage.",
-      "Dataset/SeisMLLM-1K/case_0688/E4_C056_I02.jpg": "Aerial view of a residential block with three buildings completely collapsed, leaving extensive debris. One building remains standing with no visible external damage."
+      "Dataset/SeisMLLM-1K/case_1042/E4_C056_I01.jpg": "Aerial view of a residential block with three buildings completely collapsed, leaving extensive debris. One building remains standing with no visible external damage."
     },
     "case_index": 688,
     "case_id": "case_0688",
@@ -44759,8 +44729,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1054/E4_C068_I01.jpg": "Aerial view of a collapsed multi-story reinforced concrete building. Extensive debris is visible, with adjacent structures also showing significant damage or collapse.",
-      "Dataset/SeisMLLM-1K/case_0700/E4_C068_I02.jpg": "Aerial view of a collapsed multi-story reinforced concrete building. Extensive debris is visible, with adjacent structures also showing significant damage or collapse."
+      "Dataset/SeisMLLM-1K/case_1054/E4_C068_I01.jpg": "Aerial view of a collapsed multi-story reinforced concrete building. Extensive debris is visible, with adjacent structures also showing significant damage or collapse."
     },
     "case_index": 700,
     "case_id": "case_0700",
@@ -45008,8 +44977,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1058/E4_C072_I01.jpg": "The image shows a collapsed multi-story building with significant debris and structural failure, particularly in the lower levels. The signage indicates it is a hotel.",
-      "Dataset/SeisMLLM-1K/case_0704/E4_C072_I02.jpg": "The image shows a collapsed multi-story building with significant debris and structural failure, particularly in the lower levels. The signage indicates it is a hotel."
+      "Dataset/SeisMLLM-1K/case_1058/E4_C072_I01.jpg": "The image shows a collapsed multi-story building with significant debris and structural failure, particularly in the lower levels. The signage indicates it is a hotel."
     },
     "case_index": 704,
     "case_id": "case_0704",
@@ -45440,9 +45408,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_1065/E4_C079_I01.jpg": "The image shows a partially collapsed unreinforced masonry wall with missing sections and visible cracks near beam-column joints.",
-      "Dataset/SeisMLLM-1K/case_0711/E4_C079_I01.jpg_duplicate": "The image shows a partially collapsed unreinforced masonry wall with missing sections and visible cracks near beam-column joints.",
-      "Dataset/SeisMLLM-1K/case_1065/E4_C079_I02.jpg": "The image shows a two-story unreinforced masonry school building with extensive facade damage, delamination of tiling, and debris scattered on the ground.",
-      "Dataset/SeisMLLM-1K/case_0711/E4_C079_I02.jpg_duplicate": "The image shows a two-story unreinforced masonry school building with extensive facade damage, delamination of tiling, and debris scattered on the ground."
+      "Dataset/SeisMLLM-1K/case_1065/E4_C079_I02.jpg": "The image shows a two-story unreinforced masonry school building with extensive facade damage, delamination of tiling, and debris scattered on the ground."
     },
     "case_index": 711,
     "case_id": "case_0711",
@@ -46924,8 +46890,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1089/E5_C004_I01.jpg": "The image shows a collapsed earthen structure with extensive damage to the walls. Large sections of rammed earth blocks have failed, exposing interior spaces and leaving debris scattered around the site.",
-      "Dataset/SeisMLLM-1K/case_0735/E5_C004_I02.jpg": "The image shows a collapsed earthen structure with extensive damage to the walls. Large sections of rammed earth blocks have failed, exposing interior spaces and leaving debris scattered around the site."
+      "Dataset/SeisMLLM-1K/case_1089/E5_C004_I01.jpg": "The image shows a collapsed earthen structure with extensive damage to the walls. Large sections of rammed earth blocks have failed, exposing interior spaces and leaving debris scattered around the site."
     },
     "case_index": 735,
     "case_id": "case_0735",
@@ -47293,8 +47258,7 @@
       "reasoning": "Since Conditions 1, 2, and 3 are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1095/E5_C010_I01.jpg": "The image shows a two-story masonry building that has overturned and partially collapsed. The ground floor is entirely compromised, with debris scattered around. Rescue personnel are visible near the structure.",
-      "Dataset/SeisMLLM-1K/case_0741/E5_C010_I02.jpg": "The image shows a two-story masonry building that has overturned and partially collapsed. The ground floor is entirely compromised, with debris scattered around. Rescue personnel are visible near the structure."
+      "Dataset/SeisMLLM-1K/case_1095/E5_C010_I01.jpg": "The image shows a two-story masonry building that has overturned and partially collapsed. The ground floor is entirely compromised, with debris scattered around. Rescue personnel are visible near the structure."
     },
     "case_index": 741,
     "case_id": "case_0741",
@@ -47355,8 +47319,7 @@
       "reasoning": "Since Condition 1 (Collapse) is evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1096/E5_C011_I01.jpg": "Satellite overview of a village showing widespread building collapse and rubble in multiple areas, with arrows indicating locations of major structural failures.",
-      "Dataset/SeisMLLM-1K/case_0742/E5_C011_I02.jpg": "Satellite overview of a village showing widespread building collapse and rubble in multiple areas, with arrows indicating locations of major structural failures."
+      "Dataset/SeisMLLM-1K/case_1096/E5_C011_I01.jpg": "Satellite overview of a village showing widespread building collapse and rubble in multiple areas, with arrows indicating locations of major structural failures."
     },
     "case_index": 742,
     "case_id": "case_0742",
@@ -47723,9 +47686,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_1102/E5_C017_I01.jpg": "Splitting crack visible in the outer left column, highlighted by yellow arrows, with dust obscuring the base of the structure.",
-      "Dataset/SeisMLLM-1K/case_0748/E5_C017_I01.jpg_duplicate": "Splitting crack visible in the outer left column, highlighted by yellow arrows, with dust obscuring the base of the structure.",
-      "Dataset/SeisMLLM-1K/case_1102/E5_C017_I02.jpg": "Cracking in masonry infill walls highlighted by cyan arrows and spalling at column bases marked by green arrows. Storefront signage visible.",
-      "Dataset/SeisMLLM-1K/case_0748/E5_C017_I02.jpg_duplicate": "Cracking in masonry infill walls highlighted by cyan arrows and spalling at column bases marked by green arrows. Storefront signage visible."
+      "Dataset/SeisMLLM-1K/case_1102/E5_C017_I02.jpg": "Cracking in masonry infill walls highlighted by cyan arrows and spalling at column bases marked by green arrows. Storefront signage visible."
     },
     "case_index": 748,
     "case_id": "case_0748",
@@ -47850,8 +47811,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1104/E5_C019_I01.jpg": "The image shows a completely collapsed reinforced concrete building with unreinforced masonry infill walls. Extensive rubble, including broken concrete and masonry debris, is scattered across the site. No standing structural elements are visible.",
-      "Dataset/SeisMLLM-1K/case_0750/E5_C019_I02.jpg": "The image shows a completely collapsed reinforced concrete building with unreinforced masonry infill walls. Extensive rubble, including broken concrete and masonry debris, is scattered across the site. No standing structural elements are visible."
+      "Dataset/SeisMLLM-1K/case_1104/E5_C019_I01.jpg": "The image shows a completely collapsed reinforced concrete building with unreinforced masonry infill walls. Extensive rubble, including broken concrete and masonry debris, is scattered across the site. No standing structural elements are visible."
     },
     "case_index": 750,
     "case_id": "case_0750",
@@ -49756,8 +49716,7 @@
       "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, localized damage to walls suggests restricted use until repairs are made."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1135/E6_C020_I01.jpg": "Interior view of a mosque showing diagonal cracks in walls and spalling of plaster on columns and walls. Debris is scattered on the floor, but no significant structural failure is visible.",
-      "Dataset/SeisMLLM-1K/case_0781/E6_C020_I02.jpg": "Interior view of a mosque showing diagonal cracks in walls and spalling of plaster on columns and walls. Debris is scattered on the floor, but no significant structural failure is visible."
+      "Dataset/SeisMLLM-1K/case_1135/E6_C020_I01.jpg": "Interior view of a mosque showing diagonal cracks in walls and spalling of plaster on columns and walls. Debris is scattered on the floor, but no significant structural failure is visible."
     },
     "case_index": 781,
     "case_id": "case_0781",
@@ -53699,8 +53658,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1196/E9_C008_I01.jpg": "Collapsed single-family houses with extensive debris, including masonry rubble and roof fragments. Brick-nogging construction is evident, with complete structural failure of walls and roofs.",
-      "Dataset/SeisMLLM-1K/case_0842/E9_C008_I02.jpg": "Another view of collapsed single-family houses showing widespread debris, including bricks and structural elements. The failure of masonry infill walls is prominent."
+      "Dataset/SeisMLLM-1K/case_1196/E9_C008_I01.jpg": "Collapsed single-family houses with extensive debris, including masonry rubble and roof fragments. Brick-nogging construction is evident, with complete structural failure of walls and roofs."
     },
     "case_index": 842,
     "case_id": "case_0842",
@@ -54015,9 +53973,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_1201/E9_C013_I01.jpg": "The image shows a completely collapsed high-rise building under construction, with extensive debris consisting of broken concrete slabs, beams, and exposed reinforcement. Rescue personnel are visible in the foreground.",
-      "Dataset/SeisMLLM-1K/case_1201/E9_C013_I02.jpg": "The image provides a closer view of the collapsed structure, showing significant structural failure with large piles of concrete debris and exposed steel reinforcement. No intact sections of the building are visible.",
-      "Dataset/SeisMLLM-1K/case_0847/E9_C013_I03.jpg": "A map illustrating the distance between the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, approximately 650 miles (1050 km) apart.",
-      "Dataset/SeisMLLM-1K/case_0847/E9_C013_I04.jpg": "A duplicate map showing the same information: the earthquake epicenter in Myanmar and the collapsed building site in Chatuchak, with a distance of approximately 650 miles (1050 km)."
+      "Dataset/SeisMLLM-1K/case_1201/E9_C013_I02.jpg": "The image provides a closer view of the collapsed structure, showing significant structural failure with large piles of concrete debris and exposed steel reinforcement. No intact sections of the building are visible."
     },
     "case_index": 847,
     "case_id": "case_0847",
@@ -54395,8 +54351,7 @@
       "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1207/E9_C019_I01.jpg": "Overview of an 11-story reinforced concrete frame building with partial collapse. The lower five stories have pancaked, leaving six stories upright. Significant structural damage is visible, including dislodged masonry and exposed reinforcement.",
-      "Dataset/SeisMLLM-1K/case_0853/E9_C019_I02.jpg": "Closer view of the collapsed portion of the building. Rubble and debris from the pancaked stories are scattered at the base. Severe damage to the remaining structure, including large cracks and dislodged balconies, is evident."
+      "Dataset/SeisMLLM-1K/case_1207/E9_C019_I01.jpg": "Overview of an 11-story reinforced concrete frame building with partial collapse. The lower five stories have pancaked, leaving six stories upright. Significant structural damage is visible, including dislodged masonry and exposed reinforcement."
     },
     "case_index": 853,
     "case_id": "case_0853",
@@ -54642,8 +54597,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1211/E9_C023_I01.jpg": "Overview of a completely collapsed concrete frame structure with visible rubble, fractured concrete columns, and slabs. No intact structural elements are visible.",
-      "Dataset/SeisMLLM-1K/case_0857/E9_C023_I02.jpg": "Overview of a completely collapsed concrete frame structure with visible rubble, fractured concrete columns, and slabs. No intact structural elements are visible."
+      "Dataset/SeisMLLM-1K/case_1211/E9_C023_I01.jpg": "Overview of a completely collapsed concrete frame structure with visible rubble, fractured concrete columns, and slabs. No intact structural elements are visible."
     },
     "case_index": 857,
     "case_id": "case_0857",
@@ -55387,8 +55341,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1223/E9_C035_I01.jpg": "Collapsed four-story reinforced concrete building with visible debris including beams, columns, and slabs. Adjacent building shows signs of leaning due to structural damage.",
-      "Dataset/SeisMLLM-1K/case_0869/E9_C035_I02.jpg": "Collapsed four-story reinforced concrete building with visible debris including beams, columns, and slabs. Adjacent building shows signs of leaning due to structural damage."
+      "Dataset/SeisMLLM-1K/case_1223/E9_C035_I01.jpg": "Collapsed four-story reinforced concrete building with visible debris including beams, columns, and slabs. Adjacent building shows signs of leaning due to structural damage."
     },
     "case_index": 869,
     "case_id": "case_0869",
@@ -55512,8 +55465,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Moderate, the building is deemed to have localized damage but retains overall stability."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1225/E9_C037_I01.jpg": "Exterior view of a two-story concrete frame bank building with masonry infill walls. The second-floor masonry wall has collapsed, exposing the interior. The ground floor appears intact, with signage for a 24-hour ATM visible.",
-      "Dataset/SeisMLLM-1K/case_0871/E9_C037_I02.jpg": "Exterior view of the same two-story concrete frame bank building. The second-floor masonry infill wall is missing in one section, revealing internal damage. The ground floor remains undamaged."
+      "Dataset/SeisMLLM-1K/case_1225/E9_C037_I01.jpg": "Exterior view of a two-story concrete frame bank building with masonry infill walls. The second-floor masonry wall has collapsed, exposing the interior. The ground floor appears intact, with signage for a 24-hour ATM visible."
     },
     "case_index": 871,
     "case_id": "case_0871",
@@ -55635,8 +55587,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1227/E9_C039_I01.jpg": "The image shows a damaged market entrance gate with visible cracks and debris around the base. Adjacent stores are severely damaged, with collapsed roofs and walls.",
-      "Dataset/SeisMLLM-1K/case_0873/E9_C039_I02.jpg": "The image shows a collapsed market structure with extensive debris, including metal roofing and masonry rubble. Adjacent structures appear heavily damaged."
+      "Dataset/SeisMLLM-1K/case_1227/E9_C039_I01.jpg": "The image shows a damaged market entrance gate with visible cracks and debris around the base. Adjacent stores are severely damaged, with collapsed roofs and walls."
     },
     "case_index": 873,
     "case_id": "case_0873",
@@ -56698,8 +56649,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1244/E9_C056_I01.jpg": "The image shows a 7-story reinforced concrete building with the lower three floors completely collapsed. Upper stories appear misaligned, and debris is scattered around the base. Significant structural damage is evident.",
-      "Dataset/SeisMLLM-1K/case_0890/E9_C056_I02.jpg": "The image provides another view of the same building, highlighting the collapsed lower floors and exposed reinforcement. Upper stories remain standing but show signs of misalignment and structural instability."
+      "Dataset/SeisMLLM-1K/case_1244/E9_C056_I01.jpg": "The image shows a 7-story reinforced concrete building with the lower three floors completely collapsed. Upper stories appear misaligned, and debris is scattered around the base. Significant structural damage is evident."
     },
     "case_index": 890,
     "case_id": "case_0890",
@@ -57382,8 +57332,7 @@
       "reasoning": "Since Condition 3 (Racking) is evaluated as Moderate, the building is structurally stable but exhibits damage requiring restricted use."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1255/E9_C067_I01.jpg": "The high-rise building shows diagonal shear cracks in the infill walls, concentrated in the lower third of the structure. The glazing of windows appears intact, and no signs of collapse or leaning are visible.",
-      "Dataset/SeisMLLM-1K/case_0901/E9_C067_I02.jpg": "Close-up view of the building's facade reveals diagonal cracks in the infill walls, with some loss of material. The structural frame appears intact, and no other significant damage is visible."
+      "Dataset/SeisMLLM-1K/case_1255/E9_C067_I01.jpg": "The high-rise building shows diagonal shear cracks in the infill walls, concentrated in the lower third of the structure. The glazing of windows appears intact, and no signs of collapse or leaning are visible."
     },
     "case_index": 901,
     "case_id": "case_0901",
@@ -57575,9 +57524,7 @@
     },
     "9_image_descriptions": {
       "Dataset/SeisMLLM-1K/case_1258/E9_C070_I01.jpg": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
-      "Dataset/SeisMLLM-1K/case_0904/E9_C070_I01.jpg_duplicate": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
-      "Dataset/SeisMLLM-1K/case_1258/E9_C070_I02.jpg": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised.",
-      "Dataset/SeisMLLM-1K/case_0904/E9_C070_I02.jpg_duplicate": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised."
+      "Dataset/SeisMLLM-1K/case_1258/E9_C070_I02.jpg": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised."
     },
     "case_index": 904,
     "case_id": "case_0904",
@@ -59656,8 +59603,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1291/E9_C103_I01.jpg": "The image shows a partially collapsed pagoda structure with significant masonry damage. The dome is largely missing, and debris is visible around the base. Decorative elements appear damaged, and the structure is severely compromised.",
-      "Dataset/SeisMLLM-1K/case_0937/E9_C103_I02.jpg": "The image shows a partially collapsed pagoda structure with significant masonry damage. The dome is largely missing, and debris is visible around the base. Decorative elements appear damaged, and the structure is severely compromised."
+      "Dataset/SeisMLLM-1K/case_1291/E9_C103_I01.jpg": "The image shows a partially collapsed pagoda structure with significant masonry damage. The dome is largely missing, and debris is visible around the base. Decorative elements appear damaged, and the structure is severely compromised."
     },
     "case_index": 937,
     "case_id": "case_0937",
@@ -60481,8 +60427,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_1304/E9_C116_I01.jpg": "The image shows a collapsed air traffic control tower with large debris impacting an adjacent building. Exposed rebar and concrete rubble are visible, along with severe structural damage to the impacted building.",
-      "Dataset/SeisMLLM-1K/case_0950/E9_C116_I02.jpg": "The image shows a collapsed air traffic control tower with large debris impacting an adjacent building. Exposed rebar and concrete rubble are visible, along with severe structural damage to the impacted building."
+      "Dataset/SeisMLLM-1K/case_1304/E9_C116_I01.jpg": "The image shows a collapsed air traffic control tower with large debris impacting an adjacent building. Exposed rebar and concrete rubble are visible, along with severe structural damage to the impacted building."
     },
     "case_index": 950,
     "case_id": "case_0950",
@@ -61834,8 +61779,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0207/E11_C001_I01.jpg": "The image shows a collapsed adobe structure with extensive debris scattered in front of the building. Walls are partially missing, and roof sections have failed. No intact structural elements are visible.",
-      "Dataset/SeisMLLM-1K/case_0970/E11_C001_I02.jpg": "The image shows a collapsed adobe structure with extensive debris scattered in front of the building. Walls are partially missing, and roof sections have failed. No intact structural elements are visible."
+      "Dataset/SeisMLLM-1K/case_0207/E11_C001_I01.jpg": "The image shows a collapsed adobe structure with extensive debris scattered in front of the building. Walls are partially missing, and roof sections have failed. No intact structural elements are visible."
     },
     "case_index": 970,
     "case_id": "case_0970",
@@ -62140,8 +62084,7 @@
       "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0212/E11_C006_I01.jpg": "The image shows a damaged adobe structure with visible cracks, plaster detachment, and debris near the base. Emergency personnel and caution tape are present, indicating a hazardous area.",
-      "Dataset/SeisMLLM-1K/case_0975/E11_C006_I02.jpg": "The image shows a damaged adobe structure with visible cracks, plaster detachment, and debris near the base. Emergency personnel and caution tape are present, indicating a hazardous area."
+      "Dataset/SeisMLLM-1K/case_0212/E11_C006_I01.jpg": "The image shows a damaged adobe structure with visible cracks, plaster detachment, and debris near the base. Emergency personnel and caution tape are present, indicating a hazardous area."
     },
     "case_index": 975,
     "case_id": "case_0975",
@@ -62446,8 +62389,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 4 (Falling Hazard) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0217/E11_C011_I01.jpg": "Exterior view of a church with visible debris from a collapsed bell tower near the entrance. Masonry walls show signs of damage, and caution tape surrounds the affected area.",
-      "Dataset/SeisMLLM-1K/case_0980/E11_C011_I02.jpg": "Exterior view of a church with visible debris from a collapsed bell tower near the entrance. Masonry walls show signs of damage, and caution tape surrounds the affected area."
+      "Dataset/SeisMLLM-1K/case_0217/E11_C011_I01.jpg": "Exterior view of a church with visible debris from a collapsed bell tower near the entrance. Masonry walls show signs of damage, and caution tape surrounds the affected area."
     },
     "case_index": 980,
     "case_id": "case_0980",
@@ -62569,8 +62511,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0219/E11_C013_I01.jpg": "A masonry church building with a large section of the front wall collapsed, exposing the interior. Wooden roof framing is visible, and debris from the collapsed wall is scattered on the ground. Severe structural damage is evident.",
-      "Dataset/SeisMLLM-1K/case_0982/E11_C013_I02.jpg": "A masonry church building with a large section of the front wall collapsed, exposing the interior. Wooden roof framing is visible, and debris from the collapsed wall is scattered on the ground. Severe structural damage is evident."
+      "Dataset/SeisMLLM-1K/case_0219/E11_C013_I01.jpg": "A masonry church building with a large section of the front wall collapsed, exposing the interior. Wooden roof framing is visible, and debris from the collapsed wall is scattered on the ground. Severe structural damage is evident."
     },
     "case_index": 982,
     "case_id": "case_0982",
@@ -63687,8 +63628,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, according to Table 31, the building must be posted Unsafe."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0237/E12_C005_I01.jpg": "The image shows a two-story building with severe structural damage, including a collapsed floor and walls. Debris is visible at the base of the structure, and the upper story appears partially destroyed.",
-      "Dataset/SeisMLLM-1K/case_1000/E12_C005_I02.jpg": "The image shows a two-story building with severe structural damage, including a collapsed floor and walls. Debris is visible at the base of the structure, and the upper story appears partially destroyed."
+      "Dataset/SeisMLLM-1K/case_0237/E12_C005_I01.jpg": "The image shows a two-story building with severe structural damage, including a collapsed floor and walls. Debris is visible at the base of the structure, and the upper story appears partially destroyed."
     },
     "case_index": 1000,
     "case_id": "case_1000",
@@ -65242,8 +65182,7 @@
       "reasoning": "All conditions are evaluated as Minor/none or Not visible from the provided images, indicating no significant structural damage or hazards."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0261/E12_C029_I01.jpg": "Elevated wood house with lightweight cladding and a corrugated galvanized iron roof supported by wooden posts. No visible structural damage or distress.",
-      "Dataset/SeisMLLM-1K/case_1024/E12_C029_I02.jpg": "Elevated wood house with lightweight cladding and a corrugated galvanized iron roof supported by wooden posts. No visible structural damage or distress."
+      "Dataset/SeisMLLM-1K/case_0261/E12_C029_I01.jpg": "Elevated wood house with lightweight cladding and a corrugated galvanized iron roof supported by wooden posts. No visible structural damage or distress."
     },
     "case_index": 1024,
     "case_id": "case_1024",
@@ -66613,8 +66552,7 @@
       "reasoning": "Since Condition 3 (Racking Damage) is evaluated as Moderate, the building is deemed to have localized structural damage but does not appear to be at risk of collapse."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0281/E13_C015_I01.jpg": "A concrete column with visible spalling and exposed rebar. Cracking is evident around the damaged area, with some cracks extending into the adjacent wall surface.",
-      "Dataset/SeisMLLM-1K/case_1044/E13_C015_I02.jpg": "A concrete column with visible spalling and exposed rebar. Cracking is evident around the damaged area, with some cracks extending into the adjacent wall surface."
+      "Dataset/SeisMLLM-1K/case_0281/E13_C015_I01.jpg": "A concrete column with visible spalling and exposed rebar. Cracking is evident around the damaged area, with some cracks extending into the adjacent wall surface."
     },
     "case_index": 1044,
     "case_id": "case_1044",
@@ -67552,8 +67490,7 @@
       "reasoning": "Since no severe conditions were observed in any of the evaluation categories, the building is deemed safe for use."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0295/E13_C031_I01.jpg": "Exterior view of a four-story concrete frame building with commercial signage on the ground floor and residential-style balconies on the upper floors. No visible structural damage or hazards.",
-      "Dataset/SeisMLLM-1K/case_1060/E13_C031_I02.jpg": "Exterior view of a four-story concrete frame building with commercial signage on the ground floor and residential-style balconies on the upper floors. No visible structural damage or hazards."
+      "Dataset/SeisMLLM-1K/case_0295/E13_C031_I01.jpg": "Exterior view of a four-story concrete frame building with commercial signage on the ground floor and residential-style balconies on the upper floors. No visible structural damage or hazards."
     },
     "case_index": 1060,
     "case_id": "case_1060",
@@ -72315,8 +72252,7 @@
       "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
     },
     "9_image_descriptions": {
-      "Dataset/SeisMLLM-1K/case_0363/E14_C001_I01.jpg": "Collapsed traditional timber buildings with extensive debris and visible structural failure. Ground fissures and surface cracking are also evident in the surrounding area.",
-      "Dataset/SeisMLLM-1K/case_1128/E14_C001_I02.jpg": "Collapsed traditional timber structures with significant debris scattered around. Ground damage, including fissures and uneven surfaces, is visible in the vicinity."
+      "Dataset/SeisMLLM-1K/case_0363/E14_C001_I01.jpg": "Collapsed traditional timber buildings with extensive debris and visible structural failure. Ground fissures and surface cracking are also evident in the surrounding area."
     },
     "case_index": 1128,
     "case_id": "case_1128",

@@ -51,9 +51,7 @@
   },
   "9_image_descriptions": {
     "E2_C061_I01.png": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
-    "E2_C061_I01.png_duplicate": "Interior view of a staircase with severe through-wall cracks on the adjacent walls, indicating significant structural damage.",
-    "E2_C061_I02.jpg": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor.",
-    "E2_C061_I02.jpg_duplicate": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor."
+    "E2_C061_I02.jpg": "Exterior view of a multi-story building with partial wall collapse and visible damage on the ground floor."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\2-Lushan Earthquake\\061",
   "image_count": 4,

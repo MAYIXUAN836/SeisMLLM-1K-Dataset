@@ -52,9 +52,7 @@
   },
   "9_image_descriptions": {
     "E9_C070_I01.jpg": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
-    "E9_C070_I01.jpg_duplicate": "Exterior view of a concrete structure with visible plaster damage near the parking area. No significant structural distress is visible.",
-    "E9_C070_I02.jpg": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised.",
-    "E9_C070_I02.jpg_duplicate": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised."
+    "E9_C070_I02.jpg": "Interior view showing cracking and plaster damage near the ceiling and wall junction. No structural elements appear compromised."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\070",
   "image_count": 4,

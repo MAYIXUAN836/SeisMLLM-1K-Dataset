@@ -75,7 +75,7 @@ The repository stores images under `SeisMLLM-1K/case_XXXX/`. The `images` entrie
 
 Every referenced full image filename, including its extension, is unique in the released image directory. `Full_GT.json.case_id` remains the legacy annotation-record identifier and can differ from the current image-folder ID. Associate records through their image paths or complete image filenames; do not join by record position or assume the case identifier equals the image-folder ID.
 
-There are **3,209 image-description entries**, of which **64 name files absent from the released image directory**. These entries retain their original paths and text pending source-image reconciliation. Some unmatched image names also occur in the conversation exports' `[SID]` sections; resolving the input image paths does not validate those caption targets. Conversely, not every released image has an image-description entry. For image-level caption tasks, use only captions whose complete filename occurs in the same case's input image list. Do not invent captions for missing entries or attach an unmatched description to a different image. Caption coverage remains a release limitation; the path correction does not add images, renumber cases or modify annotation text.
+There are **3,145 image-description entries**, each referring to an image included in the same released case. The conversation exports' `[SID]` sections also contain only captions for their case's input images. Caption coverage is incomplete: 276 released images have no single-image description. A missing caption does not indicate an undamaged image; no replacement descriptions are inferred.
 
 ## Annotation provenance and permissions
 

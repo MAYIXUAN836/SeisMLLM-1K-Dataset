@@ -50,8 +50,7 @@
     "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
   },
   "9_image_descriptions": {
-    "E9_C056_I01.jpg": "The image shows a 7-story reinforced concrete building with the lower three floors completely collapsed. Upper stories appear misaligned, and debris is scattered around the base. Significant structural damage is evident.",
-    "E9_C056_I02.jpg": "The image provides another view of the same building, highlighting the collapsed lower floors and exposed reinforcement. Upper stories remain standing but show signs of misalignment and structural instability."
+    "E9_C056_I01.jpg": "The image shows a 7-story reinforced concrete building with the lower three floors completely collapsed. Upper stories appear misaligned, and debris is scattered around the base. Significant structural damage is evident."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\9-M7.7 Myanmar Earthquake\\056",
   "image_count": 2,

@@ -50,9 +50,7 @@
     "reasoning": "Since Condition 3 (Racking) and Condition 4 (Falling Hazard) are evaluated as Moderate, the building is deemed to have localized damage and potential hazards, warranting Restricted Use."
   },
   "9_image_descriptions": {
-    "E3_C087_I01.jpg": "Exterior view of a reinforced masonry structure with visible cracks on parapet walls and scattered debris along the perimeter. No apparent collapse is visible.",
-    "E3_C087_I02.jpg": "Interior wall showing intersecting diagonal cracks and localized plaster damage, indicating moderate structural distress.",
-    "E3_C087_I03.jpg": "Interior wall with visible cracks and minor plaster damage. No evidence of severe structural failure is visible."
+    "E3_C087_I01.jpg": "Exterior view of a reinforced masonry structure with visible cracks on parapet walls and scattered debris along the perimeter. No apparent collapse is visible."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\087",
   "image_count": 2,

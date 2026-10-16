@@ -50,8 +50,7 @@
     "reasoning": "Since Condition 1 (Collapse) and Condition 3 (Racking Damage) are both evaluated as Severe, the building must be posted Unsafe according to Table 31."
   },
   "9_image_descriptions": {
-    "E3_C034_I01.jpg": "The image shows a completely collapsed four-story concrete frame structure. Large fractured concrete elements and rubble are scattered across the site, with no intact portions of the building visible.",
-    "E3_C034_I02.jpg": "The image depicts close-up rubble from the collapsed structure, including large concrete slabs and fractured columns. The debris appears unstable, posing significant falling hazards."
+    "E3_C034_I01.jpg": "The image shows a completely collapsed four-story concrete frame structure. Large fractured concrete elements and rubble are scattered across the site, with no intact portions of the building visible."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\034",
   "image_count": 2,

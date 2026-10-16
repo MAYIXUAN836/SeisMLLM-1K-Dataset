@@ -50,8 +50,7 @@
     "reasoning": "Since Condition 1 (Partial Collapse) and Condition 3 (Racking Damage) are evaluated as Severe, the building must be posted Unsafe according to Table 31."
   },
   "9_image_descriptions": {
-    "E3_C010_I01.jpg": "The image shows a single-story earth and wood structure with extensive wall damage, including large cracks and partial collapse. Debris is scattered around the base of the structure, and portions of the walls are missing.",
-    "E3_C010_I02.jpg": "The image shows the same single-story structure with visible partial wall collapse and significant material loss. The damage includes exposed internal framing and scattered debris around the building."
+    "E3_C010_I01.jpg": "The image shows a single-story earth and wood structure with extensive wall damage, including large cracks and partial collapse. Debris is scattered around the base of the structure, and portions of the walls are missing."
   },
   "origin_path": "/home/myxxx/Project/Final_to_opensource\\GT construction\\3-Yushu Earthquake\\010",
   "image_count": 2,
