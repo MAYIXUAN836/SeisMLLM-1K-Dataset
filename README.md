@@ -21,11 +21,11 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 
 ![Dataset statistics](dataset_statistics.png)
 
-- **Total Cases**: `1,306` unique building cases with `3,856` images.
+- **Total Cases**: `1,306` building-case records with `3,421` referenced image files in the current public release.
 - **Domain**: Computer vision, Rapid post-earthquake assessment for buildings, Structural Health Monitoring, MLLM.
 - **Images**: Photos from real earthquake sites report (e.g., Jiuzhaigou, etc.).
 
-The dataset comprises 3,856 images across 1,306 core building cases (organized as "multi-view images, metadata, assessment annotation" triplets), meticulously curated from 17 major global earthquake events (Mw 6.1--8.0) between 2010 and 2024. Spanning the Pacific Ring of Fire and the Alpine-Himalayan Belt, it captures a diverse range of architectural styles across Asia, the Americas, Europe, and Oceania.
+The current public release covers 1,306 building cases across 17 event groups. Its `train.json` contains 1,241 cases and 3,213 image references; `test.json` contains 65 cases and 208 image references. Their image sets do not overlap, and together reference all 3,421 image files in `SeisMLLM-1K/`. These are counts of the released files. The paper reports 3,856 images and a 9:1 experimental split; the current public export has a different split, and the historical image-count discrepancy is still being reconciled. Validation subsets and similar-case retrieval copies must not be added again when they reuse these cases. The separate Nepal/Ecuador case study is not part of this release.
 
 ## 📝 Data Format
 
@@ -54,7 +54,7 @@ The dataset uses the standard JSON format compatible with training frameworks li
 
 ## 🏷️ Annotation Schema
 
-The model is trained to output a structured report containing the following fields according to **ATC-20-1**:
+The current `train.json` and `test.json` exports contain the following report fields. For the complete record schema, see [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
 
 | Field | Full Name | Description |
 | :--- | :--- | :--- |
@@ -62,8 +62,16 @@ The model is trained to output a structured report containing the following fiel
 | **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
 | **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
-| **[CDD]** | Condition of Damage | Detailed severity rating (Minor/Moderate/Severe) for 6 specific hazards (collapse, leaning, racking, etc.). |
-| **[SID]** | Specific Image Desc | Captioning for each individual image provided in the prompt. |
+| **[CDD]** | Legacy export label for Damage Conditions (DC) | Six hazard ratings and their descriptions, derived from `Full_GT.json` → `6_evaluation`. This is the paper’s DC content; it is not the paper’s free-text Case Damage Description (CDD). |
+| **[SID]** | Single Image Description | Available image-level descriptions. |
+
+### Which files define this release?
+
+- `Full_GT.json` contains the complete released case annotations, including six condition ratings (`6_evaluation`) and the Green/Yellow/Red posting and reasoning (`8_final_status`). Its schema is documented in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
+- `train.json` and `test.json` are conversation-format exports. They retain the legacy `[CDD]` tag for six condition ratings and do not include a dedicated `[DC]` or safety-posting output field. They should not be assumed to reproduce the paper’s experimental split or its exact Stage 1 output interface.
+- `dataset_info.json` registers the two files actually shipped here. The earlier `classification_*`, `description_*`, `_v2` and `_linux_fixed` registrations were internal training/export configurations, not additional public dataset versions.
+
+**Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary. This documentation update does not modify or relabel the JSON records.
 
 ## 🚀 Usage
 
@@ -71,8 +79,8 @@ This dataset is ready for **Supervised Fine-Tuning (SFT)** of Multimodal LLMs.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/SeisMLLM-1K.git
-   cd SeisMLLM-1K
+   git clone https://github.com/MAYIXUAN836/SeisMLLM-1K-Dataset.git
+   cd SeisMLLM-1K-Dataset
    ```
 
 2. **Load Data (Python)**:
@@ -90,9 +98,19 @@ This dataset is ready for **Supervised Fine-Tuning (SFT)** of Multimodal LLMs.
 
 ## ⚠️ License & Disclaimer
 
+The SeisMLLM authors’ original annotation contributions and original documentation are licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**, to the extent the authors hold the rights to license them. See [LICENSE](LICENSE) for the scope and the link to the complete license terms.
+
+For those licensed contributions, noncommercial research use, derivative annotations and publication of aggregate research results are permitted subject to the license, including attribution and identification of changes. This permission is not a blanket license for third-party photographs, inspection reports, atlas excerpts or other source material. Those materials retain their original rights and applicable terms; users must obtain any additional permissions needed for their intended use. No single image license has been verified for the entire collection. The paper’s publication license does not automatically license the dataset.
+
+This dataset is intended as a research resource. Its annotations and model outputs do not replace an on-site safety evaluation by qualified professionals.
+
 ## 📚 Data Sources & Acknowledgements
 
-The SeisMLLM-1K dataset is curated and annotated based on professional earthquake reconnaissance reports and public cyberinfrastructures. We gratefully acknowledge the following sources:
+Images and contextual records were collected from earthquake reconnaissance reports, earthquake atlases and public cyberinfrastructures. These source materials should be distinguished from the structured labels created for SeisMLLM-1K.
+
+As described in Section 3.1.1 of the [paper](https://doi.org/10.1016/j.aei.2026.105126), annotation was model-assisted: initial structured drafts used multi-view images, event metadata and expert field notes, with three expert-verified anchor cases. The paper reports manual checking by two annotators with structural and earthquake engineering backgrounds and third-reviewer adjudication for ambiguous or conflicting cases. The released labels should therefore be described as **model-assisted annotations with human verification, informed by reconnaissance materials**, rather than as a verbatim release of official inspection labels or wholly independent expert-only annotations. Individual JSON records do not include reviewer identities, item-level review histories or a generation-model identifier.
+
+We gratefully acknowledge the following sources:
 
 ### Primary Data Sources
 - **China Earthquake Damage Records**: Images and structural descriptions for the Jiuzhaigou, Yushu, and Lushan earthquakes are sourced from the following authoritative records:
@@ -140,7 +158,7 @@ If you use this dataset or the SeisMLLM framework in your research, please cite 
   year={2019}
 }
 
-This dataset is intended for **research purposes only**. The assessments generated by models trained on this data should **NOT** replace on-site evaluation by certified professional engineers.
+```
 
 ---
 *Created for the SeisMLLM Project.*

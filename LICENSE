@@ -1,0 +1,37 @@
+SeisMLLM-1K — License notice
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+The SeisMLLM authors' original annotation contributions and original
+documentation in this repository are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International license, to the extent that the
+authors hold the rights to license those contributions.
+
+The complete license terms are incorporated by reference:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+
+License summary:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Attribution should identify the SeisMLLM authors and this repository, retain
+applicable attribution notices, link to the license and identify changes.
+The accompanying article is:
+Ma et al. (2026), A dual-retrieval augmented Multimodal Large Language Model
+framework for automatic post-earthquake building safety evaluation,
+Advanced Engineering Informatics 76, 105126.
+https://doi.org/10.1016/j.aei.2026.105126
+
+Third-party materials are excluded from this license grant. These include
+photographs, reconnaissance reports, atlas excerpts, source text and other
+materials whose rights are held by their original owners. Their original
+rights, license terms and attribution requirements continue to apply.
+Inclusion in this repository does not grant additional rights in them.
+No uniform license for all source images is asserted.
+
+The accompanying paper, separately attributed figures, software in other
+repositories and model weights are governed by their own applicable terms.
+The paper's publication license does not automatically apply to the dataset.
+
+The licensed contributions are provided without warranties, as described in
+the license. This research dataset does not replace on-site evaluation by
+qualified professionals.
