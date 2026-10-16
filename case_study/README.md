@@ -27,7 +27,7 @@ done
 
 ## Annotation schema and provenance
 
-The numbered assessment fields `1_earthquake_id` through `9_image_descriptions` follow the core [field dictionary](../DATA_DICTIONARY.md). `6_evaluation` contains six Damage Conditions (DC), and `8_final_status` contains the Green/Yellow/Red posting and reasoning.
+The numbered assessment fields `1_earthquake_id` through `9_image_descriptions` follow the core [field dictionary](../DATA_DICTIONARY.md). `6_evaluation` contains six Damage Conditions (DC), and `8_final_status` contains the Green/Yellow/Red posting and reasoning. `CDD` (Case Damage Description) combines the six existing condition descriptions into one text field; the original descriptions and ratings are unchanged.
 
 Additional record fields are `case_id` (E1C1-E1C24 or E2C1-E2C24), `earthquake_folder` (E1 or E2), `images`, `image_count`, and the retained `processing_timestamp`. E1/E2 are supplement-specific event IDs, not the core dataset's event numbering.
 

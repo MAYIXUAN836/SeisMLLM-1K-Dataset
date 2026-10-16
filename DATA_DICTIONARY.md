@@ -28,6 +28,7 @@ All 1,306 records contain the following top-level fields.
 | `7_estimated_building_damage` | String | Recorded estimated damage range. It is an annotation estimate, not a calibrated confidence score. |
 | `8_final_status` | Object: `status`, `reasoning` | Safety posting and its recorded rationale. |
 | `9_image_descriptions` | Object mapping image-reference strings to descriptions | Available single-image descriptions. Coverage is incomplete; see the caption limitations below. |
+| `CDD` | String | Case Damage Description: the six existing `6_evaluation` descriptions joined in condition order, separated by spaces. |
 | `case_index` | Integer | Legacy annotation-record index. |
 | `case_id` | String | Legacy annotation-record identifier, such as `case_0001`. It is not a reliable join key for the current image-folder names. |
 | `category` | String | Source event-group label. |
@@ -67,11 +68,13 @@ Each record contains:
 - `messages`: a user task and an assistant report, each with `role` and `content` strings.
 - `images`: an ordered array of image paths. The user content uses `<image>` placeholders.
 
-The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
+The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[CDD]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. `[CDD]` contains the same case-level text stored in `Full_GT.json.CDD`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
 
 ### Case Damage Description (CDD)
 
-The paper uses CDD for a case-level narrative of the overall structural condition. This differs from DC, the six condition ratings and their supporting descriptions. The released JSON files do not contain a separately annotated CDD field. The public similar-case retrieval code constructs its global damage-summary text by concatenating the descriptions in `6_evaluation`; that derived text is not an independent CDD annotation.
+CDD means Case Damage Description; DC means Damage Conditions. The original annotations already contain a `status` and `description` for each of six conditions. The field mapping retains those objects unchanged under `6_evaluation` and joins their existing `description` values into `CDD`, without including the `status` values. This is a change of representation; no additional description text is generated or annotated.
+
+The mapping is applied to the core annotations, per-case `GT.json` files, conversation reports and case-study annotations. The public retrieval and inference code reads `CDD` directly and supports older records by applying the same mapping when that field is absent. Answer-free case-study inputs remain input-only.
 
 ## Image paths and caption coverage
 

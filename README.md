@@ -45,11 +45,11 @@ These counts describe the files in this repository. Differences from the paper's
   "messages": [
     {
       "role": "user",
-      "content": "<image><image>... Earthquake Metadata: Name: Jiuzhaigou Earthquake...\nTask: Act as a structural engineer. Analyze the provided images and generate a Stage 1: Understanding report..."
+      "content": "<image><image>... Earthquake Metadata: Name: Jiuzhaigou Earthquake...\nTask: Act as a structural engineer. Analyze the provided images and generate a structured building annotation..."
     },
     {
       "role": "assistant",
-      "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[DC]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
+      "content": "### Structured Building Annotation\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: Existing condition descriptions combined into case-level text...\n[DC]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
     }
   ],
   "images": [
@@ -69,10 +69,11 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
 | **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
+| **[CDD]** | Case Damage Description | Case-level text combining the existing descriptions of the six damage conditions. |
 | **[DC]** | Damage Conditions | Severity ratings and supporting descriptions for six damage conditions. |
 | **[SID]** | Single Image Description | Descriptions of individual images, where available. |
 
-The paper's Case Damage Description (CDD) is a case-level narrative and is not a separate annotation field in these files. See the [CDD field mapping](DATA_DICTIONARY.md#case-damage-description-cdd) for its relationship to the retrieval code.
+CDD and DC share the existing condition descriptions: CDD combines their text, while DC retains the individual condition ratings and descriptions. See the [field mapping](DATA_DICTIONARY.md#case-damage-description-cdd).
 
 ### Data Files
 
@@ -83,7 +84,7 @@ The paper's Case Damage Description (CDD) is a case-level narrative and is not a
 | `test.json` | Test conversations in the same format as the training set. |
 | `dataset_info.json` | Loader configuration: `seismllm_train` loads `train.json`; `seismllm_test` loads `test.json`. |
 
-Safety postings and their reasoning are stored in `Full_GT.json` under `8_final_status`. The conversation files provide the six report fields listed above.
+Safety postings and their reasoning are stored in `Full_GT.json` under `8_final_status`. The conversation files provide the report fields listed above.
 
 ### Image Paths
 
