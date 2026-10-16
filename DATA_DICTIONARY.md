@@ -27,11 +27,11 @@ All 1,306 records contain the following top-level fields.
 | `6_evaluation` | Object with six condition objects listed below | Damage Conditions (DC): each condition has a `status` and `description`. |
 | `7_estimated_building_damage` | String | Recorded estimated damage range. It is an annotation estimate, not a calibrated confidence score. |
 | `8_final_status` | Object: `status`, `reasoning` | Safety posting and its recorded rationale. |
-| `9_image_descriptions` | Object mapping image-reference strings to descriptions | Available single-image descriptions. Coverage is incomplete; see the path caveat below. |
+| `9_image_descriptions` | Object mapping image-reference strings to descriptions | Available single-image descriptions. Coverage is incomplete; see the caption limitations below. |
 | `case_index` | Integer | Legacy annotation-record index. |
 | `case_id` | String | Legacy annotation-record identifier, such as `case_0001`. It is not a reliable join key for the current image-folder names. |
 | `category` | String | Source event-group label. |
-| `dataset_images` | Array of strings | Images associated with the annotation record, with a legacy `Dataset/` prefix and, in many records, outdated folder names. |
+| `dataset_images` | Array of strings | Images associated with the annotation record. Paths use the current image folders, prefixed with `Dataset/`. |
 
 ### Six damage conditions
 
@@ -69,13 +69,13 @@ Each record contains:
 
 The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
 
-## Image identifiers and known path limitations
+## Image paths and caption coverage
 
-The repository stores images under `SeisMLLM-1K/case_XXXX/`. The conversation exports resolve against these files after removing the leading `Dataset/` from their `images` entries.
+The repository stores images under `SeisMLLM-1K/case_XXXX/`. The `images` entries in the conversation exports and all 3,421 `dataset_images` references in `Full_GT.json` resolve against these files after removing the leading `Dataset/`. Image-description paths have also been aligned wherever the referenced image is present in the release.
 
-`Full_GT.json` uses a different legacy folder numbering in many records. After removing `Dataset/`, **2,709 of its 3,421 `dataset_images` references do not resolve as written**. Every referenced full image filename, including its extension, is unique and present somewhere in the released image directory. Until the folder references are reconciled, associate annotations and images using those full filenames; do not join by record position or assume `Full_GT.json.case_id` equals the current image-folder ID.
+Every referenced full image filename, including its extension, is unique in the released image directory. `Full_GT.json.case_id` remains the legacy annotation-record identifier and can differ from the current image-folder ID. Associate records through their image paths or complete image filenames; do not join by record position or assume the case identifier equals the image-folder ID.
 
-There are **3,209 image-description entries**, of which **64 name files absent from the released image directory**. Conversely, not every released image has an image-description entry. Do not invent captions for missing entries or silently attach an unmatched description to a different image. The path issue and incomplete caption coverage remain release limitations; this documentation update does not repair or renumber the data.
+There are **3,209 image-description entries**, of which **64 name files absent from the released image directory**. These entries retain their original paths and text pending source-image reconciliation. Some unmatched image names also occur in the conversation exports' `[SID]` sections; resolving the input image paths does not validate those caption targets. Conversely, not every released image has an image-description entry. For image-level caption tasks, use only captions whose complete filename occurs in the same case's input image list. Do not invent captions for missing entries or attach an unmatched description to a different image. Caption coverage remains a release limitation; the path correction does not add images, renumber cases or modify annotation text.
 
 ## Annotation provenance and permissions
 
