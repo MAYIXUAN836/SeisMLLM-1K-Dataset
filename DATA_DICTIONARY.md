@@ -1,6 +1,6 @@
 # SeisMLLM-1K: released annotation fields
 
-This dictionary describes the JSON files in the public release, rather than an idealized schema inferred from the paper. The inspected data-file contents are unchanged from commit `a06c84922cafe412ca7593b04c10f1aaf0282b1d`. This documentation update preserves the existing field names and labels.
+This dictionary describes the core JSON files in the public release, rather than an idealized schema inferred from the paper. The separate 48-case supplement is documented in [case_study/README.md](case_study/README.md). The inspected data-file contents are unchanged from commit `a06c84922cafe412ca7593b04c10f1aaf0282b1d`. This documentation update preserves the existing field names and labels.
 
 ## File roles and counts
 
@@ -68,6 +68,8 @@ Each record contains:
 - `images`: an ordered array of image paths. The user content uses `<image>` placeholders.
 
 The assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[CDD]` and `[SID]`. In these files, **`[CDD]` is a legacy label for the six damage-condition statuses and their descriptions**. It is populated from `6_evaluation` and therefore corresponds to the paper's **DC (Damage Conditions)** content. There is no separately tagged `[DC]` field in either export, and neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
+
+See [SCHEMA_NOTES.md](SCHEMA_NOTES.md) for the original export-code mapping and the retained inference interface.
 
 The paper defines **CDD = Case Damage Description**, a descriptive Stage 1 summary, and **DC = Damage Conditions**, the Stage 2 severity ratings (Section 2.1.2, Table 1). The legacy export label must not be interpreted as a separate release of that paper-defined CDD summary. This dictionary documents the actual exported content; it does not assert that the exports implement the paper's exact perception–judgment separation.
 

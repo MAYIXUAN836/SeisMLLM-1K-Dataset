@@ -1,6 +1,6 @@
 # SeisMLLM-1K: A Multimodal Dataset for Post-Earthquake Building Safety Evaluation
 
-**[Project Page](https://mayixuan836.github.io/SeisMLLM-1K-Dataset/)** · **[Paper](https://doi.org/10.1016/j.aei.2026.105126)**
+**[Project Page](https://mayixuan836.github.io/SeisMLLM-1K-Dataset/)** · **[Paper](https://doi.org/10.1016/j.aei.2026.105126)** · **[Code](https://github.com/MAYIXUAN836/SeisMLLM-Code)**
 
 **SeisMLLM-1K** is a specialized multimodal dataset designed for training Large Vision-Language Models (LVLMs) to perform professional structural safety assessments of buildings damaged by earthquakes. 
 
@@ -25,7 +25,7 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 - **Domain**: Computer vision, Rapid post-earthquake assessment for buildings, Structural Health Monitoring, MLLM.
 - **Images**: Photos from real earthquake sites report (e.g., Jiuzhaigou, etc.).
 
-The current public release covers 1,306 building cases across 17 event groups. Its `train.json` contains 1,241 cases and 3,213 image references; `test.json` contains 65 cases and 208 image references. Their image sets do not overlap, and together reference all 3,421 image files in `SeisMLLM-1K/`. These are counts of the released files. The paper reports 3,856 images and a 9:1 experimental split; the current public export has a different split, and the historical image-count discrepancy is still being reconciled. Validation subsets and similar-case retrieval copies must not be added again when they reuse these cases. The separate Nepal/Ecuador case study is not part of this release.
+The current public release covers 1,306 building cases across 17 event groups. Its `train.json` contains 1,241 cases and 3,213 image references; `test.json` contains 65 cases and 208 image references. Their image sets do not overlap, and together reference all 3,421 image files in `SeisMLLM-1K/`. These are counts of the released files. The paper reports 3,856 images and a 9:1 experimental split; the current public export has a different split, and the historical image-count discrepancy is still being reconciled. Validation subsets and similar-case retrieval copies must not be added again when they reuse these cases. The separate Nepal/Ecuador case study is provided as a [supplement](case_study/README.md), with 48 cases and 382 selected image references; it is not part of the core counts or train/test split.
 
 ## 📝 Data Format
 
@@ -65,6 +65,8 @@ The current `train.json` and `test.json` exports contain the following report fi
 | **[CDD]** | Legacy export label for Damage Conditions (DC) | Six hazard ratings and their descriptions, derived from `Full_GT.json` → `6_evaluation`. This is the paper’s DC content; it is not the paper’s free-text Case Damage Description (CDD). |
 | **[SID]** | Single Image Description | Available image-level descriptions. |
 
+The terminology and original export-code mapping are explained in [SCHEMA_NOTES.md](SCHEMA_NOTES.md).
+
 ### Which files define this release?
 
 - `Full_GT.json` contains the complete released case annotations, including six condition ratings (`6_evaluation`) and the Green/Yellow/Red posting and reasoning (`8_final_status`). Its schema is documented in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
@@ -72,6 +74,10 @@ The current `train.json` and `test.json` exports contain the following report fi
 - `dataset_info.json` registers the two files actually shipped here. The earlier `classification_*`, `description_*`, `_v2` and `_linux_fixed` registrations were internal training/export configurations, not additional public dataset versions.
 
 **Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary. This documentation update does not modify or relabel the JSON records.
+
+## Separate case-study supplement
+
+The [Nepal/Ecuador supplement](case_study/README.md) includes case-level annotations, inference inputs without answers, a per-image source/filename/rights manifest, and original-data citations. Original-resolution images are available through the linked release archives. The authors’ original contributions use the scoped CC BY-NC 4.0 notice; these two sources’ photographs and source materials retain their original **CC BY-SA 3.0** license. See the supplement’s [LICENSE](case_study/LICENSE) and [citations](case_study/CITATIONS.bib).
 
 ## 🚀 Usage
 
@@ -120,9 +126,22 @@ We gratefully acknowledge the following sources:
 - **DesignSafe-CI & StEER**: A portion of the data is collected from the [DesignSafe](https://www.designsafe-ci.org/) cyberinfrastructure, specifically contributed by the **Structural Extreme Events Reconnaissance (StEER)** network.
 
 ### BibTeX Reference
-If you use this dataset or the SeisMLLM framework in your research, please cite our work and the original data sources:
+If you use this dataset or the SeisMLLM framework in your research, please cite our work ([CITATION.bib](CITATION.bib)) and the original data sources. The separate supplement also provides [source-specific citations](case_study/CITATIONS.bib):
 
 ```latex
+@article{ma2026seismllm,
+  title = {A dual-retrieval augmented Multimodal Large Language Model
+           framework for automatic post-earthquake building safety evaluation},
+  author = {Ma, Yixuan and Jiang, Jun and Wang, Shuo and Liu, Jiahui
+            and Qi, Xiaojuan and Wang, Xuguang},
+  journal = {Advanced Engineering Informatics},
+  volume = {76},
+  pages = {105126},
+  year = {2026},
+  doi = {10.1016/j.aei.2026.105126},
+  url = {https://doi.org/10.1016/j.aei.2026.105126}
+}
+
 @article{sun2014lushan,
   title={Atlas of Building Seismic Damage from the Lushan "4.20" Ms 7.0 Strong Earthquake in Sichuan (in Chinese)},
   author={Sun, Baitao and Yan, Peilei and Wang, Mingzhen and Zhang, Haoyu and Chen, Xiangzhao},

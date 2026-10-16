@@ -1,0 +1,33 @@
+{
+  "E1": {
+    "title": "2015 Nepal Earthquake Building Performance Database",
+    "authors": [
+      "Prateek Shah",
+      "Santiago Pujol",
+      "Aishwarya Puranam",
+      "Lucas Laughery"
+    ],
+    "year": 2016,
+    "dataset_id": 537,
+    "doi": "10.7277/Z82F-0728",
+    "landing_page": "https://datacenterhub.org/landingpages/537/537_LandingPage.html",
+    "license": "CC-BY-SA-3.0"
+  },
+  "E2": {
+    "title": "2016 Ecuador Earthquake",
+    "authors": [
+      "Chungwook Sim",
+      "Enrique Villalobos",
+      "Jhon Paul Smith",
+      "Pedro Rojas",
+      "Aishwarya Y Puranam",
+      "Lucas Laughery",
+      "Santiago Pujol"
+    ],
+    "year": 2016,
+    "dataset_id": 535,
+    "doi": "10.7277/ZFK0-Q384",
+    "landing_page": "https://datacenterhub.org/landingpages/535/535_LandingPage.html",
+    "license": "CC-BY-SA-3.0"
+  }
+}

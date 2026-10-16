@@ -1,0 +1,13 @@
+# Case-study permissions
+
+The SeisMLLM authors' original, independently created annotation and documentation contributions are licensed under Creative Commons Attribution-NonCommercial 4.0 International, only to the extent the authors hold the rights to license them:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+This permission does not relicense the source photographs, source metadata or other third-party material. The Nepal and Ecuador source datasets are licensed by their original providers under Creative Commons Attribution-ShareAlike 3.0 Unported:
+https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+The source images retain CC BY-SA 3.0, including its commercial-use permissions. No NonCommercial restriction is added to the source photographs. Any adapted source material remains subject to its original ShareAlike requirements. Merely including these works in this collection does not change their individual licenses.
+
+Photograph credit: the authors and contributors listed in sources.json and CITATIONS.bib. image_manifest.csv identifies the source dataset, building record, original file, license and checksum for every selected image. Images are selected and renamed for case-level organization; the release does not edit their pixels.
+
+No endorsement by the source creators is implied. Original source labels are distinct from the SeisMLLM-generated assessment annotations. Other applicable rights are not waived.

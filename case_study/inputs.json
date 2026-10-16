@@ -1,0 +1,864 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C1/E1C1F04.jpg",
+      "case_study/images/E1/E1C1/E1C1F08.jpg",
+      "case_study/images/E1/E1C1/E1C1F21.jpg",
+      "case_study/images/E1/E1C1/E1C1F23.jpg",
+      "case_study/images/E1/E1C1/E1C1F35.jpg",
+      "case_study/images/E1/E1C1/E1C1F37.jpg",
+      "case_study/images/E1/E1C1/E1C1F42.jpg",
+      "case_study/images/E1/E1C1/E1C1F43.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C10/E1C10F03.jpg",
+      "case_study/images/E1/E1C10/E1C10F06.jpg",
+      "case_study/images/E1/E1C10/E1C10F09.jpg",
+      "case_study/images/E1/E1C10/E1C10F17.jpg",
+      "case_study/images/E1/E1C10/E1C10F18.jpg",
+      "case_study/images/E1/E1C10/E1C10F19.jpg",
+      "case_study/images/E1/E1C10/E1C10F20.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C11/E1C11F01.jpg",
+      "case_study/images/E1/E1C11/E1C11F02.jpg",
+      "case_study/images/E1/E1C11/E1C11F03.jpg",
+      "case_study/images/E1/E1C11/E1C11F04.jpg",
+      "case_study/images/E1/E1C11/E1C11F05.jpg",
+      "case_study/images/E1/E1C11/E1C11F06.jpg",
+      "case_study/images/E1/E1C11/E1C11F07.jpg",
+      "case_study/images/E1/E1C11/E1C11F08.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C12/E1C12F02.jpg",
+      "case_study/images/E1/E1C12/E1C12F05.jpg",
+      "case_study/images/E1/E1C12/E1C12F09.jpg",
+      "case_study/images/E1/E1C12/E1C12F10.jpg",
+      "case_study/images/E1/E1C12/E1C12F12.jpg",
+      "case_study/images/E1/E1C12/E1C12F14.jpg",
+      "case_study/images/E1/E1C12/E1C12F19.jpg",
+      "case_study/images/E1/E1C12/E1C12F22.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C13/E1C13F05.jpg",
+      "case_study/images/E1/E1C13/E1C13F07.jpg",
+      "case_study/images/E1/E1C13/E1C13F08.jpg",
+      "case_study/images/E1/E1C13/E1C13F12.jpg",
+      "case_study/images/E1/E1C13/E1C13F13.jpg",
+      "case_study/images/E1/E1C13/E1C13F17.jpg",
+      "case_study/images/E1/E1C13/E1C13F20.jpg",
+      "case_study/images/E1/E1C13/E1C13F22.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C14/E1C14F02.jpg",
+      "case_study/images/E1/E1C14/E1C14F03.jpg",
+      "case_study/images/E1/E1C14/E1C14F08.jpg",
+      "case_study/images/E1/E1C14/E1C14F10.jpg",
+      "case_study/images/E1/E1C14/E1C14F15.jpg",
+      "case_study/images/E1/E1C14/E1C14F18.jpg",
+      "case_study/images/E1/E1C14/E1C14F20.jpg",
+      "case_study/images/E1/E1C14/E1C14F21.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C15/E1C15F03.jpg",
+      "case_study/images/E1/E1C15/E1C15F04.jpg",
+      "case_study/images/E1/E1C15/E1C15F05.jpg",
+      "case_study/images/E1/E1C15/E1C15F07.jpg",
+      "case_study/images/E1/E1C15/E1C15F12.jpg",
+      "case_study/images/E1/E1C15/E1C15F13.jpg",
+      "case_study/images/E1/E1C15/E1C15F14.jpg",
+      "case_study/images/E1/E1C15/E1C15F15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C16/E1C16F09.jpg",
+      "case_study/images/E1/E1C16/E1C16F19.jpg",
+      "case_study/images/E1/E1C16/E1C16F26.jpg",
+      "case_study/images/E1/E1C16/E1C16F30.jpg",
+      "case_study/images/E1/E1C16/E1C16F41.jpg",
+      "case_study/images/E1/E1C16/E1C16F58.jpg",
+      "case_study/images/E1/E1C16/E1C16F59.jpg",
+      "case_study/images/E1/E1C16/E1C16F61.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C17/E1C17F02.jpg",
+      "case_study/images/E1/E1C17/E1C17F05.jpg",
+      "case_study/images/E1/E1C17/E1C17F07.jpg",
+      "case_study/images/E1/E1C17/E1C17F14.jpg",
+      "case_study/images/E1/E1C17/E1C17F15.jpg",
+      "case_study/images/E1/E1C17/E1C17F21.jpg",
+      "case_study/images/E1/E1C17/E1C17F29.jpg",
+      "case_study/images/E1/E1C17/E1C17F57.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C18/E1C18F01.jpg",
+      "case_study/images/E1/E1C18/E1C18F07.jpg",
+      "case_study/images/E1/E1C18/E1C18F37.jpg",
+      "case_study/images/E1/E1C18/E1C18F42.jpg",
+      "case_study/images/E1/E1C18/E1C18F51.jpg",
+      "case_study/images/E1/E1C18/E1C18F56.jpg",
+      "case_study/images/E1/E1C18/E1C18F69.jpg",
+      "case_study/images/E1/E1C18/E1C18F80.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C19/E1C19F16.jpg",
+      "case_study/images/E1/E1C19/E1C19F18.jpg",
+      "case_study/images/E1/E1C19/E1C19F22.jpg",
+      "case_study/images/E1/E1C19/E1C19F55.jpg",
+      "case_study/images/E1/E1C19/E1C19F61.jpg",
+      "case_study/images/E1/E1C19/E1C19F76.jpg",
+      "case_study/images/E1/E1C19/E1C19F81.jpg",
+      "case_study/images/E1/E1C19/E1C19F83.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C2/E1C2F02.jpg",
+      "case_study/images/E1/E1C2/E1C2F06.jpg",
+      "case_study/images/E1/E1C2/E1C2F13.jpg",
+      "case_study/images/E1/E1C2/E1C2F19.jpg",
+      "case_study/images/E1/E1C2/E1C2F20.jpg",
+      "case_study/images/E1/E1C2/E1C2F24.jpg",
+      "case_study/images/E1/E1C2/E1C2F30.jpg",
+      "case_study/images/E1/E1C2/E1C2F39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C20/E1C20F02.jpg",
+      "case_study/images/E1/E1C20/E1C20F06.jpg",
+      "case_study/images/E1/E1C20/E1C20F07.jpg",
+      "case_study/images/E1/E1C20/E1C20F12.jpg",
+      "case_study/images/E1/E1C20/E1C20F13.jpg",
+      "case_study/images/E1/E1C20/E1C20F14.jpg",
+      "case_study/images/E1/E1C20/E1C20F20.jpg",
+      "case_study/images/E1/E1C20/E1C20F21.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C21/E1C21F02.jpg",
+      "case_study/images/E1/E1C21/E1C21F04.jpg",
+      "case_study/images/E1/E1C21/E1C21F05.jpg",
+      "case_study/images/E1/E1C21/E1C21F07.jpg",
+      "case_study/images/E1/E1C21/E1C21F09.jpg",
+      "case_study/images/E1/E1C21/E1C21F10.jpg",
+      "case_study/images/E1/E1C21/E1C21F12.jpg",
+      "case_study/images/E1/E1C21/E1C21F14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C22/E1C22F02.jpg",
+      "case_study/images/E1/E1C22/E1C22F05.jpg",
+      "case_study/images/E1/E1C22/E1C22F09.jpg",
+      "case_study/images/E1/E1C22/E1C22F10.jpg",
+      "case_study/images/E1/E1C22/E1C22F12.jpg",
+      "case_study/images/E1/E1C22/E1C22F13.jpg",
+      "case_study/images/E1/E1C22/E1C22F14.jpg",
+      "case_study/images/E1/E1C22/E1C22F16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C23/E1C23F02.jpg",
+      "case_study/images/E1/E1C23/E1C23F06.jpg",
+      "case_study/images/E1/E1C23/E1C23F08.jpg",
+      "case_study/images/E1/E1C23/E1C23F14.jpg",
+      "case_study/images/E1/E1C23/E1C23F16.jpg",
+      "case_study/images/E1/E1C23/E1C23F20.jpg",
+      "case_study/images/E1/E1C23/E1C23F26.jpg",
+      "case_study/images/E1/E1C23/E1C23F27.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C24/E1C24F04.jpg",
+      "case_study/images/E1/E1C24/E1C24F07.jpg",
+      "case_study/images/E1/E1C24/E1C24F08.jpg",
+      "case_study/images/E1/E1C24/E1C24F09.jpg",
+      "case_study/images/E1/E1C24/E1C24F10.jpg",
+      "case_study/images/E1/E1C24/E1C24F12.jpg",
+      "case_study/images/E1/E1C24/E1C24F13.jpg",
+      "case_study/images/E1/E1C24/E1C24F14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C3/E1C3F04.jpg",
+      "case_study/images/E1/E1C3/E1C3F09.jpg",
+      "case_study/images/E1/E1C3/E1C3F15.jpg",
+      "case_study/images/E1/E1C3/E1C3F22.jpg",
+      "case_study/images/E1/E1C3/E1C3F29.jpg",
+      "case_study/images/E1/E1C3/E1C3F45.jpg",
+      "case_study/images/E1/E1C3/E1C3F53.jpg",
+      "case_study/images/E1/E1C3/E1C3F56.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C4/E1C4F04.jpg",
+      "case_study/images/E1/E1C4/E1C4F07.jpg",
+      "case_study/images/E1/E1C4/E1C4F22.jpg",
+      "case_study/images/E1/E1C4/E1C4F23.jpg",
+      "case_study/images/E1/E1C4/E1C4F31.jpg",
+      "case_study/images/E1/E1C4/E1C4F38.jpg",
+      "case_study/images/E1/E1C4/E1C4F45.jpg",
+      "case_study/images/E1/E1C4/E1C4F52.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C5/E1C5F03.jpg",
+      "case_study/images/E1/E1C5/E1C5F05.jpg",
+      "case_study/images/E1/E1C5/E1C5F08.jpg",
+      "case_study/images/E1/E1C5/E1C5F10.jpg",
+      "case_study/images/E1/E1C5/E1C5F14.jpg",
+      "case_study/images/E1/E1C5/E1C5F15.jpg",
+      "case_study/images/E1/E1C5/E1C5F16.jpg",
+      "case_study/images/E1/E1C5/E1C5F17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C6/E1C6F02.jpg",
+      "case_study/images/E1/E1C6/E1C6F09.jpg",
+      "case_study/images/E1/E1C6/E1C6F10.jpg",
+      "case_study/images/E1/E1C6/E1C6F16.jpg",
+      "case_study/images/E1/E1C6/E1C6F17.jpg",
+      "case_study/images/E1/E1C6/E1C6F20.jpg",
+      "case_study/images/E1/E1C6/E1C6F24.jpg",
+      "case_study/images/E1/E1C6/E1C6F25.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C7/E1C7F02.jpg",
+      "case_study/images/E1/E1C7/E1C7F10.jpg",
+      "case_study/images/E1/E1C7/E1C7F11.jpg",
+      "case_study/images/E1/E1C7/E1C7F17.jpg",
+      "case_study/images/E1/E1C7/E1C7F20.jpg",
+      "case_study/images/E1/E1C7/E1C7F25.jpg",
+      "case_study/images/E1/E1C7/E1C7F38.jpg",
+      "case_study/images/E1/E1C7/E1C7F45.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C8/E1C8F03.jpg",
+      "case_study/images/E1/E1C8/E1C8F05.jpg",
+      "case_study/images/E1/E1C8/E1C8F12.jpg",
+      "case_study/images/E1/E1C8/E1C8F17.jpg",
+      "case_study/images/E1/E1C8/E1C8F31.jpg",
+      "case_study/images/E1/E1C8/E1C8F38.jpg",
+      "case_study/images/E1/E1C8/E1C8F42.jpg",
+      "case_study/images/E1/E1C8/E1C8F56.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2015 Nepal earthquake, Date: 2015-04-25, Magnitude: Mw 7.8, Location: Nepal.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E1/E1C9/E1C9F03.jpg",
+      "case_study/images/E1/E1C9/E1C9F05.jpg",
+      "case_study/images/E1/E1C9/E1C9F08.jpg",
+      "case_study/images/E1/E1C9/E1C9F10.jpg",
+      "case_study/images/E1/E1C9/E1C9F19.jpg",
+      "case_study/images/E1/E1C9/E1C9F22.jpg",
+      "case_study/images/E1/E1C9/E1C9F24.jpg",
+      "case_study/images/E1/E1C9/E1C9F32.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C1/E2C1F02.jpg",
+      "case_study/images/E2/E2C1/E2C1F04.jpg",
+      "case_study/images/E2/E2C1/E2C1F09.jpg",
+      "case_study/images/E2/E2C1/E2C1F12.jpg",
+      "case_study/images/E2/E2C1/E2C1F24.jpg",
+      "case_study/images/E2/E2C1/E2C1F30.jpg",
+      "case_study/images/E2/E2C1/E2C1F36.jpg",
+      "case_study/images/E2/E2C1/E2C1F39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C10/E2C10F02.jpg",
+      "case_study/images/E2/E2C10/E2C10F07.jpg",
+      "case_study/images/E2/E2C10/E2C10F16.jpg",
+      "case_study/images/E2/E2C10/E2C10F25.jpg",
+      "case_study/images/E2/E2C10/E2C10F29.jpg",
+      "case_study/images/E2/E2C10/E2C10F32.jpg",
+      "case_study/images/E2/E2C10/E2C10F48.jpg",
+      "case_study/images/E2/E2C10/E2C10F58.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C11/E2C11F11.jpg",
+      "case_study/images/E2/E2C11/E2C11F12.jpg",
+      "case_study/images/E2/E2C11/E2C11F19.jpg",
+      "case_study/images/E2/E2C11/E2C11F34.jpg",
+      "case_study/images/E2/E2C11/E2C11F40.jpg",
+      "case_study/images/E2/E2C11/E2C11F41.jpg",
+      "case_study/images/E2/E2C11/E2C11F44.jpg",
+      "case_study/images/E2/E2C11/E2C11F63.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C12/E2C12F05.jpg",
+      "case_study/images/E2/E2C12/E2C12F06.jpg",
+      "case_study/images/E2/E2C12/E2C12F11.jpg",
+      "case_study/images/E2/E2C12/E2C12F16.jpg",
+      "case_study/images/E2/E2C12/E2C12F22.jpg",
+      "case_study/images/E2/E2C12/E2C12F31.jpg",
+      "case_study/images/E2/E2C12/E2C12F54.jpg",
+      "case_study/images/E2/E2C12/E2C12F63.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C13/E2C13F06.jpg",
+      "case_study/images/E2/E2C13/E2C13F10.jpg",
+      "case_study/images/E2/E2C13/E2C13F12.jpg",
+      "case_study/images/E2/E2C13/E2C13F30.jpg",
+      "case_study/images/E2/E2C13/E2C13F31.jpg",
+      "case_study/images/E2/E2C13/E2C13F32.jpg",
+      "case_study/images/E2/E2C13/E2C13F37.jpg",
+      "case_study/images/E2/E2C13/E2C13F39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C14/E2C14F03.jpg",
+      "case_study/images/E2/E2C14/E2C14F06.jpg",
+      "case_study/images/E2/E2C14/E2C14F12.jpg",
+      "case_study/images/E2/E2C14/E2C14F32.jpg",
+      "case_study/images/E2/E2C14/E2C14F38.jpg",
+      "case_study/images/E2/E2C14/E2C14F42.jpg",
+      "case_study/images/E2/E2C14/E2C14F43.jpg",
+      "case_study/images/E2/E2C14/E2C14F47.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C15/E2C15F03.jpg",
+      "case_study/images/E2/E2C15/E2C15F06.jpg",
+      "case_study/images/E2/E2C15/E2C15F13.jpg",
+      "case_study/images/E2/E2C15/E2C15F17.jpg",
+      "case_study/images/E2/E2C15/E2C15F21.jpg",
+      "case_study/images/E2/E2C15/E2C15F28.jpg",
+      "case_study/images/E2/E2C15/E2C15F29.jpg",
+      "case_study/images/E2/E2C15/E2C15F31.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C16/E2C16F02.jpg",
+      "case_study/images/E2/E2C16/E2C16F04.jpg",
+      "case_study/images/E2/E2C16/E2C16F07.jpg",
+      "case_study/images/E2/E2C16/E2C16F08.jpg",
+      "case_study/images/E2/E2C16/E2C16F32.jpg",
+      "case_study/images/E2/E2C16/E2C16F34.jpg",
+      "case_study/images/E2/E2C16/E2C16F40.jpg",
+      "case_study/images/E2/E2C16/E2C16F42.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C17/E2C17F03.jpg",
+      "case_study/images/E2/E2C17/E2C17F14.jpg",
+      "case_study/images/E2/E2C17/E2C17F19.jpg",
+      "case_study/images/E2/E2C17/E2C17F23.jpg",
+      "case_study/images/E2/E2C17/E2C17F31.jpg",
+      "case_study/images/E2/E2C17/E2C17F34.jpg",
+      "case_study/images/E2/E2C17/E2C17F40.jpg",
+      "case_study/images/E2/E2C17/E2C17F58.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C18/E2C18F06.jpg",
+      "case_study/images/E2/E2C18/E2C18F15.jpg",
+      "case_study/images/E2/E2C18/E2C18F19.jpg",
+      "case_study/images/E2/E2C18/E2C18F20.jpg",
+      "case_study/images/E2/E2C18/E2C18F24.jpg",
+      "case_study/images/E2/E2C18/E2C18F37.jpg",
+      "case_study/images/E2/E2C18/E2C18F42.jpg",
+      "case_study/images/E2/E2C18/E2C18F50.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C19/E2C19F03.jpg",
+      "case_study/images/E2/E2C19/E2C19F07.jpg",
+      "case_study/images/E2/E2C19/E2C19F18.jpg",
+      "case_study/images/E2/E2C19/E2C19F22.jpg",
+      "case_study/images/E2/E2C19/E2C19F27.jpg",
+      "case_study/images/E2/E2C19/E2C19F36.jpg",
+      "case_study/images/E2/E2C19/E2C19F48.jpg",
+      "case_study/images/E2/E2C19/E2C19F56.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C2/E2C2F03.jpg",
+      "case_study/images/E2/E2C2/E2C2F06.jpg",
+      "case_study/images/E2/E2C2/E2C2F13.jpg",
+      "case_study/images/E2/E2C2/E2C2F19.jpg",
+      "case_study/images/E2/E2C2/E2C2F27.jpg",
+      "case_study/images/E2/E2C2/E2C2F28.jpg",
+      "case_study/images/E2/E2C2/E2C2F35.jpg",
+      "case_study/images/E2/E2C2/E2C2F38.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C20/E2C20F04.jpg",
+      "case_study/images/E2/E2C20/E2C20F05.jpg",
+      "case_study/images/E2/E2C20/E2C20F09.jpg",
+      "case_study/images/E2/E2C20/E2C20F17.jpg",
+      "case_study/images/E2/E2C20/E2C20F27.jpg",
+      "case_study/images/E2/E2C20/E2C20F37.jpg",
+      "case_study/images/E2/E2C20/E2C20F41.jpg",
+      "case_study/images/E2/E2C20/E2C20F50.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C21/E2C21F04.jpg",
+      "case_study/images/E2/E2C21/E2C21F08.jpg",
+      "case_study/images/E2/E2C21/E2C21F12.jpg",
+      "case_study/images/E2/E2C21/E2C21F13.jpg",
+      "case_study/images/E2/E2C21/E2C21F20.jpg",
+      "case_study/images/E2/E2C21/E2C21F23.jpg",
+      "case_study/images/E2/E2C21/E2C21F27.jpg",
+      "case_study/images/E2/E2C21/E2C21F30.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C22/E2C22F04.jpg",
+      "case_study/images/E2/E2C22/E2C22F11.jpg",
+      "case_study/images/E2/E2C22/E2C22F13.jpg",
+      "case_study/images/E2/E2C22/E2C22F36.jpg",
+      "case_study/images/E2/E2C22/E2C22F39.jpg",
+      "case_study/images/E2/E2C22/E2C22F46.jpg",
+      "case_study/images/E2/E2C22/E2C22F49.jpg",
+      "case_study/images/E2/E2C22/E2C22F52.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C23/E2C23F02.jpg",
+      "case_study/images/E2/E2C23/E2C23F07.jpg",
+      "case_study/images/E2/E2C23/E2C23F11.jpg",
+      "case_study/images/E2/E2C23/E2C23F16.jpg",
+      "case_study/images/E2/E2C23/E2C23F30.jpg",
+      "case_study/images/E2/E2C23/E2C23F35.jpg",
+      "case_study/images/E2/E2C23/E2C23F39.jpg",
+      "case_study/images/E2/E2C23/E2C23F42.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C24/E2C24F03.jpg",
+      "case_study/images/E2/E2C24/E2C24F08.jpg",
+      "case_study/images/E2/E2C24/E2C24F09.jpg",
+      "case_study/images/E2/E2C24/E2C24F13.jpg",
+      "case_study/images/E2/E2C24/E2C24F19.jpg",
+      "case_study/images/E2/E2C24/E2C24F29.jpg",
+      "case_study/images/E2/E2C24/E2C24F36.jpg",
+      "case_study/images/E2/E2C24/E2C24F41.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C3/E2C3F02.jpg",
+      "case_study/images/E2/E2C3/E2C3F08.jpg",
+      "case_study/images/E2/E2C3/E2C3F12.jpg",
+      "case_study/images/E2/E2C3/E2C3F23.jpg",
+      "case_study/images/E2/E2C3/E2C3F31.jpg",
+      "case_study/images/E2/E2C3/E2C3F33.jpg",
+      "case_study/images/E2/E2C3/E2C3F37.jpg",
+      "case_study/images/E2/E2C3/E2C3F56.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C4/E2C4F02.jpg",
+      "case_study/images/E2/E2C4/E2C4F12.jpg",
+      "case_study/images/E2/E2C4/E2C4F24.jpg",
+      "case_study/images/E2/E2C4/E2C4F32.jpg",
+      "case_study/images/E2/E2C4/E2C4F34.jpg",
+      "case_study/images/E2/E2C4/E2C4F59.jpg",
+      "case_study/images/E2/E2C4/E2C4F63.jpg",
+      "case_study/images/E2/E2C4/E2C4F70.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C5/E2C5F03.jpg",
+      "case_study/images/E2/E2C5/E2C5F21.jpg",
+      "case_study/images/E2/E2C5/E2C5F23.jpg",
+      "case_study/images/E2/E2C5/E2C5F32.jpg",
+      "case_study/images/E2/E2C5/E2C5F58.jpg",
+      "case_study/images/E2/E2C5/E2C5F63.jpg",
+      "case_study/images/E2/E2C5/E2C5F72.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C6/E2C6F02.jpg",
+      "case_study/images/E2/E2C6/E2C6F04.jpg",
+      "case_study/images/E2/E2C6/E2C6F09.jpg",
+      "case_study/images/E2/E2C6/E2C6F13.jpg",
+      "case_study/images/E2/E2C6/E2C6F19.jpg",
+      "case_study/images/E2/E2C6/E2C6F20.jpg",
+      "case_study/images/E2/E2C6/E2C6F23.jpg",
+      "case_study/images/E2/E2C6/E2C6F39.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C7/E2C7F05.jpg",
+      "case_study/images/E2/E2C7/E2C7F12.jpg",
+      "case_study/images/E2/E2C7/E2C7F16.jpg",
+      "case_study/images/E2/E2C7/E2C7F17.jpg",
+      "case_study/images/E2/E2C7/E2C7F19.jpg",
+      "case_study/images/E2/E2C7/E2C7F20.jpg",
+      "case_study/images/E2/E2C7/E2C7F21.jpg",
+      "case_study/images/E2/E2C7/E2C7F23.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C8/E2C8F01.jpg",
+      "case_study/images/E2/E2C8/E2C8F03.jpg",
+      "case_study/images/E2/E2C8/E2C8F07.jpg",
+      "case_study/images/E2/E2C8/E2C8F10.jpg",
+      "case_study/images/E2/E2C8/E2C8F20.jpg",
+      "case_study/images/E2/E2C8/E2C8F33.jpg",
+      "case_study/images/E2/E2C8/E2C8F36.jpg",
+      "case_study/images/E2/E2C8/E2C8F42.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>\nEarthquake Metadata: Name: 2016 Ecuador earthquake, Date: 2016-04-16, Magnitude: Mw 7.8, Location: Manabi Province, Ecuador.\nTask: Analyze the provided building images and generate a structural safety assessment."
+      }
+    ],
+    "images": [
+      "case_study/images/E2/E2C9/E2C9F03.jpg",
+      "case_study/images/E2/E2C9/E2C9F06.jpg",
+      "case_study/images/E2/E2C9/E2C9F19.jpg",
+      "case_study/images/E2/E2C9/E2C9F21.jpg",
+      "case_study/images/E2/E2C9/E2C9F35.jpg",
+      "case_study/images/E2/E2C9/E2C9F41.jpg",
+      "case_study/images/E2/E2C9/E2C9F49.jpg",
+      "case_study/images/E2/E2C9/E2C9F58.jpg"
+    ]
+  }
+]

@@ -1,0 +1,3645 @@
+[
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block based on visible balconies and interior furnishings.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure shows unreinforced masonry walls with visible brick infill and concrete framing elements.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "The building shows significant structural damage, including partial collapse of masonry walls and severe cracking near the foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "Visible misalignment between adjacent buildings suggests moderate leaning or inter-story drift."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and out-of-plane failure of masonry infill walls are evident throughout the building."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and parapet elements pose a significant falling hazard to occupants and pedestrians."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible in the images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage including partial collapse, severe racking damage, and falling hazards necessitate an Unsafe (Red) posting."
+    },
+    "9_image_descriptions": {
+      "E1C1F04.jpg": "Exterior view showing severe cracking and partial collapse of masonry infill walls near the ground floor. Adjacent building misalignment is visible.",
+      "E1C1F08.jpg": "Interior view showing diagonal shear cracking and spalling of plaster on unreinforced masonry walls. Brick infill is exposed.",
+      "E1C1F21.jpg": "Interior view showing extensive cracking and detachment of plaster from masonry walls. Brick infill is visible.",
+      "E1C1F23.jpg": "Interior view showing severe diagonal cracking and spalling of plaster on masonry walls. Brick infill is exposed.",
+      "E1C1F35.jpg": "Exterior view showing collapsed masonry debris and severe cracking on the ground floor walls. Falling hazards are evident.",
+      "E1C1F37.jpg": "Exterior view showing severe cracking and partial collapse of masonry infill walls. Adjacent building misalignment is visible.",
+      "E1C1F42.jpg": "Exterior view showing severe cracking and spalling of masonry infill walls near the ground floor. Falling hazards are evident.",
+      "E1C1F43.jpg": "Interior view showing diagonal shear cracking and spalling of plaster on masonry walls. Brick infill is exposed."
+    },
+    "case_id": "E1C1",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C1/E1C1F04.jpg",
+      "images/E1/E1C1/E1C1F08.jpg",
+      "images/E1/E1C1/E1C1F21.jpg",
+      "images/E1/E1C1/E1C1F23.jpg",
+      "images/E1/E1C1/E1C1F35.jpg",
+      "images/E1/E1C1/E1C1F37.jpg",
+      "images/E1/E1C1/E1C1F42.jpg",
+      "images/E1/E1C1/E1C1F43.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:29:30"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building has commercial shops on the ground floor and appears to have residential usage on upper floors.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible evidence of collapse or building off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "The building shows slight leaning, likely due to foundation settlement or lateral movement."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracking is visible in masonry infill walls, indicating racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Some facade elements and cladding appear loose, posing a potential falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "The building has moderate leaning and racking damage to walls. Additionally, loose facade elements pose a falling hazard, requiring restricted access."
+    },
+    "9_image_descriptions": {
+      "E1C10F03.jpg": "Exterior view of a four-story reinforced concrete frame building with masonry infill walls. Windows are intact, but facade elements show signs of damage.",
+      "E1C10F06.jpg": "Close-up of a side wall showing diagonal cracks in the masonry infill, indicating racking damage.",
+      "E1C10F09.jpg": "Another exterior view showing the building's facade and minor damage to cladding elements.",
+      "E1C10F17.jpg": "Detailed view of a cracked masonry infill wall with visible spalling near the edges.",
+      "E1C10F18.jpg": "Close-up of a damaged corner with cracks propagating through the masonry infill wall.",
+      "E1C10F19.jpg": "Narrow gap between adjacent buildings showing cracks in the masonry infill and slight misalignment.",
+      "E1C10F20.jpg": "Another view of the narrow gap, highlighting cracks and potential structural separation between buildings."
+    },
+    "case_id": "E1C10",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C10/E1C10F03.jpg",
+      "images/E1/E1C10/E1C10F06.jpg",
+      "images/E1/E1C10/E1C10F09.jpg",
+      "images/E1/E1C10/E1C10F17.jpg",
+      "images/E1/E1C10/E1C10F18.jpg",
+      "images/E1/E1C10/E1C10F19.jpg",
+      "images/E1/E1C10/E1C10F20.jpg"
+    ],
+    "image_count": 7,
+    "processing_timestamp": "2026-06-03 08:31:30"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a commercial structure with visible signage and storefronts.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The building is constructed with a concrete frame and masonry infill walls, as evidenced by visible concrete columns and damaged masonry.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 8,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible evidence of global tilt or significant story leaning."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal shear cracking and spalling observed in masonry infill walls, indicating severe racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized hazards from cracked parapets and facade elements, but no imminent risk of collapse."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards observed."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe racking damage to masonry infill walls compromises structural stability, posing a significant life-safety hazard."
+    },
+    "9_image_descriptions": {
+      "E1C11F01.jpg": "Distant view of an 8-story concrete frame building with visible facade damage and no signs of collapse.",
+      "E1C11F02.jpg": "Close-up of the building's entrance showing extensive cracking in masonry infill walls and minor spalling of concrete columns.",
+      "E1C11F03.jpg": "Detailed view of masonry infill walls with severe diagonal shear cracking and partial detachment from the frame.",
+      "E1C11F04.jpg": "Facade view showing spalling and cracking in the upper sections of the masonry infill walls near the windows.",
+      "E1C11F05.jpg": "Side view of the building showing extensive cracking in the masonry walls and scaffolding erected for repairs.",
+      "E1C11F06.jpg": "Front elevation showing severe diagonal cracking in masonry walls and localized damage around window openings.",
+      "E1C11F07.jpg": "Close-up of a ground-floor column with spalling and exposed reinforcement, indicating localized damage.",
+      "E1C11F08.jpg": "Upper facade view showing minor cracking in the concrete frame and no visible signs of collapse."
+    },
+    "case_id": "E1C11",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C11/E1C11F01.jpg",
+      "images/E1/E1C11/E1C11F02.jpg",
+      "images/E1/E1C11/E1C11F03.jpg",
+      "images/E1/E1C11/E1C11F04.jpg",
+      "images/E1/E1C11/E1C11F05.jpg",
+      "images/E1/E1C11/E1C11F06.jpg",
+      "images/E1/E1C11/E1C11F07.jpg",
+      "images/E1/E1C11/E1C11F08.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:32:23"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and residential units on the upper floors.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The building is constructed with a reinforced concrete frame and masonry infill walls, as evidenced by visible columns and brick infill.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible evidence of collapse, partial collapse, or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment observed in the building structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Severe diagonal and shear cracks are visible in the masonry infill walls, indicating significant racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Some localized damage to exterior elements, including cracks and potential falling hazards from non-structural components."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No visible evidence of ground slope movement or cracking in the provided images."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards such as gas leaks or toxic spills are visible in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building exhibits severe racking damage to the masonry infill walls, which compromises the structural integrity and poses a significant safety hazard. This warrants an Unsafe (Red) posting."
+    },
+    "9_image_descriptions": {
+      "E1C12F02.jpg": "Exterior view of a multi-story reinforced concrete frame building with masonry infill walls. No visible collapse, but minor cracks are observed on the facade.",
+      "E1C12F05.jpg": "Close-up of the building's corner showing minor cracks in the plaster and masonry infill walls. No significant structural damage visible.",
+      "E1C12F09.jpg": "Interior view of the ground floor showing severe damage to masonry infill walls, including large cracks and partial dislodgement of bricks.",
+      "E1C12F10.jpg": "Close-up of interior wall showing severe diagonal cracks and spalling of plaster, exposing the underlying masonry.",
+      "E1C12F12.jpg": "Interior staircase area with visible cracks in the walls and ceiling, indicating structural distress in the building.",
+      "E1C12F14.jpg": "Interior room with severe diagonal cracks in the masonry infill walls, exposing bricks and indicating significant racking damage.",
+      "E1C12F19.jpg": "Exterior view of the building's facade showing severe damage to masonry infill walls, including large cracks and spalling around windows.",
+      "E1C12F22.jpg": "Full exterior view of the building showing cracks in the masonry infill walls and damage around window frames. No visible collapse or leaning."
+    },
+    "case_id": "E1C12",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C12/E1C12F02.jpg",
+      "images/E1/E1C12/E1C12F05.jpg",
+      "images/E1/E1C12/E1C12F09.jpg",
+      "images/E1/E1C12/E1C12F10.jpg",
+      "images/E1/E1C12/E1C12F12.jpg",
+      "images/E1/E1C12/E1C12F14.jpg",
+      "images/E1/E1C12/E1C12F19.jpg",
+      "images/E1/E1C12/E1C12F22.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:32:47"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a mixed-use structure with residential and commercial elements based on window designs and signage.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily unreinforced masonry with visible brick infill walls and plastered exterior surfaces.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or building off-foundation is visible in the images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment of the building is observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal shear cracking and out-of-plane failure are visible in the masonry infill walls, indicating moderate structural damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Detached plaster and exposed bricks pose a moderate falling hazard, particularly near windows and wall edges."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as toxic spills or broken gas lines, are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "The building has moderate racking damage to walls and localized falling hazards from detached plaster and exposed bricks. While the structure appears globally stable, limited access is recommended for safety."
+    },
+    "9_image_descriptions": {
+      "E1C13F05.jpg": "Exterior view showing diagonal shear cracks and exposed brick in the masonry infill walls near a window, indicating moderate structural damage.",
+      "E1C13F07.jpg": "Close-up of a corner with spalling plaster and exposed bricks, highlighting localized damage and potential falling hazards.",
+      "E1C13F08.jpg": "Upper story facade with visible vertical cracks and plaster detachment, suggesting moderate damage to the masonry walls.",
+      "E1C13F12.jpg": "Side view of the building showing widespread cracking in the masonry walls and detached plaster near windows.",
+      "E1C13F13.jpg": "Ground floor facade with significant cracks in the masonry infill walls and exposed bricks, indicating moderate structural damage.",
+      "E1C13F17.jpg": "View of a side wall with diagonal cracks and spalling plaster, showing moderate damage to the masonry structure.",
+      "E1C13F20.jpg": "Close-up of a door frame with adjacent cracks in the masonry wall, highlighting localized structural damage.",
+      "E1C13F22.jpg": "Wide view of the building showing cracks in the masonry walls and detached plaster, with no visible signs of collapse or leaning."
+    },
+    "case_id": "E1C13",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C13/E1C13F05.jpg",
+      "images/E1/E1C13/E1C13F07.jpg",
+      "images/E1/E1C13/E1C13F08.jpg",
+      "images/E1/E1C13/E1C13F12.jpg",
+      "images/E1/E1C13/E1C13F13.jpg",
+      "images/E1/E1C13/E1C13F17.jpg",
+      "images/E1/E1C13/E1C13F20.jpg",
+      "images/E1/E1C13/E1C13F22.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:33:46"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to have mixed-use occupancy with commercial shops on the ground floor and residential units above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily unreinforced masonry with visible brick walls and concrete framing elements.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Moderate",
+        "description": "Partial collapse of masonry walls and localized failure of structural elements are visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant global tilt or leaning of the building is observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal cracking and out-of-plane failure in masonry walls are evident."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Detached masonry fragments and parapet sections pose a falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards are visible in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building is deemed unsafe due to severe racking damage to masonry walls, which compromises structural stability and poses a life-safety hazard."
+    },
+    "9_image_descriptions": {
+      "E1C14F02.jpg": "Exterior view of a three-story unreinforced masonry building with visible diagonal cracking and partial collapse of masonry walls.",
+      "E1C14F03.jpg": "Another exterior view showing extensive damage to brick masonry walls and localized failure of structural elements.",
+      "E1C14F08.jpg": "Interior view showing severe diagonal cracking in masonry walls and damage to door frames.",
+      "E1C14F10.jpg": "Interior view with significant cracking and partial detachment of masonry walls near the ceiling.",
+      "E1C14F15.jpg": "Interior corner showing severe cracking and spalling of masonry with exposed bricks.",
+      "E1C14F18.jpg": "Exterior rear view showing cracks propagating through masonry walls and damage near window openings.",
+      "E1C14F20.jpg": "Close-up of exterior wall showing severe cracking and partial collapse of masonry near the foundation.",
+      "E1C14F21.jpg": "Detailed view of exterior damage with visible cracks and detachment of masonry elements near a window."
+    },
+    "case_id": "E1C14",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C14/E1C14F02.jpg",
+      "images/E1/E1C14/E1C14F03.jpg",
+      "images/E1/E1C14/E1C14F08.jpg",
+      "images/E1/E1C14/E1C14F10.jpg",
+      "images/E1/E1C14/E1C14F15.jpg",
+      "images/E1/E1C14/E1C14F18.jpg",
+      "images/E1/E1C14/E1C14F20.jpg",
+      "images/E1/E1C14/E1C14F21.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:34:46"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential dwelling with furniture and household items visible.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily constructed of unreinforced masonry walls with concrete framing elements.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No evidence of global tilt or significant vertical misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and minor spalling observed in the masonry walls and columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Parapet walls show signs of cracking and potential detachment, posing a localized falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "Ground conditions are not visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards identified in the images."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and localized falling hazards from parapet walls necessitate restricted access for safety."
+    },
+    "9_image_descriptions": {
+      "E1C15F03.jpg": "Front view of a two-story unreinforced masonry building with visible cracks in the parapet and minor spalling on the columns.",
+      "E1C15F04.jpg": "Side view showing unreinforced masonry walls with diagonal cracking and minor damage to the parapet.",
+      "E1C15F05.jpg": "Rear view of the building with unreinforced masonry walls and visible cracks near window openings.",
+      "E1C15F07.jpg": "Close-up of the front facade showing minor spalling on concrete columns and cracks in the parapet.",
+      "E1C15F12.jpg": "View of an adjacent structure with unreinforced masonry walls and minor damage to the roof and parapet.",
+      "E1C15F13.jpg": "Close-up of a cracked masonry wall with visible damage to the parapet and adjacent structural elements.",
+      "E1C15F14.jpg": "Side view showing a cracked column and minor damage to the masonry walls and parapet.",
+      "E1C15F15.jpg": "Detailed view of a cracked column and adjacent masonry wall with minor spalling and cracking."
+    },
+    "case_id": "E1C15",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C15/E1C15F03.jpg",
+      "images/E1/E1C15/E1C15F04.jpg",
+      "images/E1/E1C15/E1C15F05.jpg",
+      "images/E1/E1C15/E1C15F07.jpg",
+      "images/E1/E1C15/E1C15F12.jpg",
+      "images/E1/E1C15/E1C15F13.jpg",
+      "images/E1/E1C15/E1C15F14.jpg",
+      "images/E1/E1C15/E1C15F15.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:35:41"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block with balconies and windows indicating dwelling usage.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure shows a reinforced concrete frame with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 5,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible evidence of collapse, partial collapse, or building off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and spalling observed in masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No visible hazards such as detached chimneys or parapets."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "Ground conditions are not clearly visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(1) Inspected (Green)",
+      "reasoning": "No severe damage conditions were observed. Moderate racking damage to masonry infill walls does not compromise overall safety."
+    },
+    "9_image_descriptions": {
+      "E1C16F09.jpg": "Interior view showing a vertical crack in a masonry infill wall with a measuring tape indicating the crack width.",
+      "E1C16F19.jpg": "Close-up of a corner crack near a window frame, showing minor spalling and separation in the masonry infill wall.",
+      "E1C16F26.jpg": "Exterior view of a masonry infill wall with diagonal cracks and weathering, indicating moderate racking damage.",
+      "E1C16F30.jpg": "Front elevation of the building showing a five-story reinforced concrete frame structure with masonry infill walls.",
+      "E1C16F41.jpg": "Interior view of a doorway with minor spalling and cracking at the top corner of the frame.",
+      "E1C16F58.jpg": "Side elevation of the building showing reinforced concrete frame construction with no visible structural deformation.",
+      "E1C16F59.jpg": "Interior view showing a measuring tape across a wall, indicating no significant deformation or displacement."
+    },
+    "case_id": "E1C16",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C16/E1C16F09.jpg",
+      "images/E1/E1C16/E1C16F19.jpg",
+      "images/E1/E1C16/E1C16F26.jpg",
+      "images/E1/E1C16/E1C16F30.jpg",
+      "images/E1/E1C16/E1C16F41.jpg",
+      "images/E1/E1C16/E1C16F58.jpg",
+      "images/E1/E1C16/E1C16F59.jpg",
+      "images/E1/E1C16/E1C16F61.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:36:37"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block with visible balconies and windows.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as seen in the exterior and interior images.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 7,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse, partial collapse, or building off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "The building appears vertically aligned with no visible leaning or tilting."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and separation are visible in the masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No visible hazards such as detached chimneys or parapets."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards are observed in the images."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(1) Inspected (Green)",
+      "reasoning": "The building shows moderate racking damage to masonry infill walls but no severe structural damage or life-safety hazards. It is deemed safe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E1C17F02.jpg": "Exterior view of a reinforced concrete frame building with masonry infill walls. No visible structural damage is observed on this side.",
+      "E1C17F05.jpg": "Close-up of the building facade showing intact balconies and windows. No signs of collapse or severe damage.",
+      "E1C17F07.jpg": "Side view of the building showing reinforced concrete frame construction. The structure appears vertically aligned.",
+      "E1C17F14.jpg": "Interior wall showing diagonal cracks in the plaster, indicating moderate racking damage to the masonry infill.",
+      "E1C17F15.jpg": "Interior corner with visible cracks in the plaster and separation at the joint, suggesting moderate damage.",
+      "E1C17F21.jpg": "Interior wall with cracks along the ceiling and wall joint, showing moderate racking damage to the masonry infill.",
+      "E1C17F29.jpg": "Interior doorway with cracks in the plaster and minor spalling at the beam-column joint, indicating moderate damage.",
+      "E1C17F57.jpg": "Interior wall with diagonal cracks and separation at the joint, consistent with moderate racking damage to the masonry infill."
+    },
+    "case_id": "E1C17",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C17/E1C17F02.jpg",
+      "images/E1/E1C17/E1C17F05.jpg",
+      "images/E1/E1C17/E1C17F07.jpg",
+      "images/E1/E1C17/E1C17F14.jpg",
+      "images/E1/E1C17/E1C17F15.jpg",
+      "images/E1/E1C17/E1C17F21.jpg",
+      "images/E1/E1C17/E1C17F29.jpg",
+      "images/E1/E1C17/E1C17F57.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:37:37"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block based on visible furniture and layout.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The building is constructed with reinforced concrete frames and masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 5,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or building off-foundation is visible in the provided images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story leaning are observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal cracks are visible in masonry infill walls, indicating severe racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No detached parapets, chimneys, or other falling hazards are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Minor/none",
+        "description": "No visible ground slope movement or significant cracking is observed."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are visible."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building exhibits severe racking damage to masonry walls, which is Unsafe (Red)."
+    },
+    "9_image_descriptions": {
+      "E1C18F01.jpg": "Interior view showing minor diagonal cracking in masonry infill walls and plaster spalling near door frames.",
+      "E1C18F07.jpg": "Close-up of a masonry infill wall with diagonal shear cracking and plaster damage.",
+      "E1C18F37.jpg": "Corner view of an interior wall with minor plaster cracks and no visible structural damage.",
+      "E1C18F42.jpg": "Interior wall with diagonal cracking near a fan mount, indicating moderate racking damage.",
+      "E1C18F51.jpg": "Floor tiles showing minor cracking near a doorway, with no significant structural impact.",
+      "E1C18F56.jpg": "Exterior view of a five-story reinforced concrete frame building with masonry infill walls. No visible leaning or collapse.",
+      "E1C18F69.jpg": "Close-up of exterior masonry infill walls showing diagonal cracking and minor plaster spalling.",
+      "E1C18F80.jpg": "Balcony view showing minor cracking in masonry infill walls near railing connections."
+    },
+    "case_id": "E1C18",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C18/E1C18F01.jpg",
+      "images/E1/E1C18/E1C18F07.jpg",
+      "images/E1/E1C18/E1C18F37.jpg",
+      "images/E1/E1C18/E1C18F42.jpg",
+      "images/E1/E1C18/E1C18F51.jpg",
+      "images/E1/E1C18/E1C18F56.jpg",
+      "images/E1/E1C18/E1C18F69.jpg",
+      "images/E1/E1C18/E1C18F80.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:38:10"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block with visible balconies and domestic furnishings inside.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as evident from the visible columns and wall finishes.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 5,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse, partial collapse, or building off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "The building shows slight leaning, particularly noticeable in the exterior view of the facade."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and separation are visible in the masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No visible hazards such as detached chimneys or parapets."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "Ground slope movement or cracking is not visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards or damage are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Unsafe (Red)",
+      "reasoning": "The building shows moderate leaning and severe racking damage to walls, which may compromise safety for unrestricted use."
+    },
+    "9_image_descriptions": {
+      "E1C19F16.jpg": "Exterior view showing the building's facade with slight leaning and intact reinforced concrete frame structure.",
+      "E1C19F18.jpg": "Front elevation of the building showing five stories, with no visible collapse but slight leaning and minor wall damage.",
+      "E1C19F22.jpg": "Side view of the building showing intact balconies and minor cracks in the masonry infill walls.",
+      "E1C19F55.jpg": "Interior view showing diagonal cracks in the plaster of the infill walls near a door frame.",
+      "E1C19F61.jpg": "Close-up of a wall showing horizontal cracks in the plaster, indicating moderate racking damage.",
+      "E1C19F76.jpg": "Interior view showing minor cracks in the plaster near a door frame and intact structural columns.",
+      "E1C19F81.jpg": "Close-up of a wall showing vertical cracks in the plaster, indicating moderate damage to the infill walls.",
+      "E1C19F83.jpg": "Interior view showing intact structural columns and minor cracks in the plaster of the infill walls."
+    },
+    "case_id": "E1C19",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C19/E1C19F16.jpg",
+      "images/E1/E1C19/E1C19F18.jpg",
+      "images/E1/E1C19/E1C19F22.jpg",
+      "images/E1/E1C19/E1C19F55.jpg",
+      "images/E1/E1C19/E1C19F61.jpg",
+      "images/E1/E1C19/E1C19F76.jpg",
+      "images/E1/E1C19/E1C19F81.jpg",
+      "images/E1/E1C19/E1C19F83.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:39:02"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house commercial shops on the ground floor with potential residential or office spaces above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure shows a reinforced concrete frame with masonry infill walls, visible in the damaged areas.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 7,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and severe damage to structural columns at the ground floor level."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "Visible misalignment and potential inter-story drift in the structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and spalling in masonry infill walls, with exposed and damaged concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and cladding pose a significant falling hazard around the building perimeter."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as gas leaks or toxic spills are evident."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage to columns and infill walls, partial collapse, and significant falling hazards justify the Unsafe (Red) status."
+    },
+    "9_image_descriptions": {
+      "E1C2F02.jpg": "Exterior view of a multi-story RC frame building with severe damage to masonry infill walls and visible cracks near the ground floor.",
+      "E1C2F06.jpg": "Close-up of the ground floor entrance showing spalling of masonry infill walls and cracks around the door frame.",
+      "E1C2F13.jpg": "Side view of the building showing extensive diagonal cracking in masonry walls and exposed RC columns.",
+      "E1C2F19.jpg": "Detail of a damaged column with exposed reinforcement and spalling of concrete cover near the ground floor.",
+      "E1C2F20.jpg": "Corner of the building showing severe cracking and partial collapse of masonry infill walls.",
+      "E1C2F24.jpg": "Close-up of a wall with extensive damage, showing missing masonry bricks and exposed steel reinforcement.",
+      "E1C2F30.jpg": "Ground floor view showing damaged masonry walls and structural columns with visible cracks and spalling.",
+      "E1C2F39.jpg": "Exterior view of the building showing severe damage to the ground floor and falling hazards from detached masonry."
+    },
+    "case_id": "E1C2",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C2/E1C2F02.jpg",
+      "images/E1/E1C2/E1C2F06.jpg",
+      "images/E1/E1C2/E1C2F13.jpg",
+      "images/E1/E1C2/E1C2F19.jpg",
+      "images/E1/E1C2/E1C2F20.jpg",
+      "images/E1/E1C2/E1C2F24.jpg",
+      "images/E1/E1C2/E1C2F30.jpg",
+      "images/E1/E1C2/E1C2F39.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:39:57"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block with balconies and parking spaces.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls visible on the exterior.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse, partial collapse, or building off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story leaning in the structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracking observed in masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No visible detached chimneys, parapets, or other falling hazards observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "Ground slope movement or cracking cannot be assessed from the images provided."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(1) Inspected (Green)",
+      "reasoning": "No severe conditions observed. Moderate racking damage to masonry infill walls does not compromise overall structural stability."
+    },
+    "9_image_descriptions": {
+      "E1C20F02.jpg": "Exterior view of a six-story reinforced concrete frame building with masonry infill walls. No signs of collapse or leaning are visible.",
+      "E1C20F06.jpg": "Close-up of the ground floor showing masonry infill walls with diagonal cracking. No structural collapse observed.",
+      "E1C20F07.jpg": "Side view of the building showing reinforced concrete frame and masonry infill walls. Cracking is visible but no leaning or collapse.",
+      "E1C20F12.jpg": "Detailed view of a masonry infill wall with diagonal shear cracking. No signs of structural instability.",
+      "E1C20F13.jpg": "Close-up of a cracked masonry infill wall near a window. Cracking is moderate and localized.",
+      "E1C20F14.jpg": "Detailed view of masonry infill wall cracking near the ground floor. No signs of severe structural damage.",
+      "E1C20F20.jpg": "Close-up of diagonal cracking in masonry infill walls near the ground floor. No signs of collapse or instability.",
+      "E1C20F21.jpg": "Detailed view of masonry infill wall cracking near a window frame. Cracking is moderate and localized."
+    },
+    "case_id": "E1C20",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C20/E1C20F02.jpg",
+      "images/E1/E1C20/E1C20F06.jpg",
+      "images/E1/E1C20/E1C20F07.jpg",
+      "images/E1/E1C20/E1C20F12.jpg",
+      "images/E1/E1C20/E1C20F13.jpg",
+      "images/E1/E1C20/E1C20F14.jpg",
+      "images/E1/E1C20/E1C20F20.jpg",
+      "images/E1/E1C20/E1C20F21.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:40:37"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential apartment block with visible balconies and laundry hanging.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete frames with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No noticeable leaning or vertical misalignment of the structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Cracks are visible in the masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No significant hazards from parapets, chimneys, or other falling elements are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards or damages are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(1) Inspected (Green)",
+      "reasoning": "The building shows moderate racking damage to masonry infill walls, but no severe structural damage or hazards are present. The structure appears safe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E1C21F02.jpg": "Exterior view of a six-story reinforced concrete frame building with masonry infill walls. No visible structural collapse or leaning is observed.",
+      "E1C21F04.jpg": "Side view of the building showing balconies and windows. The structure appears intact with no significant damage to the frame.",
+      "E1C21F05.jpg": "Another exterior view of the building showing the facade and balconies. No signs of structural instability are visible.",
+      "E1C21F07.jpg": "Close-up of the ground floor wall showing minor cracks in the plaster, indicating moderate racking damage to the masonry infill.",
+      "E1C21F09.jpg": "Detailed view of a wall with vertical cracks near a window, suggesting moderate damage to the masonry infill.",
+      "E1C21F10.jpg": "Interior view showing a cracked wall near a doorway, indicating moderate racking damage to the masonry infill.",
+      "E1C21F12.jpg": "Close-up of a cracked wall near a window. The damage appears localized and does not compromise the structural frame.",
+      "E1C21F14.jpg": "Ground floor view showing minor cracks in the wall and plaster. No significant structural damage is visible."
+    },
+    "case_id": "E1C21",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C21/E1C21F02.jpg",
+      "images/E1/E1C21/E1C21F04.jpg",
+      "images/E1/E1C21/E1C21F05.jpg",
+      "images/E1/E1C21/E1C21F07.jpg",
+      "images/E1/E1C21/E1C21F09.jpg",
+      "images/E1/E1C21/E1C21F10.jpg",
+      "images/E1/E1C21/E1C21F12.jpg",
+      "images/E1/E1C21/E1C21F14.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:41:34"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house commercial shops on the ground floor and residential units on the upper floor.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of confined masonry walls with visible concrete tie-columns and ring beams.",
+      "category": "Confined masonry"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or building off its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story leaning are observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Minor/none",
+        "description": "No significant racking damage or structural failures are visible in the masonry walls or concrete elements."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No detached chimneys, parapets, or other falling hazards are evident."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "Ground slope movement or cracking cannot be assessed from the images provided."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "0–1%",
+    "8_final_status": {
+      "status": "(1) Inspected (Green)",
+      "reasoning": "All observed conditions indicate minor or no damage, and no severe hazards are present. The building appears safe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E1C22F02.jpg": "Exterior view showing confined masonry construction with concrete tie-columns and intact walls. No visible structural damage is observed.",
+      "E1C22F05.jpg": "Side view of the building showing confined masonry walls with concrete tie-columns. No signs of cracking or damage are visible.",
+      "E1C22F09.jpg": "Interior view of the ground floor commercial space. Walls and structural elements appear intact with no visible damage.",
+      "E1C22F10.jpg": "Interior view showing the commercial shop area. No structural damage or hazards are visible.",
+      "E1C22F12.jpg": "Close-up of the confined masonry wall with concrete tie-columns. No cracking or spalling is observed.",
+      "E1C22F13.jpg": "Detailed view of the confined masonry wall showing intact bricks and concrete tie-columns. No structural damage is visible.",
+      "E1C22F14.jpg": "Close-up of the confined masonry wall with concrete tie-columns and ring beams. No signs of distress or damage are visible.",
+      "E1C22F16.jpg": "Exterior side view showing confined masonry construction. Walls and structural elements appear undamaged."
+    },
+    "case_id": "E1C22",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C22/E1C22F02.jpg",
+      "images/E1/E1C22/E1C22F05.jpg",
+      "images/E1/E1C22/E1C22F09.jpg",
+      "images/E1/E1C22/E1C22F10.jpg",
+      "images/E1/E1C22/E1C22F12.jpg",
+      "images/E1/E1C22/E1C22F13.jpg",
+      "images/E1/E1C22/E1C22F14.jpg",
+      "images/E1/E1C22/E1C22F16.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:42:09"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a residential dwelling based on the windows and layout.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of unreinforced masonry walls with concrete columns and beams.",
+      "category": "Bottom-frame masonry"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Moderate",
+        "description": "Localized collapse of masonry infill walls is visible on the upper floor, but the main structural frame remains intact."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment is observed in the building structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal shear cracking and partial out-of-plane failure of masonry walls are visible, particularly on the upper floor."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry parapets and debris pose a significant falling hazard around the building."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards, such as gas leaks or toxic spills, are evident from the images."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Severe falling hazards from detached parapets and localized moderate structural damage to masonry walls necessitate restricted use."
+    },
+    "9_image_descriptions": {
+      "E1C23F02.jpg": "Exterior view showing unreinforced masonry walls with visible cracking and partial collapse of infill walls on the upper floor.",
+      "E1C23F06.jpg": "Corner view of the building showing unreinforced masonry walls and concrete columns. Debris from collapsed walls is visible.",
+      "E1C23F08.jpg": "Rear view of the building showing masonry walls with diagonal cracks and localized collapse. Construction materials are scattered nearby.",
+      "E1C23F14.jpg": "Close-up of the upper floor showing spalling concrete and detached masonry parapets, posing a falling hazard.",
+      "E1C23F16.jpg": "Interior view showing concrete columns and beams with minor damage. Masonry infill walls exhibit cracking and partial collapse.",
+      "E1C23F20.jpg": "Interior view of the upper floor showing collapsed masonry walls and debris scattered across the floor.",
+      "E1C23F26.jpg": "Roof view showing exposed reinforcement in concrete columns and collapsed masonry walls. Debris is scattered across the area.",
+      "E1C23F27.jpg": "Roof view showing engineers inspecting collapsed masonry walls and exposed reinforcement in concrete columns."
+    },
+    "case_id": "E1C23",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C23/E1C23F02.jpg",
+      "images/E1/E1C23/E1C23F06.jpg",
+      "images/E1/E1C23/E1C23F08.jpg",
+      "images/E1/E1C23/E1C23F14.jpg",
+      "images/E1/E1C23/E1C23F16.jpg",
+      "images/E1/E1C23/E1C23F20.jpg",
+      "images/E1/E1C23/E1C23F26.jpg",
+      "images/E1/E1C23/E1C23F27.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:42:43"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be an office space with glass facades and signage indicating a swimming pool facility.",
+      "category": "Office"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, visible from the exterior and interior images.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or building off-foundation is visible in the provided images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "The building does not exhibit any visible leaning or vertical misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Severe diagonal cracking and damage to masonry infill walls are visible, particularly on the ground floor."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Some localized hazards such as broken glass and damaged facade elements are visible."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as toxic spills or broken gas lines are observed."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building is marked as Unsafe due to severe racking damage to masonry infill walls, which compromises the structural stability and poses a significant safety risk."
+    },
+    "9_image_descriptions": {
+      "E1C24F04.jpg": "Exterior view of a six-story RC frame structure with visible cracking in masonry infill walls on the ground floor and intact glass facades.",
+      "E1C24F07.jpg": "Oblique exterior view showing severe diagonal cracking in masonry infill walls on the ground floor and intact upper stories.",
+      "E1C24F08.jpg": "Close-up of the building's side facade showing severe cracking in masonry infill walls and intact RC frame elements.",
+      "E1C24F09.jpg": "Oblique view of the building highlighting severe damage to masonry infill walls on the ground floor and intact upper floors.",
+      "E1C24F10.jpg": "Frontal view of the building showing intact RC frame structure and severe cracking in masonry infill walls on the ground floor.",
+      "E1C24F12.jpg": "Side view of the building showing localized cracking in masonry infill walls and intact RC frame elements.",
+      "E1C24F13.jpg": "Interior view showing a damaged masonry infill wall with exposed bricks and intact RC columns.",
+      "E1C24F14.jpg": "Close-up of a broken glass facade and localized damage to the exterior wall, indicating moderate falling hazards."
+    },
+    "case_id": "E1C24",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C24/E1C24F04.jpg",
+      "images/E1/E1C24/E1C24F07.jpg",
+      "images/E1/E1C24/E1C24F08.jpg",
+      "images/E1/E1C24/E1C24F09.jpg",
+      "images/E1/E1C24/E1C24F10.jpg",
+      "images/E1/E1C24/E1C24F12.jpg",
+      "images/E1/E1C24/E1C24F13.jpg",
+      "images/E1/E1C24/E1C24F14.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:43:32"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to have been used for commercial purposes with a shop on the ground floor and residential units above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete frames with unreinforced masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of the upper stories and significant damage to the ground floor walls and columns."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "Visible tilting of structural elements, but no complete story collapse."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal shear cracking and out-of-plane failure of masonry infill walls."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and debris pose a significant falling hazard around the building."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as gas leaks or toxic spills, are observed."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building is unsafe due to severe partial collapse, severe racking damage to walls, and significant falling hazards from detached masonry and debris."
+    },
+    "9_image_descriptions": {
+      "E1C3F04.jpg": "Exterior view of a partially collapsed reinforced concrete frame structure with severe damage to masonry infill walls and debris scattered around.",
+      "E1C3F09.jpg": "Close-up of a damaged column base showing exposed reinforcement and spalling of concrete cover.",
+      "E1C3F15.jpg": "Interior view showing a severely damaged column with exposed reinforcement and debris on the floor.",
+      "E1C3F22.jpg": "Interior view of a masonry infill wall with extensive diagonal cracking and partial out-of-plane failure.",
+      "E1C3F29.jpg": "Exterior view of a masonry wall with severe cracking and partial detachment near the window frame.",
+      "E1C3F45.jpg": "Exterior view showing severe damage to masonry infill walls and a collapsed section supported by temporary steel braces.",
+      "E1C3F53.jpg": "Close-up of a collapsed masonry wall with exposed reinforcement and significant debris.",
+      "E1C3F56.jpg": "Close-up of a severely cracked and partially collapsed masonry wall with visible reinforcement and debris."
+    },
+    "case_id": "E1C3",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C3/E1C3F04.jpg",
+      "images/E1/E1C3/E1C3F09.jpg",
+      "images/E1/E1C3/E1C3F15.jpg",
+      "images/E1/E1C3/E1C3F22.jpg",
+      "images/E1/E1C3/E1C3F29.jpg",
+      "images/E1/E1C3/E1C3F45.jpg",
+      "images/E1/E1C3/E1C3F53.jpg",
+      "images/E1/E1C3/E1C3F56.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:44:23"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a guest house with signage indicating hospitality services.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of unreinforced masonry walls with decorative elements and concrete framing.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of structural elements including beams and columns is visible, with exposed reinforcement and significant debris."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story leaning is observable in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and out-of-plane failure of masonry walls are evident, compromising structural integrity."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached parapets and cladding elements pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is observable in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe damage to structural elements including partial collapse, severe racking damage to walls, and falling hazards necessitate the Unsafe (Red) posting."
+    },
+    "9_image_descriptions": {
+      "E1C4F04.jpg": "Close-up view of a severely damaged concrete beam-column joint with exposed reinforcement and spalling of concrete cover.",
+      "E1C4F07.jpg": "Interior view showing collapsed masonry walls, debris accumulation, and damaged concrete framing elements.",
+      "E1C4F22.jpg": "Damaged staircase with broken concrete steps and exposed reinforcement, indicating structural instability.",
+      "E1C4F23.jpg": "Interior view of a heavily damaged area with collapsed walls, debris, and compromised structural elements.",
+      "E1C4F31.jpg": "Vertical crack in a masonry wall extending from floor to ceiling, indicating severe shear damage.",
+      "E1C4F38.jpg": "Exterior view of the building showing unreinforced masonry walls with decorative elements and visible damage to parapets.",
+      "E1C4F45.jpg": "Corner view of the building showing severe cracking in masonry walls and detached cladding elements.",
+      "E1C4F52.jpg": "Full exterior view of the building showing extensive damage to masonry walls, parapets, and decorative elements."
+    },
+    "case_id": "E1C4",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C4/E1C4F04.jpg",
+      "images/E1/E1C4/E1C4F07.jpg",
+      "images/E1/E1C4/E1C4F22.jpg",
+      "images/E1/E1C4/E1C4F23.jpg",
+      "images/E1/E1C4/E1C4F31.jpg",
+      "images/E1/E1C4/E1C4F38.jpg",
+      "images/E1/E1C4/E1C4F45.jpg",
+      "images/E1/E1C4/E1C4F52.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:44:56"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and residential units above.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of unreinforced masonry infill walls within a concrete frame.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and damage to the ground floor columns, indicating compromised structural stability."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "Visible misalignment of structural elements, suggesting moderate leaning of the building."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and spalling observed in masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry parapets and loose debris pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as gas leaks or toxic spills, are observed."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building exhibits severe structural damage, including partial collapse, severe racking damage, and falling hazards, making it unsafe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E1C5F03.jpg": "Exterior view of a concrete frame building with unreinforced masonry infill walls. Severe damage to masonry walls and visible cracks in the structure are evident.",
+      "E1C5F05.jpg": "Close-up of the building's corner showing spalling of concrete and severe cracking in the masonry infill walls.",
+      "E1C5F08.jpg": "Detailed view of the ground floor column with spalling and exposed reinforcement, indicating severe structural damage.",
+      "E1C5F10.jpg": "View of the building's side facade showing diagonal shear cracks in the masonry walls and damage to the balconies.",
+      "E1C5F14.jpg": "Close-up of the base of a column showing severe spalling and crushing of concrete, with debris scattered around.",
+      "E1C5F15.jpg": "Detailed view of the damaged column base, highlighting the extent of spalling and loss of material.",
+      "E1C5F16.jpg": "Close-up of the column base showing severe crushing and detachment of masonry infill walls.",
+      "E1C5F17.jpg": "Rear view of the building showing detached masonry walls and debris, with vegetation growing in the surrounding area."
+    },
+    "case_id": "E1C5",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C5/E1C5F03.jpg",
+      "images/E1/E1C5/E1C5F05.jpg",
+      "images/E1/E1C5/E1C5F08.jpg",
+      "images/E1/E1C5/E1C5F10.jpg",
+      "images/E1/E1C5/E1C5F14.jpg",
+      "images/E1/E1C5/E1C5F15.jpg",
+      "images/E1/E1C5/E1C5F16.jpg",
+      "images/E1/E1C5/E1C5F17.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:45:55"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Interior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The images show residential furniture, kitchenware, and personal belongings, indicating the building is used as a dwelling.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The walls appear to be made of masonry, with visible cracks and spalling in plaster finishes.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 7,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of collapse or building off-foundation is visible in the interior images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No signs of global tilt or story misalignment are visible in the interior images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal cracks and spalling in masonry walls indicate severe racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of falling hazards such as chimneys or parapets is visible in the interior images."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the interior images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe racking damage to masonry walls compromises the structural stability and safety of the building."
+    },
+    "9_image_descriptions": {
+      "E1C6F02.jpg": "Interior view showing a corner with minor plaster cracks near the ceiling and door frame, indicating localized stress in the masonry walls.",
+      "E1C6F09.jpg": "Interior wall with diagonal cracks and peeling plaster, suggesting severe racking damage to the masonry structure.",
+      "E1C6F10.jpg": "Wall near the ceiling with visible cracks and exposed reinforcement, indicating structural distress in the masonry wall.",
+      "E1C6F16.jpg": "Interior column and wall junction with vertical cracks, showing significant stress concentration in the masonry structure.",
+      "E1C6F17.jpg": "Wall corner with diagonal cracks and plaster spalling, indicating severe racking damage in the masonry wall.",
+      "E1C6F20.jpg": "Wall with horizontal cracks near the ceiling, showing signs of structural damage in the masonry wall.",
+      "E1C6F24.jpg": "Interior wall with diagonal cracks and spalling plaster, indicating severe racking damage to the masonry structure.",
+      "E1C6F25.jpg": "Wall with horizontal cracks and plaster damage, suggesting structural distress in the masonry wall."
+    },
+    "case_id": "E1C6",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C6/E1C6F02.jpg",
+      "images/E1/E1C6/E1C6F09.jpg",
+      "images/E1/E1C6/E1C6F10.jpg",
+      "images/E1/E1C6/E1C6F16.jpg",
+      "images/E1/E1C6/E1C6F17.jpg",
+      "images/E1/E1C6/E1C6F20.jpg",
+      "images/E1/E1C6/E1C6F24.jpg",
+      "images/E1/E1C6/E1C6F25.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:46:56"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used for office purposes, with visible signage and interior partitions.",
+      "category": "Office"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily unreinforced masonry with brick walls and concrete columns visible at the ground floor.",
+      "category": "Unreinforced masonry (URM)"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry walls and structural elements is evident, with large sections of walls missing and debris scattered."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilting or leaning is visible in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and out-of-plane failure of masonry walls are observed throughout the structure."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and parapet sections pose significant falling hazards, with debris visible around the building."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are visible in the images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage is evident, including partial collapse, severe racking damage, and falling hazards. These conditions render the building unsafe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E1C7F02.jpg": "Exterior view showing severe damage to masonry walls, including large sections missing and exposed brickwork. Partial collapse is evident.",
+      "E1C7F10.jpg": "Interior view showing diagonal shear cracking and out-of-plane failure of masonry walls. Debris is scattered across the floor.",
+      "E1C7F11.jpg": "Interior view showing extensive cracking in masonry walls and detached sections of plaster. Structural instability is apparent.",
+      "E1C7F17.jpg": "Close-up of a column-beam joint showing spalling of concrete and exposed reinforcement. Severe damage is visible.",
+      "E1C7F20.jpg": "Interior view showing collapsed masonry walls and debris. Diagonal cracking and structural failure are evident.",
+      "E1C7F25.jpg": "Exterior view showing detached masonry walls and parapets. Significant falling hazards are present.",
+      "E1C7F38.jpg": "Interior view showing severe cracking and detachment of masonry walls near openings. Structural instability is apparent.",
+      "E1C7F45.jpg": "Exterior view showing extensive damage to masonry walls, including missing sections and exposed brickwork. Debris is scattered around the building."
+    },
+    "case_id": "E1C7",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C7/E1C7F02.jpg",
+      "images/E1/E1C7/E1C7F10.jpg",
+      "images/E1/E1C7/E1C7F11.jpg",
+      "images/E1/E1C7/E1C7F17.jpg",
+      "images/E1/E1C7/E1C7F20.jpg",
+      "images/E1/E1C7/E1C7F25.jpg",
+      "images/E1/E1C7/E1C7F38.jpg",
+      "images/E1/E1C7/E1C7F45.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:49:34"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used for public assembly, with decorative columns and open spaces suggesting a communal function.",
+      "category": "Public assembly"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of confined masonry with visible concrete tie-columns and brick infill walls.",
+      "category": "Confined masonry"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and significant debris accumulation at the base of the structure indicate severe damage."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No clear evidence of global tilt or story leaning is visible in the provided images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and out-of-plane failure of masonry infill walls are observed throughout the structure."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and parapet elements pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are evident in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe damage to masonry infill walls, partial collapse, and falling hazards necessitate an unsafe (red) posting."
+    },
+    "9_image_descriptions": {
+      "E1C8F03.jpg": "Exterior view showing confined masonry construction with severe damage to masonry infill walls and debris accumulation at the base.",
+      "E1C8F05.jpg": "Exterior view showing partial collapse of masonry infill walls and spalling of concrete tie-columns.",
+      "E1C8F12.jpg": "Interior view showing diagonal shear cracking and out-of-plane failure of masonry infill walls near openings.",
+      "E1C8F17.jpg": "Close-up of exterior masonry infill walls showing severe diagonal cracking and spalling near tie-columns.",
+      "E1C8F31.jpg": "Interior view showing extensive cracking and partial collapse of masonry infill walls with decorative elements.",
+      "E1C8F38.jpg": "Interior view showing severe damage to masonry infill walls and exposed concrete tie-columns.",
+      "E1C8F42.jpg": "Interior view showing decorative columns with spalling at the base and debris scattered on the floor.",
+      "E1C8F56.jpg": "Wide interior view showing extensive damage to masonry infill walls and debris accumulation across the floor."
+    },
+    "case_id": "E1C8",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C8/E1C8F03.jpg",
+      "images/E1/E1C8/E1C8F05.jpg",
+      "images/E1/E1C8/E1C8F12.jpg",
+      "images/E1/E1C8/E1C8F17.jpg",
+      "images/E1/E1C8/E1C8F31.jpg",
+      "images/E1/E1C8/E1C8F38.jpg",
+      "images/E1/E1C8/E1C8F42.jpg",
+      "images/E1/E1C8/E1C8F56.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:52:14"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2015 Nepal earthquake",
+      "date": "2015-04-25",
+      "magnitude": "Mw 7.8",
+      "location": "Nepal"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house a commercial shop on the ground floor and residential units above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of unreinforced masonry infill walls with a concrete frame.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or building off its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment is observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal shear cracking and out-of-plane failure in masonry infill walls are visible."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and parapet sections pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are evident."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe racking damage to masonry infill walls and severe falling hazards from detached masonry and parapets necessitate an unsafe designation."
+    },
+    "9_image_descriptions": {
+      "E1C9F03.jpg": "Exterior view of a concrete frame structure with unreinforced masonry infill walls. Severe diagonal cracking and partial detachment of masonry are visible.",
+      "E1C9F05.jpg": "Front view showing extensive damage to masonry infill walls, including diagonal cracks and out-of-plane failure near window openings.",
+      "E1C9F08.jpg": "Close-up of ground floor columns with visible bracing and damaged masonry infill walls, indicating severe structural distress.",
+      "E1C9F10.jpg": "Interior view showing diagonal shear cracks in masonry walls and plaster spalling, indicating severe damage.",
+      "E1C9F19.jpg": "Interior view of a wall with severe diagonal cracking and partial detachment of masonry, exposing bricks underneath.",
+      "E1C9F22.jpg": "Interior staircase area showing significant cracking in masonry walls and plaster, with visible structural distress.",
+      "E1C9F24.jpg": "Close-up of a severely damaged masonry infill wall with diagonal shear cracking and partial detachment near a window frame.",
+      "E1C9F32.jpg": "Close-up of an exterior wall showing severe damage to masonry infill, including detachment and cracking around a concrete column."
+    },
+    "case_id": "E1C9",
+    "earthquake_folder": "E1",
+    "images": [
+      "images/E1/E1C9/E1C9F03.jpg",
+      "images/E1/E1C9/E1C9F05.jpg",
+      "images/E1/E1C9/E1C9F08.jpg",
+      "images/E1/E1C9/E1C9F10.jpg",
+      "images/E1/E1C9/E1C9F19.jpg",
+      "images/E1/E1C9/E1C9F22.jpg",
+      "images/E1/E1C9/E1C9F24.jpg",
+      "images/E1/E1C9/E1C9F32.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:55:04"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used for mixed residential and commercial purposes based on the layout and signage.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced masonry walls with visible concrete columns and beams.",
+      "category": "Reinforced masonry"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and severe damage to ground floor structural elements."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story leaning is visible in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and spalling observed in masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and concrete fragments pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage to masonry walls and columns, partial collapse, and falling hazards necessitate a red tag for life safety concerns."
+    },
+    "9_image_descriptions": {
+      "E2C1F02.jpg": "Exterior view of a four-story reinforced masonry building showing severe damage to ground floor walls and partial collapse of infill walls.",
+      "E2C1F04.jpg": "Close-up of ground floor showing spalling of concrete columns and severe cracking in masonry infill walls.",
+      "E2C1F09.jpg": "Detailed view of exposed rebar in a damaged concrete column and collapsed masonry wall sections.",
+      "E2C1F12.jpg": "Ground floor entrance showing severe damage to masonry walls and debris accumulation.",
+      "E2C1F24.jpg": "Interior view showing collapsed masonry walls and debris obstructing pathways.",
+      "E2C1F30.jpg": "Side view of the building showing extensive damage to masonry walls and structural elements.",
+      "E2C1F36.jpg": "Exterior view showing overall damage to the building, including partial collapse and falling hazards.",
+      "E2C1F39.jpg": "Wide-angle view of the building highlighting severe structural damage and debris around the site."
+    },
+    "case_id": "E2C1",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C1/E2C1F02.jpg",
+      "images/E2/E2C1/E2C1F04.jpg",
+      "images/E2/E2C1/E2C1F09.jpg",
+      "images/E2/E2C1/E2C1F12.jpg",
+      "images/E2/E2C1/E2C1F24.jpg",
+      "images/E2/E2C1/E2C1F30.jpg",
+      "images/E2/E2C1/E2C1F36.jpg",
+      "images/E2/E2C1/E2C1F39.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:55:52"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used for office or educational purposes based on the layout and interior furnishings.",
+      "category": "Office"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Moderate",
+        "description": "Visible settlement and cracking at the foundation level, but no complete collapse or building off-foundation observed."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment of the building or stories visible."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and spalling observed in masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Detached railings and localized falling hazards from damaged parapets and staircases."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Minor/none",
+        "description": "No significant ground slope movement or cracking visible in the surrounding area."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe diagonal shear crackinge to walls and columns, localized falling hazards from parapets and railings, leading to unsafe posting."
+    },
+    "9_image_descriptions": {
+      "E2C10F02.jpg": "Exterior view showing reinforced concrete columns and masonry infill walls with visible cracking and spalling at the upper levels.",
+      "E2C10F07.jpg": "Close-up of staircase and parapet damage, including detached railings and localized concrete spalling.",
+      "E2C10F16.jpg": "Interior view showing diagonal shear cracking in masonry infill walls and exposed wiring from damaged wall sections.",
+      "E2C10F25.jpg": "Detail of severe diagonal cracking in masonry infill walls near window frames, with visible damage to structural joints.",
+      "E2C10F29.jpg": "Close-up of a damaged wall section exposing concrete and masonry infill, with significant spalling and cracking.",
+      "E2C10F32.jpg": "Column damage showing spalling of concrete cover and cracking along the column length, exposing reinforcement.",
+      "E2C10F48.jpg": "Exterior view showing foundation settlement and cracking, with localized damage to walls and columns near the ground level.",
+      "E2C10F58.jpg": "Interior corner view showing cracking and spalling in wall sections near window frames and structural joints."
+    },
+    "case_id": "E2C10",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C10/E2C10F02.jpg",
+      "images/E2/E2C10/E2C10F07.jpg",
+      "images/E2/E2C10/E2C10F16.jpg",
+      "images/E2/E2C10/E2C10F25.jpg",
+      "images/E2/E2C10/E2C10F29.jpg",
+      "images/E2/E2C10/E2C10F32.jpg",
+      "images/E2/E2C10/E2C10F48.jpg",
+      "images/E2/E2C10/E2C10F58.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:56:30"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a multi-story residential or mixed-use structure with balconies and large windows.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as evidenced by visible concrete columns and damaged masonry walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 6,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and significant damage to ground floor columns indicate structural instability."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible evidence of global tilting or story misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal shear cracking and spalling in masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized falling hazards from detached masonry and exposed reinforcement."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage to ground floor columns and masonry infill walls compromises the building's stability, warranting an unsafe designation."
+    },
+    "9_image_descriptions": {
+      "E2C11F11.jpg": "Exterior view of a six-story reinforced concrete frame building with severe damage to masonry infill walls and spalling of concrete columns on the ground floor.",
+      "E2C11F12.jpg": "Close-up of the ground floor showing extensive diagonal shear cracking and partial collapse of masonry infill walls, with exposed reinforcement in concrete columns.",
+      "E2C11F19.jpg": "Detailed view of a damaged concrete column with spalling and exposed reinforcement, indicating severe structural distress.",
+      "E2C11F34.jpg": "Rear exterior view showing widespread cracking in masonry infill walls and localized collapse near the ground floor.",
+      "E2C11F40.jpg": "Close-up of ground floor walls with severe cracking and spalling, exposing reinforcement and creating localized falling hazards.",
+      "E2C11F41.jpg": "Interior view of the ground floor showing significant cracking in walls and damage to structural elements, including masonry infill and concrete columns.",
+      "E2C11F44.jpg": "Interior hallway with visible diagonal cracking in walls and damage to masonry infill, indicating severe racking effects.",
+      "E2C11F63.jpg": "Close-up of a damaged column base with exposed reinforcement and spalling, highlighting the structural vulnerability of the building."
+    },
+    "case_id": "E2C11",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C11/E2C11F11.jpg",
+      "images/E2/E2C11/E2C11F12.jpg",
+      "images/E2/E2C11/E2C11F19.jpg",
+      "images/E2/E2C11/E2C11F34.jpg",
+      "images/E2/E2C11/E2C11F40.jpg",
+      "images/E2/E2C11/E2C11F41.jpg",
+      "images/E2/E2C11/E2C11F44.jpg",
+      "images/E2/E2C11/E2C11F63.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:57:20"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a mixed-use structure with residential units and possible commercial spaces on the ground floor.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The building is constructed with reinforced concrete columns and beams, with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and significant debris accumulation at the base of the structure."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible evidence of global tilt or story leaning in the structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal shear cracking and out-of-plane failure of masonry infill walls are visible throughout the building."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and parapet elements pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as gas leaks or toxic spills are visible."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building has severe partial collapse of masonry infill walls, severe racking damage, and severe falling hazards from detached elements, making it unsafe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E2C12F05.jpg": "Exterior view of a four-story concrete frame building with severe partial collapse of masonry infill walls and significant debris at the base.",
+      "E2C12F06.jpg": "Another exterior view showing extensive debris accumulation and severe damage to the masonry infill walls on multiple floors.",
+      "E2C12F11.jpg": "Close-up of a ground-floor column with spalling and cracking, exposing the reinforcement, and adjacent cracked masonry walls.",
+      "E2C12F16.jpg": "Interior view showing severe diagonal shear cracking and out-of-plane failure in masonry infill walls, with debris scattered on the floor.",
+      "E2C12F22.jpg": "Interior view of a wall with severe diagonal cracking and partial collapse, exposing the brick masonry behind the plaster.",
+      "E2C12F31.jpg": "Interior view showing extensive cracking in walls and debris on the floor, with visible damage to the structural and non-structural elements.",
+      "E2C12F54.jpg": "Close-up of a ground-floor column with severe spalling and cracking, exposing reinforcement and adjacent damaged masonry walls.",
+      "E2C12F63.jpg": "Exterior view of the building showing severe damage to masonry infill walls, partial collapse, and large debris piles at the base."
+    },
+    "case_id": "E2C12",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C12/E2C12F05.jpg",
+      "images/E2/E2C12/E2C12F06.jpg",
+      "images/E2/E2C12/E2C12F11.jpg",
+      "images/E2/E2C12/E2C12F16.jpg",
+      "images/E2/E2C12/E2C12F22.jpg",
+      "images/E2/E2C12/E2C12F31.jpg",
+      "images/E2/E2C12/E2C12F54.jpg",
+      "images/E2/E2C12/E2C12F63.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:58:24"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house commercial spaces on the ground floor and residential units above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of the upper stories and significant damage to the facade and structural elements."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story leaning is visible."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal cracking and out-of-plane failure in masonry infill walls are observed."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Detached facade elements and debris pose a localized falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are observed."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe partial collapse and extensive racking damage to masonry infill walls compromise the building's structural stability and pose significant life-safety risks."
+    },
+    "9_image_descriptions": {
+      "E2C13F06.jpg": "Exterior view showing partial collapse of upper stories, severe facade damage, and exposed structural elements including concrete columns and beams.",
+      "E2C13F10.jpg": "Close-up of masonry infill wall with severe diagonal cracking and spalling, exposing brick material underneath.",
+      "E2C13F12.jpg": "Interior view showing severe cracking and separation at the column-wall interface, with exposed reinforcement and electrical wiring.",
+      "E2C13F30.jpg": "Interior view showing extensive diagonal cracking and out-of-plane failure in masonry infill walls, with debris on the floor.",
+      "E2C13F31.jpg": "Interior view showing severe damage to masonry infill walls, including large cracks and partial wall collapse.",
+      "E2C13F32.jpg": "Interior view showing diagonal shear cracking and spalling in masonry infill walls, with exposed brick material.",
+      "E2C13F37.jpg": "Interior view showing severe damage to masonry infill walls, including large cracks and debris accumulation.",
+      "E2C13F39.jpg": "Interior view showing extensive cracking and partial collapse of masonry infill walls, with exposed brick and concrete elements."
+    },
+    "case_id": "E2C13",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C13/E2C13F06.jpg",
+      "images/E2/E2C13/E2C13F10.jpg",
+      "images/E2/E2C13/E2C13F12.jpg",
+      "images/E2/E2C13/E2C13F30.jpg",
+      "images/E2/E2C13/E2C13F31.jpg",
+      "images/E2/E2C13/E2C13F32.jpg",
+      "images/E2/E2C13/E2C13F37.jpg",
+      "images/E2/E2C13/E2C13F39.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 08:59:26"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house commercial activities on the ground floor with residential usage on the upper floors.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily masonry with visible unreinforced brick walls and concrete columns supporting the ground floor.",
+      "category": "Bottom-frame masonry"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or leaning is apparent in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and out-of-plane failure are visible in masonry walls, indicating significant structural damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry fragments and parapet sections pose a falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe racking damage to walls and severe falling hazards from detached masonry fragments justify an Unsafe (Red) posting."
+    },
+    "9_image_descriptions": {
+      "E2C14F03.jpg": "Exterior view of a two-story bottom-frame masonry structure showing bamboo props supporting the ground floor and visible cracks in masonry walls.",
+      "E2C14F06.jpg": "Corner view of the building with bamboo props supporting the ground floor and visible damage to masonry walls, including cracks and detached fragments.",
+      "E2C14F12.jpg": "Close-up of a masonry wall showing diagonal shear cracking and localized spalling near the ground floor entrance.",
+      "E2C14F32.jpg": "Detailed view of a concrete column showing spalling and cracking, exposing aggregate and brick infill damage.",
+      "E2C14F38.jpg": "Ground floor masonry wall showing severe cracking and detached fragments, with bamboo props providing temporary support.",
+      "E2C14F42.jpg": "Close-up of a corner masonry wall showing severe out-of-plane failure and detached brick fragments.",
+      "E2C14F43.jpg": "Detailed view of a corner masonry wall with visible diagonal cracks and spalling, exposing brick infill.",
+      "E2C14F47.jpg": "Interior view showing severe diagonal cracking in a masonry wall and detached brick fragments near electrical fittings."
+    },
+    "case_id": "E2C14",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C14/E2C14F03.jpg",
+      "images/E2/E2C14/E2C14F06.jpg",
+      "images/E2/E2C14/E2C14F12.jpg",
+      "images/E2/E2C14/E2C14F32.jpg",
+      "images/E2/E2C14/E2C14F38.jpg",
+      "images/E2/E2C14/E2C14F42.jpg",
+      "images/E2/E2C14/E2C14F43.jpg",
+      "images/E2/E2C14/E2C14F47.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:00:16"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to have commercial spaces on the ground floor and residential or office spaces on the upper floors.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as evidenced by visible concrete columns and brick masonry.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 5,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls is visible, with significant openings and debris."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story misalignment is visible in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and out-of-plane failure of masonry infill walls are observed."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Falling hazards include detached masonry and broken window glass."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as toxic spills or gas leaks, are visible."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe partial collapse of masonry infill walls and severe racking damage indicate unsafe conditions for occupancy."
+    },
+    "9_image_descriptions": {
+      "E2C15F03.jpg": "Exterior view of a 5-story RC frame building with severe damage to masonry infill walls, including large openings and debris.",
+      "E2C15F06.jpg": "Oblique exterior view showing severe damage to masonry infill walls and partial collapse of wall sections.",
+      "E2C15F13.jpg": "Close-up of a corner with severe cracking and detachment of masonry infill walls, exposing the RC frame.",
+      "E2C15F17.jpg": "Interior view showing diagonal shear cracks and out-of-plane failure in masonry walls, with debris on the floor.",
+      "E2C15F21.jpg": "Close-up of a ground-floor wall with X-pattern cracking and spalling of masonry infill.",
+      "E2C15F28.jpg": "Interior view showing severe diagonal cracks in masonry walls and partial detachment of wall sections.",
+      "E2C15F29.jpg": "Close-up of a cracked masonry wall with visible brick and mortar failure.",
+      "E2C15F31.jpg": "Interior view showing severe diagonal cracking and detachment of masonry infill walls, with exposed RC frame elements."
+    },
+    "case_id": "E2C15",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C15/E2C15F03.jpg",
+      "images/E2/E2C15/E2C15F06.jpg",
+      "images/E2/E2C15/E2C15F13.jpg",
+      "images/E2/E2C15/E2C15F17.jpg",
+      "images/E2/E2C15/E2C15F21.jpg",
+      "images/E2/E2C15/E2C15F28.jpg",
+      "images/E2/E2C15/E2C15F29.jpg",
+      "images/E2/E2C15/E2C15F31.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:01:08"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a driving school with signage indicating professional driver training.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible evidence of collapse, partial collapse, or building displacement from its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or significant inter-story drift."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracking and spalling observed in masonry infill walls and reinforced concrete columns, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized damage to exterior finishes and potential falling hazards from cracked cladding elements."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards such as gas leaks or toxic spills are visible."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and structural elements, along with localized falling hazards, necessitate restricted use for safety."
+    },
+    "9_image_descriptions": {
+      "E2C16F02.jpg": "Exterior view of a two-story concrete frame building with masonry infill walls. Minor cracking is visible on the facade.",
+      "E2C16F04.jpg": "Corner view of the building showing reinforced concrete columns and masonry infill walls. No significant leaning or collapse observed.",
+      "E2C16F07.jpg": "Close-up of a reinforced concrete column with spalling and diagonal cracking, exposing corroded reinforcement.",
+      "E2C16F08.jpg": "Detailed view of masonry infill wall and column interface showing severe spalling and cracking.",
+      "E2C16F32.jpg": "Exterior view of the building under overcast conditions. Minor facade damage and no visible structural collapse.",
+      "E2C16F34.jpg": "Close-up of a damaged column with spalling and exposed reinforcement. Cracks extend into the masonry infill.",
+      "E2C16F40.jpg": "Side view of the building showing intact structural alignment but visible damage to exterior finishes and infill walls.",
+      "E2C16F42.jpg": "Close-up of a window with intact frame but minor cracking in the surrounding masonry infill wall."
+    },
+    "case_id": "E2C16",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C16/E2C16F02.jpg",
+      "images/E2/E2C16/E2C16F04.jpg",
+      "images/E2/E2C16/E2C16F07.jpg",
+      "images/E2/E2C16/E2C16F08.jpg",
+      "images/E2/E2C16/E2C16F32.jpg",
+      "images/E2/E2C16/E2C16F34.jpg",
+      "images/E2/E2C16/E2C16F40.jpg",
+      "images/E2/E2C16/E2C16F42.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:01:59"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a public facility with classrooms or office spaces, based on the window design and layout.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced masonry building with visible masonry walls and concrete tie-columns.",
+      "category": "Reinforced masonry"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or building off-foundation is visible in the provided images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or inter-story drift are observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and minor spalling are visible on masonry walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized damage to parapets and wall edges poses a moderate falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards are observed in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to masonry walls and localized falling hazards from parapets and wall edges necessitate restricted use for safety."
+    },
+    "9_image_descriptions": {
+      "E2C17F03.jpg": "Exterior view of a reinforced masonry building showing intact structural elements but with minor cracking near the roofline and parapets.",
+      "E2C17F14.jpg": "Close-up of a masonry wall with visible diagonal cracks and minor spalling near a window frame.",
+      "E2C17F19.jpg": "Side view of the building showing intact walls and windows, with minor damage to parapets and wall edges.",
+      "E2C17F23.jpg": "Interior view of a wall with diagonal shear cracks, indicating moderate racking damage.",
+      "E2C17F31.jpg": "Interior close-up showing spalling and cracks in the plaster layer of a masonry wall.",
+      "E2C17F34.jpg": "Close-up of a cracked masonry wall near a window, with minor spalling visible.",
+      "E2C17F40.jpg": "Roof view showing intact structural elements and no visible damage to the roof slab.",
+      "E2C17F58.jpg": "Wide exterior view of the building showing minor damage to parapets and localized cracking near the roofline."
+    },
+    "case_id": "E2C17",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C17/E2C17F03.jpg",
+      "images/E2/E2C17/E2C17F14.jpg",
+      "images/E2/E2C17/E2C17F19.jpg",
+      "images/E2/E2C17/E2C17F23.jpg",
+      "images/E2/E2C17/E2C17F31.jpg",
+      "images/E2/E2C17/E2C17F34.jpg",
+      "images/E2/E2C17/E2C17F40.jpg",
+      "images/E2/E2C17/E2C17F58.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:02:55"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used as a school or educational facility, with classrooms and associated infrastructure visible.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as indicated by visible columns and wall materials.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or the building being off its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story misalignment are observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and spalling are visible in masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No significant falling hazards such as detached chimneys or parapets are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Minor/none",
+        "description": "No visible evidence of ground slope movement or significant ground cracking is present."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are visible."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to masonry infill walls indicates localized structural concerns that require restricted access for safety."
+    },
+    "9_image_descriptions": {
+      "E2C18F06.jpg": "Exterior view of a two-story reinforced concrete frame building with masonry infill walls. No visible collapse or leaning is observed.",
+      "E2C18F15.jpg": "Side view of the building showing diagonal cracks in the masonry infill walls and minor spalling near the base.",
+      "E2C18F19.jpg": "Close-up of the base of the wall showing minor spalling and cracks in the plaster finish.",
+      "E2C18F20.jpg": "Detailed view of a diagonal crack in the masonry infill wall, with minor plaster detachment visible.",
+      "E2C18F24.jpg": "Close-up of a crack in the wall with a scale for measurement, showing a crack width of approximately 1.5 cm.",
+      "E2C18F37.jpg": "Interior staircase with minor cracks visible along the wall adjacent to the stairs.",
+      "E2C18F42.jpg": "Interior classroom view showing a diagonal crack in the wall near the ceiling, with no visible structural instability.",
+      "E2C18F50.jpg": "Close-up of a crack in the interior wall with spalling and a scale for measurement, indicating a crack width of approximately 1.2 cm."
+    },
+    "case_id": "E2C18",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C18/E2C18F06.jpg",
+      "images/E2/E2C18/E2C18F15.jpg",
+      "images/E2/E2C18/E2C18F19.jpg",
+      "images/E2/E2C18/E2C18F20.jpg",
+      "images/E2/E2C18/E2C18F24.jpg",
+      "images/E2/E2C18/E2C18F37.jpg",
+      "images/E2/E2C18/E2C18F42.jpg",
+      "images/E2/E2C18/E2C18F50.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:03:40"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school based on signage and layout.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or foundation settlement are observed."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "The building does not exhibit any noticeable leaning or vertical misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and localized spalling are visible in masonry infill walls and beam-column joints."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Cracks and minor detachment are observed in parapets and beam edges, posing a potential falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards such as toxic spills or broken gas lines are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and localized falling hazards from parapets and beam edges necessitate restricted use for safety."
+    },
+    "9_image_descriptions": {
+      "E2C19F03.jpg": "Exterior view of a two-story concrete frame school building with masonry infill walls. Minor cracks are visible in the facade.",
+      "E2C19F07.jpg": "Side view of the building showing reinforced concrete columns and beams. No signs of collapse or leaning are observed.",
+      "E2C19F18.jpg": "Close-up of masonry infill walls showing diagonal cracks and minor spalling near beam-column joints.",
+      "E2C19F22.jpg": "Detail of a masonry wall with localized spalling and cracking near the window frame.",
+      "E2C19F27.jpg": "Close-up of beam-column joint showing cracks and minor spalling. No signs of severe structural damage.",
+      "E2C19F36.jpg": "Detail of a column with vertical cracking near the base. No signs of buckling or severe damage.",
+      "E2C19F48.jpg": "Close-up of a parapet edge showing minor detachment and cracking, posing a potential falling hazard.",
+      "E2C19F56.jpg": "Detail of roof beam connection showing minor cracks and spalling. No signs of severe structural instability."
+    },
+    "case_id": "E2C19",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C19/E2C19F03.jpg",
+      "images/E2/E2C19/E2C19F07.jpg",
+      "images/E2/E2C19/E2C19F18.jpg",
+      "images/E2/E2C19/E2C19F22.jpg",
+      "images/E2/E2C19/E2C19F27.jpg",
+      "images/E2/E2C19/E2C19F36.jpg",
+      "images/E2/E2C19/E2C19F48.jpg",
+      "images/E2/E2C19/E2C19F56.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:05:07"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school with classrooms and benches visible in the exterior and interior images.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is primarily reinforced concrete with visible columns and beams, along with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Significant damage to the roof slab and structural elements, including spalling and exposed reinforcement, indicating partial collapse risk."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story leaning is visible in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and extensive damage to infill walls and column-beam joints are visible, compromising structural integrity."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached and damaged roof elements pose a significant falling hazard to occupants and surrounding areas."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as toxic spills or broken gas lines are evident in the images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage to the roof slab, infill walls, and column-beam joints, along with falling hazards, necessitate an Unsafe (Red) posting."
+    },
+    "9_image_descriptions": {
+      "E2C2F03.jpg": "Exterior view of a reinforced concrete school building showing intact columns but damaged masonry infill walls and roof slab spalling.",
+      "E2C2F06.jpg": "Close-up of the building's exterior showing cracks in the masonry infill walls and damage to the concrete beams and columns.",
+      "E2C2F13.jpg": "Rear view of the building showing extensive damage to the roof slab, exposed reinforcement, and cracked masonry walls.",
+      "E2C2F19.jpg": "Detailed view of the roof slab showing severe spalling, exposed reinforcement, and cracks along the concrete surface.",
+      "E2C2F27.jpg": "Close-up of a column and beam joint showing diagonal shear cracks and damage to adjacent masonry infill walls.",
+      "E2C2F28.jpg": "Interior view of a classroom showing cracks in the walls and ceiling, with visible structural damage to the beam-column joints.",
+      "E2C2F35.jpg": "Interior corner showing severe cracking in the walls and ceiling, with damage extending to the beam-column connection.",
+      "E2C2F38.jpg": "Close-up of a column showing diagonal cracks and damage to adjacent masonry infill walls, indicating shear failure."
+    },
+    "case_id": "E2C2",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C2/E2C2F03.jpg",
+      "images/E2/E2C2/E2C2F06.jpg",
+      "images/E2/E2C2/E2C2F13.jpg",
+      "images/E2/E2C2/E2C2F19.jpg",
+      "images/E2/E2C2/E2C2F27.jpg",
+      "images/E2/E2C2/E2C2F28.jpg",
+      "images/E2/E2C2/E2C2F35.jpg",
+      "images/E2/E2C2/E2C2F38.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:05:42"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school, with classrooms and open spaces visible.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete frames with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or displacement from the foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "The building appears vertically aligned with no noticeable leaning."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and separation are visible in masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No significant falling hazards such as detached parapets or chimneys are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground movement or slope instability is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards or damages are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to masonry infill walls indicates localized structural instability, warranting restricted use."
+    },
+    "9_image_descriptions": {
+      "E2C20F04.jpg": "Exterior view of a two-story reinforced concrete frame structure with masonry infill walls. No visible collapse or leaning is observed.",
+      "E2C20F05.jpg": "Front view of the building showing intact concrete frames and minor cracks in the masonry infill walls.",
+      "E2C20F09.jpg": "Side view of the building showing reinforced concrete frames and masonry infill walls. No significant structural damage is visible.",
+      "E2C20F17.jpg": "Interior view showing diagonal cracks in the masonry infill walls near a door frame, indicating moderate racking damage.",
+      "E2C20F27.jpg": "Close-up of a column with visible vertical cracks along its surface, suggesting minor structural stress.",
+      "E2C20F37.jpg": "Interior wall with a visible crack and localized damage to the masonry infill, indicating moderate racking damage.",
+      "E2C20F41.jpg": "Close-up of a corner joint showing minor cracks at the interface of the concrete frame and masonry infill.",
+      "E2C20F50.jpg": "Interior wall with minor cracks and scuff marks. No significant structural damage is visible."
+    },
+    "case_id": "E2C20",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C20/E2C20F04.jpg",
+      "images/E2/E2C20/E2C20F05.jpg",
+      "images/E2/E2C20/E2C20F09.jpg",
+      "images/E2/E2C20/E2C20F17.jpg",
+      "images/E2/E2C20/E2C20F27.jpg",
+      "images/E2/E2C20/E2C20F37.jpg",
+      "images/E2/E2C20/E2C20F41.jpg",
+      "images/E2/E2C20/E2C20F50.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:06:30"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school with visible classrooms and educational infrastructure.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or building off-foundation is visible in the images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment is observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and separation at column-beam joints and infill walls indicate moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Cracks near parapets and edges of the roof slab pose a moderate falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards such as gas leaks or toxic spills are evident."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and structural joints, along with moderate falling hazards, warrant restricted use for safety."
+    },
+    "9_image_descriptions": {
+      "E2C21F04.jpg": "Exterior view of a two-story reinforced concrete frame building with visible diagonal cracks in the masonry infill walls.",
+      "E2C21F08.jpg": "Close-up of masonry infill walls showing diagonal shear cracks and minor separation at the base.",
+      "E2C21F12.jpg": "Side view of the building showing cracks in the masonry walls and debris near the foundation.",
+      "E2C21F13.jpg": "Close-up of the roof slab edge showing cracks and minor spalling at the parapet.",
+      "E2C21F20.jpg": "Wide view of the building showing cracks near the staircase and separation at the column-beam joints.",
+      "E2C21F23.jpg": "Front view of the building showing cracks in the masonry walls and parapet edges.",
+      "E2C21F27.jpg": "Close-up of the roof slab showing separation and spalling at the joint with the column.",
+      "E2C21F30.jpg": "Detail of a vertical crack along a column-beam joint, indicating moderate structural damage."
+    },
+    "case_id": "E2C21",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C21/E2C21F04.jpg",
+      "images/E2/E2C21/E2C21F08.jpg",
+      "images/E2/E2C21/E2C21F12.jpg",
+      "images/E2/E2C21/E2C21F13.jpg",
+      "images/E2/E2C21/E2C21F20.jpg",
+      "images/E2/E2C21/E2C21F23.jpg",
+      "images/E2/E2C21/E2C21F27.jpg",
+      "images/E2/E2C21/E2C21F30.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:07:12"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used as an educational facility, with signs indicating departments and classrooms.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete frames with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or building off its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "The building does not exhibit any visible leaning or vertical misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and localized spalling are visible in masonry infill walls, indicating moderate racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Cracks near parapets and exterior walls suggest potential falling hazards, though no immediate detachment is evident."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Minor/none",
+        "description": "No significant ground slope movement or cracking is visible around the building."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards are identifiable from the images provided."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to masonry infill walls and potential falling hazards from parapets and exterior walls necessitate restricted use for safety."
+    },
+    "9_image_descriptions": {
+      "E2C22F04.jpg": "Exterior view of a three-story reinforced concrete frame building with masonry infill walls. No visible collapse or leaning is observed.",
+      "E2C22F11.jpg": "Close-up of a masonry infill wall showing diagonal cracks and localized spalling, indicative of moderate racking damage.",
+      "E2C22F13.jpg": "Interior view showing cracks in masonry walls and spalling near column-beam joints, suggesting moderate structural damage.",
+      "E2C22F36.jpg": "Exterior wall with visible diagonal cracking and minor spalling near window frames, indicating moderate racking damage.",
+      "E2C22F39.jpg": "Ground-level view showing minor cracks in the pavement and no significant ground movement or settlement.",
+      "E2C22F46.jpg": "Close-up of a reinforced concrete column with cracks and spalling at the base, indicating moderate localized damage.",
+      "E2C22F49.jpg": "Side view of the building showing intact structural elements but visible cracks in masonry infill walls.",
+      "E2C22F52.jpg": "Close-up of a window frame and adjacent masonry wall showing cracks and minor spalling, indicating moderate damage."
+    },
+    "case_id": "E2C22",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C22/E2C22F04.jpg",
+      "images/E2/E2C22/E2C22F11.jpg",
+      "images/E2/E2C22/E2C22F13.jpg",
+      "images/E2/E2C22/E2C22F36.jpg",
+      "images/E2/E2C22/E2C22F39.jpg",
+      "images/E2/E2C22/E2C22F46.jpg",
+      "images/E2/E2C22/E2C22F49.jpg",
+      "images/E2/E2C22/E2C22F52.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:09:02"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school with classrooms visible through barred windows and educational decorations on the walls.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls. Visible columns and beams are made of concrete.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or building off-foundation is visible in the provided images."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant global tilt or story leaning is observed in the structure."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Severe diagonal and horizontal cracks are visible in the masonry infill walls, indicating significant racking damage."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized spalling and cracking are observed near the parapets and edges, posing a moderate falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards such as toxic spills or broken gas lines are visible in the provided images."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building is deemed unsafe due to severe racking damage to the masonry infill walls, which compromises the structural integrity and poses a significant safety risk."
+    },
+    "9_image_descriptions": {
+      "E2C23F02.jpg": "Exterior view of a two-story reinforced concrete frame building with masonry infill walls. Cracking is visible on the walls, and spalling is observed on the parapet edges.",
+      "E2C23F07.jpg": "Close-up of the upper story showing horizontal cracks in the masonry infill walls and minor spalling at the beam edges.",
+      "E2C23F11.jpg": "Detailed view of a corner column with visible cracking and spalling at the joint between the column and masonry infill wall.",
+      "E2C23F16.jpg": "Interior view showing a vertical crack propagating through the plaster and masonry wall, indicating significant structural damage.",
+      "E2C23F30.jpg": "Interior wall with diagonal cracks running through the plaster, suggesting racking damage to the masonry infill.",
+      "E2C23F35.jpg": "Exterior column with spalling and exposed reinforcement, indicating localized damage to the structural element.",
+      "E2C23F39.jpg": "Close-up of a wall showing horizontal cracks and surface damage, consistent with severe racking damage.",
+      "E2C23F42.jpg": "Interior wall with diagonal cracks and minor plaster spalling, indicating structural distress in the masonry infill."
+    },
+    "case_id": "E2C23",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C23/E2C23F02.jpg",
+      "images/E2/E2C23/E2C23F07.jpg",
+      "images/E2/E2C23/E2C23F11.jpg",
+      "images/E2/E2C23/E2C23F16.jpg",
+      "images/E2/E2C23/E2C23F30.jpg",
+      "images/E2/E2C23/E2C23F35.jpg",
+      "images/E2/E2C23/E2C23F39.jpg",
+      "images/E2/E2C23/E2C23F42.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:10:25"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building is labeled as 'Unidad Educativa UNE', indicating it is a school.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure features reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible evidence of global tilt or story misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and spalling are visible in the masonry infill walls and some concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized cracks in parapets and facade elements pose a falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards are observed."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and localized falling hazards from parapets and facade elements require restricted access for safety."
+    },
+    "9_image_descriptions": {
+      "E2C24F03.jpg": "Front view of a two-story reinforced concrete frame school building with masonry infill walls. Minor cracks are visible in the facade.",
+      "E2C24F08.jpg": "Side view showing reinforced concrete columns and beams. Cracks are visible in the masonry infill walls and parapets.",
+      "E2C24F09.jpg": "Rear view of the building with visible cracks in the masonry infill walls and minor spalling near the base of columns.",
+      "E2C24F13.jpg": "Corner view showing diagonal cracks in the masonry walls and minor damage to the parapet.",
+      "E2C24F19.jpg": "Close-up of a door frame with cracks in the adjacent masonry wall, indicating moderate racking damage.",
+      "E2C24F29.jpg": "Close-up of a balcony with visible cracks in the concrete beam and spalling at the column-beam joint.",
+      "E2C24F36.jpg": "Close-up of cracks in the parapet and facade, indicating moderate localized damage.",
+      "E2C24F41.jpg": "Close-up of a damaged column base with exposed reinforcement and spalling, indicating moderate structural damage."
+    },
+    "case_id": "E2C24",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C24/E2C24F03.jpg",
+      "images/E2/E2C24/E2C24F08.jpg",
+      "images/E2/E2C24/E2C24F09.jpg",
+      "images/E2/E2C24/E2C24F13.jpg",
+      "images/E2/E2C24/E2C24F19.jpg",
+      "images/E2/E2C24/E2C24F29.jpg",
+      "images/E2/E2C24/E2C24F36.jpg",
+      "images/E2/E2C24/E2C24F41.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:11:24"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be used for mixed purposes, including commercial spaces on the ground floor and residential units above.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 5,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and significant damage to ground floor columns, indicating compromised structural stability."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Severe",
+        "description": "The building exhibits visible leaning and vertical misalignment, particularly between adjacent structures."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracking and out-of-plane failure in masonry infill walls are evident throughout the structure."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized falling hazards from detached masonry and facade elements are visible."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Not visible from the provided images",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are visible in the images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage, including partial collapse, leaning, and racking damage, compromises the building's stability and poses a significant life-safety hazard."
+    },
+    "9_image_descriptions": {
+      "E2C3F02.jpg": "Exterior view showing severe damage to masonry infill walls and ground floor columns, with visible leaning of the structure.",
+      "E2C3F08.jpg": "Close-up of ground floor columns showing spalling of concrete cover and exposed reinforcement, indicating severe structural damage.",
+      "E2C3F12.jpg": "Detailed view of a column base with exposed reinforcement and crushed concrete, highlighting structural failure.",
+      "E2C3F23.jpg": "Interior view showing diagonal shear cracking in masonry infill walls and debris accumulation on the floor.",
+      "E2C3F31.jpg": "Exterior view showing leaning of the building and severe damage to masonry infill walls and facade elements.",
+      "E2C3F33.jpg": "Close-up of facade damage with detached masonry and exposed reinforcement, posing a falling hazard.",
+      "E2C3F37.jpg": "Interior view showing extensive diagonal cracking in masonry infill walls and debris from collapsed sections.",
+      "E2C3F56.jpg": "Exterior view showing severe structural damage to the facade and leaning of the building, with visible misalignment between adjacent structures."
+    },
+    "case_id": "E2C3",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C3/E2C3F02.jpg",
+      "images/E2/E2C3/E2C3F08.jpg",
+      "images/E2/E2C3/E2C3F12.jpg",
+      "images/E2/E2C3/E2C3F23.jpg",
+      "images/E2/E2C3/E2C3F31.jpg",
+      "images/E2/E2C3/E2C3F33.jpg",
+      "images/E2/E2C3/E2C3F37.jpg",
+      "images/E2/E2C3/E2C3F56.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:12:05"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a government facility with municipal signage and public seating areas.",
+      "category": "Government"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls and large glass windows.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No visible signs of collapse or the building being off its foundation."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story misalignment."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and spalling are visible in masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Potential falling hazards from parapets and facade elements are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards are observed."
+      }
+    },
+    "7_estimated_building_damage": "30–60%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe racking damage to walls and structural elements compromises the building's stability, necessitating a red tag for safety."
+    },
+    "9_image_descriptions": {
+      "E2C4F02.jpg": "Exterior view of a reinforced concrete frame building with visible facade damage and potential falling hazards from parapets.",
+      "E2C4F12.jpg": "Close-up of diagonal shear cracks in a masonry infill wall, indicating severe racking damage.",
+      "E2C4F24.jpg": "Exterior view showing steel bracing on a facade and minor facade damage, with no visible structural collapse.",
+      "E2C4F32.jpg": "Ground-level view of a wall with vertical cracks and spalling, indicating structural distress in the masonry infill.",
+      "E2C4F34.jpg": "Close-up of vertical cracks in a masonry infill wall, showing severe racking damage.",
+      "E2C4F59.jpg": "Wide-angle exterior view of the building showing facade damage and potential falling hazards.",
+      "E2C4F63.jpg": "Interior view of a public seating area with visible cracks in walls and spalling near column-beam joints.",
+      "E2C4F70.jpg": "Interior close-up showing cracks and spalling at a column-beam joint, indicating severe structural damage."
+    },
+    "case_id": "E2C4",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C4/E2C4F02.jpg",
+      "images/E2/E2C4/E2C4F12.jpg",
+      "images/E2/E2C4/E2C4F24.jpg",
+      "images/E2/E2C4/E2C4F32.jpg",
+      "images/E2/E2C4/E2C4F34.jpg",
+      "images/E2/E2C4/E2C4F59.jpg",
+      "images/E2/E2C4/E2C4F63.jpg",
+      "images/E2/E2C4/E2C4F70.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:13:09"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a multi-story structure with office spaces and classrooms, as indicated by desks and chairs visible through the damaged walls.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls, visible from the exposed structural elements.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and significant damage to the reinforced concrete frame, particularly at the ground floor."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No clear evidence of global tilting or leaning is visible in the provided images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal cracking and spalling in masonry infill walls, along with exposed and damaged concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and debris around the building pose a significant falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the provided images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No additional hazards such as gas leaks or toxic spills are evident in the images."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building exhibits severe structural damage, including partial collapse of masonry infill walls, exposed and damaged concrete columns, and significant falling hazards. These conditions render the building unsafe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E2C5F03.jpg": "Exterior view of a three-story reinforced concrete frame building with severe damage to masonry infill walls and partial collapse at the ground floor.",
+      "E2C5F21.jpg": "Side view of the building showing extensive spalling and cracking in masonry infill walls, with debris scattered around the perimeter.",
+      "E2C5F23.jpg": "Close-up of the ground floor, highlighting collapsed masonry walls and exposed concrete columns with visible damage.",
+      "E2C5F32.jpg": "Another exterior view showing severe damage to the ground floor, with debris and fallen masonry posing a hazard.",
+      "E2C5F58.jpg": "Interior view of the ground floor, showing diagonal cracks in masonry walls and damaged concrete columns.",
+      "E2C5F63.jpg": "Close-up of a damaged column with spalling concrete and exposed reinforcement, indicating severe structural distress.",
+      "E2C5F72.jpg": "Interior view of the upper floor, showing significant cracking in masonry walls and damaged beam-column joints."
+    },
+    "case_id": "E2C5",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C5/E2C5F03.jpg",
+      "images/E2/E2C5/E2C5F21.jpg",
+      "images/E2/E2C5/E2C5F23.jpg",
+      "images/E2/E2C5/E2C5F32.jpg",
+      "images/E2/E2C5/E2C5F58.jpg",
+      "images/E2/E2C5/E2C5F63.jpg",
+      "images/E2/E2C5/E2C5F72.jpg"
+    ],
+    "image_count": 7,
+    "processing_timestamp": "2026-06-03 09:14:05"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior only",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to have been used for residential purposes, with visible balconies and interior partitions.",
+      "category": "Dwelling"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls, as indicated by visible concrete columns and brick masonry debris.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 4,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of the ground floor and significant structural failure of the upper stories are visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Moderate",
+        "description": "The building shows slight leaning and vertical misalignment, particularly at the ground floor."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Extensive diagonal cracking and out-of-plane failure of masonry infill walls are evident."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and debris pose a significant falling hazard around the building."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other hazards, such as toxic spills or broken gas lines, are observed."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "The building is unsafe due to severe partial collapse, extensive structural damage, and falling hazards. These conditions pose a significant life-safety risk."
+    },
+    "9_image_descriptions": {
+      "E2C6F02.jpg": "Exterior view of a four-story reinforced concrete frame building with severe partial collapse of the ground floor and extensive damage to masonry infill walls.",
+      "E2C6F04.jpg": "Close-up of the ground floor showing collapsed concrete columns and extensive debris from masonry infill walls.",
+      "E2C6F09.jpg": "Side view of the building showing vertical misalignment and severe damage to the ground floor columns and walls.",
+      "E2C6F13.jpg": "Another side view highlighting severe cracking and spalling in the concrete frame and collapsed masonry infill walls.",
+      "E2C6F19.jpg": "Close-up of the ground floor interior showing extensive debris, collapsed walls, and damaged partitions.",
+      "E2C6F20.jpg": "Front view of the building showing severe structural damage, partial collapse, and extensive debris around the site.",
+      "E2C6F23.jpg": "Wide-angle view of the building at dusk, emphasizing the extent of damage and debris surrounding the structure.",
+      "E2C6F39.jpg": "Another wide-angle view showing the collapsed ground floor, damaged upper stories, and debris scattered around the building."
+    },
+    "case_id": "E2C6",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C6/E2C6F02.jpg",
+      "images/E2/E2C6/E2C6F04.jpg",
+      "images/E2/E2C6/E2C6F09.jpg",
+      "images/E2/E2C6/E2C6F13.jpg",
+      "images/E2/E2C6/E2C6F19.jpg",
+      "images/E2/E2C6/E2C6F20.jpg",
+      "images/E2/E2C6/E2C6F23.jpg",
+      "images/E2/E2C6/E2C6F39.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:14:55"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school, with visible classrooms, desks, and signage indicating educational use.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of a concrete frame with masonry infill walls, visible columns, and beam elements.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse, partial collapse, or the building being off its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No visible signs of global tilt or story misalignment are observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracking and minor spalling are visible in the masonry infill walls and concrete columns."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Minor/none",
+        "description": "No significant falling hazards such as detached parapets or chimneys are observed."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or cracking is visible in the images provided."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as gas leaks or toxic spills, are evident."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and structural elements suggests limited access is necessary for safety. No severe conditions are observed."
+    },
+    "9_image_descriptions": {
+      "E2C7F05.jpg": "Exterior view of a two-story concrete frame school building with masonry infill walls. No visible collapse or leaning is observed.",
+      "E2C7F12.jpg": "Close-up of masonry infill walls showing diagonal cracks and minor spalling near window openings.",
+      "E2C7F16.jpg": "Side view of the building showing intact structural elements and minor cracking in the masonry infill walls.",
+      "E2C7F17.jpg": "Detail of a column base showing minor spalling and cracking at the interface with the foundation.",
+      "E2C7F19.jpg": "Interior view of a classroom with visible desks and minor cracking on the walls near door frames.",
+      "E2C7F20.jpg": "Close-up of a wall crack with a scale for measurement, indicating moderate structural damage.",
+      "E2C7F21.jpg": "Detail of a door frame and adjacent wall showing minor spalling and cracking in the masonry infill.",
+      "E2C7F23.jpg": "Interior view of a classroom with visible damage to the walls, including cracks and minor spalling near openings."
+    },
+    "case_id": "E2C7",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C7/E2C7F05.jpg",
+      "images/E2/E2C7/E2C7F12.jpg",
+      "images/E2/E2C7/E2C7F16.jpg",
+      "images/E2/E2C7/E2C7F17.jpg",
+      "images/E2/E2C7/E2C7F19.jpg",
+      "images/E2/E2C7/E2C7F20.jpg",
+      "images/E2/E2C7/E2C7F21.jpg",
+      "images/E2/E2C7/E2C7F23.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:16:55"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to house commercial establishments, including shops and restaurants.",
+      "category": "Commercial"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure is a reinforced concrete frame with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 2,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Severe",
+        "description": "Partial collapse of masonry infill walls and spalling of concrete columns are visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of global tilt or story misalignment is visible in the images."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Severe",
+        "description": "Diagonal shear cracks and out-of-plane failure of infill walls are evident."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Severe",
+        "description": "Detached masonry and spalled concrete pose significant falling hazards."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No visible evidence of ground slope movement or cracking is present."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as toxic spills or gas leaks, are observed."
+      }
+    },
+    "7_estimated_building_damage": "60–100%",
+    "8_final_status": {
+      "status": "(3) Unsafe (Red)",
+      "reasoning": "Severe structural damage, including partial collapse of masonry infill walls, spalling of concrete columns, and falling hazards, renders the building unsafe for occupancy."
+    },
+    "9_image_descriptions": {
+      "E2C8F01.jpg": "Interior view showing commercial stalls with visible cracks in masonry infill walls and spalling of concrete columns.",
+      "E2C8F03.jpg": "Close-up of a concrete column with severe spalling and exposed reinforcement, adjacent to cracked masonry infill.",
+      "E2C8F07.jpg": "Detail of a heavily damaged concrete column with significant cracking and loss of material.",
+      "E2C8F10.jpg": "Interior wall with a large vertical crack extending through the masonry, indicating severe structural damage.",
+      "E2C8F20.jpg": "Interior corridor with masonry infill walls showing diagonal shear cracks and partial detachment.",
+      "E2C8F33.jpg": "Exterior wall with a large diagonal crack and spalling of masonry, posing a falling hazard.",
+      "E2C8F36.jpg": "Close-up of a concrete column with severe spalling and exposed reinforcement near the roof level.",
+      "E2C8F42.jpg": "Exterior view of the building showing extensive cracking in masonry infill walls and spalling of concrete columns."
+    },
+    "case_id": "E2C8",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C8/E2C8F01.jpg",
+      "images/E2/E2C8/E2C8F03.jpg",
+      "images/E2/E2C8/E2C8F07.jpg",
+      "images/E2/E2C8/E2C8F10.jpg",
+      "images/E2/E2C8/E2C8F20.jpg",
+      "images/E2/E2C8/E2C8F33.jpg",
+      "images/E2/E2C8/E2C8F36.jpg",
+      "images/E2/E2C8/E2C8F42.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:19:01"
+  },
+  {
+    "1_earthquake_id": {
+      "name": "2016 Ecuador earthquake",
+      "date": "2016-04-16",
+      "magnitude": "Mw 7.8",
+      "location": "Manabi Province, Ecuador"
+    },
+    "2_view_type": "Exterior and interior",
+    "3_primary_occupation": {
+      "visual_evidence": "The building appears to be a school with classrooms and a covered outdoor area.",
+      "category": "School"
+    },
+    "4_type_of_construction": {
+      "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls.",
+      "category": "Concrete frame"
+    },
+    "5_stories": {
+      "over_ground": 3,
+      "under_ground": null
+    },
+    "6_evaluation": {
+      "1_collapse_partial_collapse_or_building_off_foundation": {
+        "status": "Minor/none",
+        "description": "No evidence of collapse or building displacement from its foundation is visible."
+      },
+      "2_building_or_story_leaning": {
+        "status": "Minor/none",
+        "description": "No significant leaning or vertical misalignment of the structure is observed."
+      },
+      "3_racking_damage_to_walls_other_structural_damage": {
+        "status": "Moderate",
+        "description": "Diagonal cracks and spalling are visible in the masonry infill walls and at column-beam joints."
+      },
+      "4_chimney_parapet_or_other_falling_hazard": {
+        "status": "Moderate",
+        "description": "Localized damage to masonry infill walls and cracks near openings may pose a falling hazard."
+      },
+      "5_ground_slope_movement_or_cracking": {
+        "status": "Not visible from the provided images",
+        "description": "No evidence of ground slope movement or significant ground cracking is visible."
+      },
+      "6_others": {
+        "status": "Minor/none",
+        "description": "No other significant hazards, such as gas leaks or toxic spills, are evident."
+      }
+    },
+    "7_estimated_building_damage": "10–30%",
+    "8_final_status": {
+      "status": "(2) Restricted Use (Yellow)",
+      "reasoning": "Moderate racking damage to walls and localized falling hazards require restricted access to ensure safety while repairs are conducted."
+    },
+    "9_image_descriptions": {
+      "E2C9F03.jpg": "Exterior view of a three-story concrete frame school building with masonry infill walls. No visible collapse, but minor cracks are present in the walls.",
+      "E2C9F06.jpg": "Closer view of the ground floor showing cracks in the masonry infill walls and minor spalling near column-beam joints.",
+      "E2C9F19.jpg": "Detailed view of a damaged column with spalling and cracks in the adjacent masonry infill wall.",
+      "E2C9F21.jpg": "Close-up of a column with exposed concrete and minor spalling, indicating moderate structural damage.",
+      "E2C9F35.jpg": "Exterior view of the rear side of the building showing cracks in masonry infill walls and minor damage to the foundation area.",
+      "E2C9F41.jpg": "Detailed view of a wall corner with visible cracks and minor separation between structural elements.",
+      "E2C9F49.jpg": "Close-up of a damaged wall near a window, showing cracks and spalling in the masonry infill.",
+      "E2C9F58.jpg": "Exterior view of the building showing cracks in the masonry walls and minor damage to the structural frame."
+    },
+    "case_id": "E2C9",
+    "earthquake_folder": "E2",
+    "images": [
+      "images/E2/E2C9/E2C9F03.jpg",
+      "images/E2/E2C9/E2C9F06.jpg",
+      "images/E2/E2C9/E2C9F19.jpg",
+      "images/E2/E2C9/E2C9F21.jpg",
+      "images/E2/E2C9/E2C9F35.jpg",
+      "images/E2/E2C9/E2C9F41.jpg",
+      "images/E2/E2C9/E2C9F49.jpg",
+      "images/E2/E2C9/E2C9F58.jpg"
+    ],
+    "image_count": 8,
+    "processing_timestamp": "2026-06-03 09:19:28"
+  }
+]
