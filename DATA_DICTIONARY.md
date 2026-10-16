@@ -1,6 +1,6 @@
 # SeisMLLM-1K: released annotation fields
 
-This dictionary describes the core JSON files in the public release, rather than an idealized schema inferred from the paper. The separate 48-case supplement is documented in [case_study/README.md](case_study/README.md). The inspected data-file contents are unchanged from commit `a06c84922cafe412ca7593b04c10f1aaf0282b1d`. This documentation update preserves the existing field names and labels.
+This dictionary describes the core JSON files in the public release, rather than an idealized schema inferred from the paper. The separate 48-case supplement is documented in [case_study/README.md](case_study/README.md). The complete `Full_GT.json` annotations are unchanged. The canonical train/test exports now name the six-condition field `[DC]`; only that tag and the corresponding task-field list changed. The earlier exports are preserved byte-for-byte in `legacy/train_cdd.json` and `legacy/test_cdd.json`.
 
 ## File roles and counts
 
@@ -67,7 +67,9 @@ Each record contains:
 - `messages`: a user task and an assistant report, each with `role` and `content` strings.
 - `images`: an ordered array of image paths. The user content uses `<image>` placeholders.
 
-The assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[CDD]` and `[SID]`. In these files, **`[CDD]` is a legacy label for the six damage-condition statuses and their descriptions**. It is populated from `6_evaluation` and therefore corresponds to the paper's **DC (Damage Conditions)** content. There is no separately tagged `[DC]` field in either export, and neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
+The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
+
+The previous exports are preserved under `legacy/` with the tag `[CDD]`. That old tag carried the same DC values and descriptions. The correction does not create an independent descriptive CDD target or move severity judgments into a different stage.
 
 See [SCHEMA_NOTES.md](SCHEMA_NOTES.md) for the original export-code mapping and the retained inference interface.
 

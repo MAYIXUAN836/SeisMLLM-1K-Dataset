@@ -42,7 +42,7 @@ The dataset uses the standard JSON format compatible with training frameworks li
     },
     {
       "role": "assistant",
-      "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[CDD]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
+      "content": "### Stage 1: Understanding\n[IS]: Exterior and interior\n[PO]: Evidence: ...; Category: Commercial\n[CT]: Evidence: ...; Category: Confined masonry\n[SN]: Over ground: 3\n[DC]: collapse: Severe (...); building: Severe (...); ...\n[SID]:\n- E1_C001_I01.jpg: Exterior view..."
     }
   ],
   "images": [
@@ -62,7 +62,7 @@ The current `train.json` and `test.json` exports contain the following report fi
 | **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
 | **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
-| **[CDD]** | Legacy export label for Damage Conditions (DC) | Six hazard ratings and their descriptions, derived from `Full_GT.json` → `6_evaluation`. This is the paper’s DC content; it is not the paper’s free-text Case Damage Description (CDD). |
+| **[DC]** | Damage Conditions | Six hazard ratings and their supporting descriptions, derived from `Full_GT.json` → `6_evaluation`. |
 | **[SID]** | Single Image Description | Available image-level descriptions. |
 
 The terminology and original export-code mapping are explained in [SCHEMA_NOTES.md](SCHEMA_NOTES.md).
@@ -70,10 +70,11 @@ The terminology and original export-code mapping are explained in [SCHEMA_NOTES.
 ### Which files define this release?
 
 - `Full_GT.json` contains the complete released case annotations, including six condition ratings (`6_evaluation`) and the Green/Yellow/Red posting and reasoning (`8_final_status`). Its schema is documented in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
-- `train.json` and `test.json` are conversation-format exports. They retain the legacy `[CDD]` tag for six condition ratings and do not include a dedicated `[DC]` or safety-posting output field. They should not be assumed to reproduce the paper’s experimental split or its exact Stage 1 output interface.
+- `train.json` and `test.json` are the canonical conversation exports. Their six-condition field is now `[DC]`; the corresponding user instructions were updated consistently. Labels, descriptions, image references and split membership are unchanged. They have no dedicated safety-posting output field and should not be assumed to reproduce the paper’s exact Stage 1 interface.
+- `legacy/train_cdd.json` and `legacy/test_cdd.json` preserve the previous exports byte-for-byte with the old `[CDD]` tag. That old tag carried DC severity ratings and descriptions, rather than an independently annotated paper-defined CDD summary.
 - `dataset_info.json` registers the two files actually shipped here. The earlier `classification_*`, `description_*`, `_v2` and `_linux_fixed` registrations were internal training/export configurations, not additional public dataset versions.
 
-**Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary. This documentation update does not modify or relabel the JSON records.
+**Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary. The DC naming correction does not change assessment values, image references or split membership.
 
 ## Separate case-study supplement
 
