@@ -68,8 +68,8 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | Field | Full Name | Description |
 | :--- | :--- | :--- |
 | **[IS]** | Image Scope | Viewpoints covered (e.g., Exterior, Interior, Detail). |
-| **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
-| **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
+| **[PO]** | Primary Occupation | Usage category (e.g., Dwelling, Commercial, School). |
+| **[CT]** | Construction Type | Structural system (e.g., Confined masonry, Concrete frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
 | **[DC]** | Damage Conditions | Six condition ratings (**DC** in the paper) and their supporting text descriptions (**CDD** in the paper). |
 | **[SID]** | Single Image Description | Descriptions of individual images, where available. |
