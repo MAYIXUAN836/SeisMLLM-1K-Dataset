@@ -11,6 +11,8 @@ This dictionary describes the core JSON files in the public release, rather than
 | `test.json` | Test conversation export | 65 | 208 |
 | `dataset_info.json` | Loader registration for the two conversation exports | — | — |
 
+The files under `legacy/` are compatibility copies of the earlier train/test exports and contain the same cases, not additional data.
+
 Each data file is a JSON array. The train and test image sets are disjoint and together reference all 3,421 released dataset image files. The paper reports 3,856 images and a 9:1 experimental partition; the public export is approximately 95:5. These should not be presented as the same split. The historical image-count discrepancy remains unresolved. Internal validation subsets, retrieval copies and the separate Nepal/Ecuador case study are not additional cases in these release counts.
 
 ## `Full_GT.json`

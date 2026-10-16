@@ -13,7 +13,12 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 ├── train.json              # Training set in ShareGPT format
 ├── test.json               # Test set
 ├── Full_GT.json            # Complete ground truth annotation
-├── dataset_info.json       # Dataset metadata and format configuration
+├── dataset_info.json       # Loader registration for the canonical train/test exports
+├── case_study/             # Separate Nepal/Ecuador supplement and citations
+├── legacy/                 # Byte-preserved earlier CDD-tag conversation exports
+├── DATA_DICTIONARY.md      # Released field definitions
+├── SCHEMA_NOTES.md         # CDD/DC terminology and export correction
+├── LICENSE
 └── README.md
 ```
 
