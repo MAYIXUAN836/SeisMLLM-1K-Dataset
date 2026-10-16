@@ -1,6 +1,6 @@
 # SeisMLLM-1K: A Multimodal Dataset for Post-Earthquake Building Safety Evaluation
 
-**[Project Page](https://mayixuan836.github.io/SeisMLLM-1K-Dataset/)** · **[Paper](https://doi.org/10.1016/j.aei.2026.105126)** · **[Code](https://github.com/MAYIXUAN836/SeisMLLM)**
+**[Project Page](https://mayixuan836.github.io/SeisMLLM/)** · **[Paper](https://doi.org/10.1016/j.aei.2026.105126)** · **[Code](https://github.com/MAYIXUAN836/SeisMLLM)**
 
 **SeisMLLM-1K** is a case-level multimodal dataset for post-earthquake building safety assessment. It combines multi-view photographs, earthquake metadata and structured annotations for damage understanding and safety evaluation.
 
