@@ -92,6 +92,6 @@ There are **3,145 image-description entries**, each referring to an image includ
 
 ## Annotation provenance and permissions
 
-Section 3.1.1 of the paper describes a model-assisted annotation process using multi-view imagery, event metadata and expert field notes, followed by human verification and adjudication of ambiguous cases. The source reports and atlases supply evidence and context; the structured dataset labels should not be described as verbatim official inspection labels. The released records contain neither item-level review histories nor a generation-model identifier.
+Official inspection documents and earthquake reconnaissance reports were provided to an LLM as reference materials, together with multi-view building imagery and earthquake metadata, to generate structured annotation drafts. The drafts were then reviewed and verified by human annotators. Section 3.1.1 of the paper describes the model-assisted annotation and human verification workflow. The released labels are model-assisted annotations with human verification, grounded in inspection and reconnaissance materials; they should not be described as verbatim official inspection labels. The released records contain neither item-level review histories nor a generation-model identifier.
 
 Original contributions are licensed as scoped in [LICENSE](LICENSE). Third-party photographs and other source materials retain their original rights and terms. See the [README](README.md) for source acknowledgements and the paper reference.
