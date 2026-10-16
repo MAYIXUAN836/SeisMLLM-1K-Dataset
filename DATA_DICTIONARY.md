@@ -69,6 +69,10 @@ Each record contains:
 
 The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
 
+### Case Damage Description (CDD)
+
+The paper uses CDD for a case-level narrative of the overall structural condition. This differs from DC, the six condition ratings and their supporting descriptions. The released JSON files do not contain a separately annotated CDD field. The public similar-case retrieval code constructs its global damage-summary text by concatenating the descriptions in `6_evaluation`; that derived text is not an independent CDD annotation.
+
 ## Image paths and caption coverage
 
 The repository stores images under `SeisMLLM-1K/case_XXXX/`. The `images` entries in the conversation exports and all 3,421 `dataset_images` references in `Full_GT.json` resolve against these files after removing the leading `Dataset/`. Image-description paths have also been aligned wherever the referenced image is present in the release.

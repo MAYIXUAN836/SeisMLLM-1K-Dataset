@@ -72,6 +72,8 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | **[DC]** | Damage Conditions | Severity ratings and supporting descriptions for six damage conditions. |
 | **[SID]** | Single Image Description | Descriptions of individual images, where available. |
 
+The paper's Case Damage Description (CDD) is a case-level narrative and is not a separate annotation field in these files. See the [CDD field mapping](DATA_DICTIONARY.md#case-damage-description-cdd) for its relationship to the retrieval code.
+
 ### Data Files
 
 | File | Contents |
@@ -79,7 +81,7 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | `Full_GT.json` | Case annotations, including earthquake metadata, building attributes, six damage conditions, safety postings and assessment reasoning. |
 | `train.json` | Training conversations with image inputs and structured understanding reports. |
 | `test.json` | Test conversations in the same format as the training set. |
-| `dataset_info.json` | Loader configuration for the training and test conversation files. |
+| `dataset_info.json` | Loader configuration: `seismllm_train` loads `train.json`; `seismllm_test` loads `test.json`. |
 
 Safety postings and their reasoning are stored in `Full_GT.json` under `8_final_status`. The conversation files provide the six report fields listed above.
 
