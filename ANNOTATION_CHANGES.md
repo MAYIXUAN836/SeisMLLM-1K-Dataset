@@ -1,5 +1,22 @@
 # Annotation changes
 
+## 2026-10-16: Complete basement counts in training exports
+
+Added the existing `5_stories.under_ground` values from `Full_GT.json` to the `[SN]` lines of eight training reports. The per-case `GT.json` files agree with these source values. This completes the conversation export without relabeling the cases: all other report fields, the complete annotations, test export and split membership are unchanged.
+
+| Image case folder | Legacy annotation ID | Underground stories |
+| --- | --- | ---: |
+| case_0093 | case_0093 | 1 |
+| case_0308 | case_1073 | 0 |
+| case_0340 | case_1105 | 1 |
+| case_0343 | case_1108 | 0 |
+| case_0345 | case_1110 | 0 |
+| case_0346 | case_1111 | 0 |
+| case_0759 | case_0405 | 2 |
+| case_0922 | case_0568 | 1 |
+
+All 1,306 released reports were checked against `Full_GT.json` for both above-ground and underground story counts after this export correction.
+
 ## 2026-10-16: Primary Occupation corrections
 
 Corrected the PO category and its visual-evidence text in 45 core cases (41 training, 4 test). The previous PO value, `Bottom-frame masonry`, describes construction rather than building use. The corrections are synchronized across `Full_GT.json`, per-case `GT.json` files, and the conversation exports.
