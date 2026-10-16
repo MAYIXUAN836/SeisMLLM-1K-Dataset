@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior only",
   "3_primary_occupation": {
-    "visual_evidence": "The building has balconies and appears to have residential units on the upper floors with commercial storefronts on the ground floor.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The street view shows shopfront signage at ground level and upper balconies with domestic window coverings. The visible residential and commercial features do not establish a single dominant use.",
+    "category": "Other"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure shows masonry walls with visible damage and a bottom-frame configuration where the ground floor is open with commercial use.",

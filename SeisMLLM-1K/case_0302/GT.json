@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior and interior",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have commercial usage on the ground floor, indicated by signage, and residential usage on upper floors.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The street view shows an identifiable retail storefront with shop signage and display glazing at ground level. The supplied views do not establish a separate residential use of the upper floor.",
+    "category": "Commercial"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure consists of masonry walls with visible concrete tie-columns and ring beams, indicating confined masonry construction.",

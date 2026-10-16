@@ -11,7 +11,7 @@ This dictionary describes the core JSON files in the public release. The separat
 | `test.json` | Test conversation export | 65 | 208 |
 | `dataset_info.json` | Loader registration for the two conversation exports | — | — |
 
-Each data file is a JSON array. The train and test image sets are disjoint and together reference all 3,421 released dataset image files. The paper reports 3,856 images and a 9:1 experimental partition; the public export is approximately 95:5. These should not be presented as the same split. The historical image-count discrepancy remains unresolved. Internal validation subsets, retrieval copies and the separate Nepal/Ecuador case study are not additional cases in these release counts.
+Each data file is a JSON array. The train and test image filenames are disjoint and together reference all 3,421 released dataset image files. This does not establish building-level isolation: `case_1120` (train) and `case_1148` (test) have been visually identified as the same building, with different image filenames. Their split membership is unchanged pending a separate correction; see the [annotation change log](ANNOTATION_CHANGES.md). The paper reports 3,856 images and a 9:1 experimental partition; the public export is approximately 95:5. These should not be presented as the same split. The historical image-count discrepancy remains unresolved. Internal validation subsets, retrieval copies and the separate Nepal/Ecuador case study are not additional cases in these release counts.
 
 ## `Full_GT.json`
 
@@ -95,3 +95,7 @@ There are **3,145 image-description entries**, each referring to an image includ
 Official inspection documents and earthquake reconnaissance reports were provided to an LLM as reference materials, together with multi-view building imagery and earthquake metadata, to generate structured annotation drafts. The drafts were then reviewed and verified by human annotators. Section 3.1.1 of the paper describes the model-assisted annotation and human verification workflow. The released labels are model-assisted annotations with human verification, grounded in inspection and reconnaissance materials; they should not be described as verbatim official inspection labels. The released records contain neither item-level review histories nor a generation-model identifier.
 
 Original contributions are licensed as scoped in [LICENSE](LICENSE). Third-party photographs and other source materials retain their original rights and terms. See the [README](README.md) for source acknowledgements and the paper reference.
+
+## Post-release annotation maintenance
+
+The 2026-10-16 PO corrections, their AI-assisted review method and before/after values are recorded in [ANNOTATION_CHANGES.md](ANNOTATION_CHANGES.md). The original human-verification description above refers to the paper's annotation workflow; the maintenance review does not add a new independent human expert verification.

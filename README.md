@@ -24,7 +24,7 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 
 ![Dataset statistics](dataset_statistics.png)
 
-The core release contains 1,306 building cases from 17 earthquake event groups. The training and test image sets are disjoint.
+The core release contains 1,306 building cases from 17 earthquake event groups. The training and test image filenames are disjoint; a [known same-building overlap](ANNOTATION_CHANGES.md#known-building-identity-issue-not-changed-in-this-revision) remains across two case folders.
 
 | Split | Cases | Images |
 | --- | ---: | ---: |
@@ -60,6 +60,8 @@ These counts describe the files in this repository. Differences from the paper's
 ```
 
 ## Annotation Schema
+
+PO corrections and their review method are recorded in the [annotation change log](ANNOTATION_CHANGES.md).
 
 Reports in `train.json` and `test.json` use the following fields. The [field dictionary](DATA_DICTIONARY.md) provides JSON keys, data types and label definitions.
 

@@ -3436,8 +3436,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor signage indicates commercial use, while the upper floors appear residential.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The frontage has clearly identifiable hotpot-restaurant and shop signage, with a public customer entrance. Commercial use is directly supported; the photographs do not establish a separate residential occupancy upstairs.",
+      "category": "Commercial"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and beams, typical of confined masonry construction.",
@@ -15555,8 +15555,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial spaces on the ground floor with residential usage on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Ground-floor units have shop signage and goods at their entrances, while upper windows and hanging laundry indicate domestic use. No single dominant occupancy is established.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure has a bottom-frame masonry configuration with a reinforced concrete frame at the ground floor and brick masonry walls on the upper floors.",
@@ -15618,8 +15618,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor with commercial shutters, upper floors with residential windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The photographs show curtained upper rooms, rolling shutters and an empty interior room. These features do not establish whether the ground-floor bays are shops or domestic rooms, or identify one primary use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick walls with visible concrete tie-columns and ring beams.",
@@ -15744,8 +15744,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a commercial ground floor with a rolling shutter and residential upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The interior contains a household refrigerator, wall calendar and domestic stored items, with curtained rooms above. No identifiable business signage or retail display establishes a commercial occupancy.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and ring beams. The ground floor has an open commercial design.",
@@ -16891,8 +16891,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor has commercial storefronts, and upper floors appear to be residential with visible balconies and windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Clearly marked retail units occupy the ground floor, while upper stories have domestic-style windows and balconies. Residential and commercial features are both present without an established dominant use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The building has a bottom-frame masonry structure with a reinforced concrete frame on the ground floor and brick masonry walls on the upper floors.",
@@ -17641,8 +17641,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor with commercial shutters, upper floors appear residential.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The building has unfinished upper rooms and closed ground-floor shutters without identifiable business signs or household activity. Its intended or primary occupancy cannot be established from these views.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick walls with visible concrete tie-columns and ring beams.",
@@ -17769,8 +17769,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a commercial ground floor with rolling shutters and residential spaces on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "An interior room contains a bed and bedding, and the upper rooms have domestic curtains. The ground-floor rolling shutters alone do not establish a commercial use.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with no visible concrete tie-columns or ring beams; tiled exterior finish.",
@@ -17958,8 +17958,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial spaces on the ground floor with residential usage on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The views show shuttered ground-floor openings, empty rooms and unfinished or damaged upper spaces. No business signage or occupied room identifies a single primary use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure has brick masonry walls with visible concrete tie beams but lacks visible tie-columns. The walls show significant cracking.",
@@ -18407,8 +18407,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor shows commercial storefronts, upper floors appear residential.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The single exterior view shows a partly unfinished building with upper windows and a ground-floor rolling door. It does not establish whether the lower space is a shop, garage or another use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Concrete tie-columns visible with masonry infill walls; consistent with confined masonry construction.",
@@ -18468,8 +18468,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor signage indicates commercial use, while upper floors appear residential.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Insurance-business signage identifies a ground-floor commercial or office use, while upper balconies have domestic window coverings and household items. A single dominant use is not established.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and beams; damage concentrated on the ground floor.",
@@ -18533,8 +18533,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial usage on the ground floor with visible rolling shutters and residential usage on upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The photographs show curtained upper rooms and open lower bays containing stored materials and furnishings. No identifiable shop signage or activity establishes the primary use of the complete building.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of confined masonry with visible concrete tie-columns and ring beams, and brick infill walls.",
@@ -18596,8 +18596,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor (visible roller shutters) and residential spaces on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The supplied views include unfinished rooms, open upper floors and shuttered lower bays. They do not establish the occupied use of the complete building.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of reinforced concrete columns and beams with masonry infill walls. The walls show visible cracks, and the roof and floors are cast-in-place concrete.",
@@ -22414,8 +22414,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial storefronts on the ground floor and residential units above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The views show upper-story rooms and ground-floor shuttered bays. They do not establish whether the bays are occupied shops or domestic spaces, so a single primary use cannot be determined.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with tiled exterior finish, no visible concrete tie-columns, and wooden roof trusses.",
@@ -23109,8 +23109,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to be a self-built residential structure with a commercial-like open ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The small two-story building has domestic room doorways and a household refrigerator visible inside. Rolling doors at the entrance do not by themselves establish retail activity.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and ring beams; precast floor slabs and cast-in-place roof.",
@@ -23552,8 +23552,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a commercial ground floor with residential usage on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The interior contains a bed with bedding, household furniture and domestic storage. The ground-floor rolling shutters do not identify a commercial business in the absence of retail signs or displays.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with no visible concrete tie-columns, wooden roof trusses, and prefabricated floor slabs.",
@@ -24001,8 +24001,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor appears to have commercial shutters, upper floors have residential-style windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The building has curtained upper rooms and closed ground-floor rolling shutters. No identifiable business sign or interior activity establishes a single primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick walls with visible concrete tie-columns and ring beams; ground floor has a frame structure with large openings.",
@@ -24377,8 +24377,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a commercial ground floor with residential usage on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The partial exterior view shows upper windows and shuttered ground-floor openings. It contains insufficient identifiable occupancy evidence to select a single primary use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure is a brick-concrete construction with visible masonry walls and concrete roof slabs.",
@@ -25943,8 +25943,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Storefront signage and commercial shutters visible on the ground floor, with residential features on upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "A clearly identifiable Haier appliance-store sign marks the commercial frontage. Upper-story areas are unfinished, and the supplied photographs do not establish a separate residential occupancy.",
+      "category": "Commercial"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick walls with concrete tie-beams visible; absence of structural columns and ring beams in some areas.",
@@ -26010,8 +26010,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building shows a commercial ground floor with rolling shutters and an upper residential floor with windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The views show upper rooms, ground-floor shutters and a sparsely furnished interior. No identifiable retail operation or distinctive occupied residential room establishes a single primary use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure features confined masonry walls with visible concrete tie-columns and ring beams, typical of brick-concrete construction.",
@@ -26323,8 +26323,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial shutters on the ground floor and residential windows on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Interior views show household living areas with a television, sofas and bedding. Ground-floor shutters and open bays do not independently establish commercial activity.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure has a concrete frame on the ground floor with brick infill walls, and the upper floor is primarily brick masonry.",
@@ -26395,8 +26395,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial storefronts on the ground floor with residential use on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The exterior shows curtained upper rooms and lower openings partly obscured by a fallen awning. The supplied views do not establish whether the lower premises are commercial or domestic.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible wooden roof trusses and a hard gable roof structure.",
@@ -27446,8 +27446,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have storefront shutters on the ground floor and residential features on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The views show upper rooms and ground-floor bays closed or obscured by shutters, debris and temporary coverings. They do not establish a single primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of masonry walls with visible brick chimneys and no apparent concrete tie-columns or ring beams.",
@@ -27820,8 +27820,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor shows commercial storefronts, upper floors appear to be residential apartments.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Ground-floor business signs and retail frontage are visible beneath upper domestic-style rooms and balconies. The evidence supports multiple uses without establishing a dominant occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and ring beams, typical of confined masonry construction.",
@@ -28469,8 +28469,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor commercial storefronts with signage; upper floors residential balconies with security grills.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Restaurant and other shop signs line the ground floor, while upper stories have residential balconies and windows. No single primary use is established for the complete building.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Concrete short limb shear walls with masonry infill; visible cracks in masonry infill walls.",
@@ -29606,8 +29606,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Residential balconies and ground-floor commercial signage visible.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The building has a signed retail podium beneath a multi-story apartment-style block. These distinct uses do not establish a single dominant occupancy from the supplied views.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Concrete shear wall structure with hollow block infill walls.",
@@ -31115,8 +31115,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building is located on a main street and appears to be a self-constructed residential structure with commercial activity on the ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The ground-floor interior contains numerous packaged goods and stored materials, with rooms above. The photographs do not establish whether this is retail stock, household storage or a combination of uses.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The building features confined masonry construction with visible concrete tie-columns and ring beams, along with reinforced concrete frame elements on the ground floor.",
@@ -32684,8 +32684,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor appears to have commercial signage, while upper floors show residential features such as curtains and windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Curtained upper rooms and household objects are visible above damaged ground-floor bays. The lower premises are too obscured to establish whether the complete building has a single residential or mixed occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and beams, typical of confined masonry construction.",
@@ -39170,8 +39170,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor commercial storefronts with rolling shutters; upper floor residential windows.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The interior contains bedding and household storage, and the two-story frontage has domestic window and doorway arrangements. No identifiable retail signage is visible in the supplied views.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with visible concrete tie-columns and ring beams.",
@@ -40825,8 +40825,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building has commercial units on the ground floor and residential units above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "A vehicle-rental business and other commercial frontage occupy the ground level beneath apartment-style balconies and rooms. The views support residential and commercial use without establishing one dominant occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Reinforced concrete moment frame with infill walls, visible cantilever portions, and external wall cracking.",
@@ -47215,8 +47215,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a commercial ground floor with signage visible and residential features above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The single view shows a severely displaced building with its lower frontage largely collapsed or obscured. The remaining facade and partial signage do not establish the primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure shows masonry walls with a bottom frame supporting the upper floors, which are primarily masonry.",
@@ -48750,8 +48750,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor signage indicates commercial use, while upper floors appear residential with balconies and laundry.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Vehicle and carpet-cleaning business signage is visible at ground level, while upper balconies contain household laundry and domestic furnishings. The building has residential and commercial uses without an established dominant use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The building has a concrete frame on the ground floor with masonry infill walls on the upper floors.",
@@ -50503,8 +50503,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building has commercial spaces on the ground floor and residential apartments on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Vehicle and carpet-cleaning business signage is visible at ground level, while upper balconies contain household laundry and domestic furnishings. The building has residential and commercial uses without an established dominant use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Reinforced concrete frame with masonry infill walls visible on the exterior and interior.",
@@ -54369,8 +54369,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building has a commercial ground floor with signage indicating a supermarket and upper floors with residential balconies.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Supermarket signage identifies a ground-floor retail use beneath a multi-story block with apartment-style balconies and domestic rooms. No single dominant use is established for the complete building.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure features a ground floor with open spaces for commercial use and upper floors with masonry walls supported by visible concrete columns.",
@@ -66902,8 +66902,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have residential balconies and commercial spaces on the ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Upper-story balconies and rooms are visible above a ground-floor garage-like opening and shutter. The photographs do not establish whether the lower premises are commercial or domestic, or identify a single primary use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure shows a combination of concrete framing on the ground floor and masonry walls on the upper floors.",
@@ -67842,8 +67842,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and residential units above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The street view shows ground-floor business frontage and upper-story rooms with domestic-style windows and curtains. These features suggest multiple uses without establishing a single primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The building features a reinforced concrete frame on the ground floor with masonry infill walls on the upper floors.",
@@ -67911,8 +67911,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial usage on the ground floor, indicated by signage, and residential usage on upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The street view shows an identifiable retail storefront with shop signage and display glazing at ground level. The supplied views do not establish a separate residential use of the upper floor.",
+      "category": "Commercial"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of masonry walls with visible concrete tie-columns and ring beams, indicating confined masonry construction.",
@@ -68045,8 +68045,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have a mixed-use layout with residential features and commercial storefronts visible on the ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The photographs show a multi-story facade with repetitive window bands and sparsely furnished interior walls. They do not identify a business, residential activity or another single primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure exhibits a bottom-frame masonry design with a concrete frame on the ground floor and masonry walls on the upper floors.",
@@ -69817,8 +69817,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "Ground floor commercial spaces with signage, upper floors appear residential with balconies.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "A clearly identified convenience store and adjoining retail frontage occupy the street level. Upper-story balconies alone do not establish residential occupancy in the supplied views.",
+      "category": "Commercial"
     },
     "4_type_of_construction": {
       "visual_evidence": "Masonry walls with visible stone detailing and plaster finish; ground floor commercial openings.",
@@ -70016,8 +70016,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building has a mix of commercial spaces on the ground floor and residential units on the upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Bar or restaurant signage and commercial frontage are visible at ground level, with curtained domestic-style rooms on the upper stories. A single primary use is not established.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure shows a concrete frame on the ground floor with masonry walls on the upper floors.",
@@ -70087,8 +70087,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial spaces on the ground floor and residential units on upper floors.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The exterior has stacked apartment balconies and curtained residential-style rooms. The ground-level openings appear to provide building or garage access, with no identifiable retail signage or display.",
+      "category": "Dwelling"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of brick masonry walls confined by concrete tie-columns and beams, with visible damage to both materials.",
@@ -70221,8 +70221,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building has balconies and appears to have residential units on the upper floors with commercial storefronts on the ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The street view shows shopfront signage at ground level and upper balconies with domestic window coverings. The visible residential and commercial features do not establish a single dominant use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure shows masonry walls with visible damage and a bottom-frame configuration where the ground floor is open with commercial use.",
@@ -70800,8 +70800,8 @@
     },
     "2_view_type": "Exterior only",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to have commercial spaces on the ground floor and residential units on the upper floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The embedded inspection form identifies both apartments and commercial premises, consistent with the ground-floor storefronts and upper rooms. The evidence supports mixed residential and commercial use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure has a masonry facade with visible concrete tie-columns and a reinforced concrete frame on the ground floor.",
@@ -71092,8 +71092,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "The building appears to house commercial stores on the ground floor and residential units above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "The embedded inspection form describes apartments and operating commercial premises. Street-level shops and a furnished domestic interior independently support mixed residential and commercial use.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "The structure consists of masonry walls with visible signs of aging and damage, including cracks and spalling.",
@@ -71633,8 +71633,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Storefront signage indicates a furniture store on the ground floor, with residential balconies above.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Furniture-store signage is visible at ground level, while the interior and upper-floor views contain household laundry and domestic furnishings. The supplied evidence supports mixed use without establishing one primary occupancy.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Brick masonry walls with concrete tie-columns visible in some areas, indicating confined masonry construction.",
@@ -72061,8 +72061,8 @@
     },
     "2_view_type": "Exterior and interior",
     "3_primary_occupation": {
-      "visual_evidence": "Residential balconies and commercial signage visible on the ground floor.",
-      "category": "Bottom-frame masonry"
+      "visual_evidence": "Residential balconies and household laundry are visible above street-level frontage. A single primary use is not established; the large Toyota sign belongs to the neighboring premises and is not used to classify this building.",
+      "category": "Other"
     },
     "4_type_of_construction": {
       "visual_evidence": "Concrete frame structure on the ground floor with upper floors showing masonry walls.",

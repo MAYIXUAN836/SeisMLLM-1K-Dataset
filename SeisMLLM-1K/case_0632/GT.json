@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior and interior",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have commercial spaces on the ground floor with residential usage on the upper floors.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The views show shuttered ground-floor openings, empty rooms and unfinished or damaged upper spaces. No business signage or occupied room identifies a single primary use.",
+    "category": "Other"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure has brick masonry walls with visible concrete tie beams but lacks visible tie-columns. The walls show significant cracking.",

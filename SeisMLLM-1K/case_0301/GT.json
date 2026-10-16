@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior only",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to be a mixed-use structure with commercial spaces on the ground floor and residential units above.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The street view shows ground-floor business frontage and upper-story rooms with domestic-style windows and curtains. These features suggest multiple uses without establishing a single primary occupancy.",
+    "category": "Other"
   },
   "4_type_of_construction": {
     "visual_evidence": "The building features a reinforced concrete frame on the ground floor with masonry infill walls on the upper floors.",

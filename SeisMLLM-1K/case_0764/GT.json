@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior and interior",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have commercial shutters on the ground floor and residential windows on the upper floor.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "Interior views show household living areas with a television, sofas and bedding. Ground-floor shutters and open bays do not independently establish commercial activity.",
+    "category": "Dwelling"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure has a concrete frame on the ground floor with brick infill walls, and the upper floor is primarily brick masonry.",

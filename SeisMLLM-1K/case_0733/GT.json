@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior only",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have a commercial ground floor with residential usage on the upper floor.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The partial exterior view shows upper windows and shuttered ground-floor openings. It contains insufficient identifiable occupancy evidence to select a single primary use.",
+    "category": "Other"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure is a brick-concrete construction with visible masonry walls and concrete roof slabs.",

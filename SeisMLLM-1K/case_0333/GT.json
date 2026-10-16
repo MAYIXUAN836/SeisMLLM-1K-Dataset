@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior only",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have commercial spaces on the ground floor and residential units on upper floors.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "The exterior has stacked apartment balconies and curtained residential-style rooms. The ground-level openings appear to provide building or garage access, with no identifiable retail signage or display.",
+    "category": "Dwelling"
   },
   "4_type_of_construction": {
     "visual_evidence": "The structure consists of brick masonry walls confined by concrete tie-columns and beams, with visible damage to both materials.",

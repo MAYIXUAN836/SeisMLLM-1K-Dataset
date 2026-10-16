@@ -7,8 +7,8 @@
   },
   "2_view_type": "Exterior and interior",
   "3_primary_occupation": {
-    "visual_evidence": "The building appears to have a commercial ground floor with rolling shutters and residential spaces on the upper floor.",
-    "category": "Bottom-frame masonry"
+    "visual_evidence": "An interior room contains a bed and bedding, and the upper rooms have domestic curtains. The ground-floor rolling shutters alone do not establish a commercial use.",
+    "category": "Dwelling"
   },
   "4_type_of_construction": {
     "visual_evidence": "Brick masonry walls with no visible concrete tie-columns or ring beams; tiled exterior finish.",
