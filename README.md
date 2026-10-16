@@ -69,10 +69,10 @@ Reports in `train.json` and `test.json` use the following fields. The [field dic
 | **[PO]** | Primary Occupation | Usage category (e.g., Residential, Commercial, School). |
 | **[CT]** | Construction Type | Structural system (e.g., Confined Masonry, RC Frame). |
 | **[SN]** | Stories Number | Count of stories over/under ground. |
-| **[DC]** | Damage Conditions | Severity ratings and supporting descriptions for six damage conditions. |
+| **[DC]** | Damage Conditions | Six condition ratings (**DC** in the paper) and their supporting text descriptions (**CDD** in the paper). |
 | **[SID]** | Single Image Description | Descriptions of individual images, where available. |
 
-In the paper, **DC** refers to the six condition ratings and **CDD** to the damage descriptions. Both are retained in `Full_GT.json` under `6_evaluation`: each condition has a `status` (DC) and a `description` (CDD). The conversation export groups both under `[DC]`; it has no separate `[CDD]` section. See the [field correspondence and scoring definitions](DATA_DICTIONARY.md#paper-terminology-and-released-fields).
+> **How `[DC]` relates to the paper:** The paper distinguishes **DC (Damage Conditions)**, the six severity ratings, from **CDD (Case Damage Description)**, the descriptive damage evidence. In `train.json` and `test.json`, the `[DC]` section groups **both the ratings and the descriptions**; there is no separate `[CDD]` section. In `Full_GT.json`, these are stored together under `6_evaluation`, with `status` corresponding to DC and `description` corresponding to CDD for each condition. See the [field correspondence and scoring definitions](DATA_DICTIONARY.md#paper-terminology-and-released-fields).
 
 ### Data Files
 
