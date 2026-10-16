@@ -1,6 +1,6 @@
 # SeisMLLM-1K: released annotation fields
 
-This dictionary describes the core JSON files in the public release, rather than an idealized schema inferred from the paper. The separate 48-case supplement is documented in [case_study/README.md](case_study/README.md). The complete `Full_GT.json` annotations are unchanged. The canonical train/test exports now name the six-condition field `[DC]`; only that tag and the corresponding task-field list changed. The earlier exports are preserved byte-for-byte in `legacy/train_cdd.json` and `legacy/test_cdd.json`.
+This dictionary describes the core JSON files in the public release. The separate 48-case supplement is documented in [case_study/README.md](case_study/README.md).
 
 ## File roles and counts
 
@@ -10,8 +10,6 @@ This dictionary describes the core JSON files in the public release, rather than
 | `train.json` | Training conversation export | 1,241 | 3,213 |
 | `test.json` | Test conversation export | 65 | 208 |
 | `dataset_info.json` | Loader registration for the two conversation exports | — | — |
-
-The files under `legacy/` are compatibility copies of the earlier train/test exports and contain the same cases, not additional data.
 
 Each data file is a JSON array. The train and test image sets are disjoint and together reference all 3,421 released dataset image files. The paper reports 3,856 images and a 9:1 experimental partition; the public export is approximately 95:5. These should not be presented as the same split. The historical image-count discrepancy remains unresolved. Internal validation subsets, retrieval copies and the separate Nepal/Ecuador case study are not additional cases in these release counts.
 
@@ -70,12 +68,6 @@ Each record contains:
 - `images`: an ordered array of image paths. The user content uses `<image>` placeholders.
 
 The canonical assistant reports use `[IS]`, `[PO]`, `[CT]`, `[SN]`, `[DC]` and `[SID]`. **`[DC]` contains the six damage-condition statuses and their descriptions**, populated from `6_evaluation`. Neither export includes a dedicated safety-posting field. Use `Full_GT.json` for the postings and reasoning.
-
-The previous exports are preserved under `legacy/` with the tag `[CDD]`. That old tag carried the same DC values and descriptions. The correction does not create an independent descriptive CDD target or move severity judgments into a different stage.
-
-See [SCHEMA_NOTES.md](SCHEMA_NOTES.md) for the original export-code mapping and the retained inference interface.
-
-The paper defines **CDD = Case Damage Description**, a descriptive Stage 1 summary, and **DC = Damage Conditions**, the Stage 2 severity ratings (Section 2.1.2, Table 1). The legacy export label must not be interpreted as a separate release of that paper-defined CDD summary. This dictionary documents the actual exported content; it does not assert that the exports implement the paper's exact perception–judgment separation.
 
 ## Image identifiers and known path limitations
 

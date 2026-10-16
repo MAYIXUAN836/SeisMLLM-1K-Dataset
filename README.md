@@ -15,9 +15,7 @@ The dataset follows the **ATC-20** and **ATC-20-1** (Applied Technology Council)
 ├── Full_GT.json            # Complete ground truth annotation
 ├── dataset_info.json       # Loader registration for the canonical train/test exports
 ├── case_study/             # Separate Nepal/Ecuador supplement and citations
-├── legacy/                 # Byte-preserved earlier CDD-tag conversation exports
 ├── DATA_DICTIONARY.md      # Released field definitions
-├── SCHEMA_NOTES.md         # CDD/DC terminology and export correction
 ├── LICENSE
 └── README.md
 ```
@@ -70,16 +68,13 @@ The current `train.json` and `test.json` exports contain the following report fi
 | **[DC]** | Damage Conditions | Six hazard ratings and their supporting descriptions, derived from `Full_GT.json` → `6_evaluation`. |
 | **[SID]** | Single Image Description | Available image-level descriptions. |
 
-The terminology and original export-code mapping are explained in [SCHEMA_NOTES.md](SCHEMA_NOTES.md).
-
 ### Which files define this release?
 
 - `Full_GT.json` contains the complete released case annotations, including six condition ratings (`6_evaluation`) and the Green/Yellow/Red posting and reasoning (`8_final_status`). Its schema is documented in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
-- `train.json` and `test.json` are the canonical conversation exports. Their six-condition field is now `[DC]`; the corresponding user instructions were updated consistently. Labels, descriptions, image references and split membership are unchanged. They have no dedicated safety-posting output field and should not be assumed to reproduce the paper’s exact Stage 1 interface.
-- `legacy/train_cdd.json` and `legacy/test_cdd.json` preserve the previous exports byte-for-byte with the old `[CDD]` tag. That old tag carried DC severity ratings and descriptions, rather than an independently annotated paper-defined CDD summary.
+- `train.json` and `test.json` are conversation exports. `[DC]` contains the six damage-condition ratings and supporting descriptions. Safety postings and reasoning are available in `Full_GT.json`, rather than a dedicated output field in these exports.
 - `dataset_info.json` registers the two files actually shipped here. The earlier `classification_*`, `description_*`, `_v2` and `_linux_fixed` registrations were internal training/export configurations, not additional public dataset versions.
 
-**Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary. The DC naming correction does not change assessment values, image references or split membership.
+**Image-path caveat.** The conversation exports use a `Dataset/` prefix: remove that prefix when resolving paths relative to this repository. The current `Full_GT.json` also contains legacy case-folder paths: 2,709 of its 3,421 image references do not resolve as written. All 3,421 referenced image filenames are unique and present in the release, so match by the full image filename (including extension), rather than by the legacy folder or record order. Some image-description entries refer to unreleased filenames; see the field dictionary for the exact boundary.
 
 ## Separate case-study supplement
 
